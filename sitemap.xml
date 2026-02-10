@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Page d'accueil -->
   <url>
     <loc>https://frafra92.github.io/poncage-parquet/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Paris 14 -->
   <url>
     <loc>https://frafra92.github.io/poncage-parquet/poncage-parquet-paris-14.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Paris 15 -->
   <url>
     <loc>https://frafra92.github.io/poncage-parquet/poncage-parquet-paris-15.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Montrouge -->
   <url>
     <loc>https://frafra92.github.io/poncage-parquet/poncage-parquet-montrouge.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Boulogne -->
   <url>
     <loc>https://frafra92.github.io/poncage-parquet/poncage-parquet-boulogne.html</loc>
     <changefreq>weekly</changefreq>
