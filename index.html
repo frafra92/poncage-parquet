@@ -3,11 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Ponçage parquet Paris | Artisan François Gaillard</title>
-
 <meta name="description" content="François Gaillard, artisan spécialisé en rénovation, ponçage et vitrification de parquet à Paris, Montrouge et proche banlieue. +210 avis 5 étoiles. Devis rapide sur photo.">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <link rel="canonical" href="https://frafra92.github.io/poncage-parquet/" />
 
 <!-- Données structurées Business -->
@@ -72,75 +69,170 @@
 }
 </script>
 
+<!-- Google Fonts & Font Awesome -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- CSS moderne -->
+<style>
+body {
+  font-family:'Roboto', sans-serif;
+  line-height:1.6;
+  color:#333;
+  background:#f8f8f8;
+  margin:0;
+  padding:0;
+}
+a {text-decoration:none; color:#e67e22;}
+a:hover {color:#f39c12;}
+
+/* Hero Section */
+header {
+  background: linear-gradient(to right,#f39c12,#e67e22);
+  color:white;
+  text-align:center;
+  padding:6rem 2rem;
+}
+header h1 {font-size:3rem; margin-bottom:1rem;}
+header p {font-size:1.2rem; margin-bottom:2rem;}
+header a.button {
+  background:white;
+  color:#e67e22;
+  padding:1rem 2rem;
+  border-radius:5px;
+  font-weight:bold;
+  transition:0.3s;
+}
+header a.button:hover {background:#f1c40f; color:white;}
+
+/* Sections */
+section {padding:3rem 1rem; max-width:900px; margin:0 auto;}
+section h2 {text-align:center; font-size:2rem; margin-bottom:2rem; color:#e67e22;}
+ul, ol {margin-left:2rem; margin-bottom:1.5rem;}
+li {margin-bottom:0.5rem;}
+
+/* Services Cards */
+.services {display:grid; gap:2rem; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); margin-bottom:3rem;}
+.card {
+  background:white; padding:2rem; border-radius:10px;
+  box-shadow:0 4px 10px rgba(0,0,0,0.1); text-align:center;
+  opacity:0; transform:translateY(30px); transition:0.8s;
+}
+.card.visible {opacity:1; transform:translateY(0);}
+.card i {font-size:2.5rem; color:#e67e22; margin-bottom:1rem;}
+.card h3 {color:#f39c12; margin-bottom:1rem;}
+.card p {color:#555;}
+
+/* Contact Form */
+.contact form {display:flex; flex-direction:column; gap:1rem; max-width:500px; margin:0 auto;}
+.contact input, .contact textarea {
+  padding:1rem; border-radius:5px; border:1px solid #ccc; font-size:1rem;
+}
+.contact button {
+  padding:1rem; background:#e67e22; color:white; border:none; border-radius:5px;
+  font-weight:bold; cursor:pointer; transition:0.3s;
+}
+.contact button:hover {background:#f39c12;}
+
+/* Footer */
+footer {text-align:center; padding:2rem; background:#333; color:white; margin-top:2rem;}
+
+/* Responsive */
+@media (max-width:768px){ header h1 {font-size:2.2rem;} }
+</style>
 </head>
 
 <body>
 
-<h1>Ponçage et vitrification de parquet à Paris</h1>
+<!-- HERO -->
+<header>
+  <h1>Ponçage et vitrification de parquet à Paris</h1>
+  <p><strong>François Gaillard</strong>, artisan spécialisé exclusivement dans la rénovation de parquet en région parisienne.</p>
+  <a href="#contact" class="button">Demander un devis</a>
+</header>
 
-<p><strong>François Gaillard</strong>, artisan spécialisé exclusivement dans la rénovation de parquet en région parisienne.</p>
+<!-- Services / contenu principal -->
+<section>
+  <p><strong>Plus de 210 avis clients 5 étoiles</strong> attestent de la qualité du travail réalisé à Paris et en proche banlieue.</p>
+</section>
 
-<p><strong>Plus de 210 avis clients 5 étoiles</strong> attestent de la qualité du travail réalisé à Paris et en proche banlieue.</p>
+<section class="services">
+  <div class="card">
+    <i class="fas fa-screwdriver-wrench"></i>
+    <h3>Ponçage professionnel</h3>
+    <p>Ponçage en plusieurs passes avec aspiration intégrée.</p>
+  </div>
+  <div class="card">
+    <i class="fas fa-shield-alt"></i>
+    <h3>Vitrification</h3>
+    <p>Application de 2 à 3 couches pour protéger et embellir le parquet.</p>
+  </div>
+  <div class="card">
+    <i class="fas fa-hand-holding-water"></i>
+    <h3>Rénovation complète</h3>
+    <p>Rebouchage des fissures et imperfections pour un parquet impeccable.</p>
+  </div>
+</section>
 
-<h2>Expert en rénovation de parquet ancien et massif</h2>
+<section>
+  <h2>Zones d’intervention</h2>
+  <ul>
+    <li>Paris 14 (Montparnasse, Alésia, Porte d’Orléans)</li>
+    <li>Paris 15 (Vaugirard, Convention)</li>
+    <li>Paris 16</li>
+    <li>Montrouge</li>
+    <li>Boulogne-Billancourt</li>
+    <li>Neuilly-sur-Seine</li>
+    <li>Levallois-Perret</li>
+    <li>Issy-les-Moulineaux</li>
+    <li>Malakoff, Vanves, Clichy</li>
+  </ul>
+</section>
 
-<p>Intervention sur parquet massif en chêne, parquet haussmannien, parquet à chevrons, point de Hongrie ou parquet ancien abîmé.</p>
+<section>
+  <h2>Comment obtenir un devis rapide ?</h2>
+  <ul>
+    <li>Une photo du parquet</li>
+    <li>Le nombre de m²</li>
+    <li>L’étage du logement</li>
+    <li>La présence ou non d’un ascenseur</li>
+  </ul>
+  <p>Réponse rapide garantie.</p>
+</section>
 
-<p>Chaque chantier comprend :</p>
+<section id="contact">
+  <h2>Contact</h2>
+  <p>📞 <strong>07 83 92 58 94</strong></p>
+  <p>Ou via la <a href="https://g.co/kgs/TSsjZ63" target="_blank">fiche Google Business</a>.</p>
+</section>
 
-<ol>
-<li>Ponçage professionnel en plusieurs passes avec aspiration intégrée</li>
-<li>Rebouchage des fissures et imperfections</li>
-<li>Application d’un fond dur</li>
-<li>Vitrification en 2 à 3 couches</li>
-<li>Séchage contrôlé pour une finition durable</li>
-</ol>
+<section>
+  <h2>FAQ – Ponçage et vitrification parquet Paris</h2>
+  <h3>Le ponçage génère-t-il de la poussière ?</h3>
+  <p>Le matériel professionnel utilisé limite fortement la poussière grâce à un système d’aspiration intégré.</p>
 
-<h2>Zones d’intervention</h2>
+  <h3>Peut-on rénover un parquet très abîmé ?</h3>
+  <p>Dans la majorité des cas, un parquet ancien peut être restauré et retrouver son éclat d’origine.</p>
 
-<p>Intervention rapide à :</p>
+  <h3>Quand peut-on marcher sur le parquet ?</h3>
+  <p>Marche légère après 8 heures. Charge complète le lendemain. Produit ultra performant Bona Mega Evo.</p>
+</section>
 
-<ul>
-<li>Paris 14 (Montparnasse, Alésia, Porte d’Orléans)</li>
-<li>Paris 15 (Vaugirard, Convention)</li>
-<li>Paris 16</li>
-<li>Montrouge</li>
-<li>Boulogne-Billancourt</li>
-<li>Neuilly-sur-Seine</li>
-<li>Levallois-Perret</li>
-<li>Issy-les-Moulineaux</li>
-<li>Malakoff, Vanves, Clichy</li>
-</ul>
+<footer>
+  &copy; 2026 François - Ponçage de parquet. Tous droits réservés.
+</footer>
 
-<h2>Comment obtenir un devis rapide ?</h2>
-
-<p>Envoyez :</p>
-
-<ul>
-<li>Une photo du parquet</li>
-<li>Le nombre de m²</li>
-<li>L’étage du logement</li>
-<li>La présence ou non d’un ascenseur</li>
-</ul>
-
-<p>Réponse rapide garantie.</p>
-
-<h2>Contact</h2>
-
-<p>📞 <strong>07 83 92 58 94</strong></p>
-<p>Ou via la <a href="https://g.co/kgs/TSsjZ63" target="_blank">fiche Google Business</a>.</p>
-
-<h2>FAQ – Ponçage et vitrification parquet Paris</h2>
-
-<h3>Le ponçage génère-t-il de la poussière ?</h3>
-<p>Le matériel professionnel utilisé limite fortement la poussière grâce à un système d’aspiration intégré.</p>
-
-<h3>Peut-on rénover un parquet très abîmé ?</h3>
-<p>Dans la majorité des cas, un parquet ancien peut être restauré et retrouver son éclat d’origine.</p>
-
-<h3>Quand peut-on marcher sur le parquet ?</h3>
-<p>Marche légère après 8 heures. Charge complète le lendemain. Produit ultra performant Bona Mega Evo.</p>
+<!-- Animation au scroll des cartes -->
+<script>
+const cards = document.querySelectorAll('.card');
+window.addEventListener('scroll', () => {
+  const triggerBottom = window.innerHeight * 0.85;
+  cards.forEach(card => {
+    const cardTop = card.getBoundingClientRect().top;
+    if(cardTop < triggerBottom) card.classList.add('visible');
+  });
+});
+</script>
 
 </body>
 </html>
-
