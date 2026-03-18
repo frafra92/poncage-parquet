@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artisan parqueteur indépendant vs grande entreprise à Paris : que choisir ?</title>
+  <meta name="description" content="Artisan indépendant ou grande société de rénovation de parquet à Paris ? On compare les deux options en toute transparence pour vous aider à faire le bon choix.">
+  <meta name="keywords" content="artisan parqueteur indépendant Paris, entreprise ponçage parquet Paris, choisir parqueteur Paris, rénovation parquet Paris">
+  <link rel="canonical" href="https://frafra92.github.io/poncage-parquet/artisan-independant-vs-entreprise-parquet-paris.html">
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Nunito:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --chene: #7B4F2E;
+      --chene-pale: #B8865A;
+      --dore: #D4A843;
+      --fond: #FDFAF5;
+      --blanc: #FFFFFF;
+      --texte: #282828;
+      --gris: #707070;
+      --vert: #2E6B3E;
+      --rouge: #8B2020;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Nunito', sans-serif; background: var(--fond); color: var(--texte); line-height: 1.8; }
+
+    nav {
+      background: var(--chene);
+      padding: 16px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav a { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; }
+    nav .logo { font-family: 'Libre Baskerville', serif; font-size: 20px; color: var(--dore); }
+
+    .hero {
+      background: var(--chene);
+      padding: 72px 40px 56px;
+      text-align: center;
+    }
+    .hero .tag {
+      display: inline-block;
+      background: rgba(212,168,67,0.2);
+      border: 1px solid var(--dore);
+      color: var(--dore);
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 5px 16px;
+      border-radius: 20px;
+      margin-bottom: 22px;
+    }
+    .hero h1 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: clamp(26px, 4.5vw, 48px);
+      color: var(--blanc);
+      line-height: 1.2;
+      max-width: 780px;
+      margin: 0 auto 18px;
+    }
+    .hero p {
+      color: rgba(255,255,255,0.65);
+      font-size: 17px;
+      font-weight: 300;
+      max-width: 560px;
+      margin: 0 auto;
+    }
+
+    .breadcrumb {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 14px 24px;
+      font-size: 13px;
+      color: var(--gris);
+    }
+    .breadcrumb a { color: var(--chene-pale); text-decoration: none; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 48px 24px 80px; }
+
+    .intro {
+      font-size: 18px;
+      font-weight: 300;
+      color: var(--chene);
+      border-left: 4px solid var(--dore);
+      padding-left: 24px;
+      margin-bottom: 48px;
+      line-height: 1.7;
+    }
+
+    /* TABLEAU COMPARATIF */
+    .compare-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 40px 0;
+      font-size: 15px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .compare-table thead tr th {
+      padding: 18px 20px;
+      text-align: left;
+      font-family: 'Libre Baskerville', serif;
+      font-size: 16px;
+    }
+    .compare-table thead tr th:first-child { background: #F0EBE3; color: var(--chene); }
+    .compare-table thead tr th:nth-child(2) { background: var(--chene); color: var(--dore); }
+    .compare-table thead tr th:nth-child(3) { background: #4A4A4A; color: var(--blanc); }
+    .compare-table tbody tr { border-bottom: 1px solid #EEE; }
+    .compare-table tbody tr:last-child { border-bottom: none; }
+    .compare-table tbody td { padding: 14px 20px; vertical-align: top; }
+    .compare-table tbody td:first-child { background: #FAF7F2; font-weight: 600; color: var(--chene); font-size: 14px; }
+    .compare-table tbody td:nth-child(2) { background: var(--blanc); }
+    .compare-table tbody td:nth-child(3) { background: #FAFAFA; }
+    .good { color: var(--vert); font-weight: 600; }
+    .bad { color: var(--rouge); }
+    .neutral { color: var(--gris); }
+
+    h2 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 26px;
+      color: var(--chene);
+      margin: 48px 0 18px;
+    }
+    p { margin-bottom: 16px; font-size: 16px; }
+
+    .avantage-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 32px 0;
+    }
+    @media (max-width: 600px) { .avantage-grid { grid-template-columns: 1fr; } }
+
+    .avantage-card {
+      background: var(--blanc);
+      border-radius: 6px;
+      padding: 24px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    }
+    .avantage-card.artisan { border-top: 4px solid var(--dore); }
+    .avantage-card.entreprise { border-top: 4px solid #999; }
+    .avantage-card h3 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 17px;
+      margin-bottom: 14px;
+    }
+    .avantage-card.artisan h3 { color: var(--chene); }
+    .avantage-card.entreprise h3 { color: #555; }
+    .avantage-card ul { list-style: none; }
+    .avantage-card li {
+      padding: 6px 0;
+      font-size: 14px;
+      display: flex;
+      gap: 8px;
+      align-items: flex-start;
+      border-bottom: 1px solid #F5F5F5;
+    }
+    .avantage-card li:last-child { border-bottom: none; }
+    .avantage-card.artisan li::before { content: '✓'; color: var(--vert); font-weight: 700; flex-shrink: 0; }
+    .avantage-card.entreprise li::before { content: '✓'; color: #888; font-weight: 700; flex-shrink: 0; }
+
+    .verdict {
+      background: var(--chene);
+      color: var(--blanc);
+      border-radius: 8px;
+      padding: 40px;
+      margin: 48px 0;
+      text-align: center;
+    }
+    .verdict h3 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 26px;
+      color: var(--dore);
+      margin-bottom: 16px;
+    }
+    .verdict p { color: rgba(255,255,255,0.8); font-size: 16px; max-width: 600px; margin: 0 auto 8px; }
+
+    .cta {
+      background: linear-gradient(135deg, var(--chene-pale), var(--chene));
+      border-radius: 8px;
+      padding: 44px;
+      text-align: center;
+      margin: 32px 0;
+    }
+    .cta h3 { font-family: 'Libre Baskerville', serif; font-size: 28px; color: var(--blanc); margin-bottom: 10px; }
+    .cta p { color: rgba(255,255,255,0.7); margin-bottom: 24px; }
+    .btn {
+      display: inline-block;
+      background: var(--dore);
+      color: var(--chene);
+      font-weight: 700;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 15px 36px;
+      border-radius: 3px;
+      text-decoration: none;
+    }
+
+    .note-auteur {
+      background: var(--blanc);
+      border: 1px solid rgba(123,79,46,0.15);
+      border-radius: 6px;
+      padding: 24px 28px;
+      margin-top: 48px;
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+    }
+    .avatar {
+      width: 52px; height: 52px;
+      background: var(--chene);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Libre Baskerville', serif;
+      font-size: 22px; color: var(--blanc);
+      flex-shrink: 0;
+    }
+    .note-auteur strong { display: block; color: var(--chene); margin-bottom: 4px; }
+    .note-auteur span { font-size: 14px; color: var(--gris); }
+
+    footer {
+      background: var(--chene);
+      color: rgba(255,255,255,0.45);
+      text-align: center;
+      padding: 28px;
+      font-size: 13px;
+      margin-top: 48px;
+    }
+    footer a { color: var(--dore); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="https://frafra92.github.io/poncage-parquet/" class="logo">François Parquet</a>
+  <a href="https://frafra92.github.io/poncage-parquet/">← Retour au site</a>
+</nav>
+
+<div class="hero">
+  <div class="tag">Comparatif objectif</div>
+  <h1>Artisan indépendant vs grande entreprise pour votre parquet parisien : que choisir ?</h1>
+  <p>Une comparaison honnête des deux options, avec leurs avantages et leurs limites.</p>
+</div>
+
+<div class="breadcrumb">
+  <a href="https://frafra92.github.io/poncage-parquet/">Accueil</a> › <a href="#">Conseils</a> › Artisan indépendant vs grande entreprise
+</div>
+
+<div class="container">
+
+  <p class="intro">
+    À Paris, vous avez le choix entre des centaines d'artisans indépendants et de grandes sociétés de rénovation de parquet. Les deux ont leurs atouts. Voici une comparaison objective pour vous aider à décider selon votre situation.
+  </p>
+
+  <h2>Comparatif rapide</h2>
+
+  <table class="compare-table">
+    <thead>
+      <tr>
+        <th>Critère</th>
+        <th>🪵 Artisan indépendant</th>
+        <th>🏢 Grande entreprise</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Prix moyen</td>
+        <td><span class="good">Plus compétitif</span><br><small>Moins de frais fixes</small></td>
+        <td><span class="bad">Plus élevé</span><br><small>Frais de structure inclus</small></td>
+      </tr>
+      <tr>
+        <td>Qui intervient ?</td>
+        <td><span class="good">L'artisan lui-même</span><br><small>Même personne du début à la fin</small></td>
+        <td><span class="neutral">Un technicien salarié</span><br><small>Parfois sous-traitant</small></td>
+      </tr>
+      <tr>
+        <td>Réactivité</td>
+        <td><span class="good">Très rapide</span><br><small>Rappel en quelques heures</small></td>
+        <td><span class="neutral">Variable</span><br><small>Selon charge de travail</small></td>
+      </tr>
+      <tr>
+        <td>Personnalisation</td>
+        <td><span class="good">Très élevée</span><br><small>Conseils adaptés à votre parquet</small></td>
+        <td><span class="neutral">Standardisée</span><br><small>Process identique pour tous</small></td>
+      </tr>
+      <tr>
+        <td>Garanties</td>
+        <td><span class="good">RC pro obligatoire</span><br><small>Recours direct à la personne</small></td>
+        <td><span class="good">RC pro + garantie entreprise</span><br><small>Structure plus formelle</small></td>
+      </tr>
+      <tr>
+        <td>Disponibilité</td>
+        <td><span class="neutral">Parfois délai d'attente</span><br><small>Artisan sollicité</small></td>
+        <td><span class="good">Plus de créneaux</span><br><small>Plusieurs équipes disponibles</small></td>
+      </tr>
+      <tr>
+        <td>Suivi après chantier</td>
+        <td><span class="good">Direct et rapide</span><br><small>Interlocuteur unique</small></td>
+        <td><span class="neutral">Par service client</span><br><small>Parfois impersonnel</small></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Les vrais avantages de chaque option</h2>
+
+  <div class="avantage-grid">
+    <div class="avantage-card artisan">
+      <h3>🪵 L'artisan indépendant</h3>
+      <ul>
+        <li>Prix plus bas sans intermédiaires</li>
+        <li>Vous savez exactement qui intervient</li>
+        <li>Conseils personnalisés et honnêtes</li>
+        <li>Engagement personnel dans le résultat</li>
+        <li>Flexibilité sur les horaires et détails</li>
+        <li>Relation de confiance directe</li>
+      </ul>
+    </div>
+    <div class="avantage-card entreprise">
+      <h3>🏢 La grande entreprise</h3>
+      <ul>
+        <li>Plus de créneaux disponibles rapidement</li>
+        <li>Structure administrative rassurante</li>
+        <li>Peut gérer de très grands chantiers</li>
+        <li>Parfois des garanties contractuelles longues</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>Pour quel profil choisir quoi ?</h2>
+
+  <p><strong>Choisissez un artisan indépendant si :</strong> vous avez un appartement standard à grand paris (50 à 200 m²), vous voulez un interlocuteur direct, vous cherchez le meilleur rapport qualité-prix, votre parquet est ancien et nécessite un regard expert et personnalisé.</p>
+
+  <p><strong>Choisissez une grande entreprise si :</strong> vous gérez un hôtel, une résidence de luxe ou un chantier de plus de 500 m², vous avez besoin d'une intervention en urgence absolue et que l'artisan de confiance est complet, ou si votre bailleur ou syndic impose un prestataire agréé.</p>
+
+  <h2>Ce que les avis Google révèlent vraiment</h2>
+
+  <p>Un artisan indépendant avec 200+ avis Google à 4,8 étoiles est un signal beaucoup plus fort qu'une grande entreprise avec 50 avis. Pourquoi ? Parce que chaque avis correspond à un client réel qui a eu affaire directement avec l'artisan — sans filtre, sans service commercial entre les deux.</p>
+
+  <p>Les avis d'une grande entreprise reflètent souvent l'expérience globale (accueil téléphonique, devis, facturation) plutôt que la qualité technique du ponçage lui-même. Avec un artisan indépendant, l'avis ne porte que sur une seule chose : la qualité du travail.</p>
+
+  <!-- VERDICT -->
+  <div class="verdict">
+    <h3>Notre verdict pour Paris</h3>
+    <p>Pour un appartement parisien classique, l'artisan indépendant expérimenté avec de nombreux avis vérifiés est presque toujours le meilleur choix. Vous payez moins, vous obtenez plus de soin, et vous avez un interlocuteur direct du premier appel au lendemain du chantier.</p>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta">
+    <h3>Un artisan indépendant avec +220 avis Google</h3>
+    <p>François Parquet — Montrouge (92) · Paris et Île-de-France · Devis gratuit sous 24h</p>
+    <a href="https://frafra92.github.io/poncage-parquet/#contact" class="btn">Demander un devis gratuit</a>
+  </div>
+
+  <!-- NOTE AUTEUR -->
+  <div class="note-auteur">
+    <div class="avatar">F</div>
+    <div>
+      <strong>François — Artisan parqueteur indépendant à Montrouge</strong>
+      <span>Oui, je suis artisan indépendant — donc ce comparatif n'est pas neutre à 100%. Mais j'ai essayé d'être honnête sur les situations où une grande entreprise s'impose. Pour un appartement parisien, je crois sincèrement que l'artisan est le meilleur choix.</span>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <p>© 2025 François Parquet – Artisan parqueteur Paris et Île-de-France</p>
+  <p style="margin-top:8px"><a href="https://frafra92.github.io/poncage-parquet/">Retour au site principal</a></p>
+</footer>
+
+</body>
+</html>

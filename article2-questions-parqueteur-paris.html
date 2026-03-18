@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>10 questions à poser à votre parqueteur avant de signer</title>
+  <meta name="description" content="Avant de signer un devis de ponçage ou rénovation de parquet à Paris, posez ces 10 questions clés à votre artisan. Un guide pratique pour éviter les mauvaises surprises.">
+  <meta name="keywords" content="questions parqueteur Paris, devis parquet Paris, ponçage parquet, rénovation parquet Paris, artisan parquet">
+  <link rel="canonical" href="https://frafra92.github.io/poncage-parquet/questions-parqueteur-paris.html">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --brun: #5C3D2E;
+      --brun-clair: #A0714F;
+      --or: #C8952A;
+      --fond: #F5F0E8;
+      --blanc: #FFFFFF;
+      --texte: #2A2A2A;
+      --gris: #777;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--fond);
+      color: var(--texte);
+      line-height: 1.75;
+    }
+
+    nav {
+      background: var(--brun);
+      padding: 16px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav a { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; }
+    nav .logo { font-family: 'Cormorant Garamond', serif; font-size: 22px; color: var(--or); font-weight: 600; }
+
+    .hero {
+      background: var(--brun);
+      padding: 70px 40px 50px;
+      position: relative;
+    }
+    .hero::after {
+      content: '?';
+      position: absolute;
+      right: 8%;
+      top: 50%;
+      transform: translateY(-50%);
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 300px;
+      color: rgba(255,255,255,0.04);
+      line-height: 1;
+      pointer-events: none;
+    }
+    .hero-inner { max-width: 700px; }
+    .tag {
+      display: inline-block;
+      border: 1px solid var(--or);
+      color: var(--or);
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 2px;
+      margin-bottom: 20px;
+    }
+    .hero h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(30px, 5vw, 54px);
+      color: var(--blanc);
+      line-height: 1.15;
+      margin-bottom: 20px;
+      font-weight: 700;
+    }
+    .hero p {
+      color: rgba(255,255,255,0.65);
+      font-size: 17px;
+      font-weight: 300;
+    }
+
+    .breadcrumb {
+      padding: 14px 40px;
+      font-size: 13px;
+      color: var(--gris);
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    .breadcrumb a { color: var(--brun-clair); text-decoration: none; }
+
+    .container {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 50px 24px 80px;
+    }
+
+    .intro-box {
+      background: var(--blanc);
+      border-radius: 6px;
+      padding: 28px 32px;
+      margin-bottom: 48px;
+      font-size: 17px;
+      color: var(--brun);
+      font-weight: 300;
+      border-left: 5px solid var(--or);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    }
+
+    .question-card {
+      background: var(--blanc);
+      border-radius: 6px;
+      padding: 28px 32px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      border-top: 3px solid transparent;
+      transition: border-color 0.2s;
+    }
+    .question-card:hover { border-color: var(--or); }
+
+    .q-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 14px;
+    }
+    .q-num {
+      background: var(--brun);
+      color: var(--or);
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 20px;
+      font-weight: 700;
+      width: 44px;
+      height: 44px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .q-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 22px;
+      color: var(--brun);
+      font-weight: 600;
+      line-height: 1.3;
+    }
+    .q-body { font-size: 15px; color: var(--texte); margin-bottom: 12px; }
+    .q-pourquoi {
+      background: var(--fond);
+      border-radius: 4px;
+      padding: 12px 16px;
+      font-size: 13px;
+      color: var(--gris);
+    }
+    .q-pourquoi strong { color: var(--brun-clair); }
+
+    .bonne-reponse {
+      display: inline-block;
+      background: #EFF7EE;
+      color: #2D6A2D;
+      font-size: 13px;
+      padding: 4px 10px;
+      border-radius: 3px;
+      margin-top: 8px;
+    }
+    .mauvaise-reponse {
+      display: inline-block;
+      background: #FDF0F0;
+      color: #8B2020;
+      font-size: 13px;
+      padding: 4px 10px;
+      border-radius: 3px;
+      margin-top: 4px;
+    }
+
+    h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 30px;
+      color: var(--brun);
+      margin: 48px 0 24px;
+    }
+
+    .recap {
+      background: var(--brun);
+      color: var(--blanc);
+      border-radius: 8px;
+      padding: 36px 40px;
+      margin: 48px 0;
+    }
+    .recap h3 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 26px;
+      color: var(--or);
+      margin-bottom: 20px;
+    }
+    .recap-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    @media (max-width: 600px) { .recap-grid { grid-template-columns: 1fr; } }
+    .recap-item {
+      display: flex;
+      gap: 10px;
+      font-size: 14px;
+      color: rgba(255,255,255,0.8);
+      align-items: flex-start;
+    }
+    .recap-item::before { content: '→'; color: var(--or); flex-shrink: 0; }
+
+    .cta {
+      background: linear-gradient(135deg, var(--brun-clair), var(--brun));
+      border-radius: 8px;
+      padding: 44px 40px;
+      text-align: center;
+      margin: 32px 0;
+    }
+    .cta h3 { font-family: 'Cormorant Garamond', serif; font-size: 30px; color: var(--blanc); margin-bottom: 10px; }
+    .cta p { color: rgba(255,255,255,0.7); margin-bottom: 24px; }
+    .btn {
+      display: inline-block;
+      background: var(--or);
+      color: var(--brun);
+      font-weight: 600;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 15px 34px;
+      border-radius: 3px;
+      text-decoration: none;
+    }
+    .btn:hover { opacity: 0.9; }
+
+    footer {
+      background: var(--brun);
+      color: rgba(255,255,255,0.45);
+      text-align: center;
+      padding: 28px;
+      font-size: 13px;
+    }
+    footer a { color: var(--or); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="https://frafra92.github.io/poncage-parquet/" class="logo">François Parquet</a>
+  <a href="https://frafra92.github.io/poncage-parquet/">← Retour au site</a>
+</nav>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="tag">Conseils avant travaux</div>
+    <h1>10 questions à poser à votre parqueteur avant de signer</h1>
+    <p>Les bonnes questions pour ne pas regretter votre choix — et les réponses qui doivent vous alerter.</p>
+  </div>
+</div>
+
+<div class="breadcrumb">
+  <a href="https://frafra92.github.io/poncage-parquet/">Accueil</a> › <a href="#">Conseils</a> › Questions à poser à votre parqueteur
+</div>
+
+<div class="container">
+
+  <div class="intro-box">
+    Un devis de ponçage de parquet peut sembler simple en apparence. Pourtant, les détails font toute la différence entre un résultat impeccable et une déception coûteuse. Voici les 10 questions que tout propriétaire parisien devrait poser avant de signer.
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">1</div>
+      <div class="q-title">Combien de passes de ponçage allez-vous effectuer ?</div>
+    </div>
+    <p class="q-body">Un ponçage sérieux comprend plusieurs passes avec des grains de plus en plus fins. Une seule passe grossière laissera des marques visibles sous la vitrification.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Le nombre de passes détermine directement la qualité du rendu final. Un professionnel ponce en minimum 3 étapes.</div>
+    <span class="bonne-reponse">✓ Bonne réponse : "minimum 3 passes, grain 24, 40, puis 80"</span><br>
+    <span class="mauvaise-reponse">✗ Alarme : "on verra selon l'état" sans précision</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">2</div>
+      <div class="q-title">Votre matériel est-il équipé d'un système anti-poussière ?</div>
+    </div>
+    <p class="q-body">Le ponçage génère une quantité importante de poussière de bois. Un professionnel dispose de machines avec aspiration intégrée qui captent la poussière à la source, protégeant votre appartement et vos poumons.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Sans aspiration, la poussière s'infiltre partout — placards, literie, cuisine. Le nettoyage peut prendre plusieurs jours.</div>
+    <span class="bonne-reponse">✓ Bonne réponse : machine Bona ou Lägler avec sac haute filtration</span><br>
+    <span class="mauvaise-reponse">✗ Alarme : "il y aura un peu de poussière, c'est normal"</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">3</div>
+      <div class="q-title">Quelle finition recommandez-vous pour mon parquet ?</div>
+    </div>
+    <p class="q-body">Vitrification, huile, cire — chaque finition a ses avantages selon votre mode de vie. Un bon artisan vous posera des questions sur votre utilisation avant de recommander.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> La finition conditionne l'entretien futur et la durabilité du résultat. Ce n'est pas un choix anodin.</div>
+    <span class="bonne-reponse">✓ Bonne réponse : une recommandation personnalisée selon usage et style</span><br>
+    <span class="mauvaise-reponse">✗ Alarme : "on fait toujours de la vitrification" sans discussion</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">4</div>
+      <div class="q-title">Quelle est l'épaisseur minimale utilisable de mon parquet ?</div>
+    </div>
+    <p class="q-body">À Paris, beaucoup de parquets anciens ont déjà été poncés plusieurs fois. Un professionnel sérieux mesurera l'épaisseur restante avant de commencer pour s'assurer qu'il peut poncer sans risquer de traverser les lames.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Poncer un parquet trop fin peut l'endommager irrémédiablement ou faire apparaître les rainures.</div>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">5</div>
+      <div class="q-title">Combien de couches de finition appliquerez-vous ?</div>
+    </div>
+    <p class="q-body">Une vitrification professionnelle sérieuse s'effectue en 3 couches. Un égrenage (ponçage léger) entre la première et la deuxième couche est indispensable pour une adhérence parfaite et une finition lisse. La troisième couche apporte la protection finale durable.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Le nombre de couches et l'égrenage intermédiaire font toute la différence entre une vitrification qui tient 2 ans et une qui tient 10 ans.</div>
+    <span class="bonne-reponse">✓ Bonne réponse : "3 couches avec égrenage entre la 1ère et la 2ème"</span>
+    <span class="mauvaise-reponse">✗ Alarme : "2 couches sans égrenage"</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">6</div>
+      <div class="q-title">Êtes-vous assuré en responsabilité civile professionnelle ?</div>
+    </div>
+    <p class="q-body">Toujours demander une attestation d'assurance à jour. En cas d'accident, de griffure de vos meubles, ou de détérioration de votre parquet, vous aurez un recours.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Sans assurance, vous êtes seul en cas de problème. Ne prenez jamais ce risque.</div>
+    <span class="mauvaise-reponse">✗ Alarme : refus de fournir l'attestation ou hésitation</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">7</div>
+      <div class="q-title">Qui réalise concrètement le chantier ?</div>
+    </div>
+    <p class="q-body">Certaines entreprises signent le devis mais envoient des sous-traitants. Il est légitime de savoir si c'est l'artisan que vous rencontrez qui interviendra chez vous.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> La qualité du travail dépend de la personne qui ponçe, pas de celle qui vend.</div>
+    <span class="bonne-reponse">✓ Bonne réponse : "c'est moi qui interviens du début à la fin"</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">8</div>
+      <div class="q-title">Combien de temps durera le chantier et quand pourrai-je réintégrer ?</div>
+    </div>
+    <p class="q-body">Avec un produit professionnel comme le Bona Mega Evo, le séchage est rapide : les locaux sont réutilisables seulement 8 heures après la dernière couche. Inutile de quitter votre appartement plusieurs jours — vous pouvez réintégrer dès le lendemain matin dans la plupart des cas.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Un artisan qui utilise des produits professionnels de qualité vous fait gagner un temps précieux. Méfiez-vous des devis qui annoncent 48 à 72h d'immobilisation — c'est souvent le signe de produits bas de gamme à séchage lent.</div>
+    <span class="bonne-reponse">✓ Bonne réponse : "8h après la dernière couche avec Bona Mega Evo"</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">9</div>
+      <div class="q-title">Que comprend exactement le prix du devis ?</div>
+    </div>
+    <p class="q-body">Vérifiez si le déplacement, la fourniture des produits, le déplacement des meubles légers et l'évacuation des déchets sont inclus. Certains artisans pratiquent des prix bas puis facturent tout en supplément.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Le prix réel peut être très différent du prix affiché si tout n'est pas détaillé.</div>
+    <span class="bonne-reponse">✓ Bonne réponse : un devis qui liste chaque poste de coût</span>
+  </div>
+
+  <div class="question-card">
+    <div class="q-header">
+      <div class="q-num">10</div>
+      <div class="q-title">Pouvez-vous me donner des références de chantiers similaires ?</div>
+    </div>
+    <p class="q-body">Des photos de réalisations récentes sur des parquets semblables au vôtre sont le meilleur indicateur de compétence. Un artisan fier de son travail aura toujours des photos à vous montrer.</p>
+    <div class="q-pourquoi"><strong>Pourquoi c'est important :</strong> Les avis Google sont importants, mais voir le travail réalisé sur un parquet similaire vaut mille mots.</div>
+    <span class="mauvaise-reponse">✗ Alarme : aucune photo de référence disponible</span>
+  </div>
+
+  <!-- RECAP -->
+  <div class="recap">
+    <h3>En résumé — les signaux d'alarme à fuir</h3>
+    <div class="recap-grid">
+      <div class="recap-item">Devis oral sans détail écrit</div>
+      <div class="recap-item">Absence d'assurance RC pro</div>
+      <div class="recap-item">Matériel sans aspiration intégrée</div>
+      <div class="recap-item">Prix anormalement bas</div>
+      <div class="recap-item">Sous-traitance non annoncée</div>
+      <div class="recap-item">Aucune photo de réalisation</div>
+      <div class="recap-item">Moins de 3 passes de ponçage</div>
+      <div class="recap-item">Délais flous de réintégration</div>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta">
+    <h3>Un artisan qui répond à tout</h3>
+    <p>+220 avis Google · Matériel professionnel sans poussière · Devis écrit détaillé</p>
+    <a href="https://frafra92.github.io/poncage-parquet/#contact" class="btn">Demander un devis gratuit</a>
+  </div>
+
+</div>
+
+<footer>
+  <p>© 2025 François Parquet – Artisan parqueteur Paris et Île-de-France</p>
+  <p style="margin-top:8px"><a href="https://frafra92.github.io/poncage-parquet/">Retour au site principal</a></p>
+</footer>
+
+</body>
+</html>
