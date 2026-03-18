@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>À propos — François, artisan parqueteur indépendant à Paris</title>
+  <meta name="description" content="Artisan parqueteur indépendant basé à Montrouge, François intervient depuis plus de 10 ans sur Paris et l'Île-de-France. Spécialiste des parquets anciens haussmanniens, autodidacte affiné par ses pairs.">
+  <meta name="keywords" content="artisan parqueteur Paris, François parquet Montrouge, ponçage parquet Paris, spécialiste parquet haussmannien Paris">
+  <link rel="canonical" href="https://frafra92.github.io/poncage-parquet/a-propos.html">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <!-- Schema.org LocalBusiness -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "François Parquet",
+    "description": "Artisan parqueteur indépendant spécialisé dans le ponçage, la vitrification et la rénovation de parquets anciens à Paris et Île-de-France.",
+    "url": "https://frafra92.github.io/poncage-parquet/",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Montrouge",
+      "postalCode": "92120",
+      "addressCountry": "FR"
+    },
+    "areaServed": "Paris et Île-de-France",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "reviewCount": "220"
+    },
+    "knowsAbout": ["ponçage parquet", "vitrification parquet", "parquet haussmannien", "rénovation parquet ancien", "parquet point de Hongrie"]
+  }
+  </script>
+
+  <!-- Schema.org Person -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "François",
+    "jobTitle": "Artisan parqueteur indépendant",
+    "worksFor": {
+      "@type": "LocalBusiness",
+      "name": "François Parquet"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Montrouge",
+      "addressRegion": "Île-de-France",
+      "addressCountry": "FR"
+    },
+    "knowsAbout": ["ponçage parquet Paris", "vitrification Bona Mega Evo", "abrasifs diamant parquet", "parquets haussmanniens anciens", "HTC Husqvarna"]
+  }
+  </script>
+
+  <style>
+    :root {
+      --bois: #5C3D1E;
+      --bois-clair: #9A6B3E;
+      --or: #C49A3C;
+      --fond: #FAF7F2;
+      --blanc: #FFFFFF;
+      --texte: #1E1E1E;
+      --gris: #6A6A6A;
+      --creme: #F2EDE4;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'DM Sans', sans-serif; background: var(--fond); color: var(--texte); line-height: 1.8; }
+
+    nav { background: var(--bois); padding: 16px 40px; display: flex; justify-content: space-between; align-items: center; }
+    nav a { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; }
+    nav .logo { font-family: 'Cormorant Garamond', serif; font-size: 22px; color: var(--or); font-weight: 600; }
+
+    /* HERO PORTRAIT */
+    .hero {
+      background: linear-gradient(135deg, var(--bois) 0%, #3B2410 100%);
+      padding: 80px 40px;
+      display: grid;
+      grid-template-columns: 1fr 320px;
+      gap: 60px;
+      max-width: 1000px;
+      margin: 0 auto;
+      align-items: center;
+    }
+    @media (max-width: 700px) { .hero { grid-template-columns: 1fr; } .hero-portrait { display: none; } }
+
+    .hero-tag {
+      display: inline-block;
+      border: 1px solid rgba(196,154,60,0.5);
+      color: var(--or);
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 2px;
+      margin-bottom: 20px;
+    }
+    .hero h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(32px, 5vw, 58px);
+      color: var(--blanc);
+      line-height: 1.1;
+      margin-bottom: 20px;
+      font-weight: 700;
+    }
+    .hero h1 em { color: var(--or); font-style: italic; }
+    .hero-desc { color: rgba(255,255,255,0.65); font-size: 17px; font-weight: 300; line-height: 1.7; }
+
+    .hero-portrait {
+      position: relative;
+    }
+    .portrait-frame {
+      width: 100%;
+      aspect-ratio: 3/4;
+      background: linear-gradient(160deg, var(--bois-clair), var(--bois));
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+    }
+    .portrait-initial {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 120px;
+      color: rgba(255,255,255,0.12);
+      font-weight: 700;
+      line-height: 1;
+    }
+    .portrait-badge {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--or);
+      color: var(--bois);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 8px 18px;
+      border-radius: 2px;
+      white-space: nowrap;
+      letter-spacing: 0.5px;
+    }
+
+    .breadcrumb { max-width: 860px; margin: 0 auto; padding: 14px 24px; font-size: 13px; color: var(--gris); }
+    .breadcrumb a { color: var(--bois-clair); text-decoration: none; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 60px 24px 80px; }
+
+    /* STATS */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1px;
+      background: #E8E0D4;
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 64px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+    }
+    @media (max-width: 600px) { .stats { grid-template-columns: 1fr 1fr; } }
+    .stat {
+      background: var(--blanc);
+      padding: 28px 20px;
+      text-align: center;
+    }
+    .stat .val {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 40px;
+      font-weight: 700;
+      color: var(--bois);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+    .stat .val span { color: var(--or); }
+    .stat .lab { font-size: 12px; color: var(--gris); text-transform: uppercase; letter-spacing: 1px; }
+
+    h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 32px;
+      color: var(--bois);
+      margin: 56px 0 20px;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+    p { margin-bottom: 18px; font-size: 16px; color: var(--texte); }
+
+    /* CITATION */
+    blockquote {
+      border-left: 3px solid var(--or);
+      padding: 18px 28px;
+      margin: 32px 0;
+      background: var(--blanc);
+      border-radius: 0 6px 6px 0;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 22px;
+      font-style: italic;
+      color: var(--bois);
+      line-height: 1.5;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+    }
+
+    /* VALEURS */
+    .valeurs {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin: 32px 0;
+    }
+    @media (max-width: 560px) { .valeurs { grid-template-columns: 1fr; } }
+    .valeur-card {
+      background: var(--blanc);
+      border-radius: 6px;
+      padding: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      border-top: 3px solid var(--or);
+    }
+    .valeur-card .em { font-size: 28px; margin-bottom: 10px; display: block; }
+    .valeur-card strong { display: block; font-family: 'Cormorant Garamond', serif; font-size: 20px; color: var(--bois); margin-bottom: 6px; }
+    .valeur-card p { font-size: 14px; color: var(--gris); margin: 0; }
+
+    /* MATÉRIEL RÉSUMÉ */
+    .materiel-strip {
+      background: var(--bois);
+      border-radius: 8px;
+      padding: 32px 36px;
+      margin: 48px 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+    @media (max-width: 560px) { .materiel-strip { grid-template-columns: 1fr; } }
+    .materiel-strip h3 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 14px;
+      color: rgba(255,255,255,0.4);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 10px;
+      grid-column: 1 / -1;
+    }
+    .mat-item { display: flex; gap: 14px; align-items: flex-start; }
+    .mat-item .em { font-size: 28px; flex-shrink: 0; }
+    .mat-item strong { display: block; color: var(--or); font-size: 15px; margin-bottom: 3px; }
+    .mat-item span { font-size: 13px; color: rgba(255,255,255,0.6); }
+
+    /* ZONE */
+    .zone-box {
+      background: var(--creme);
+      border-radius: 8px;
+      padding: 28px 32px;
+      margin: 32px 0;
+    }
+    .zone-box h3 { font-family: 'Cormorant Garamond', serif; font-size: 22px; color: var(--bois); margin-bottom: 14px; }
+    .zone-tags { display: flex; flex-wrap: wrap; gap: 8px; }
+    .zone-tag {
+      background: var(--blanc);
+      border: 1px solid rgba(92,61,30,0.15);
+      color: var(--bois);
+      font-size: 13px;
+      padding: 5px 14px;
+      border-radius: 20px;
+    }
+
+    /* CTA */
+    .cta {
+      background: linear-gradient(135deg, var(--bois-clair), var(--bois));
+      border-radius: 8px;
+      padding: 44px 40px;
+      text-align: center;
+      margin: 48px 0;
+    }
+    .cta h3 { font-family: 'Cormorant Garamond', serif; font-size: 30px; color: var(--blanc); margin-bottom: 10px; }
+    .cta p { color: rgba(255,255,255,0.7); margin-bottom: 24px; }
+    .btn {
+      display: inline-block;
+      background: var(--or);
+      color: var(--bois);
+      font-weight: 600;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 15px 36px;
+      border-radius: 3px;
+      text-decoration: none;
+    }
+
+    footer { background: var(--bois); color: rgba(255,255,255,0.45); text-align: center; padding: 28px; font-size: 13px; }
+    footer a { color: var(--or); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="https://frafra92.github.io/poncage-parquet/" class="logo">François Parquet</a>
+  <a href="https://frafra92.github.io/poncage-parquet/">← Retour au site</a>
+</nav>
+
+<!-- HERO -->
+<div style="background:linear-gradient(135deg,#5C3D1E 0%,#3B2410 100%)">
+  <div class="hero">
+    <div>
+      <div class="hero-tag">À propos</div>
+      <h1>François,<br>artisan parqueteur<br><em>indépendant</em></h1>
+      <p class="hero-desc">Basé à Montrouge, j'interviens depuis plus de 10 ans sur Paris et toute l'Île-de-France. Ma spécialité : redonner vie aux parquets anciens des appartements haussmanniens parisiens.</p>
+    </div>
+    <div class="hero-portrait">
+      <div class="portrait-frame">
+        <div class="portrait-initial">F</div>
+        <div class="portrait-badge">Artisan indépendant · Montrouge 92</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="breadcrumb">
+  <a href="https://frafra92.github.io/poncage-parquet/">Accueil</a> › À propos
+</div>
+
+<div class="container">
+
+  <!-- STATS -->
+  <div class="stats">
+    <div class="stat">
+      <div class="val">10<span>+</span></div>
+      <div class="lab">Années d'expérience</div>
+    </div>
+    <div class="stat">
+      <div class="val">220<span>+</span></div>
+      <div class="lab">Avis Google 5★</div>
+    </div>
+    <div class="stat">
+      <div class="val">20</div>
+      <div class="lab">m² poncés / jour</div>
+    </div>
+    <div class="stat">
+      <div class="val">3</div>
+      <div class="lab">Couches de finition</div>
+    </div>
+  </div>
+
+  <!-- MON PARCOURS -->
+  <h2>Mon parcours</h2>
+  <p>Je suis devenu parqueteur par opportunité — une rencontre, un déclic, et un métier qui m'a immédiatement parlé. Pas d'école ni de formation classique : j'ai appris sur le terrain, au contact de professionnels expérimentés, en observant, en pratiquant, en affinant ma technique chantier après chantier.</p>
+
+  <p>Au fil des années, j'ai développé mes propres méthodes — notamment l'utilisation d'abrasifs diamant haute performance sur parquet bois, une technique empruntée à d'autres corps de métier et adaptée avec soin au travail du bois. Ces approches, transmises entre pairs et perfectionnées par l'expérience, font aujourd'hui partie intégrante de ma signature professionnelle.</p>
+
+  <blockquote>
+    "Ce qui me motive chaque matin, c'est de redonner vie à des parquets centenaires que d'autres auraient condamnés. Un parquet haussmannien bien rénové, c'est 100 ans d'histoire qui continuent."
+  </blockquote>
+
+  <p>Aujourd'hui, avec plus de 220 avis Google et plus d'une décennie de chantiers parisiens à mon actif, je travaille exclusivement en indépendant — c'est moi qui interviens sur chaque chantier, du premier coup de ponceuse à la dernière couche de vitrification.</p>
+
+  <!-- MES VALEURS -->
+  <h2>Ce qui guide mon travail</h2>
+
+  <div class="valeurs">
+    <div class="valeur-card">
+      <span class="em">🎯</span>
+      <strong>La précision avant tout</strong>
+      <p>Un parquet ancien parisien ne tolère pas l'approximation. Chaque passe, chaque grain, chaque couche est appliquée avec méthode et attention.</p>
+    </div>
+    <div class="valeur-card">
+      <span class="em">🪵</span>
+      <strong>Le respect du bois ancien</strong>
+      <p>Les parquets haussmanniens ont parfois plus de 100 ans. Je m'adapte à chaque bois, à chaque épaisseur, pour ne jamais prendre de risque inutile.</p>
+    </div>
+    <div class="valeur-card">
+      <span class="em">🧹</span>
+      <strong>Chantier propre, zéro poussière</strong>
+      <p>Mon aspirateur Festool CTL 48 E capture la poussière à la source. Votre appartement reste propre — c'est une priorité, pas une option.</p>
+    </div>
+    <div class="valeur-card">
+      <span class="em">📱</span>
+      <strong>Devis rapide sur photos</strong>
+      <p>Je ne me déplace pas pour établir un devis. Trois photos bien éclairées suffisent — vous avez une réponse précise sous 24h, sans attendre.</p>
+    </div>
+  </div>
+
+  <!-- MON MATÉRIEL -->
+  <div class="materiel-strip">
+    <h3>Mon équipement professionnel</h3>
+    <div class="mat-item">
+      <div class="em">⚙️</div>
+      <div>
+        <strong>HTC Husqvarna — Fabriquée en Suède 🇸🇪</strong>
+        <span>Ponceuse planétaire 3 plateaux — système rotatif pour un résultat parfaitement homogène, sans trace ni ondulation</span>
+      </div>
+    </div>
+    <div class="mat-item">
+      <div class="em">💨</div>
+      <div>
+        <strong>Festool CTL 48 E — Aspirateur industriel</strong>
+        <span>Sac Longlife polyester triple couche — filtration à 99,995 % des particules, chantier zéro poussière garanti</span>
+      </div>
+    </div>
+    <div class="mat-item">
+      <div class="em">💎</div>
+      <div>
+        <strong>Abrasifs diamant haute performance</strong>
+        <span>Technique affinée par mes pairs — grain 70 systématique, grain 50 si nécessaire, pour une mise à nu parfaite du bois</span>
+      </div>
+    </div>
+    <div class="mat-item">
+      <div class="em">🏆</div>
+      <div>
+        <strong>Bona Mega Evo — Vitrification pro</strong>
+        <span>3 couches avec égrenage entre la 1ère et la 2ème — séchage rapide, réintégration 2h après la dernière couche</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ZONE D'INTERVENTION -->
+  <div class="zone-box">
+    <h3>📍 Zone d'intervention</h3>
+    <p style="font-size:14px;color:var(--gris);margin-bottom:14px;">Basé à Montrouge (92), j'interviens dans tout Paris et sa proche banlieue :</p>
+    <div class="zone-tags">
+      <span class="zone-tag">Paris 1er – 20e</span>
+      <span class="zone-tag">Montrouge</span>
+      <span class="zone-tag">Issy-les-Moulineaux</span>
+      <span class="zone-tag">Boulogne-Billancourt</span>
+      <span class="zone-tag">Neuilly-sur-Seine</span>
+      <span class="zone-tag">Vincennes</span>
+      <span class="zone-tag">Versailles</span>
+      <span class="zone-tag">Vanves</span>
+      <span class="zone-tag">Créteil</span>
+      <span class="zone-tag">Et toute l'Île-de-France</span>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta">
+    <h3>Travaillons ensemble</h3>
+    <p>Envoyez-moi des photos de votre parquet — devis gratuit et précis sous 24h.</p>
+    <a href="https://frafra92.github.io/poncage-parquet/#contact" class="btn">Demander un devis gratuit</a>
+  </div>
+
+</div>
+
+<footer>
+  <p>© 2025 François Parquet – Artisan parqueteur Paris et Île-de-France</p>
+  <p style="margin-top:8px"><a href="https://frafra92.github.io/poncage-parquet/">Retour au site principal</a></p>
+</footer>
+
+</body>
+</html>
