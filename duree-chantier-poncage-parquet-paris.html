@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Combien de temps dure un chantier de ponçage parquet à Paris ?</title>
+  <meta name="description" content="Ponçage d'un studio, d'un appartement ou d'une grande surface : combien de temps faut-il prévoir ? Un artisan parqueteur parisien vous répond avec des chiffres réels issus de son expérience terrain.">
+  <meta name="keywords" content="durée chantier ponçage parquet Paris, combien de temps ponçage parquet, délai rénovation parquet Paris, temps séchage vitrification parquet">
+  <link rel="canonical" href="https://frafra92.github.io/poncage-parquet/duree-chantier-poncage-parquet-paris.html">
+  <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600;700&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bois: #6B4226;
+      --bois-clair: #A07040;
+      --or: #C8952A;
+      --fond: #F7F3EE;
+      --blanc: #FFFFFF;
+      --texte: #222;
+      --gris: #686868;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Outfit', sans-serif; background: var(--fond); color: var(--texte); line-height: 1.8; }
+
+    nav { background: var(--bois); padding: 16px 40px; display: flex; justify-content: space-between; align-items: center; }
+    nav a { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; }
+    nav .logo { font-family: 'Spectral', serif; font-size: 20px; color: var(--or); }
+
+    .hero { background: var(--bois); padding: 68px 40px 52px; text-align: center; position: relative; overflow: hidden; }
+    .hero::before { content: '⏱'; position: absolute; font-size: 260px; opacity: 0.04; top: 50%; left: 50%; transform: translate(-50%,-50%); pointer-events: none; }
+    .hero .tag { display: inline-block; background: rgba(200,149,42,0.2); border: 1px solid var(--or); color: var(--or); font-size: 11px; letter-spacing: 2px; text-transform: uppercase; padding: 5px 16px; border-radius: 20px; margin-bottom: 22px; }
+    .hero h1 { font-family: 'Spectral', serif; font-size: clamp(26px,4.5vw,50px); color: var(--blanc); line-height: 1.2; max-width: 760px; margin: 0 auto 18px; }
+    .hero p { color: rgba(255,255,255,0.6); font-size: 17px; font-weight: 300; max-width: 540px; margin: 0 auto; }
+
+    .breadcrumb { max-width: 840px; margin: 0 auto; padding: 14px 24px; font-size: 13px; color: var(--gris); }
+    .breadcrumb a { color: var(--bois-clair); text-decoration: none; }
+
+    .container { max-width: 840px; margin: 0 auto; padding: 48px 24px 80px; }
+
+    .reponse-rapide { background: var(--bois); border-radius: 8px; padding: 28px 32px; margin-bottom: 48px; display: flex; gap: 18px; align-items: flex-start; }
+    .reponse-rapide .icon { font-size: 32px; flex-shrink: 0; }
+    .reponse-rapide h2 { font-family: 'Spectral', serif; font-size: 18px; color: var(--or); margin-bottom: 8px; }
+    .reponse-rapide p { color: rgba(255,255,255,0.85); font-size: 15px; margin: 0; }
+
+    h2 { font-family: 'Spectral', serif; font-size: 26px; color: var(--bois); margin: 48px 0 18px; }
+    p { margin-bottom: 16px; font-size: 16px; }
+
+    .durees-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(160px,1fr)); gap: 14px; margin: 32px 0; }
+    .duree-card { background: var(--blanc); border-radius: 8px; padding: 24px 20px; text-align: center; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border-bottom: 4px solid var(--or); }
+    .duree-card .surface { font-size: 12px; color: var(--gris); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
+    .duree-card .m2 { font-family: 'Spectral', serif; font-size: 18px; color: var(--bois); font-weight: 700; margin-bottom: 12px; }
+    .duree-card .temps { font-size: 30px; font-weight: 700; color: var(--or); line-height: 1; margin-bottom: 4px; }
+    .duree-card .unite { font-size: 13px; color: var(--gris); }
+
+    .conseil-marge { background: #FFF8EC; border: 1px solid var(--or); border-radius: 6px; padding: 20px 24px; margin: 24px 0; }
+    .conseil-marge strong { color: var(--bois); display: block; margin-bottom: 6px; }
+
+    .phases { background: var(--blanc); border-radius: 8px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.06); margin: 32px 0; }
+    .phase-row { display: grid; grid-template-columns: 2fr 1fr 3fr; border-bottom: 1px solid #F0EBE3; align-items: center; }
+    .phase-row:last-child { border-bottom: none; }
+    .phase-row.header { background: var(--bois); }
+    .phase-row > div { padding: 14px 18px; font-size: 15px; }
+    .phase-row.header > div { padding: 12px 18px; color: rgba(255,255,255,0.7); font-size: 12px; letter-spacing: 1px; text-transform: uppercase; }
+    .phase-nom { color: var(--bois); font-weight: 600; }
+    .phase-duree { color: var(--or); font-weight: 700; }
+    .phase-detail { color: var(--gris); font-size: 14px; }
+    @media (max-width:600px) { .phase-row { grid-template-columns: 1fr 1fr; } .phase-detail { display: none; } }
+
+    .sechage-box { background: linear-gradient(135deg,rgba(107,66,38,0.06),rgba(200,149,42,0.08)); border: 1px solid rgba(200,149,42,0.35); border-radius: 8px; padding: 28px 32px; margin: 32px 0; display: flex; gap: 18px; align-items: flex-start; }
+    .sechage-box .icon { font-size: 36px; flex-shrink: 0; }
+    .sechage-box h3 { font-family: 'Spectral', serif; font-size: 20px; color: var(--bois); margin-bottom: 8px; }
+    .sechage-box p { font-size: 15px; margin: 0; }
+    .sechage-box strong { color: var(--bois); }
+
+    .timeline { margin: 32px 0; }
+    .tl-jour { margin-bottom: 24px; }
+    .tl-jour-header { background: var(--bois); color: var(--or); font-family: 'Spectral', serif; font-size: 16px; font-weight: 700; padding: 10px 20px; border-radius: 6px 6px 0 0; }
+    .tl-jour-body { background: var(--blanc); border-radius: 0 0 6px 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow: hidden; }
+    .tl-item { display: grid; grid-template-columns: 110px 1fr; border-bottom: 1px solid #F5F0EA; align-items: center; }
+    .tl-item:last-child { border-bottom: none; }
+    .tl-item.bonus { background: rgba(200,149,42,0.04); }
+    .tl-time { padding: 12px 16px; font-size: 13px; color: var(--or); font-weight: 600; border-right: 2px solid #F0EBE3; text-align: center; }
+    .tl-item.bonus .tl-time { color: var(--gris); }
+    .tl-content { padding: 12px 18px; }
+    .tl-content strong { display: block; color: var(--bois); font-size: 15px; }
+    .tl-content span { font-size: 13px; color: var(--gris); }
+
+    .facteurs-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 24px 0; }
+    @media (max-width:560px) { .facteurs-grid { grid-template-columns: 1fr; } }
+    .facteur-card { background: var(--blanc); border-radius: 6px; padding: 18px 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); display: flex; gap: 14px; align-items: flex-start; }
+    .facteur-card .em { font-size: 24px; flex-shrink: 0; }
+    .facteur-card strong { display: block; color: var(--bois); font-size: 15px; margin-bottom: 4px; }
+    .facteur-card span { font-size: 13px; color: var(--gris); }
+
+    .cta { background: linear-gradient(135deg,var(--bois-clair),var(--bois)); border-radius: 8px; padding: 44px 40px; text-align: center; margin: 48px 0; }
+    .cta h3 { font-family: 'Spectral', serif; font-size: 28px; color: var(--blanc); margin-bottom: 10px; }
+    .cta p { color: rgba(255,255,255,0.7); margin-bottom: 24px; }
+    .btn { display: inline-block; background: var(--or); color: var(--bois); font-weight: 700; font-size: 14px; letter-spacing: 1px; text-transform: uppercase; padding: 15px 36px; border-radius: 3px; text-decoration: none; }
+
+    .auteur { display: flex; gap: 18px; align-items: flex-start; background: var(--blanc); border: 1px solid rgba(107,66,38,0.12); border-radius: 6px; padding: 22px 26px; margin-top: 48px; }
+    .auteur-av { width: 50px; height: 50px; background: var(--bois); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'Spectral', serif; font-size: 20px; color: var(--blanc); flex-shrink: 0; }
+    .auteur strong { display: block; color: var(--bois); margin-bottom: 4px; }
+    .auteur span { font-size: 14px; color: var(--gris); }
+
+    footer { background: var(--bois); color: rgba(255,255,255,0.45); text-align: center; padding: 28px; font-size: 13px; }
+    footer a { color: var(--or); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="https://frafra92.github.io/poncage-parquet/" class="logo">François Parquet</a>
+  <a href="https://frafra92.github.io/poncage-parquet/">← Retour au site</a>
+</nav>
+
+<div class="hero">
+  <div class="tag">Question pratique</div>
+  <h1>Combien de temps dure un chantier de ponçage parquet à Paris ?</h1>
+  <p>Des chiffres réels issus du terrain — pas des estimations théoriques.</p>
+</div>
+
+<div class="breadcrumb">
+  <a href="https://frafra92.github.io/poncage-parquet/">Accueil</a> › <a href="#">Conseils</a> › Durée d'un chantier de ponçage parquet
+</div>
+
+<div class="container">
+
+  <div class="reponse-rapide">
+    <div class="icon">⏱️</div>
+    <div>
+      <h2>La réponse directe</h2>
+      <p>Je ponce environ <strong>20 m² par jour</strong>, vitrification 3 couches comprise. Pour un appartement de 60 m², je prévois <strong>4 jours de chantier</strong> — 3 jours dans l'idéal, mais je préfère anticiper les imprévus pour ne jamais vous laisser en plan.</p>
+    </div>
+  </div>
+
+  <h2>Durée selon la surface de votre parquet</h2>
+  <p>Ces durées incluent le ponçage complet et les 3 couches de vitrification :</p>
+
+  <div class="durees-grid">
+    <div class="duree-card">
+      <div class="surface">Studio</div>
+      <div class="m2">jusqu'à 20 m²</div>
+      <div class="temps">1</div>
+      <div class="unite">journée</div>
+    </div>
+    <div class="duree-card">
+      <div class="surface">2 pièces</div>
+      <div class="m2">~40 m²</div>
+      <div class="temps">2–3</div>
+      <div class="unite">journées</div>
+    </div>
+    <div class="duree-card">
+      <div class="surface">3 pièces</div>
+      <div class="m2">~60 m²</div>
+      <div class="temps">3–4</div>
+      <div class="unite">journées</div>
+    </div>
+    <div class="duree-card">
+      <div class="surface">Grand appart.</div>
+      <div class="m2">~100 m²</div>
+      <div class="temps">5–6</div>
+      <div class="unite">journées</div>
+    </div>
+  </div>
+
+  <div class="conseil-marge">
+    <strong>💡 Pourquoi je prévois toujours une journée de marge ?</strong>
+    Un parquet plus dégradé que prévu sur photos, une lame à réparer, un angle délicat — les imprévus font partie du métier. Cette marge me permet de travailler sereinement sans jamais bâcler.
+  </div>
+
+  <h2>Les étapes du chantier dans le détail</h2>
+  <p>Voici la séquence complète appliquée sur chaque zone de 20 m² :</p>
+
+  <div class="phases">
+    <div class="phase-row header">
+      <div>Étape</div>
+      <div>Grain / outil</div>
+      <div>Objectif</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">1. Ponçage diamant</div>
+      <div class="phase-duree">Grain 50</div>
+      <div class="phase-detail">HTC Husqvarna — uniquement si le parquet est très dégradé ou l'ancienne finition particulièrement épaisse</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">2. Ponçage diamant</div>
+      <div class="phase-duree">Grain 70 ✦</div>
+      <div class="phase-detail">HTC Husqvarna — passe systématique sur chaque chantier, cœur du travail de mise à nu du bois</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">3. Abrasif papier</div>
+      <div class="phase-duree">Grain 40</div>
+      <div class="phase-detail">Travail en profondeur sur les irrégularités restantes</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">4. Abrasif papier</div>
+      <div class="phase-duree">Grain 60</div>
+      <div class="phase-detail">Affinage progressif — le bois retrouve sa douceur naturelle</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">5. Abrasif papier fin</div>
+      <div class="phase-duree">Grain 120</div>
+      <div class="phase-detail">Finition — surface parfaitement lisse, prête pour la vitrification</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">6. Dépoussiérage</div>
+      <div class="phase-duree">—</div>
+      <div class="phase-detail">Aspiration Festool CTL 48 E — sol nettoyé avant toute application</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">7. 1ère couche</div>
+      <div class="phase-duree">+ 1h séchage</div>
+      <div class="phase-detail">Bona Mega Evo — puis égrenage léger avant la 2ème couche</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">8. Égrenage</div>
+      <div class="phase-duree">—</div>
+      <div class="phase-detail">Ponçage très léger entre 1ère et 2ème couche — adhérence parfaite garantie</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">9. 2ème couche</div>
+      <div class="phase-duree">+ 1h séchage</div>
+      <div class="phase-detail">Bona Mega Evo — renfort de la protection</div>
+    </div>
+    <div class="phase-row">
+      <div class="phase-nom">10. 3ème couche finale</div>
+      <div class="phase-duree">+ 2h séchage</div>
+      <div class="phase-detail">Protection définitive — 2h après, le parquet est praticable normalement</div>
+    </div>
+  </div>
+
+  <div class="sechage-box">
+    <div class="icon">🏆</div>
+    <div>
+      <h3>Réintégration rapide grâce au Bona Mega Evo</h3>
+      <p><strong>1h de séchage entre chaque couche</strong>, et seulement <strong>2h après la 3ème couche finale</strong> avant de pouvoir circuler normalement. Pas besoin de quitter votre appartement plusieurs jours — c'est l'un des grands avantages d'un produit professionnel haut de gamme.</p>
+    </div>
+  </div>
+
+  <h2>Planning type : un appartement de 60 m² sur 4 jours</h2>
+
+  <div class="timeline">
+    <div class="tl-jour">
+      <div class="tl-jour-header">Jour 1 — Zone 1 : 20 m²</div>
+      <div class="tl-jour-body">
+        <div class="tl-item">
+          <div class="tl-time">Matin</div>
+          <div class="tl-content"><strong>Ponçage diamant grain 70 (grain 50 si parquet très dégradé)</strong><span>HTC Husqvarna — mise à nu complète du bois</span></div>
+        </div>
+        <div class="tl-item">
+          <div class="tl-time">Après-midi</div>
+          <div class="tl-content"><strong>Abrasif papier 40 / 60 / 120</strong><span>Affinage progressif jusqu'à surface lisse</span></div>
+        </div>
+        <div class="tl-item">
+          <div class="tl-time">Fin de journée</div>
+          <div class="tl-content"><strong>Vitrification 3 couches — 1h entre chaque</strong><span>Égrenage entre couche 1 et 2 — zone praticable 2h après la 3ème couche</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-jour">
+      <div class="tl-jour-header">Jour 2 — Zone 2 : 20 m²</div>
+      <div class="tl-jour-body">
+        <div class="tl-item">
+          <div class="tl-time">Matin</div>
+          <div class="tl-content"><strong>Ponçage diamant grain 70 + abrasif papier</strong><span>Même séquence complète sur la deuxième zone</span></div>
+        </div>
+        <div class="tl-item">
+          <div class="tl-time">Après-midi</div>
+          <div class="tl-content"><strong>Vitrification 3 couches</strong><span>Le reste de l'appartement reste accessible pendant ce temps</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-jour">
+      <div class="tl-jour-header">Jour 3 — Zone 3 : 20 m² restants</div>
+      <div class="tl-jour-body">
+        <div class="tl-item">
+          <div class="tl-time">Matin</div>
+          <div class="tl-content"><strong>Ponçage complet dernière zone</strong><span>Couloir, entrée, angles traités à la machine vibrante</span></div>
+        </div>
+        <div class="tl-item">
+          <div class="tl-time">Après-midi</div>
+          <div class="tl-content"><strong>Vitrification 3 couches finales</strong><span>2h après la dernière couche — tout l'appartement est praticable</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tl-jour">
+      <div class="tl-jour-header">Jour 4 — Marge de sécurité</div>
+      <div class="tl-jour-body">
+        <div class="tl-item bonus">
+          <div class="tl-time">Si besoin</div>
+          <div class="tl-content"><strong>Retouches, reprises, imprévus</strong><span>Lame à réparer, zone difficile d'accès, problème technique — on a le temps</span></div>
+        </div>
+        <div class="tl-item bonus">
+          <div class="tl-time">Souvent</div>
+          <div class="tl-content"><strong>✓ Jour non utilisé</strong><span>Dans la majorité des cas les 3 premiers jours suffisent — le 4ème est une garantie pour vous comme pour moi</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h2>Ce qui peut allonger la durée d'un chantier</h2>
+
+  <div class="facteurs-grid">
+    <div class="facteur-card">
+      <div class="em">🪵</div>
+      <div><strong>Parquet très dégradé</strong><span>Lames gondolées, taches profondes, clous apparents — travail préparatoire supplémentaire avant le ponçage</span></div>
+    </div>
+    <div class="facteur-card">
+      <div class="em">📐</div>
+      <div><strong>Nombreux angles et recoins</strong><span>Couloirs étroits, alcôves, petits espaces — nécessitent plus de travail manuel à la machine vibrante</span></div>
+    </div>
+    <div class="facteur-card">
+      <div class="em">🔧</div>
+      <div><strong>Réparations de lames</strong><span>Remplacement de lames cassées ou manquantes — temps supplémentaire selon l'étendue des dégâts</span></div>
+    </div>
+    <div class="facteur-card">
+      <div class="em">🏠</div>
+      <div><strong>Parquet en point de Hongrie</strong><span>Le ponçage en diagonale de ce classique parisien demande plus de soin et de passages</span></div>
+    </div>
+  </div>
+
+  <h2>Pourquoi j'utilise des abrasifs diamant pour poncer le parquet</h2>
+
+  <p>L'utilisation d'abrasifs diamant sur parquet est une technique peu répandue — elle est issue de mes années d'expérience et de savoir-faire transmis par mes pairs dans le métier. À l'origine utilisés pour le travail de la pierre et du béton, ces abrasifs haute performance ont été adaptés au bois avec des résultats remarquables.</p>
+
+  <div style="background:var(--blanc);border-radius:8px;padding:28px 32px;box-shadow:0 2px 12px rgba(0,0,0,0.06);margin:24px 0;">
+    <h3 style="font-family:'Spectral',serif;font-size:20px;color:var(--bois);margin-bottom:18px;">💎 Ce que les abrasifs diamant apportent au ponçage de parquet</h3>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;">
+      <div style="display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #F5F0EA;">
+        <span style="color:var(--or);font-weight:700;flex-shrink:0;">✦</span>
+        <div><strong style="display:block;color:var(--bois);font-size:15px;margin-bottom:3px;">Longévité exceptionnelle</strong><span style="font-size:13px;color:var(--gris);">Le diamant s'use bien moins vite qu'un abrasif papier classique — moins de changements, plus de régularité</span></div>
+      </div>
+      <div style="display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #F5F0EA;">
+        <span style="color:var(--or);font-weight:700;flex-shrink:0;">✦</span>
+        <div><strong style="display:block;color:var(--bois);font-size:15px;margin-bottom:3px;">Coupe franche et nette</strong><span style="font-size:13px;color:var(--gris);">Le grain diamant tranche les fibres du bois au lieu de les arracher — surface plus propre et plus homogène</span></div>
+      </div>
+      <div style="display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #F5F0EA;">
+        <span style="color:var(--or);font-weight:700;flex-shrink:0;">✦</span>
+        <div><strong style="display:block;color:var(--bois);font-size:15px;margin-bottom:3px;">Aucun colmatage</strong><span style="font-size:13px;color:var(--gris);">Contrairement au papier qui se bouche rapidement avec la résine du bois, le diamant reste actif tout au long de la passe</span></div>
+      </div>
+      <div style="display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #F5F0EA;">
+        <span style="color:var(--or);font-weight:700;flex-shrink:0;">✦</span>
+        <div><strong style="display:block;color:var(--bois);font-size:15px;margin-bottom:3px;">Résultat parfaitement plat</strong><span style="font-size:13px;color:var(--gris);">Combiné au système planétaire de la HTC, le diamant garantit une planéité irréprochable même sur les parquets anciens bombés</span></div>
+      </div>
+    </div>
+    <div style="margin-top:18px;padding:16px 20px;background:rgba(200,149,42,0.06);border-left:3px solid var(--or);border-radius:3px;font-size:14px;color:var(--gris);">
+      <strong style="color:var(--bois);">Une technique issue du compagnonnage</strong> — L'utilisation des abrasifs diamant sur parquet bois est une approche que j'ai développée et affinée au fil des années, en m'inspirant de techniques apprises auprès de mes pairs. C'est aujourd'hui une signature de mon travail qui me distingue des méthodes conventionnelles.
+    </div>
+  </div>
+
+  <div class="cta">
+    <h3>Un planning clair dès le devis</h3>
+    <p>Envoyez-moi des photos de votre parquet — estimation précise sous 24h.</p>
+    <a href="https://frafra92.github.io/poncage-parquet/#contact" class="btn">Demander un devis gratuit</a>
+  </div>
+
+  <div class="auteur">
+    <div class="auteur-av">F</div>
+    <div>
+      <strong>François — Artisan parqueteur indépendant à Montrouge (92)</strong>
+      <span>Je préfère annoncer 4 jours et finir en 3 plutôt que l'inverse. La sérénité du chantier — pour vous comme pour moi — en dépend.</span>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <p>© 2025 François Parquet – Artisan parqueteur Paris et Île-de-France</p>
+  <p style="margin-top:8px"><a href="https://frafra92.github.io/poncage-parquet/">Retour au site principal</a></p>
+</footer>
+
+</body>
+</html>
