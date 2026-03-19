@@ -87,10 +87,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap"></noscript>
-<!-- Leaflet CSS : chargé en différé -->
-<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"></noscript>
-<!-- Font Awesome supprimé — remplacé par SVG inline ci-dessous -->
+<!-- Leaflet supprimé — zones affichées en grille de liens -->
 <style>
 :root{--gold:#c9a84c;--gold-light:#e8c97a;--gold-dim:#7a6030;--dark:#0d0b08;--dark2:#1a1710;--dark3:#252219;--dark4:#302c20;--text:#e8e2d4;--text-muted:#9a9283;--border:rgba(201,168,76,0.2)}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -185,13 +182,6 @@ section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3rem)
 /* ZONES */
 .zones-section{max-width:100%;padding:6rem 2rem;background:var(--dark2);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
 .zones-inner{max-width:1000px;margin:0 auto}
-.zones-tabs{display:flex;gap:0;border:1px solid var(--border);margin-bottom:2rem;width:fit-content}
-.zone-tab{padding:.6rem 1.8rem;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted);cursor:pointer;border-right:1px solid var(--border);background:none;border-top:none;border-bottom:none;border-left:none;transition:background .2s,color .2s}
-.zone-tab:last-child{border-right:none}
-.zone-tab.active{background:var(--gold);color:var(--dark)}
-#map{height:420px;border:1px solid var(--border);filter:saturate(.3) brightness(.7) sepia(.4)}
-.zone-list-panel{display:none}
-.zone-list-panel.active{display:block}
 .zone-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-top:1.5rem}
 .zone-link{display:block;padding:.55rem 1rem;font-size:.8rem;color:var(--text-muted);border:1px solid var(--border);text-align:center;transition:border-color .2s,color .2s,background .2s}
 .zone-link:hover{border-color:var(--gold);color:var(--gold);background:rgba(201,168,76,.05)}
@@ -441,62 +431,54 @@ footer p{font-size:.78rem;color:var(--text-muted)}
     <h2>Paris & Île-de-France</h2>
     <div class="gold-line"></div>
     <p class="section-intro">Intervention dans tous les arrondissements parisiens et les principales villes de banlieue.</p>
-    <div class="zones-tabs">
-      <button class="zone-tab active" onclick="showZone('carte')">Carte interactive</button>
-      <button class="zone-tab" onclick="showZone('paris')">Paris</button>
-      <button class="zone-tab" onclick="showZone('idf')">Île-de-France</button>
+
+    <p style="font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:1rem">Paris — 20 arrondissements</p>
+    <div class="zone-grid">
+      <a href="poncage-parquet-paris-1.html" class="zone-link">Paris 1<sup>er</sup></a>
+      <a href="poncage-parquet-paris-2.html" class="zone-link">Paris 2<sup>e</sup></a>
+      <a href="poncage-parquet-paris-3.html" class="zone-link">Paris 3<sup>e</sup></a>
+      <a href="poncage-parquet-paris-4.html" class="zone-link">Paris 4<sup>e</sup></a>
+      <a href="poncage-parquet-paris-5.html" class="zone-link">Paris 5<sup>e</sup></a>
+      <a href="poncage-parquet-paris-6.html" class="zone-link">Paris 6<sup>e</sup></a>
+      <a href="poncage-parquet-paris-7.html" class="zone-link">Paris 7<sup>e</sup></a>
+      <a href="poncage-parquet-paris-8.html" class="zone-link">Paris 8<sup>e</sup></a>
+      <a href="poncage-parquet-paris-9.html" class="zone-link">Paris 9<sup>e</sup></a>
+      <a href="poncage-parquet-paris-10.html" class="zone-link">Paris 10<sup>e</sup></a>
+      <a href="poncage-parquet-paris-11.html" class="zone-link">Paris 11<sup>e</sup></a>
+      <a href="poncage-parquet-paris-12.html" class="zone-link">Paris 12<sup>e</sup></a>
+      <a href="poncage-parquet-paris-13.html" class="zone-link">Paris 13<sup>e</sup></a>
+      <a href="poncage-parquet-paris-14.html" class="zone-link">Paris 14<sup>e</sup></a>
+      <a href="poncage-parquet-paris-15.html" class="zone-link">Paris 15<sup>e</sup></a>
+      <a href="poncage-parquet-paris-16.html" class="zone-link">Paris 16<sup>e</sup></a>
+      <a href="poncage-parquet-paris-17.html" class="zone-link">Paris 17<sup>e</sup></a>
+      <a href="poncage-parquet-paris-18.html" class="zone-link">Paris 18<sup>e</sup></a>
+      <a href="poncage-parquet-paris-19.html" class="zone-link">Paris 19<sup>e</sup></a>
+      <a href="poncage-parquet-paris-20.html" class="zone-link">Paris 20<sup>e</sup></a>
     </div>
-    <div id="tab-carte"><div id="map"></div></div>
-    <div id="tab-paris" class="zone-list-panel">
-      <div class="zone-grid">
-        <a href="poncage-parquet-paris-1.html" class="zone-link">Paris 1<sup>er</sup></a>
-        <a href="poncage-parquet-paris-2.html" class="zone-link">Paris 2<sup>e</sup></a>
-        <a href="poncage-parquet-paris-3.html" class="zone-link">Paris 3<sup>e</sup></a>
-        <a href="poncage-parquet-paris-4.html" class="zone-link">Paris 4<sup>e</sup></a>
-        <a href="poncage-parquet-paris-5.html" class="zone-link">Paris 5<sup>e</sup></a>
-        <a href="poncage-parquet-paris-6.html" class="zone-link">Paris 6<sup>e</sup></a>
-        <a href="poncage-parquet-paris-7.html" class="zone-link">Paris 7<sup>e</sup></a>
-        <a href="poncage-parquet-paris-8.html" class="zone-link">Paris 8<sup>e</sup></a>
-        <a href="poncage-parquet-paris-9.html" class="zone-link">Paris 9<sup>e</sup></a>
-        <a href="poncage-parquet-paris-10.html" class="zone-link">Paris 10<sup>e</sup></a>
-        <a href="poncage-parquet-paris-11.html" class="zone-link">Paris 11<sup>e</sup></a>
-        <a href="poncage-parquet-paris-12.html" class="zone-link">Paris 12<sup>e</sup></a>
-        <a href="poncage-parquet-paris-13.html" class="zone-link">Paris 13<sup>e</sup></a>
-        <a href="poncage-parquet-paris-14.html" class="zone-link">Paris 14<sup>e</sup></a>
-        <a href="poncage-parquet-paris-15.html" class="zone-link">Paris 15<sup>e</sup></a>
-        <a href="poncage-parquet-paris-16.html" class="zone-link">Paris 16<sup>e</sup></a>
-        <a href="poncage-parquet-paris-17.html" class="zone-link">Paris 17<sup>e</sup></a>
-        <a href="poncage-parquet-paris-18.html" class="zone-link">Paris 18<sup>e</sup></a>
-        <a href="poncage-parquet-paris-19.html" class="zone-link">Paris 19<sup>e</sup></a>
-        <a href="poncage-parquet-paris-20.html" class="zone-link">Paris 20<sup>e</sup></a>
-      </div>
+
+    <p style="font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-top:2rem;margin-bottom:1rem">Île-de-France</p>
+    <div class="zone-grid-idf">
+      <a href="poncage-parquet-montrouge.html" class="zone-link">Montrouge (92)</a>
+      <a href="poncage-parquet-boulogne.html" class="zone-link">Boulogne-Billancourt (92)</a>
+      <a href="poncage-parquet-neuilly.html" class="zone-link">Neuilly-sur-Seine (92)</a>
+      <a href="poncage-parquet-issy.html" class="zone-link">Issy-les-Moulineaux (92)</a>
+      <a href="poncage-parquet-saint-cloud.html" class="zone-link">Saint-Cloud (92)</a>
+      <a href="poncage-parquet-vanves.html" class="zone-link">Vanves (92)</a>
+      <a href="poncage-parquet-malakoff.html" class="zone-link">Malakoff (92)</a>
+      <a href="poncage-parquet-chatillon.html" class="zone-link">Châtillon (92)</a>
+      <a href="poncage-parquet-clamart.html" class="zone-link">Clamart (92)</a>
+      <a href="poncage-parquet-meudon.html" class="zone-link">Meudon (92)</a>
+      <a href="poncage-parquet-sceaux.html" class="zone-link">Sceaux (92)</a>
+      <a href="poncage-parquet-antony.html" class="zone-link">Antony (92)</a>
+      <a href="poncage-parquet-vaucresson.html" class="zone-link">Vaucresson (92)</a>
+      <a href="poncage-parquet-garches.html" class="zone-link">Garches (92)</a>
+      <a href="poncage-parquet-versailles.html" class="zone-link">Versailles (78)</a>
+      <a href="poncage-parquet-saint-germain-en-laye.html" class="zone-link">Saint-Germain-en-Laye (78)</a>
+      <a href="poncage-parquet-vincennes.html" class="zone-link">Vincennes (94)</a>
+      <a href="poncage-parquet-saint-maur-des-fosses.html" class="zone-link">Saint-Maur-des-Fossés (94)</a>
+      <a href="poncage-parquet-nogent-sur-marne.html" class="zone-link">Nogent-sur-Marne (94)</a>
+      <a href="poncage-parquet-creteil.html" class="zone-link">Créteil (94)</a>
     </div>
-    <div id="tab-idf" class="zone-list-panel">
-      <div class="zone-grid-idf">
-        <a href="poncage-parquet-montrouge.html" class="zone-link">Montrouge (92)</a>
-        <a href="poncage-parquet-boulogne.html" class="zone-link">Boulogne-Billancourt (92)</a>
-        <a href="poncage-parquet-neuilly.html" class="zone-link">Neuilly-sur-Seine (92)</a>
-        <a href="poncage-parquet-issy.html" class="zone-link">Issy-les-Moulineaux (92)</a>
-        <a href="poncage-parquet-saint-cloud.html" class="zone-link">Saint-Cloud (92)</a>
-        <a href="poncage-parquet-vanves.html" class="zone-link">Vanves (92)</a>
-        <a href="poncage-parquet-malakoff.html" class="zone-link">Malakoff (92)</a>
-        <a href="poncage-parquet-chatillon.html" class="zone-link">Châtillon (92)</a>
-        <a href="poncage-parquet-clamart.html" class="zone-link">Clamart (92)</a>
-        <a href="poncage-parquet-meudon.html" class="zone-link">Meudon (92)</a>
-        <a href="poncage-parquet-sceaux.html" class="zone-link">Sceaux (92)</a>
-        <a href="poncage-parquet-antony.html" class="zone-link">Antony (92)</a>
-        <a href="poncage-parquet-vaucresson.html" class="zone-link">Vaucresson (92)</a>
-        <a href="poncage-parquet-garches.html" class="zone-link">Garches (92)</a>
-        <a href="poncage-parquet-versailles.html" class="zone-link">Versailles (78)</a>
-        <a href="poncage-parquet-saint-germain-en-laye.html" class="zone-link">Saint-Germain-en-Laye (78)</a>
-        <a href="poncage-parquet-vincennes.html" class="zone-link">Vincennes (94)</a>
-        <a href="poncage-parquet-saint-maur-des-fosses.html" class="zone-link">Saint-Maur-des-Fossés (94)</a>
-        <a href="poncage-parquet-nogent-sur-marne.html" class="zone-link">Nogent-sur-Marne (94)</a>
-        <a href="poncage-parquet-creteil.html" class="zone-link">Créteil (94)</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- CONTACT -->
 <section id="contact">
@@ -590,57 +572,11 @@ footer p{font-size:.78rem;color:var(--text-muted)}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-var map=L.map('map',{zoomControl:true,scrollWheelZoom:false}).setView([48.856,2.347],11);
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap',maxZoom:15}).addTo(map);
-var gi=L.divIcon({html:'<div style="width:10px;height:10px;background:#c9a84c;border-radius:50%;border:2px solid #e8c97a;box-shadow:0 0 6px rgba(201,168,76,.5)"></div>',iconSize:[10,10],iconAnchor:[5,5],className:''});
-[{n:"Paris 1er",lat:48.8601,lng:2.3477,u:"poncage-parquet-paris-1.html"},
- {n:"Paris 2e",lat:48.8666,lng:2.3522,u:"poncage-parquet-paris-2.html"},
- {n:"Paris 3e",lat:48.8631,lng:2.3620,u:"poncage-parquet-paris-3.html"},
- {n:"Paris 4e",lat:48.8534,lng:2.3508,u:"poncage-parquet-paris-4.html"},
- {n:"Paris 5e",lat:48.8462,lng:2.3470,u:"poncage-parquet-paris-5.html"},
- {n:"Paris 6e",lat:48.8496,lng:2.3333,u:"poncage-parquet-paris-6.html"},
- {n:"Paris 7e",lat:48.8566,lng:2.3122,u:"poncage-parquet-paris-7.html"},
- {n:"Paris 8e",lat:48.8750,lng:2.3080,u:"poncage-parquet-paris-8.html"},
- {n:"Paris 9e",lat:48.8783,lng:2.3388,u:"poncage-parquet-paris-9.html"},
- {n:"Paris 10e",lat:48.8765,lng:2.3590,u:"poncage-parquet-paris-10.html"},
- {n:"Paris 11e",lat:48.8590,lng:2.3796,u:"poncage-parquet-paris-11.html"},
- {n:"Paris 12e",lat:48.8403,lng:2.3886,u:"poncage-parquet-paris-12.html"},
- {n:"Paris 13e",lat:48.8323,lng:2.3560,u:"poncage-parquet-paris-13.html"},
- {n:"Paris 14e",lat:48.8330,lng:2.3266,u:"poncage-parquet-paris-14.html"},
- {n:"Paris 15e",lat:48.8418,lng:2.2944,u:"poncage-parquet-paris-15.html"},
- {n:"Paris 16e",lat:48.8637,lng:2.2740,u:"poncage-parquet-paris-16.html"},
- {n:"Paris 17e",lat:48.8882,lng:2.3115,u:"poncage-parquet-paris-17.html"},
- {n:"Paris 18e",lat:48.8921,lng:2.3444,u:"poncage-parquet-paris-18.html"},
- {n:"Paris 19e",lat:48.8844,lng:2.3819,u:"poncage-parquet-paris-19.html"},
- {n:"Paris 20e",lat:48.8640,lng:2.3991,u:"poncage-parquet-paris-20.html"},
- {n:"Montrouge",lat:48.8165,lng:2.3197,u:"poncage-parquet-montrouge.html"},
- {n:"Boulogne-Billancourt",lat:48.8352,lng:2.2420,u:"poncage-parquet-boulogne.html"},
- {n:"Neuilly-sur-Seine",lat:48.8847,lng:2.2690,u:"poncage-parquet-neuilly.html"},
- {n:"Vaucresson",lat:48.8406,lng:2.1606,u:"poncage-parquet-vaucresson.html"},
- {n:"Vanves",lat:48.8219,lng:2.2912,u:"poncage-parquet-vanves.html"},
- {n:"Versailles",lat:48.8014,lng:2.1301,u:"poncage-parquet-versailles.html"},
- {n:"Vincennes",lat:48.8478,lng:2.4394,u:"poncage-parquet-vincennes.html"},
- {n:"Créteil",lat:48.7773,lng:2.4559,u:"poncage-parquet-creteil.html"}
-].forEach(function(z){L.marker([z.lat,z.lng],{icon:gi}).addTo(map).bindPopup('<b style="color:#c9a84c">'+z.n+'</b><br><a href="'+z.u+'" style="color:#c9a84c;font-size:12px">Voir la page →</a>')});
-
-window._map = map;
-});
-
-function showZone(t){
-  document.getElementById('tab-carte').style.display=t==='carte'?'block':'none';
-  document.getElementById('tab-paris').style.display=t==='paris'?'block':'none';
-  document.getElementById('tab-idf').style.display=t==='idf'?'block':'none';
-  document.querySelectorAll('.zone-tab').forEach(function(b,i){b.classList.toggle('active',['carte','paris','idf'][i]===t)});
-  if(t==='carte')setTimeout(function(){if(window._map)window._map.invalidateSize()},100);
-}
-
 function showGallery(t){
   document.querySelectorAll('.gallery-panel').forEach(function(p){p.classList.remove('active')});
   document.getElementById('gal-'+t).classList.add('active');
   document.querySelectorAll('.gallery-tab').forEach(function(b,i){b.classList.toggle('active',['avantapres','resultats','chantiers'][i]===t)});
 }
-
 function toggleFaq(btn){btn.closest('.faq-item').classList.toggle('open')}
 </script>
 
