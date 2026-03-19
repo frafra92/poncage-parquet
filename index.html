@@ -136,7 +136,7 @@ section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3rem)
 
 /* HERO PHOTO */
 .hero-photo{width:100%;max-width:700px;margin:2.5rem auto 0;position:relative}
-.hero-photo img{width:100%;height:420px;object-fit:cover;object-position:center 20%}
+.hero-photo img{width:100%;height:auto;display:block}
 .hero-photo-caption{position:absolute;bottom:0;left:0;right:0;padding:.6rem 1rem;background:rgba(13,11,8,.7);font-size:.75rem;letter-spacing:.1em;color:var(--text-muted);text-align:center}
 
 /* GALERIE AVANT/APRES */
@@ -150,14 +150,14 @@ section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3rem)
 .gallery-panel.active{display:block}
 .before-after{display:grid;grid-template-columns:1fr 1fr;gap:3px}
 .ba-item{position:relative}
-.ba-item img{width:100%;height:280px;object-fit:cover}
+.ba-item img{width:100%;height:auto;display:block}
 .ba-label{position:absolute;top:.75rem;left:.75rem;background:var(--dark);border:1px solid var(--border);padding:.3rem .75rem;font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold)}
 .gallery-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:3px}
-.gallery-grid img{width:100%;height:240px;object-fit:cover;transition:opacity .2s}
+.gallery-grid img{width:100%;height:auto;display:block;transition:opacity .2s}
 .gallery-grid img:hover{opacity:.85}
 .chantier-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:3px}
 .chantier-item{position:relative;overflow:hidden}
-.chantier-item img{width:100%;height:240px;object-fit:cover}
+.chantier-item img{width:100%;height:auto;display:block}
 .chantier-overlay{position:absolute;bottom:0;left:0;right:0;padding:.75rem 1rem;background:linear-gradient(transparent,rgba(13,11,8,.85));font-size:.75rem;color:var(--text-muted);letter-spacing:.05em}
 
 /* SERVICES */
