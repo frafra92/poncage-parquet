@@ -82,9 +82,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="canonical" href="https://frafra92.github.io/poncage-parquet/" />
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"HomeAndConstructionBusiness","@id":"https://frafra92.github.io/poncage-parquet/","name":"Ponçage Parquet Vitrification François","url":"https://frafra92.github.io/poncage-parquet/","telephone":"+33783925894","priceRange":"€€","description":"Artisan spécialisé en ponçage et vitrification de parquet à Paris et proche banlieue. Tarif fixe 63 € TTC/m².","areaServed":[{"@type":"AdministrativeArea","name":"Paris"},{"@type":"AdministrativeArea","name":"Hauts-de-Seine"},{"@type":"AdministrativeArea","name":"Val-de-Marne"}],"sameAs":["https://g.co/kgs/TSsjZ63"],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"220"}}</script>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<!-- Fonts : preconnect + display=swap pour ne pas bloquer le rendu -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap"></noscript>
+<!-- Leaflet CSS : chargé en différé -->
+<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"></noscript>
+<!-- Font Awesome supprimé — remplacé par SVG inline ci-dessous -->
 <style>
 :root{--gold:#c9a84c;--gold-light:#e8c97a;--gold-dim:#7a6030;--dark:#0d0b08;--dark2:#1a1710;--dark3:#252219;--dark4:#302c20;--text:#e8e2d4;--text-muted:#9a9283;--border:rgba(201,168,76,0.2)}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -255,6 +261,8 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   </div>
 </nav>
 
+<main>
+
 <header>
   <div class="hero-bg"></div>
   <p class="hero-eyebrow">Artisan parqueteur — Paris & Île-de-France</p>
@@ -265,7 +273,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
     <a href="https://g.co/kgs/TSsjZ63" target="_blank" class="btn-outline">Voir les avis Google</a>
   </div>
   <div class="hero-photo">
-    <img src="artisan-poncage-parquet-paris-francois-gaillard.jpg" alt="François Gaillard, artisan parqueteur à Vanves" loading="eager" width="700" height="340">
+    <img src="artisan-poncage-parquet-paris-francois-gaillard.jpg" alt="François Gaillard, artisan parqueteur à Vanves" loading="eager" fetchpriority="high" width="700" height="340" decoding="async">
     <div class="hero-photo-caption">François Gaillard en chantier à Vanves (92)</div>
   </div>
 </header>
@@ -369,22 +377,30 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   <div class="gold-line"></div>
   <div class="services-grid">
     <div class="service-card">
-      <div class="service-icon"><i class="fas fa-screwdriver-wrench"></i></div>
+      <div class="service-icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+      </div>
       <h3>Ponçage professionnel</h3>
       <p>Machine planétaire HTC Husqvarna — pratiquement aucune poussière. Résultat parfaitement plan. Le chantier est bruyant : les voisins sont prévenus, on travaille en journée.</p>
     </div>
     <div class="service-card">
-      <div class="service-icon"><i class="fas fa-shield-alt"></i></div>
+      <div class="service-icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      </div>
       <h3>Vitrification Bona Mega Evo</h3>
       <p>3 couches de vernis professionnel avec égrenage entre la 1ère et la 2ème couche. Protection maximale, séchage rapide. Réintégration possible 8 heures après la dernière couche.</p>
     </div>
     <div class="service-card">
-      <div class="service-icon"><i class="fas fa-expand"></i></div>
+      <div class="service-icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/><line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/></svg>
+      </div>
       <h3>Rénovation complète</h3>
       <p>Rebouchage des fissures, remplacement de lames abîmées. Parquets haussmanniens, point de Hongrie, Versailles — même les plus dégradés retrouvent leur éclat.</p>
     </div>
     <div class="service-card">
-      <div class="service-icon"><i class="fas fa-camera"></i></div>
+      <div class="service-icon">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+      </div>
       <h3>Devis par SMS</h3>
       <p>Pas de déplacement pour le devis. Quelques photos par SMS au 07 83 92 58 94 avec la surface, l'étage et si l'appartement est meublé. Réponse rapide.</p>
     </div>
@@ -507,19 +523,19 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   <div class="gold-line"></div>
   <div class="faq-list">
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">Le ponçage génère-t-il beaucoup de poussière ?<i class="fas fa-plus faq-icon"></i></button>
+      <button class="faq-q" onclick="toggleFaq(this)">Le ponçage génère-t-il beaucoup de poussière ?<span class="faq-icon" aria-hidden="true">+</span></button>
       <div class="faq-a">La machine planétaire HTC Husqvarna élimine pratiquement toute la poussière. En revanche le ponçage est bruyant — il est conseillé de prévenir les voisins et de travailler en journée en semaine.</div>
     </div>
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">Peut-on rénover un parquet très abîmé ?<i class="fas fa-plus faq-icon"></i></button>
+      <button class="faq-q" onclick="toggleFaq(this)">Peut-on rénover un parquet très abîmé ?<span class="faq-icon" aria-hidden="true">+</span></button>
       <div class="faq-a">Dans la grande majorité des cas, oui. Même un parquet très marqué, gondolé ou recouvert de moquette peut être restauré et retrouver son éclat d'origine.</div>
     </div>
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">Quand peut-on réintégrer les locaux après vitrification ?<i class="fas fa-plus faq-icon"></i></button>
+      <button class="faq-q" onclick="toggleFaq(this)">Quand peut-on réintégrer les locaux après vitrification ?<span class="faq-icon" aria-hidden="true">+</span></button>
       <div class="faq-a">Avec le Bona Mega Evo : réintégration possible 8 heures après la dernière couche. Vous pouvez rentrer chez vous le lendemain matin.</div>
     </div>
     <div class="faq-item">
-      <button class="faq-q" onclick="toggleFaq(this)">Combien de fois peut-on poncer un parquet ?<i class="fas fa-plus faq-icon"></i></button>
+      <button class="faq-q" onclick="toggleFaq(this)">Combien de fois peut-on poncer un parquet ?<span class="faq-icon" aria-hidden="true">+</span></button>
       <div class="faq-a">Cela dépend de l'épaisseur du bois au-dessus des rainures. En général, un parquet massif peut être poncé 3 à 5 fois sur sa durée de vie. Un diagnostic préalable est toujours réalisé.</div>
     </div>
   </div>
@@ -565,13 +581,16 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   </div>
 </section>
 
+</main>
+
 <footer>
   <span class="footer-brand">François Gaillard · Ponçage Parquet Paris</span>
   <p>&copy; 2026 · Artisan parqueteur à Montrouge</p>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
 <script>
+document.addEventListener('DOMContentLoaded', function() {
 var map=L.map('map',{zoomControl:true,scrollWheelZoom:false}).setView([48.856,2.347],11);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'© OpenStreetMap',maxZoom:15}).addTo(map);
 var gi=L.divIcon({html:'<div style="width:10px;height:10px;background:#c9a84c;border-radius:50%;border:2px solid #e8c97a;box-shadow:0 0 6px rgba(201,168,76,.5)"></div>',iconSize:[10,10],iconAnchor:[5,5],className:''});
@@ -605,12 +624,15 @@ var gi=L.divIcon({html:'<div style="width:10px;height:10px;background:#c9a84c;bo
  {n:"Créteil",lat:48.7773,lng:2.4559,u:"poncage-parquet-creteil.html"}
 ].forEach(function(z){L.marker([z.lat,z.lng],{icon:gi}).addTo(map).bindPopup('<b style="color:#c9a84c">'+z.n+'</b><br><a href="'+z.u+'" style="color:#c9a84c;font-size:12px">Voir la page →</a>')});
 
+window._map = map;
+});
+
 function showZone(t){
   document.getElementById('tab-carte').style.display=t==='carte'?'block':'none';
   document.getElementById('tab-paris').style.display=t==='paris'?'block':'none';
   document.getElementById('tab-idf').style.display=t==='idf'?'block':'none';
   document.querySelectorAll('.zone-tab').forEach(function(b,i){b.classList.toggle('active',['carte','paris','idf'][i]===t)});
-  if(t==='carte')setTimeout(function(){map.invalidateSize()},100);
+  if(t==='carte')setTimeout(function(){if(window._map)window._map.invalidateSize()},100);
 }
 
 function showGallery(t){
