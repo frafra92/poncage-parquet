@@ -133,7 +133,7 @@ section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3rem)
 
 /* HERO PHOTO */
 .hero-photo{width:100%;max-width:700px;margin:2.5rem auto 0;position:relative}
-.hero-photo img{width:100%;height:420px;object-fit:cover;object-position:center 25%}
+.hero-photo img{width:100%;height:auto;display:block}
 .hero-photo-caption{position:absolute;bottom:0;left:0;right:0;padding:.6rem 1rem;background:rgba(13,11,8,.7);font-size:.75rem;letter-spacing:.1em;color:var(--text-muted);text-align:center}
 
 /* GALERIE AVANT/APRES */
@@ -147,14 +147,14 @@ section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3rem)
 .gallery-panel.active{display:block}
 .before-after{display:grid;grid-template-columns:1fr 1fr;gap:3px}
 .ba-item{position:relative}
-.ba-item img{width:100%;height:280px;object-fit:cover;object-position:center center}
+.ba-item img{width:100%;height:auto;display:block}
 .ba-label{position:absolute;top:.75rem;left:.75rem;background:var(--dark);border:1px solid var(--border);padding:.3rem .75rem;font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--gold)}
 .gallery-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:3px}
-.gallery-grid img{width:100%;height:240px;object-fit:cover;object-position:center center;transition:opacity .2s}
+.gallery-grid img{width:100%;height:auto;display:block;transition:opacity .2s}
 .gallery-grid img:hover{opacity:.85}
 .chantier-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:3px}
 .chantier-item{position:relative;overflow:hidden}
-.chantier-item img{width:100%;height:240px;object-fit:cover;object-position:center center}
+.chantier-item img{width:100%;height:auto;display:block}
 .chantier-overlay{position:absolute;bottom:0;left:0;right:0;padding:.75rem 1rem;background:linear-gradient(transparent,rgba(13,11,8,.85));font-size:.75rem;color:var(--text-muted);letter-spacing:.05em}
 
 /* SERVICES */
@@ -263,7 +263,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
     <a href="https://g.co/kgs/TSsjZ63" target="_blank" class="btn-outline">Voir les avis Google</a>
   </div>
   <div class="hero-photo">
-    <img src="artisan-poncage-parquet-paris-francois-gaillard.webp" alt="François Gaillard, artisan parqueteur à Vanves" loading="eager" fetchpriority="high" width="800" height="600" decoding="async">
+    <img src="artisan-poncage-parquet-paris-francois-gaillard.webp" alt="François Gaillard, artisan parqueteur à Vanves" loading="eager" fetchpriority="high" width="800" height="1064" decoding="async">
     <div class="hero-photo-caption">François Gaillard en chantier à Vanves (92)</div>
   </div>
 </header>
@@ -291,33 +291,33 @@ footer p{font-size:.78rem;color:var(--text-muted)}
     <div class="gallery-panel active" id="gal-avantapres">
       <div class="before-after" style="margin-bottom:3px">
         <div class="ba-item">
-          <img src="poncage-parquet-point-hongrie-paris-16-avant.webp" alt="Parquet point de Hongrie avant ponçage — rue de la Tour, Paris 16e" loading="lazy" width="800" height="600">
+          <img src="poncage-parquet-point-hongrie-paris-16-avant.webp" alt="Parquet point de Hongrie avant ponçage — rue de la Tour, Paris 16e" loading="lazy" width="800" height="1066">
           <span class="ba-label">Avant</span>
         </div>
         <div class="ba-item">
-          <img src="vitrification-parquet-point-hongrie-paris-16-apres.webp" alt="Parquet point de Hongrie après vitrification — rue de la Tour, Paris 16e" loading="lazy" width="800" height="600">
+          <img src="vitrification-parquet-point-hongrie-paris-16-apres.webp" alt="Parquet point de Hongrie après vitrification — rue de la Tour, Paris 16e" loading="lazy" width="800" height="1067">
           <span class="ba-label">Après</span>
         </div>
       </div>
       <div style="padding:.5rem 0 .25rem;font-size:.75rem;letter-spacing:.1em;color:var(--text-muted);text-align:center">Parquet point de Hongrie · rue de la Tour, Paris 16<sup>e</sup></div>
       <div class="before-after" style="margin-top:2rem;margin-bottom:3px">
         <div class="ba-item">
-          <img src="poncage-parquet-vaucresson-92-avant.webp" alt="Parquet avant ponçage à Vaucresson" loading="lazy" width="800" height="600">
+          <img src="poncage-parquet-vaucresson-92-avant.webp" alt="Parquet avant ponçage à Vaucresson" loading="lazy" width="800" height="1066">
           <span class="ba-label">Avant</span>
         </div>
         <div class="ba-item">
-          <img src="vitrification-parquet-vaucresson-92-apres.webp" alt="Parquet après vitrification à Vaucresson" loading="lazy" width="800" height="600">
+          <img src="vitrification-parquet-vaucresson-92-apres.webp" alt="Parquet après vitrification à Vaucresson" loading="lazy" width="800" height="1066">
           <span class="ba-label">Après</span>
         </div>
       </div>
       <div style="padding:.5rem 0 .25rem;font-size:.75rem;letter-spacing:.1em;color:var(--text-muted);text-align:center">Parquet lames · Vaucresson (92)</div>
       <div class="before-after" style="margin-top:2rem;margin-bottom:3px">
         <div class="ba-item">
-          <img src="renovation-parquet-paris-15-rue-gerbert-avant.webp" alt="Parquet très abîmé avant rénovation — rue Gerbert, Paris 15e" loading="lazy" width="800" height="600">
+          <img src="renovation-parquet-paris-15-rue-gerbert-avant.webp" alt="Parquet très abîmé avant rénovation — rue Gerbert, Paris 15e" loading="lazy" width="800" height="1066">
           <span class="ba-label">Avant</span>
         </div>
         <div class="ba-item">
-          <img src="poncage-vitrification-parquet-paris-15-apres.webp" alt="Parquet rénové après ponçage et vitrification — rue Gerbert, Paris 15e" loading="lazy" width="800" height="600">
+          <img src="poncage-vitrification-parquet-paris-15-apres.webp" alt="Parquet rénové après ponçage et vitrification — rue Gerbert, Paris 15e" loading="lazy" width="800" height="1066">
           <span class="ba-label">Après</span>
         </div>
       </div>
@@ -327,12 +327,12 @@ footer p{font-size:.78rem;color:var(--text-muted)}
     <!-- Résultats finaux -->
     <div class="gallery-panel" id="gal-resultats">
       <div class="gallery-grid">
-        <img src="vitrification-parquet-point-hongrie-paris-16-apres.webp" alt="Parquet point de Hongrie vitrifié Paris 16e" loading="lazy" width="800" height="600">
-        <img src="vitrification-parquet-vaucresson-92-apres.webp" alt="Parquet lames vitrifié Vaucresson" loading="lazy" width="800" height="600">
-        <img src="poncage-vitrification-parquet-paris-15-apres.webp" alt="Parquet rénové rue Gerbert Paris 15e" loading="lazy" width="800" height="600">
+        <img src="vitrification-parquet-point-hongrie-paris-16-apres.webp" alt="Parquet point de Hongrie vitrifié Paris 16e" loading="lazy" width="800" height="1067">
+        <img src="vitrification-parquet-vaucresson-92-apres.webp" alt="Parquet lames vitrifié Vaucresson" loading="lazy" width="800" height="1066">
+        <img src="poncage-vitrification-parquet-paris-15-apres.webp" alt="Parquet rénové rue Gerbert Paris 15e" loading="lazy" width="800" height="1066">
         <img src="vitrification-parquet-paris-15-rue-weiss.webp" alt="Vitrification parquet rue Weiss Paris 15e" loading="lazy" width="800" height="600">
-        <img src="poncage-parquet-paris-17-rue-villiers.webp" alt="Parquet vitrifié rue de Villiers Paris 17e" loading="lazy" width="800" height="600">
-        <img src="renovation-parquet-saint-ouen-93.webp" alt="Rénovation parquet Saint-Ouen" loading="lazy" width="800" height="600">
+        <img src="poncage-parquet-paris-17-rue-villiers.webp" alt="Parquet vitrifié rue de Villiers Paris 17e" loading="lazy" width="800" height="1066">
+        <img src="renovation-parquet-saint-ouen-93.webp" alt="Rénovation parquet Saint-Ouen" loading="lazy" width="800" height="1066">
       </div>
     </div>
 
@@ -340,19 +340,19 @@ footer p{font-size:.78rem;color:var(--text-muted)}
     <div class="gallery-panel" id="gal-chantiers">
       <div class="chantier-grid">
         <div class="chantier-item">
-          <img src="artisan-poncage-parquet-paris-francois-gaillard.webp" alt="François Gaillard en chantier à Vanves" loading="lazy" width="800" height="600">
+          <img src="artisan-poncage-parquet-paris-francois-gaillard.webp" alt="François Gaillard en chantier à Vanves" loading="lazy" width="800" height="1064">
           <div class="chantier-overlay">Ponçage mosaïque · Vanves (92)</div>
         </div>
         <div class="chantier-item">
-          <img src="poncage-parquet-point-hongrie-paris-16-avant.webp" alt="Chantier ponçage point de Hongrie Paris 16e" loading="lazy" width="800" height="600">
+          <img src="poncage-parquet-point-hongrie-paris-16-avant.webp" alt="Chantier ponçage point de Hongrie Paris 16e" loading="lazy" width="800" height="1066">
           <div class="chantier-overlay">Ponçage en cours · Paris 16<sup>e</sup></div>
         </div>
         <div class="chantier-item">
-          <img src="poncage-parquet-paris-15-en-cours.webp" alt="Chantier de ponçage rue Gerbert Paris 15e" loading="lazy" width="800" height="600">
+          <img src="poncage-parquet-paris-15-en-cours.webp" alt="Chantier de ponçage rue Gerbert Paris 15e" loading="lazy" width="800" height="1066">
           <div class="chantier-overlay">Ponçage en cours · Paris 15<sup>e</sup></div>
         </div>
         <div class="chantier-item">
-          <img src="renovation-parquet-paris-15-rue-gerbert-avant.webp" alt="Parquet très abîmé avant rénovation Paris 15e" loading="lazy" width="800" height="600">
+          <img src="renovation-parquet-paris-15-rue-gerbert-avant.webp" alt="Parquet très abîmé avant rénovation Paris 15e" loading="lazy" width="800" height="1066">
           <div class="chantier-overlay">État initial · rue Gerbert, Paris 15<sup>e</sup></div>
         </div>
       </div>
@@ -400,7 +400,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
 <!-- BONA BAND -->
 <div class="bona-band">
   <div class="bona-inner">
-    <img src="vernis-bona-mega-evo-parquet-professionnel.webp" alt="Bona Mega EVO — vernis professionnel pour parquet" class="bona-img" loading="lazy" width="800" height="600">
+    <img src="vernis-bona-mega-evo-parquet-professionnel.webp" alt="Bona Mega EVO — vernis professionnel pour parquet" class="bona-img" loading="lazy" width="800" height="865">
     <div class="bona-text">
       <h3>Produit de référence : Bona Mega Evo</h3>
       <p>François utilise exclusivement le vernis professionnel Bona Mega Evo — formule non jaunissante, haute résistance, séchage rapide. Réintégration possible 8 heures après la dernière couche. 3 couches systématiques avec égrenage. Le meilleur produit disponible pour la vitrification de parquet à Paris.</p>
