@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /test.html
-Disallow: /googlefefc9d50d82467ab.html
 
 Sitemap: https://frafra92.github.io/poncage-parquet/sitemap.xml
