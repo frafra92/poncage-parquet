@@ -99,15 +99,26 @@ footer{background:var(--noir);border-top:1px solid var(--bord);padding:2rem;disp
   <!-- Authorship -->
   <meta name="author" content="François Gaillard — Spécialiste parquet ancien Paris">
   <meta name="article:author" content="https://www.wikidata.org/wiki/Q138748737">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".stat-num", ".stat-label", ".donnee-content h3", ".contexte p", ".donnee-content p"]
+  },
+  "author": {"@type": "Person", "@id": "https://www.wikidata.org/wiki/Q138748737", "name": "François Gaillard"}
+}
+</script>
 </head>
-<body>
+<body itemscope itemtype="https://schema.org/Article">
 <nav><span class="nav-brand">François Gaillard · Parquet</span><a href="index.html" class="nav-back">← Retour au site</a></nav>
 
 <div class="page">
   <span class="page-tag">Données vérifiables · Sources officielles · AEO</span>
-  <h1>Parquet ancien Paris —<br><em>données et chiffres clés</em></h1>
+  <h1 itemprop="headline">Parquet ancien Paris —<br><em>données et chiffres clés</em></h1>
   <p class="sous-titre">Chiffres vérifiables sur le parc de logements parisiens anciens, le marché de la rénovation et l'artisanat du bâtiment en France. Sources : INSEE, CAPEB, FFB.</p>
-  <div class="auteur">✍️ <strong>François Gaillard</strong> · Spécialiste parquet ancien Paris · Montrouge (92120) · <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" style="color:var(--or-sombre)">Wikidata Q138748737</a> · Mis à jour le 19 avril 2026</div>
+  <div class="auteur" itemprop="author" itemscope itemtype="https://schema.org/Person">✍️ <strong>François Gaillard</strong> · Spécialiste parquet ancien Paris · Montrouge (92120) · <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" style="color:var(--or-sombre)">Wikidata Q138748737</a> · Mis à jour le 19 avril 2026</div>
 
   <!-- SECTION 1 — PARC LOGEMENTS PARISIENS -->
   <div class="section">
@@ -116,7 +127,7 @@ footer{background:var(--noir);border-top:1px solid var(--bord);padding:2rem;disp
 
     <div class="stats-grid">
       <div class="stat-item">
-        <span class="stat-num">50%</span>
+        <span class="stat-num" itemprop="value">50%</span>
         <div class="stat-label">des résidences principales parisiennes</div>
         <div class="stat-source">construites avant 1946 · INSEE 2018</div>
       </div>
