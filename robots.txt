@@ -7,4 +7,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://frafra92.github.io/poncage-parquet/sitemap.xml
+Sitemap: https://poncageparquetvitrificationfrancois.com/sitemap.xml
