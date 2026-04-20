@@ -170,7 +170,7 @@
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap"></noscript></noscript>
 <!-- Leaflet supprimé — zones affichées en grille de liens -->
 <style>
-:root{--gold:#c9a84c;--gold-light:#e8c97a;--gold-dim:#7a6030;--dark:#0d0b08;--dark2:#1a1710;--dark3:#252219;--dark4:#302c20;--text:#e8e2d4;--text-muted:#9a9283;--border:rgba(201,168,76,0.2)}
+:root{--gold:#c9a84c;--gold-light:#e8c97a;--gold-dim:#AA8248;--dark:#0d0b08;--dark2:#1a1710;--dark3:#252219;--dark4:#302c20;--text:#e8e2d4;--text-muted:#9a9283;--border:rgba(201,168,76,0.2)}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{font-family:'Jost',sans-serif;background:var(--dark);color:var(--text);line-height:1.7}
@@ -182,7 +182,7 @@ img{max-width:100%;height:auto;display:block}
 nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(13,11,8,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:64px}
 .nav-brand{font-family:'Cormorant Garamond',serif;font-size:1.1rem;font-weight:500;letter-spacing:.08em;color:var(--gold)}
 .nav-links{display:flex;gap:2rem}
-.nav-links a{font-size:.8rem;font-weight:400;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted)}
+.nav-links a{min-height:44px;min-width:44px;display:inline-flex;align-items:center;font-size:.8rem;font-weight:400;letter-spacing:.12em;text-transform:uppercase;color:var(--text-muted)}
 .nav-links a:hover{color:var(--gold)}
 
 /* HERO */
@@ -316,6 +316,10 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   .zone-tab{flex:1;text-align:center;padding:.6rem .5rem}
   footer{flex-direction:column}
 }
+
+.nav-links a,.footer-links a,.footer-sameAs a{min-height:44px;display:inline-flex;align-items:center}
+.btn,.btn-or,.hero-cta,.cta-sms,.cta-btn{min-height:44px}
+
 </style>
 <script type="application/ld+json">
 {
@@ -366,7 +370,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
 <body itemscope itemtype="https://schema.org/WebSite">
 
 <nav>
-  <span class="nav-brand">François Gaillard · Parquet</span>
+  <span class="nav-brand" aria-label="Accueil Ponçage Parquet Vitrification François">François Gaillard · Parquet</span>
   <div class="nav-links">
     <a href="#realisations">Réalisations</a>
     <a href="#services">Services</a>
@@ -387,8 +391,8 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   <h1 itemprop="name">L'art de <em>révéler</em><br>votre parquet</h1>
   <p class="hero-sub">François Gaillard, artisan indépendant spécialisé dans la rénovation de parquet depuis plus de 15 ans. Ponçage et vitrification — sans sous-traitance.</p>
   <div class="hero-actions">
-    <a href="sms:+33783925894" class="btn-primary">Devis par SMS</a>
-    <a href="https://g.co/kgs/TSsjZ63" target="_blank" class="btn-outline">Voir les avis Google</a>
+    <a href="sms:+33783925894" class="btn-primary" aria-label="Envoyer un SMS pour un devis">Devis par SMS</a>
+    <a href="https://g.co/kgs/TSsjZ63" target="_blank" class="btn-outline" aria-label="Voir les avis Google de François Gaillard">Voir les avis Google</a>
   </div>
   <div class="hero-photo">
     <img src="artisan-poncage-parquet-paris-francois-gaillard.webp" srcset="artisan-poncage-parquet-paris-francois-gaillard-600.webp 600w, artisan-poncage-parquet-paris-francois-gaillard.webp 800w" sizes="(max-width:640px) 600px, 800px" alt="François Gaillard, artisan parqueteur à Montrouge" loading="eager" fetchpriority="high" width="800" height="1064" decoding="async">
@@ -548,7 +552,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
       <div class="devis-item"><span class="devis-num">03</span><p>L'étage et présence d'ascenseur</p></div>
       <div class="devis-item"><span class="devis-num">04</span><p>Appartement meublé ou vide ?</p></div>
     </div>
-    <a href="sms:+33783925894" class="btn-primary">Envoyer par SMS · 07 83 92 58 94</a>
+    <a href="sms:+33783925894" class="btn-primary" aria-label="Contacter par SMS">Envoyer par SMS · 07 83 92 58 94</a>
   </div>
 </section>
 
@@ -616,12 +620,12 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   <div class="contact-grid">
     <div class="contact-info">
       <p>Envoyez quelques photos de votre parquet par SMS avec la surface, l'étage, la présence d'un ascenseur et si l'appartement est meublé. Tarif fixe : 63 € TTC/m².</p>
-      <a href="sms:+33783925894" class="contact-tel">07 83 92 58 94</a>
-      <p class="contact-aside">Ou via la <a href="https://g.co/kgs/TSsjZ63" target="_blank">fiche Google Business</a><br>Lun – Sam · 8h – 19h</p>
+      <a href="sms:+33783925894" class="contact-tel" aria-label="SMS au 07 83 92 58 94">07 83 92 58 94</a>
+      <p class="contact-aside">Ou via la <a href="https://g.co/kgs/TSsjZ63" target="_blank" aria-label="Voir les avis Google de François Gaillard">fiche Google Business</a><br>Lun – Sam · 8h – 19h</p>
     </div>
     <div>
       <p style="font-size:.85rem;color:var(--text-muted);margin-bottom:1.5rem;line-height:1.8">Basé à Montrouge, François Gaillard intervient dans tout Paris et la proche banlieue. Artisan indépendant — c'est lui qui réalise chaque chantier, sans sous-traitance.</p>
-      <a href="https://g.co/kgs/TSsjZ63" target="_blank" class="btn-outline" style="display:inline-block">Lire les 220 avis &rarr;</a>
+      <a href="https://g.co/kgs/TSsjZ63" target="_blank" class="btn-outline" style="display:inline-block" aria-label="Voir les avis Google de François Gaillard">Lire les 220 avis &rarr;</a>
     </div>
   </div>
 </section>
