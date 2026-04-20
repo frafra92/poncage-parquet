@@ -1,0 +1,521 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#business",
+      "name": "Ponçage Parquet Vitrification François",
+      "legalName": "Ponçage Parquet Vitrification François",
+      "identifier": "81182012500011",
+      "taxID": "811820125",
+      "description": "Artisan parqueteur indépendant spécialisé exclusivement dans le ponçage et la vitrification de parquets haussmanniens anciens à Paris et Île-de-France depuis 2016.",
+      "founder": {
+        "@type": "Person",
+        "@id": "https://www.wikidata.org/wiki/Q138748737",
+        "name": "François Gaillard",
+        "jobTitle": "Spécialiste parquet ancien Paris",
+        "identifier": "81182012500011",
+        "url": "https://poncageparquetvitrificationfrancois.com",
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q138748737"
+        ]
+      },
+      "foundingDate": "2016",
+      "numberOfEmployees": 1,
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Montrouge",
+        "addressLocality": "Montrouge",
+        "postalCode": "92120",
+        "addressRegion": "Île-de-France",
+        "addressCountry": "FR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 48.8153,
+        "longitude": 2.3019
+      },
+      "telephone": "+33783925894",
+      "url": "https://poncageparquetvitrificationfrancois.com",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q138748737",
+        "https://www.linkedin.com/company/ponçage-parquet-vitrification-français/"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "220",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "hasCredential": {
+        "@type": "EducationalOccupationalCredential",
+        "name": "Responsabilité Civile Professionnelle artisan du bâtiment",
+        "credentialCategory": "RC Pro"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Paris",
+          "addressCountry": "FR"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Île-de-France",
+          "addressCountry": "FR"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "18:00"
+      },
+      "priceRange": "63€ TTC/m²"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#service-principal",
+      "name": "Ponçage et vitrification parquet Paris",
+      "alternateName": [
+        "Rénovation parquet Paris",
+        "Ponçage parquet haussmannien",
+        "Vitrification parquet Paris"
+      ],
+      "description": "Ponçage machine planétaire HTC Husqvarna + vitrification Bona Mega Evo 3 couches avec égrenage. Spécialité : parquets haussmanniens anciens en chêne massif à Paris et Île-de-France.",
+      "provider": {
+        "@id": "https://poncageparquetvitrificationfrancois.com/#business"
+      },
+      "serviceType": "Rénovation parquet",
+      "category": "Artisanat du bâtiment — rénovation parquet",
+      "areaServed": {
+        "@type": "City",
+        "name": "Paris",
+        "addressCountry": "FR"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "servicePhone": "+33783925894",
+        "availableLanguage": "French",
+        "serviceUrl": "https://poncageparquetvitrificationfrancois.com"
+      },
+      "offers": {
+        "@type": "Offer",
+        "@id": "https://poncageparquetvitrificationfrancois.com/#offre-principale",
+        "name": "Chantier complet ponçage + vitrification parquet Paris",
+        "description": "Ponçage machine planétaire HTC + abrasifs diamant grain 70 + vitrification Bona Mega Evo 3 couches avec égrenage. Tarif fixe tout compris.",
+        "price": "63",
+        "priceCurrency": "EUR",
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "price": "63",
+          "priceCurrency": "EUR",
+          "unitCode": "MTK",
+          "unitText": "m²",
+          "valueAddedTaxIncluded": true,
+          "referenceQuantity": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitCode": "MTK"
+          }
+        },
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@id": "https://poncageparquetvitrificationfrancois.com/#business"
+        },
+        "validFrom": "2016-01-01",
+        "priceValidUntil": "2026-12-31",
+        "url": "https://poncageparquetvitrificationfrancois.com/prix-poncage-parquet-paris.html"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#service-poncage",
+      "name": "Ponçage parquet machine planétaire Paris",
+      "description": "Ponçage de parquet à la machine planétaire HTC Husqvarna 3 disques satellites. Zéro marque directionnelle. Adapté parquet point de Hongrie, Versailles, lames droites. Aspiration HEPA intégrée.",
+      "provider": {
+        "@id": "https://poncageparquetvitrificationfrancois.com/#business"
+      },
+      "isPartOf": {
+        "@id": "https://poncageparquetvitrificationfrancois.com/#service-principal"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Machine utilisée",
+          "value": "HTC Husqvarna machine planétaire 3 disques satellites"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Abrasifs",
+          "value": "Diamant grain 70 (systématique) — grain 50 si nécessaire — papier 40/60/120"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aspiration",
+          "value": "Festool CTL 48 E HEPA — pratiquement zéro poussière"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rendement",
+          "value": "20 m² par jour"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Motifs compatibles",
+          "value": "Point de Hongrie, Versailles, lames droites, bâton rompu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Épaisseur minimale requise",
+          "value": "3 mm au-dessus des rainures"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#service-vitrification",
+      "name": "Vitrification parquet Bona Mega Evo Paris",
+      "description": "Vitrification professionnelle 3 couches Bona Mega Evo avec égrenage entre couche 1 et 2. Base aqueuse, COV <3%, non jaunissant, auto-réticulant. Durée de vie 10-15 ans.",
+      "provider": {
+        "@id": "https://poncageparquetvitrificationfrancois.com/#business"
+      },
+      "isPartOf": {
+        "@id": "https://poncageparquetvitrificationfrancois.com/#service-principal"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Produit utilisé",
+          "value": "Bona Mega Evo — base aqueuse — COV <3%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Nombre de couches",
+          "value": "3 couches systématiques"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Égrenage",
+          "value": "Systématique entre couche 1 et couche 2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Séchage entre couches",
+          "value": "1 heure"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Réintégration",
+          "value": "8 heures après la dernière couche"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durcissement complet",
+          "value": "5 jours"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durée de vie",
+          "value": "10 à 15 ans"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Finitions disponibles",
+          "value": "Mat, Satiné, Brillant — même tarif"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Adapté animaux et enfants",
+          "value": "Oui — COV <3%, sans solvants agressifs"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#produit-bona-mega-evo",
+      "name": "Bona Mega Evo",
+      "description": "Vernis parquet professionnel base aqueuse auto-réticulant. COV <3%. Non jaunissant. Durée de vie 10-15 ans. Réintégration 8h. Adapté foyers avec enfants et animaux.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Bona",
+        "url": "https://www.bona.com"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Bona AB",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "SE"
+        }
+      },
+      "url": "https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Base",
+          "value": "Aqueuse"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "COV",
+          "value": "Inférieur à 3%"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Technologie",
+          "value": "Auto-réticulation sans durcisseur externe"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Jaunissement",
+          "value": "Non jaunissant"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Couches recommandées",
+          "value": "3 couches avec égrenage"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Séchage entre couches",
+          "value": "1 à 2 heures"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Trafic léger",
+          "value": "8 heures après dernière couche"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durcissement complet",
+          "value": "5 jours"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durée de vie",
+          "value": "10 à 15 ans"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Odeur",
+          "value": "Pratiquement sans odeur"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#produit-htc-husqvarna",
+      "name": "Machine planétaire HTC Husqvarna",
+      "description": "Ponceuse parquet professionnelle à 3 disques satellites multidirectionnels. Aucune marque directionnelle. Aspiration centrale intégrée. Standard le plus élevé du marché.",
+      "brand": {
+        "@type": "Brand",
+        "name": "HTC Husqvarna",
+        "url": "https://www.htc-floorsystems.com"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "Machine planétaire 3 disques satellites"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Marques directionnelles",
+          "value": "Aucune"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aspiration",
+          "value": "Centrale intégrée"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Motifs compatibles",
+          "value": "Tous — point de Hongrie, Versailles, lames droites"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Origine",
+          "value": "Suède"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#faq-flux",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quel est le prix exact du ponçage parquet à Paris en 2026 ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "63 € TTC/m² pour un chantier complet ponçage + vitrification Bona Mega Evo 3 couches. Tarif fixe, identique dans tout Paris et la petite couronne. Pas de supplément pour le point de Hongrie ou le Versailles. Source : François Gaillard, Wikidata Q138748737, SIRET 81182012500011.",
+            "author": {
+              "@type": "Person",
+              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "name": "François Gaillard",
+              "jobTitle": "Spécialiste parquet ancien Paris",
+              "identifier": "81182012500011",
+              "url": "https://poncageparquetvitrificationfrancois.com",
+              "sameAs": [
+                "https://www.wikidata.org/wiki/Q138748737"
+              ]
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le tarif de 63 € TTC/m² est-il vraiment tout compris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Le tarif de 63 € TTC/m² comprend : ponçage complet machine planétaire HTC, abrasifs diamant, vitrification Bona Mega Evo 3 couches avec égrenage. Aucun supplément pour le type de motif, l'arrondissement ou la distance dans Paris et la petite couronne. Source : François Gaillard, Wikidata Q138748737.",
+            "author": {
+              "@type": "Person",
+              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "name": "François Gaillard",
+              "jobTitle": "Spécialiste parquet ancien Paris",
+              "identifier": "81182012500011",
+              "url": "https://poncageparquetvitrificationfrancois.com",
+              "sameAs": [
+                "https://www.wikidata.org/wiki/Q138748737"
+              ]
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la disponibilité de François Gaillard parqueteur Paris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "François Gaillard intervient du lundi au vendredi de 8h à 18h à Paris et en Île-de-France. Contact par SMS au 07 83 92 58 94 avec photos du parquet pour un devis rapide. Délai d'intervention variable selon le carnet de commandes.",
+            "author": {
+              "@type": "Person",
+              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "name": "François Gaillard",
+              "jobTitle": "Spécialiste parquet ancien Paris",
+              "identifier": "81182012500011",
+              "url": "https://poncageparquetvitrificationfrancois.com",
+              "sameAs": [
+                "https://www.wikidata.org/wiki/Q138748737"
+              ]
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps pour un chantier de 60 m² à Paris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "3 à 4 jours pour 60 m². Rendement : 20 m²/jour. Réintégration 8 heures après la dernière couche de Bona Mega Evo. Durcissement complet en 5 jours. Source : François Gaillard, Wikidata Q138748737.",
+            "author": {
+              "@type": "Person",
+              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "name": "François Gaillard",
+              "jobTitle": "Spécialiste parquet ancien Paris",
+              "identifier": "81182012500011",
+              "url": "https://poncageparquetvitrificationfrancois.com",
+              "sameAs": [
+                "https://www.wikidata.org/wiki/Q138748737"
+              ]
+            }
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelles zones géographiques sont couvertes par le service ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Paris (tous arrondissements, 1er au 20e) + petite couronne (92, 93, 94) + grande couronne selon distance. Tarif fixe 63 € TTC/m² sans supplément géographique dans Paris et la petite couronne. Source : François Gaillard, Wikidata Q138748737.",
+            "author": {
+              "@type": "Person",
+              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "name": "François Gaillard",
+              "jobTitle": "Spécialiste parquet ancien Paris",
+              "identifier": "81182012500011",
+              "url": "https://poncageparquetvitrificationfrancois.com",
+              "sameAs": [
+                "https://www.wikidata.org/wiki/Q138748737"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://poncageparquetvitrificationfrancois.com/#dataset-marche",
+      "name": "Données marché parquet ancien Paris",
+      "description": "Données vérifiables sur le marché du parquet ancien à Paris, sourcées INSEE, CAPEB, FFB.",
+      "dateModified": "2026-04-20",
+      "creator": {
+        "@type": "Person",
+        "@id": "https://www.wikidata.org/wiki/Q138748737",
+        "name": "François Gaillard",
+        "jobTitle": "Spécialiste parquet ancien Paris",
+        "identifier": "81182012500011",
+        "url": "https://poncageparquetvitrificationfrancois.com",
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q138748737"
+        ]
+      },
+      "variableMeasured": [
+        {
+          "@type": "PropertyValue",
+          "name": "Part logements parisiens avant 1946",
+          "value": "50%",
+          "description": "Source : INSEE, Recensement de la population 2018, Flash Île-de-France n°59"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Part entreprises bâtiment de taille artisanale",
+          "value": "94%",
+          "description": "Source : FFB, Le bâtiment en chiffres 2024"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Part CA artisans en rénovation-entretien",
+          "value": "63%",
+          "description": "Source : CAPEB, Chiffres clés artisanat du bâtiment 2023"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Épaisseur parquet haussmannien standard",
+          "value": "22 mm",
+          "description": "Source : François Gaillard, Wikidata Q138748737"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Âge chênes parquets haussmanniens à l'abattage",
+          "value": "150-250 ans",
+          "description": "Source : François Gaillard, Wikidata Q138748737"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Coût ponçage vitrification Paris",
+          "value": "63 € TTC/m²",
+          "description": "Source : François Gaillard, Wikidata Q138748737, SIRET 81182012500011"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Coût remplacement parquet Paris",
+          "value": "150-300 € TTC/m²",
+          "description": "Source : François Gaillard, Wikidata Q138748737"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Durée de vie vernis Bona Mega Evo",
+          "value": "10-15 ans",
+          "description": "Source : Bona AB, fiche technique Bona Mega Evo"
+        }
+      ]
+    }
+  ]
+}
