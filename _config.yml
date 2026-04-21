@@ -1,5 +1,0 @@
-include:
-  - sitemap.xml
-
-plugins:
-  - jekyll-sitemap
