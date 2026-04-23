@@ -1,10 +1,50 @@
+# Robots.txt pour François Gaillard - Ponçage Parquet Paris
+# https://poncageparquetvitrificationfrancois.com/
+
+# Tous les crawlers
 User-agent: *
 Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+Disallow: /search?
+Disallow: /*?sort=
+Disallow: /*?filter=
 
-User-agent: Bingbot
-Allow: /
+# Crawl-delay (délai entre les requêtes)
+Crawl-delay: 1
 
+# Sitemap
+Sitemap: https://poncageparquetvitrificationfrancois.com/sitemap.xml
+
+# Règles spécifiques pour Google
 User-agent: Googlebot
 Allow: /
+Crawl-delay: 0
 
-Sitemap: https://poncageparquetvitrificationfrancois.com/sitemap.xml
+# Règles spécifiques pour Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Bloquer les mauvais bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+# Allow: tout sauf si interdit explicitement
+# Par défaut, Google respecte l'ordre de priorité :
+# 1. robots.txt
+# 2. X-Robots-Tag header
+# 3. Meta robots tag
