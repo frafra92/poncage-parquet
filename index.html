@@ -285,6 +285,14 @@ footer {
     <a href="a-propos-francois-gaillard-parqueteur-paris.html">À propos</a>
     <a href="#contact">Contact</a>
   </div>
+  <div style="display:flex;align-items:center;gap:.5rem">
+    <button id="search-toggle" onclick="toggleSearch()" style="background:none;border:none;color:var(--gold);cursor:pointer;font-size:1.2rem;padding:.5rem">🔍</button>
+    <div id="search-box" style="display:none;position:absolute;top:60px;right:20px;background:var(--dark2);border:1px solid var(--gold);border-radius:3px;padding:.8rem;width:250px;z-index:200">
+      <input type="text" id="search-input" placeholder="Chercher un mot..." style="width:100%;padding:.6rem;background:var(--dark);color:var(--text);border:1px solid var(--border);border-radius:2px;font-family:'Jost',sans-serif" onkeyup="searchOnPage()">
+      <p id="search-results" style="font-size:.75rem;color:var(--text-muted);margin-top:.5rem">0 résultats</p>
+      <button onclick="clearSearch()" style="width:100%;margin-top:.5rem;padding:.5rem;background:var(--gold);color:var(--dark);border:none;border-radius:2px;cursor:pointer;font-weight:500">Effacer</button>
+    </div>
+  </div>
 </nav>
 
 <main>
@@ -465,6 +473,22 @@ footer {
       <p class="blog-tag">Quartier</p>
       <h3>Ponçage parquet Ménilmontant — Paris 20e</h3>
     </a>
+    <a href="parquet-sous-moquette-colle-poncage-paris.html" class="blog-card">
+      <p class="blog-tag">Guide</p>
+      <h3>Parquet sous moquette — Guide de ponçage et vitrification</h3>
+    </a>
+    <a href="parquet-sous-moquette-revetement-paris.html" class="blog-card">
+      <p class="blog-tag">Guide</p>
+      <h3>Parquet caché sous revêtement — découverte et rénovation</h3>
+    </a>
+    <a href="fournisseurs-partenaires-parquet-paris.html" class="blog-card">
+      <p class="blog-tag">Ressources</p>
+      <h3>Fournisseurs et partenaires — Matériel et produits parquet</h3>
+    </a>
+    <a href="chateau-bazens-poncage-parquet-agen.html" class="blog-card">
+      <p class="blog-tag">Chantier</p>
+      <h3>Château de Bazens — Ponçage parquet Agen</h3>
+    </a>
     <a href="prix-poncage-parquet-paris.html" class="blog-card">
       <p class="blog-tag">Tarifs</p>
       <h3>Prix ponçage parquet Paris 2026 — 63 € TTC/m² détaillé + simulateur</h3>
@@ -514,6 +538,92 @@ function showGallery(t){
   document.querySelectorAll('.gallery-panel').forEach(function(p){p.style.display='none'});
   document.getElementById('gal-'+t).style.display='block';
   document.querySelectorAll('.gallery-tab').forEach(function(b,i){b.classList.toggle('active',['avantapres','resultats','chantiers'][i]===t)});
+}
+
+function toggleSearch(){
+  const box = document.getElementById('search-box');
+  box.style.display = box.style.display === 'none' ? 'block' : 'none';
+  if(box.style.display === 'block') document.getElementById('search-input').focus();
+}
+
+function searchOnPage(){
+  const query = document.getElementById('search-input').value.trim().toLowerCase();
+  const resultsSpan = document.getElementById('search-results');
+  
+  // Réinitialiser les mises en évidence précédentes
+  clearHighlights();
+  
+  if(query.length === 0){
+    resultsSpan.textContent = '0 résultats';
+    return;
+  }
+  
+  let count = 0;
+  const walker = document.createTreeWalker(
+    document.body,
+    NodeFilter.SHOW_TEXT,
+    null,
+    false
+  );
+  
+  const nodesToReplace = [];
+  let node;
+  
+  while(node = walker.nextNode()){
+    const text = node.nodeValue;
+    const regex = new RegExp(`(${query})`, 'gi');
+    if(regex.test(text)){
+      nodesToReplace.push(node);
+    }
+  }
+  
+  nodesToReplace.forEach(node => {
+    const text = node.nodeValue;
+    const regex = new RegExp(`(${query})`, 'gi');
+    const fragment = document.createElement('span');
+    
+    let lastIndex = 0;
+    let match;
+    const regex2 = new RegExp(`(${query})`, 'gi');
+    
+    while(match = regex2.exec(text)){
+      if(match.index > lastIndex){
+        fragment.appendChild(document.createTextNode(text.substring(lastIndex, match.index)));
+      }
+      const highlight = document.createElement('mark');
+      highlight.textContent = match[0];
+      highlight.style.backgroundColor = 'var(--gold)';
+      highlight.style.color = 'var(--dark)';
+      highlight.style.padding = '0 2px';
+      fragment.appendChild(highlight);
+      count++;
+      lastIndex = match.index + match[0].length;
+    }
+    
+    if(lastIndex < text.length){
+      fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
+    }
+    
+    node.parentNode.replaceChild(fragment, node);
+  });
+  
+  resultsSpan.textContent = count + ' résultat' + (count > 1 ? 's' : '');
+}
+
+function clearHighlights(){
+  document.querySelectorAll('mark').forEach(mark => {
+    const parent = mark.parentNode;
+    while(mark.firstChild){
+      parent.insertBefore(mark.firstChild, mark);
+    }
+    parent.removeChild(mark);
+  });
+}
+
+function clearSearch(){
+  document.getElementById('search-input').value = '';
+  document.getElementById('search-results').textContent = '0 résultats';
+  clearHighlights();
 }
 </script>
 
