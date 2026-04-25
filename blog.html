@@ -27,4 +27,124 @@
 </div>
 <div class="cta"><h2>Une question sur votre parquet ?</h2><p style="opacity:.7">Devis gratuit · 220 avis Google ⭐⭐⭐⭐⭐ · Réponse sous 24h</p><a href="tel:0783925894">☎️ 07 83 92 58 94</a></div>
 <footer>© 2026 François Gaillard — Artisan Parqueteur · <a href="index.html">Retour accueil</a></footer>
+<div id="cta-sticky" style="
+  position:fixed;
+  bottom:0;left:0;right:0;
+  z-index:999;
+  background:#1a1710;
+  border-top:1px solid rgba(201,168,76,0.35);
+  padding:10px 20px;
+  display:none;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  box-shadow:0 -4px 20px rgba(0,0,0,0.4);
+">
+  <!-- Indicateur disponibilité -->
+  <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+    <span style="font-family:'Jost',sans-serif;font-size:.78rem;color:#9a9283;white-space:nowrap;">Disponible · 63 € TTC/m²</span>
+  </div>
+
+  <!-- CTA principal -->
+  <a href="sms:+33783925894" style="
+    background:#c9a84c;
+    color:#0d0b08;
+    font-family:'Jost',sans-serif;
+    font-size:.78rem;
+    font-weight:600;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    padding:10px 22px;
+    text-decoration:none;
+    white-space:nowrap;
+    flex-shrink:0;
+  " aria-label="Demander un devis par SMS">
+    Devis par SMS · 07 83 92 58 94
+  </a>
+
+  <!-- Bouton fermer -->
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
+    background:none;
+    border:none;
+    color:#9a9283;
+    font-size:1.1rem;
+    cursor:pointer;
+    padding:4px 8px;
+    flex-shrink:0;
+    line-height:1;
+  " aria-label="Fermer">×</button>
+</div>
+
+<!-- Variante mobile plein écran -->
+<div id="cta-sticky-mobile" style="
+  position:fixed;
+  bottom:0;left:0;right:0;
+  z-index:999;
+  background:#1a1710;
+  border-top:1px solid rgba(201,168,76,0.35);
+  padding:10px 16px 16px;
+  display:none;
+  flex-direction:column;
+  gap:8px;
+  box-shadow:0 -4px 20px rgba(0,0,0,0.4);
+">
+  <div style="display:flex;align-items:center;justify-content:space-between;">
+    <div style="display:flex;align-items:center;gap:8px;">
+      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+      <span style="font-family:'Jost',sans-serif;font-size:.72rem;color:#9a9283;">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
+    </div>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
+      background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
+    " aria-label="Fermer">×</button>
+  </div>
+  <a href="sms:+33783925894" style="
+    background:#c9a84c;
+    color:#0d0b08;
+    font-family:'Jost',sans-serif;
+    font-size:.82rem;
+    font-weight:600;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    padding:13px;
+    text-decoration:none;
+    text-align:center;
+    display:block;
+  " aria-label="Demander un devis par SMS">
+    Devis par SMS — 07 83 92 58 94
+  </a>
+</div>
+
+<script>
+(function(){
+  if(sessionStorage.getItem('ctaClosed')) return;
+
+  var isMobile = window.innerWidth < 768;
+  var sticky = document.getElementById(isMobile ? 'cta-sticky-mobile' : 'cta-sticky');
+  var shown = false;
+
+  function getFooterTop(){
+    var footer = document.querySelector('footer');
+    return footer ? footer.getBoundingClientRect().top + window.scrollY - window.innerHeight - 60 : Infinity;
+  }
+
+  function onScroll(){
+    var scrollY = window.scrollY;
+    var nearFooter = scrollY > getFooterTop();
+
+    if(!shown && scrollY > 300 && !nearFooter){
+      sticky.style.display = isMobile ? 'flex' : 'flex';
+      shown = true;
+    }
+    if(shown && nearFooter){
+      sticky.style.display = 'none';
+    }
+    if(shown && !nearFooter && scrollY > 300){
+      sticky.style.display = isMobile ? 'flex' : 'flex';
+    }
+  }
+
+  window.addEventListener('scroll', onScroll, {passive:true});
+})();
+</script>
 </body></html>
