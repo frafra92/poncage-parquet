@@ -286,6 +286,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
 @font-face{font-family:'Cormorant Garamond';font-display:swap}
 @font-face{font-family:'Jost';font-display:swap}
 
+.nav-hamburger{display:none}
 @media(max-width:768px){.nav-hamburger{display:flex !important}}
 #nav-menu-overlay{display:none;position:fixed;inset:0;z-index:200;background:rgba(0,0,0,0.55);}
 #nav-menu-panel{position:fixed;top:0;right:0;bottom:0;width:min(300px,85vw);z-index:201;background:#0d0b08;border-left:1px solid rgba(201,168,76,0.25);display:flex;flex-direction:column;transform:translateX(100%);transition:transform .28s ease;}
@@ -399,7 +400,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
       <p id="search-results" style="font-size:.75rem;color:var(--text-muted);margin-top:.5rem">0 résultats</p>
     </div>
   </div>
-  <button id="nav-hamburger" aria-label="Ouvrir le menu" aria-expanded="false" onclick="openNavMenu()" style="display:none;background:none;border:none;cursor:pointer;padding:8px;flex-direction:column;gap:5px;align-items:center;justify-content:center;"><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span></button>
+  <button id="nav-hamburger" class="nav-hamburger" aria-label="Ouvrir le menu" aria-expanded="false" onclick="openNavMenu()" style="background:none;border:none;cursor:pointer;padding:8px;flex-direction:column;gap:5px;align-items:center;justify-content:center;"><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span></button>
 </nav>
 
 <main>
