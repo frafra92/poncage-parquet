@@ -1,3 +1,9 @@
+/* ============================================================
+   style-artisan.css — François Gaillard Parquet
+   Généré le 25 avril 2026
+   ============================================================ */
+
+
 :root{--or:#C9A84C;--or-clair:#E8C97A;--or-sombre:#9A7840;--noir:#0D0B08;--noir2:#1A1710;--noir3:#252219;--texte:#E8E2D4;--muted:#9A9283;--bord:rgba(201,168,76,0.2)}
 *{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}
 body{font-family:'Jost',sans-serif;background:var(--noir);color:var(--texte);line-height:1.7}
@@ -51,4 +57,4 @@ h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,2.6rem);c
 footer{background:var(--noir);border-top:1px solid var(--bord);padding:2.5rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
 .footer-brand{font-family:'Cormorant Garamond',serif;font-size:.95rem;color:var(--or)}
 footer p{font-size:.75rem;color:var(--muted)}
-@media(max-width:640px){.comp-head,.comp-row{grid-template-columns:1fr 1fr 1fr}.comp-cell,.comp-col{padding:.7rem .6rem;font-size:.75rem}footer{flex-direction:column}}
+@media(max-width:640px){.comp-head,.comp-row{grid-template-columns:1fr 1fr 1fr}.comp-cell,.comp-col{padding:.7rem .6rem;font-size:.75rem}footer{flex-direction:column}
