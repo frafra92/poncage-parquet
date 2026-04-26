@@ -1,160 +1,411 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog parquet Paris — Conseils, guides et expertise · François Gaillard</title>
+  <meta name="description" content="15 ans de parquet, des centaines de chantiers à Paris et Île-de-France. Guides pratiques, comparatifs, histoire du parquet haussmannien — toute l'expertise de François Gaillard artisan parqueteur.">
+  <link rel="canonical" href="https://poncageparquetvitrificationfrancois.com/blog.html">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Blog",
+    "name":"Blog Parquet Paris — François Gaillard",
+    "description":"Conseils, guides pratiques et expertise sur le ponçage et la vitrification de parquet à Paris et Île-de-France.",
+    "url":"https://poncageparquetvitrificationfrancois.com/blog.html",
+    "author":{"@type":"Person","name":"François Gaillard","@id":"https://www.wikidata.org/wiki/Q138748737"},
+    "publisher":{"@type":"LocalBusiness","name":"Ponçage Parquet Vitrification François","url":"https://poncageparquetvitrificationfrancois.com/"}}
+  </script>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+    {"@type":"ListItem","position":1,"name":"Accueil","item":"https://poncageparquetvitrificationfrancois.com/"},
+    {"@type":"ListItem","position":2,"name":"Blog","item":"https://poncageparquetvitrificationfrancois.com/blog.html"}
+  ]}
+  </script>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-2WFFQHC680"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-2WFFQHC680');
-  </script>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Blog Parquet Paris — Conseils & Guides | François Gaillard Parqueteur</title>
-<meta name="description" content="Tous les articles et guides sur le ponçage et la rénovation de parquet à Paris. Prix, huilage, vitrification, parquets haussmanniens. Par François Gaillard, 220 avis 5 étoiles.">
-<link rel="canonical" href="https://poncageparquetvitrificationfrancois.com/blog.html">
-  <link rel="stylesheet" href="style-blog-solo.css?v=20260425">
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-2WFFQHC680');</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root{--or:#C9A84C;--or-clair:#E8C97A;--noir:#0D0B08;--noir2:#1A1710;--texte:#E8E2D4;--muted:#9A9283;--bord:rgba(201,168,76,0.18)}
+    *{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}
+    body{font-family:'Jost',sans-serif;background:var(--noir);color:var(--texte);line-height:1.7}
+    a{color:var(--texte);text-decoration:none}
+
+    /* NAV */
+    nav.main-nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(13,11,8,.95);backdrop-filter:blur(12px);border-bottom:1px solid var(--bord);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:60px}
+    .nav-brand{font-family:'Cormorant Garamond',serif;font-size:1rem;color:var(--or)}
+    .nav-back{font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+    .nav-back:hover{color:var(--or)}
+
+    /* BREADCRUMB */
+    .breadcrumb{max-width:1000px;margin:0 auto;padding:4.5rem 2rem 0;font-size:.75rem;color:var(--muted)}
+    .breadcrumb a{color:var(--muted)}.breadcrumb a:hover{color:var(--or)}
+
+    /* HERO */
+    .hero{max-width:1000px;margin:0 auto;padding:2rem 2rem 4rem;border-bottom:1px solid var(--bord)}
+    .hero-tag{display:inline-block;font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;color:var(--or);border:1px solid var(--bord);padding:.4rem 1rem;margin-bottom:2rem}
+    .hero h1{font-family:'Cormorant Garamond',serif;font-size:clamp(2.5rem,7vw,4rem);font-weight:600;line-height:1.05;color:#fff;margin-bottom:1.2rem}
+    .hero h1 em{font-style:italic;color:var(--or-clair)}
+    .hero-intro{font-size:1rem;color:var(--muted);line-height:1.85;max-width:620px}
+    .hero-intro strong{color:var(--texte)}
+
+    /* SECTION TITRE */
+    .section-wrap{max-width:1000px;margin:0 auto;padding:3rem 2rem}
+    .section-label{font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;color:var(--or);margin-bottom:.8rem;display:block}
+    .section-title{font-family:'Cormorant Garamond',serif;font-size:1.6rem;color:#fff;margin-bottom:.5rem}
+    .section-sep{width:40px;height:1px;background:var(--or);margin:.8rem 0 2rem;opacity:.6}
+
+    /* GRILLE ARTICLES */
+    .articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1px;background:var(--bord)}
+    .article-card{background:var(--noir2);padding:2rem;display:flex;flex-direction:column;gap:.8rem;transition:background .2s;border:none}
+    .article-card:hover{background:#22201a}
+    .article-tag{font-size:.7rem;letter-spacing:.15em;text-transform:uppercase;color:var(--or)}
+    .article-title{font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:#fff;line-height:1.3;font-weight:600}
+    .article-desc{font-size:.85rem;color:var(--muted);line-height:1.75;flex:1}
+    .article-lire{font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--or);margin-top:.5rem;display:inline-block}
+    .article-card:hover .article-lire{text-decoration:underline;text-underline-offset:3px}
+
+    /* ARTICLE FEATURED (grande carte) */
+    .article-featured{background:var(--noir2);border:1px solid var(--bord);padding:2.5rem;display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;margin-bottom:1px;transition:background .2s}
+    .article-featured:hover{background:#22201a}
+    .featured-num{font-family:'Cormorant Garamond',serif;font-size:5rem;color:var(--or);opacity:.15;line-height:1}
+    .featured-content .article-tag{margin-bottom:.6rem;display:block}
+    .featured-content .article-title{font-size:1.5rem;margin-bottom:.8rem}
+    .featured-content .article-desc{font-size:.9rem}
+
+    /* CTA BAND */
+    .cta-band{background:var(--noir2);border-top:1px solid var(--bord);border-bottom:1px solid var(--bord);padding:3rem 2rem;margin-top:4rem}
+    .cta-band-inner{max-width:1000px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap}
+    .cta-band h2{font-family:'Cormorant Garamond',serif;font-size:1.8rem;color:#fff;margin-bottom:.4rem}
+    .cta-band p{font-size:.88rem;color:var(--muted)}
+    .btn-or{display:inline-block;background:var(--or);color:var(--noir);font-size:.8rem;font-weight:500;letter-spacing:.15em;text-transform:uppercase;padding:1rem 2.2rem;transition:background .2s;white-space:nowrap}
+    .btn-or:hover{background:var(--or-clair)}
+
+    /* ARRONDISSEMENTS */
+    .zones-mini{max-width:1000px;margin:0 auto;padding:3rem 2rem}
+    .zones-mini h3{font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--muted);margin-bottom:1rem}
+    .zones-grid{display:flex;flex-wrap:wrap;gap:8px}
+    .zone-pill{display:inline-block;padding:.4rem 1rem;font-size:.78rem;color:var(--muted);border:1px solid var(--bord);transition:border-color .2s,color .2s}
+    .zone-pill:hover{border-color:var(--or);color:var(--or)}
+
+    /* FOOTER */
+    footer{background:var(--noir2);border-top:1px solid var(--bord);padding:2rem;text-align:center}
+    footer p{font-size:.78rem;color:var(--muted)}
+    footer a{color:var(--muted)}.footer a:hover{color:var(--or)}
+
+    /* STICKY CTA */
+    #cta-sticky{position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,.35);padding:10px 20px;display:none;align-items:center;justify-content:space-between;gap:12px;box-shadow:0 -4px 20px rgba(0,0,0,0.4)}
+    #cta-sticky-mobile{position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,.35);padding:10px 16px 16px;display:none;flex-direction:column;gap:8px;box-shadow:0 -4px 20px rgba(0,0,0,0.4)}
+
+    @media(max-width:640px){
+      .article-featured{grid-template-columns:1fr}.featured-num{display:none}
+      .cta-band-inner{flex-direction:column;align-items:flex-start}
+    }
+  </style>
 </head>
 <body>
-<header><a href="index.html" class="logo">François Gaillard — Parqueteur Paris & IDF</a><a href="tel:0783925894" class="header-tel">☎️ 07 83 92 58 94</a></header>
-<div class="hero"><h1>🪵 Blog Parquet Paris</h1><p>Conseils d'expert, guides pratiques et réponses aux questions les plus fréquentes sur le ponçage et la rénovation de parquet.</p></div>
-<div class="container">
-<h2 style="color:#3d2410;font-size:22px;border-left:4px solid #c9a84c;padding-left:16px">Tous les articles</h2>
-<div class="grid">
-<a href="blog-prix-poncage-parquet-paris.html" class="card"><h3>Prix du ponçage parquet à Paris en 2025</h3><p>Tous les tarifs détaillés : 20€/m² avec ascenseur, 30€/m² sans, vitrification Bona Mega Evo 30€/m². Exemples de devis chiffrés.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-huilage-vs-vitrification.html" class="card"><h3>Huilage ou vitrification : quelle finition choisir ?</h3><p>Comparatif complet entre huilage naturel et vitrification Bona Mega Evo. Avantages, inconvénients, durabilité, entretien.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-poncage-sans-poussiere.html" class="card"><h3>Comment se passe un chantier de ponçage sans poussière ?</h3><p>Machines à aspiration intégrée, étapes du chantier, durée selon la surface. Tout sur le processus.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-parquet-haussmannien-paris.html" class="card"><h3>Rénover un parquet haussmannien à Paris : guide complet</h3><p>Point de Hongrie, chevrons, parquet de Versailles — spécificités et techniques pour les parquets anciens.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-combien-fois-poncer-parquet.html" class="card"><h3>Combien de fois peut-on poncer un parquet ?</h3><p>Épaisseur de la couche d'usure, tableau comparatif massif/contrecollé/stratifié. Règles d'or.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-avant-vente-parquet-paris.html" class="card"><h3>Rénover son parquet avant une vente à Paris : est-ce rentable ?</h3><p>ROI concret : 3 000€ investis pour 8 000 à 15 000€ de valorisation. Guide pratique.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-bona-mega-evo-parquet.html" class="card"><h3>Bona Mega Evo : pourquoi c'est ma référence</h3><p>Certifications EMICODE EC1PLUS, GREENGUARD Gold, sans PFAS. Pourquoi j'utilise ce vitrificateur sur tous mes chantiers.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-artisan-independant-parquet-paris.html" class="card"><h3>Artisan indépendant ou entreprise : comment choisir ?</h3><p>Comparatif honnête entre les deux modèles. Transparence, qualité, prix — les vrais avantages de l'artisan solo.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-entretien-parquet-paris.html" class="card"><h3>Comment entretenir son parquet vitrifié à Paris ?</h3><p>Gestes quotidiens, produits recommandés, erreurs à éviter. Doubler la durée de vie de votre parquet.</p><span class="lire">Lire l'article →</span></a>
-<a href="blog-urgence-parquet-paris.html" class="card"><h3>Parqueteur en urgence à Paris : j'interviens vite</h3><p>Intervention possible le jour même ou le week-end. Remise des clés, vente, dégât des eaux.</p><span class="lire">Lire l'article →</span></a>
-</div>
-</div>
-<div class="cta"><h2>Une question sur votre parquet ?</h2><p style="opacity:.7">Devis gratuit · 220 avis Google ⭐⭐⭐⭐⭐ · Réponse sous 24h</p><a href="tel:0783925894">☎️ 07 83 92 58 94</a></div>
-<footer>© 2026 François Gaillard — Artisan Parqueteur · <a href="index.html">Retour accueil</a>
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" style="color:var(--muted)">07 83 92 58 94</a> · SIRET 81182012500011</p>
-</footer>
-<div id="cta-sticky" style="
-  position:fixed;
-  bottom:0;left:0;right:0;
-  z-index:999;
-  background:#1a1710;
-  border-top:1px solid rgba(201,168,76,0.35);
-  padding:10px 20px;
-  display:none;
-  align-items:center;
-  justify-content:space-between;
-  gap:12px;
-  box-shadow:0 -4px 20px rgba(0,0,0,0.4);
-">
-  <!-- Indicateur disponibilité -->
-  <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
-    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
-    <span style="font-family:'Jost',sans-serif;font-size:.78rem;color:#9a9283;white-space:nowrap;">Disponible · 63 € TTC/m²</span>
-  </div>
 
-  <!-- CTA principal -->
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.78rem;
-    font-weight:600;
-    letter-spacing:.12em;
-    text-transform:uppercase;
-    padding:10px 22px;
-    text-decoration:none;
-    white-space:nowrap;
-    flex-shrink:0;
-  " aria-label="Demander un devis par SMS">
-    Devis par SMS · 07 83 92 58 94
-  </a>
+<nav class="main-nav">
+  <span class="nav-brand">François Gaillard · Parquet</span>
+  <a href="index.html" class="nav-back">← Retour au site</a>
+</nav>
 
-  <!-- Bouton fermer -->
-  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-    background:none;
-    border:none;
-    color:#9a9283;
-    font-size:1.1rem;
-    cursor:pointer;
-    padding:4px 8px;
-    flex-shrink:0;
-    line-height:1;
-  " aria-label="Fermer">×</button>
+<nav aria-label="Fil d'Ariane" class="breadcrumb">
+  <a href="index.html">Accueil</a>
+  <span style="margin:0 .5rem;opacity:.4">›</span>
+  <span style="color:var(--or)">Blog & Conseils</span>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+  <span class="hero-tag">Blog · Expertise · Parquet Paris</span>
+  <h1>15 ans de parquet.<br><em>Ce que j'ai appris.</em></h1>
+  <p class="hero-intro">Des centaines de chantiers à Paris et en Île-de-France — parquets anciens, haussmanniens, point de Hongrie, chêne massif centenaire. <strong>Ce blog est mon carnet de terrain.</strong> Pas de contenu générique : ce que je vis, ce que j'observe, ce que je recommande.</p>
 </div>
 
-<!-- Variante mobile plein écran -->
-<div id="cta-sticky-mobile" style="
-  position:fixed;
-  bottom:0;left:0;right:0;
-  z-index:999;
-  background:#1a1710;
-  border-top:1px solid rgba(201,168,76,0.35);
-  padding:10px 16px 16px;
-  display:none;
-  flex-direction:column;
-  gap:8px;
-  box-shadow:0 -4px 20px rgba(0,0,0,0.4);
-">
-  <div style="display:flex;align-items:center;justify-content:space-between;">
-    <div style="display:flex;align-items:center;gap:8px;">
-      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
-      <span style="font-family:'Jost',sans-serif;font-size:.72rem;color:#9a9283;">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
+<!-- SECTION 1 : PRIX & DEVIS -->
+<div class="section-wrap">
+  <span class="section-label">Prix & Devis</span>
+  <h2 class="section-title">Ce que ça coûte vraiment</h2>
+  <div class="section-sep"></div>
+
+  <a href="prix-poncage-parquet-paris.html" class="article-featured">
+    <div class="featured-num">63</div>
+    <div class="featured-content">
+      <span class="article-tag">★ Tarifs 2026</span>
+      <div class="article-title">63 € TTC/m² — ponçage et vitrification à Paris</div>
+      <p class="article-desc">Un tarif fixe, tout compris, sans surprise. Ponçage machine planétaire HTC + vitrification Bona Mega Evo 3 couches. Pourquoi ce prix, comment il se décompose, ce qu'il inclut — et ce qu'il ne faut pas accepter en dessous.</p>
+      <span class="article-lire">Lire l'article →</span>
     </div>
-    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-      background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
-    " aria-label="Fermer">×</button>
-  </div>
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.82rem;
-    font-weight:600;
-    letter-spacing:.1em;
-    text-transform:uppercase;
-    padding:13px;
-    text-decoration:none;
-    text-align:center;
-    display:block;
-  " aria-label="Demander un devis par SMS">
-    Devis par SMS — 07 83 92 58 94
   </a>
+
+  <div class="articles-grid">
+    <a href="comparatif-poncer-vs-remplacer-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Comparatif</span>
+      <div class="article-title">Poncer ou remplacer son parquet ? 63 € vs 150-300 €/m²</div>
+      <p class="article-desc">La question que tout le monde se pose. Le calcul est simple mais les nuances changent tout — état du parquet, épaisseur, type de lame, valeur immobilière. Ma réponse honnête.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="renover-parquet-avant-vente-paris.html" class="article-card">
+      <span class="article-tag">★ Investissement</span>
+      <div class="article-title">Rénover son parquet avant de vendre — est-ce rentable ?</div>
+      <p class="article-desc">ROI concret : 3 000 € investis pour 8 000 à 15 000 € de valorisation à Paris. Les chiffres du marché immobilier et pourquoi un parquet rénové change vraiment la négociation.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="duree-chantier-poncage-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Pratique</span>
+      <div class="article-title">Combien de temps pour un chantier de ponçage à Paris ?</div>
+      <p class="article-desc">20 m² par jour, 3 à 4 jours pour 60 m². Mais la réalité du terrain est plus nuancée — l'état du parquet, l'étage, les meubles, les recoins. Tout ce qui rallonge ou raccourcit un chantier.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="blog-avant-vente-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Blog</span>
+      <div class="article-title">Rénover avant de vendre — le calcul qui change tout</div>
+      <p class="article-desc">Mon point de vue d'artisan sur la question que me posent les vendeurs parisiens. Ce que j'ai vu, les retours de mes clients, les erreurs à ne pas faire.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+  </div>
+</div>
+
+<!-- SECTION 2 : TECHNIQUE & PRODUIT -->
+<div class="section-wrap" style="border-top:1px solid var(--bord)">
+  <span class="section-label">Technique & Produit</span>
+  <h2 class="section-title">Comment ça marche vraiment</h2>
+  <div class="section-sep"></div>
+
+  <div class="articles-grid">
+    <a href="comparatif-machine-planetaire-vs-tambour-parquet.html" class="article-card">
+      <span class="article-tag">★ Comparatif</span>
+      <div class="article-title">Machine planétaire vs machine tambour — le vrai comparatif</div>
+      <p class="article-desc">Pourquoi la planétaire HTC est indispensable pour les parquets point de Hongrie et Versailles. Ce que la tambour fait bien, ce qu'elle abîme. Un choix qui change tout le résultat.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="comparatif-vitrification-huilage-cire-parquet.html" class="article-card">
+      <span class="article-tag">★ Comparatif</span>
+      <div class="article-title">Vitrification vs huilage vs cire — quel traitement choisir ?</div>
+      <p class="article-desc">Durabilité, entretien, rendu visuel, coût dans le temps. Le comparatif complet des trois finitions avec mes recommandations selon le type de parquet et le mode de vie.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="comparatif-finition-parquet-mat-satine-brillant.html" class="article-card">
+      <span class="article-tag">★ Comparatif</span>
+      <div class="article-title">Mat · satiné · brillant — quelle finition pour votre parquet ?</div>
+      <p class="article-desc">La finition change tout l'aspect d'un parquet. Mat pour les parquets anciens, satiné pour l'usage courant, brillant pour les intérieurs modernes. Comment choisir sans se tromper.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="fond-dur-sous-couche-vitrification-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Technique</span>
+      <div class="article-title">Fond dur, préplast, sous-couche — à quoi ça sert vraiment ?</div>
+      <p class="article-desc">Ces produits que les artisans recommandent (parfois) ou omettent (souvent). Dans quels cas le fond dur est indispensable, quand il est inutile, et pourquoi ça change la durée de vie.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="vitrification-bona-mega-evo-paris.html" class="article-card">
+      <span class="article-tag">★ Produit</span>
+      <div class="article-title">Bona Mega Evo — pourquoi c'est ma référence</div>
+      <p class="article-desc">EMICODE EC1PLUS, GREENGUARD Gold, sans PFAS — les certifications que je lis vraiment. Pourquoi ce vernis sur tous mes chantiers, et ce que ça change pour votre famille.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="blog-huilage-vs-vitrification.html" class="article-card">
+      <span class="article-tag">★ Blog</span>
+      <div class="article-title">Huilage vs vitrification — le vrai comparatif du terrain</div>
+      <p class="article-desc">Ce que les fiches techniques ne disent pas. Mon expérience sur le terrain après des centaines de chantiers — quand l'huilage est une bonne idée, et quand ce n'est pas le bon choix.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="poncage-parquet-sans-poussiere-paris.html" class="article-card">
+      <span class="article-tag">★ Technique</span>
+      <div class="article-title">Ponçage sans poussière — la réalité du chantier</div>
+      <p class="article-desc">Le Festool CTL 48 E à filtre HEPA capte 99,9% de la poussière à la source. Ce que ça change vraiment pour vous, vos voisins, et la qualité de la finition finale.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="guide-poncage-parquet-etapes.html" class="article-card">
+      <span class="article-tag">★ HowTo</span>
+      <div class="article-title">Comment se déroule un chantier de ponçage — les 6 étapes</div>
+      <p class="article-desc">De l'arrivée à la dernière couche de vernis — ce qui se passe chez vous, dans quel ordre, combien de temps. Pour ne pas avoir de surprises le jour J.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+  </div>
+</div>
+
+<!-- SECTION 3 : AVANT/APRÈS CHANTIER -->
+<div class="section-wrap" style="border-top:1px solid var(--bord)">
+  <span class="section-label">Avant & Après chantier</span>
+  <h2 class="section-title">Se préparer, bien choisir</h2>
+  <div class="section-sep"></div>
+
+  <div class="articles-grid">
+    <a href="guide-choisir-artisan-parqueteur-paris.html" class="article-card">
+      <span class="article-tag">★ HowTo</span>
+      <div class="article-title">Comment choisir son artisan parqueteur à Paris — 6 critères</div>
+      <p class="article-desc">Assurance décennale, machine planétaire ou tambour, vernis professionnel, avis vérifiés — ce qu'il faut demander avant de signer. Les questions qui font la différence.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="guide-preparer-appartement-poncage-parquet.html" class="article-card">
+      <span class="article-tag">★ HowTo</span>
+      <div class="article-title">Comment préparer son appartement avant le ponçage</div>
+      <p class="article-desc">Ce que vous devez faire, ce que vous n'avez pas à faire, ce que je fais moi. Une checklist simple pour que le chantier se déroule sans friction et sans mauvaises surprises.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="guide-entretien-parquet-vitrifie.html" class="article-card">
+      <span class="article-tag">★ HowTo</span>
+      <div class="article-title">Comment entretenir son parquet vitrifié — 6 règles essentielles</div>
+      <p class="article-desc">Ce qui abîme un parquet vitrifié plus vite que tout — les erreurs les plus fréquentes et comment les éviter. Pour que la vitrification dure 10 à 15 ans comme prévu.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="blog-artisan-independant-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Blog</span>
+      <div class="article-title">Artisan indépendant vs entreprise — mon point de vue honnête</div>
+      <p class="article-desc">Je ne suis pas objectif — je suis indépendant. Mais voici les vraies différences que j'observe : réactivité, qualité constante, prix, et ce que vous perdez avec la sous-traitance.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="blog-urgence-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Blog</span>
+      <div class="article-title">Urgence parquet Paris — j'interviens le jour même</div>
+      <p class="article-desc">Remise des clés dans 48h, vente immobilière urgente, dégât des eaux — les situations où le délai compte. Comment je m'organise pour intervenir vite sans sacrifier la qualité.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="idees-recues-poncage-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Décryptage</span>
+      <div class="article-title">10 idées reçues sur le ponçage parquet — déconstruites</div>
+      <p class="article-desc">"Ça fait trop de poussière", "ça prend des semaines", "le parquet va être abîmé"... Les 10 croyances les plus répandues que je démonte avec des faits de terrain.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+  </div>
+</div>
+
+<!-- SECTION 4 : HISTOIRE & CULTURE -->
+<div class="section-wrap" style="border-top:1px solid var(--bord)">
+  <span class="section-label">Histoire & Culture</span>
+  <h2 class="section-title">Le bois qui traverse les siècles</h2>
+  <div class="section-sep"></div>
+
+  <a href="parquet-heritage-louis-xiv-haussmann.html" class="article-featured">
+    <div class="featured-num">XVII</div>
+    <div class="featured-content">
+      <span class="article-tag">★ Histoire</span>
+      <div class="article-title">De Versailles aux appartements haussmanniens — deux siècles de parquet parisien</div>
+      <p class="article-desc">Louis XIV commande les forêts, Colbert les plante, Haussmann les installe dans les appartements bourgeois. Comment le parquet est devenu l'ADN du logement parisien — et pourquoi il traverse les siècles.</p>
+      <span class="article-lire">Lire l'article →</span>
+    </div>
+  </a>
+
+  <div class="articles-grid">
+    <a href="forets-colbert-chene-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Histoire</span>
+      <div class="article-title">Les forêts de Colbert — l'origine du chêne qui est sous vos pieds</div>
+      <p class="article-desc">En 1669, Colbert plante des chênes pour construire la marine royale. 150 ans plus tard, ces arbres finissent en parquets parisiens. Une filière extraordinaire que peu de gens connaissent.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="navire-guerre-parquet-parisien.html" class="article-card">
+      <span class="article-tag">★ Histoire</span>
+      <div class="article-title">Navires de guerre & parquet — le même chêne, deux destins</div>
+      <p class="article-desc">Le chêne des forêts royales a servi à construire les vaisseaux de Trafalgar. Le bois qui n'est pas parti en mer a fini en parquet. Une histoire de matière et de destin.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="origine-parquet-point-hongrie-histoire.html" class="article-card">
+      <span class="article-tag">★ Patrimoine</span>
+      <div class="article-title">L'origine du point de Hongrie — une histoire européenne</div>
+      <p class="article-desc">Ce motif à chevrons que l'on retrouve dans presque tous les appartements haussmanniens n'est pas français. Son voyage de la Hongrie à Versailles, puis à Paris — l'histoire du motif roi.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="documentaire-voyage-lame-parquet-paris.html" class="article-card">
+      <span class="article-tag">★ Documentaire</span>
+      <div class="article-title">Voyage d'une lame de parquet — de la forêt à votre salon</div>
+      <p class="article-desc">Du gland au parquet : 150 ans de croissance, l'abattage, la scierie, le séchage, la pose, le ponçage. La vie complète d'une lame de chêne massif parisienne.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="blog-parquet-haussmannien-paris.html" class="article-card">
+      <span class="article-tag">★ Blog</span>
+      <div class="article-title">Le parquet haussmannien — ce que j'ai appris en 15 ans</div>
+      <p class="article-desc">Les particularités techniques des parquets anciens que je rencontre chaque semaine. Les surprises, les difficultés, les satisfactions. Mon rapport personnel à ces bois exceptionnels.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+    <a href="blog-bona-mega-evo-parquet.html" class="article-card">
+      <span class="article-tag">★ Blog</span>
+      <div class="article-title">Bona Mega Evo — pourquoi ce vernis et pas un autre</div>
+      <p class="article-desc">Je n'utilise qu'un seul vernis depuis des années. Pas par habitude — par conviction. Ce que les certifications signifient vraiment, et ce que ça change pour votre famille et votre parquet.</p>
+      <span class="article-lire">Lire →</span>
+    </a>
+  </div>
+</div>
+
+<!-- CTA DEVIS -->
+<div class="cta-band">
+  <div class="cta-band-inner">
+    <div>
+      <h2>Une question sur votre parquet ?</h2>
+      <p>Devis par SMS sur photos · Tarif fixe 63 € TTC/m² · 220+ avis Google 4,9/5 · Basé à Montrouge</p>
+    </div>
+    <a href="sms:+33783925894" class="btn-or">SMS · 07 83 92 58 94</a>
+  </div>
+</div>
+
+<!-- ARRONDISSEMENTS -->
+<div class="zones-mini">
+  <h3>Intervention dans tous les arrondissements</h3>
+  <div class="zones-grid">
+    <a href="poncage-parquet-paris-1.html" class="zone-pill">Paris 1er</a>
+    <a href="poncage-parquet-paris-2.html" class="zone-pill">Paris 2e</a>
+    <a href="poncage-parquet-paris-3.html" class="zone-pill">Paris 3e</a>
+    <a href="poncage-parquet-paris-4.html" class="zone-pill">Paris 4e</a>
+    <a href="poncage-parquet-paris-5.html" class="zone-pill">Paris 5e</a>
+    <a href="poncage-parquet-paris-6.html" class="zone-pill">Paris 6e</a>
+    <a href="poncage-parquet-paris-7.html" class="zone-pill">Paris 7e</a>
+    <a href="poncage-parquet-paris-8.html" class="zone-pill">Paris 8e</a>
+    <a href="poncage-parquet-paris-9.html" class="zone-pill">Paris 9e</a>
+    <a href="poncage-parquet-paris-10.html" class="zone-pill">Paris 10e</a>
+    <a href="poncage-parquet-paris-11.html" class="zone-pill">Paris 11e</a>
+    <a href="poncage-parquet-paris-12.html" class="zone-pill">Paris 12e</a>
+    <a href="poncage-parquet-paris-13.html" class="zone-pill">Paris 13e</a>
+    <a href="poncage-parquet-paris-14.html" class="zone-pill">Paris 14e</a>
+    <a href="poncage-parquet-paris-15.html" class="zone-pill">Paris 15e</a>
+    <a href="poncage-parquet-paris-16.html" class="zone-pill">Paris 16e</a>
+    <a href="poncage-parquet-paris-17.html" class="zone-pill">Paris 17e</a>
+    <a href="poncage-parquet-paris-18.html" class="zone-pill">Paris 18e</a>
+    <a href="poncage-parquet-paris-19.html" class="zone-pill">Paris 19e</a>
+    <a href="poncage-parquet-paris-20.html" class="zone-pill">Paris 20e</a>
+    <a href="poncage-parquet-montrouge.html" class="zone-pill">Montrouge</a>
+    <a href="poncage-parquet-boulogne-billancourt.html" class="zone-pill">Boulogne-Billancourt</a>
+    <a href="poncage-parquet-neuilly-sur-seine.html" class="zone-pill">Neuilly-sur-Seine</a>
+    <a href="poncage-parquet-versailles-ville.html" class="zone-pill">Versailles</a>
+  </div>
+</div>
+
+<footer>
+  <p><a href="index.html">Accueil</a> · <a href="100-questions-poncage-parquet-paris.html">FAQ</a> · <a href="prix-poncage-parquet-paris.html">Tarifs</a> · <a href="mentions-legales.html">Mentions légales</a></p>
+  <p style="margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894">07 83 92 58 94</a> · SIRET 81182012500011</p>
+</footer>
+
+<div id="cta-sticky">
+  <div style="display:flex;align-items:center;gap:10px;flex-shrink:0">
+    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block"></span>
+    <span style="font-family:'Jost',sans-serif;font-size:.78rem;color:#9a9283;white-space:nowrap">Disponible · 63 € TTC/m²</span>
+  </div>
+  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:10px 22px;text-decoration:none;white-space:nowrap">Devis par SMS · 07 83 92 58 94</a>
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:4px 8px;line-height:1">×</button>
+</div>
+<div id="cta-sticky-mobile">
+  <div style="display:flex;align-items:center;justify-content:space-between">
+    <div style="display:flex;align-items:center;gap:8px">
+      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block"></span>
+      <span style="font-family:'Jost',sans-serif;font-size:.72rem;color:#9a9283">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
+    </div>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1">×</button>
+  </div>
+  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.82rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:13px;text-decoration:none;text-align:center;display:block">Devis par SMS — 07 83 92 58 94</a>
 </div>
 
 <script>
 (function(){
-  if(sessionStorage.getItem('ctaClosed')) return;
-
-  var isMobile = window.innerWidth < 768;
-  var sticky = document.getElementById(isMobile ? 'cta-sticky-mobile' : 'cta-sticky');
-  var shown = false;
-
-  function getFooterTop(){
-    var footer = document.querySelector('footer');
-    return footer ? footer.getBoundingClientRect().top + window.scrollY - window.innerHeight - 60 : Infinity;
-  }
-
-  function onScroll(){
-    var scrollY = window.scrollY;
-    var nearFooter = scrollY > getFooterTop();
-
-    if(!shown && scrollY > 300 && !nearFooter){
-      sticky.style.display = isMobile ? 'flex' : 'flex';
-      shown = true;
-    }
-    if(shown && nearFooter){
-      sticky.style.display = 'none';
-    }
-    if(shown && !nearFooter && scrollY > 300){
-      sticky.style.display = isMobile ? 'flex' : 'flex';
-    }
-  }
-
-  window.addEventListener('scroll', onScroll, {passive:true});
+  if(sessionStorage.getItem('ctaClosed'))return;
+  var isMobile=window.innerWidth<768;
+  var sticky=document.getElementById(isMobile?'cta-sticky-mobile':'cta-sticky');
+  function getFooterTop(){var f=document.querySelector('footer');return f?f.getBoundingClientRect().top+window.scrollY-window.innerHeight-60:Infinity;}
+  window.addEventListener('scroll',function(){
+    var s=window.scrollY;
+    if(s>300&&s<getFooterTop())sticky.style.display=isMobile?'flex':'flex';
+    else sticky.style.display='none';
+  },{passive:true});
 })();
 </script>
-</body></html>
+</body>
+</html>
