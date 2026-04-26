@@ -360,13 +360,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://poncageparquetvitrificationfrancois.com/parquet-abime-grin#U00e7ant-paris.html</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
+<url>
     <loc>https://poncageparquetvitrificationfrancois.com/parquet-abime-grin#U251c#U00baant-paris.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -438,13 +432,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://poncageparquetvitrificationfrancois.com/pon#U251c#U00baage-parquet-chene-massif-ancien-paris.html</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
+<url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-abbesses-paris-18.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -456,13 +444,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-al#U251c#U00aesia-paris-14.html</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
+<url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-alesia-paris-14.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -825,8 +807,8 @@
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-montrouge.html</loc>
     <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-mouffetard-paris-5.html</loc>
@@ -950,6 +932,12 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-16.html</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-17.html</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
