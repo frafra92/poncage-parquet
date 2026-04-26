@@ -1,0 +1,220 @@
+:root {
+      --chene: #7B4F2E;
+      --chene-pale: #B8865A;
+      --dore: #D4A843;
+      --fond: #FDFAF5;
+      --blanc: #FFFFFF;
+      --texte: #282828;
+      --gris: #707070;
+      --vert: #2E6B3E;
+      --rouge: #8B2020;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Nunito', sans-serif; background: var(--fond); color: var(--texte); line-height: 1.8; }
+
+    nav {
+      background: var(--chene);
+      padding: 16px 40px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav a { color: rgba(255,255,255,0.8); text-decoration: none; font-size: 14px; }
+    nav .logo { font-family: 'Libre Baskerville', serif; font-size: 20px; color: var(--dore); }
+
+    .hero {
+      background: var(--chene);
+      padding: 72px 40px 56px;
+      text-align: center;
+    }
+    .hero .tag {
+      display: inline-block;
+      background: rgba(212,168,67,0.2);
+      border: 1px solid var(--dore);
+      color: var(--dore);
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 5px 16px;
+      border-radius: 20px;
+      margin-bottom: 22px;
+    }
+    .hero h1 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: clamp(26px, 4.5vw, 48px);
+      color: var(--blanc);
+      line-height: 1.2;
+      max-width: 780px;
+      margin: 0 auto 18px;
+    }
+    .hero p {
+      color: rgba(255,255,255,0.65);
+      font-size: 17px;
+      font-weight: 300;
+      max-width: 560px;
+      margin: 0 auto;
+    }
+
+    .breadcrumb {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 14px 24px;
+      font-size: 13px;
+      color: var(--gris);
+    }
+    .breadcrumb a { color: var(--chene-pale); text-decoration: none; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 48px 24px 80px; }
+
+    .intro {
+      font-size: 18px;
+      font-weight: 300;
+      color: var(--chene);
+      border-left: 4px solid var(--dore);
+      padding-left: 24px;
+      margin-bottom: 48px;
+      line-height: 1.7;
+    }
+
+    /* TABLEAU COMPARATIF */
+    .compare-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 40px 0;
+      font-size: 15px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .compare-table thead tr th {
+      padding: 18px 20px;
+      text-align: left;
+      font-family: 'Libre Baskerville', serif;
+      font-size: 16px;
+    }
+    .compare-table thead tr th:first-child { background: #F0EBE3; color: var(--chene); }
+    .compare-table thead tr th:nth-child(2) { background: var(--chene); color: var(--dore); }
+    .compare-table thead tr th:nth-child(3) { background: #4A4A4A; color: var(--blanc); }
+    .compare-table tbody tr { border-bottom: 1px solid #EEE; }
+    .compare-table tbody tr:last-child { border-bottom: none; }
+    .compare-table tbody td { padding: 14px 20px; vertical-align: top; }
+    .compare-table tbody td:first-child { background: #FAF7F2; font-weight: 600; color: var(--chene); font-size: 14px; }
+    .compare-table tbody td:nth-child(2) { background: var(--blanc); }
+    .compare-table tbody td:nth-child(3) { background: #FAFAFA; }
+    .good { color: var(--vert); font-weight: 600; }
+    .bad { color: var(--rouge); }
+    .neutral { color: var(--gris); }
+
+    h2 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 26px;
+      color: var(--chene);
+      margin: 48px 0 18px;
+    }
+    p { margin-bottom: 16px; font-size: 16px; }
+
+    .avantage-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 32px 0;
+    }
+    @media (max-width: 600px) { .avantage-grid { grid-template-columns: 1fr; } }
+
+    .avantage-card {
+      background: var(--blanc);
+      border-radius: 6px;
+      padding: 24px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+    }
+    .avantage-card.artisan { border-top: 4px solid var(--dore); }
+    .avantage-card.entreprise { border-top: 4px solid #999; }
+    .avantage-card h3 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 17px;
+      margin-bottom: 14px;
+    }
+    .avantage-card.artisan h3 { color: var(--chene); }
+    .avantage-card.entreprise h3 { color: #555; }
+    .avantage-card ul { list-style: none; }
+    .avantage-card li {
+      padding: 6px 0;
+      font-size: 14px;
+      display: flex;
+      gap: 8px;
+      align-items: flex-start;
+      border-bottom: 1px solid #F5F5F5;
+    }
+    .avantage-card li:last-child { border-bottom: none; }
+    .avantage-card.artisan li::before { content: '✓'; color: var(--vert); font-weight: 700; flex-shrink: 0; }
+    .avantage-card.entreprise li::before { content: '✓'; color: #888; font-weight: 700; flex-shrink: 0; }
+
+    .verdict {
+      background: var(--chene);
+      color: var(--blanc);
+      border-radius: 8px;
+      padding: 40px;
+      margin: 48px 0;
+      text-align: center;
+    }
+    .verdict h3 {
+      font-family: 'Libre Baskerville', serif;
+      font-size: 26px;
+      color: var(--dore);
+      margin-bottom: 16px;
+    }
+    .verdict p { color: rgba(255,255,255,0.8); font-size: 16px; max-width: 600px; margin: 0 auto 8px; }
+
+    .cta {
+      background: linear-gradient(135deg, var(--chene-pale), var(--chene));
+      border-radius: 8px;
+      padding: 44px;
+      text-align: center;
+      margin: 32px 0;
+    }
+    .cta h3 { font-family: 'Libre Baskerville', serif; font-size: 28px; color: var(--blanc); margin-bottom: 10px; }
+    .cta p { color: rgba(255,255,255,0.7); margin-bottom: 24px; }
+    .btn {
+      display: inline-block;
+      background: var(--dore);
+      color: var(--chene);
+      font-weight: 700;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 15px 36px;
+      border-radius: 3px;
+      text-decoration: none;
+    }
+
+    .note-auteur {
+      background: var(--blanc);
+      border: 1px solid rgba(123,79,46,0.15);
+      border-radius: 6px;
+      padding: 24px 28px;
+      margin-top: 48px;
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+    }
+    .avatar {
+      width: 52px; height: 52px;
+      background: var(--chene);
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-family: 'Libre Baskerville', serif;
+      font-size: 22px; color: var(--blanc);
+      flex-shrink: 0;
+    }
+    .note-auteur strong { display: block; color: var(--chene); margin-bottom: 4px; }
+    .note-auteur span { font-size: 14px; color: var(--gris); }
+
+    footer {
+      background: var(--chene);
+      color: rgba(255,255,255,0.45);
+      text-align: center;
+      padding: 28px;
+      font-size: 13px;
+      margin-top: 48px;
+    }
+    footer a { color: var(--dore); text-decoration: none; }
