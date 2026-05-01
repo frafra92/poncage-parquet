@@ -114,3 +114,241 @@ YouTube: https://www.youtube.com/@Poncageparquetvitrification
 Substack: https://substack.com/@francoisponcageparquetparis
 Wikidata: https://www.wikidata.org/wiki/Q138748737
 Trustpilot: https://www.trustpilot.com/review/poncageparquetvitrificationfrancois.com
+
+
+## Markdown Mirrors
+
+Machine-readable versions of all pages. Each .md file contains frontmatter (title, description, url, last_updated) and clean content without HTML, scripts, or navigation.
+
+### Main Pages
+
+- https://poncageparquetvitrificationfrancois.com/100-questions-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/a-propos-francois-gaillard-parqueteur-paris.md
+- https://poncageparquetvitrificationfrancois.com/blog.md
+- https://poncageparquetvitrificationfrancois.com/expert-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/index.md
+- https://poncageparquetvitrificationfrancois.com/mentions-legales.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-montrouge.md
+- https://poncageparquetvitrificationfrancois.com/prix-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/services-poncage-vitrification-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/specialiste-parquet-ancien-paris.md
+
+### Paris Arrondissements
+
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-1.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-10.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-11.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-12.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-13.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-14.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-15.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-16.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-17.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-18.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-19.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-2.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-20.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-3.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-4.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-5.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-6.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-7.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-8.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-9.md
+
+### Paris Neighborhoods
+
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-abbesses-paris-18.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-alesia-paris-14.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-auteuil-paris-16.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-bastille-paris-11.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-batignolles-paris-17.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-belleville-paris-19-20.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-bercy-paris-12.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-butte-aux-cailles-paris-13.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-buttes-chaumont-paris-19.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-canal-saint-martin-paris-10.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-champ-de-mars-paris-7.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-champs-elysees-paris-8.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-charonne-paris-11.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-clignancourt-paris-18.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-convention-paris-15.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-denfert-rochereau-paris-14.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-gambetta-paris-20.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-ile-saint-louis-paris-4.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-invalides-paris-7.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-luxembourg-paris-6.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-madeleine-paris-8.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-marais-paris-3-4.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-menilmontant-paris-20.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-montmartre-paris-18.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-montorgueil-paris-2.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-montparnasse-paris-14.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-mouffetard-paris-5.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-nation-paris-12.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-oberkampf-paris-11.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-odeon-paris-6.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-opera-paris-9.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-palais-royal-paris-1.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantheon-paris-5.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-passy-paris-16.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-pere-lachaise-paris-20.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-quartier-latin-paris-5.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-republique-paris-10.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-saint-germain-des-pres-paris-6.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-sentier-paris-2.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-ternes-paris-17.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-trocadero-paris-16.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-vaugirard-paris-15.md
+
+### Ile-de-France Communes
+
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-antony.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-asnieres-sur-seine.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-bagneux.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-boissy-saint-leger.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-boulogne-billancourt.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-boulogne.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-charenton-le-pont.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-chatillon.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-chaville.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-clamart.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-colombes.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-courbevoie.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-creteil.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-fontenay-aux-roses.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-garches.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-gif-sur-yvette.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-issy-les-moulineaux.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-ivry-sur-seine.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-joinville-le-pont.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-le-chesnay-rocquencourt.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-le-perreux-sur-marne.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-le-plessis-robinson.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-le-vesinet.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-longjumeau.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-maisons-alfort.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-malakoff.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-marly-le-roi.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-marnes-la-coquette.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-massy.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-meudon-la-foret.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-meudon.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-nanterre.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-neuilly-sur-seine.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-neuilly.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-nogent-sur-marne.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-orsay.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-palaiseau.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-saint-cloud.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-saint-germain-en-laye.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-saint-mande.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-saint-maur-des-fosses.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-sceaux.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-sevres.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-vanves.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-vaucresson.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-velizy-villacoublay.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-versailles-ville.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-versailles.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-ville-davray.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-vincennes.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-viroflay.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-vitry-sur-seine.md
+
+### Guides & How-To
+
+- https://poncageparquetvitrificationfrancois.com/article1-choisir-parqueteur-paris.md
+- https://poncageparquetvitrificationfrancois.com/article2-questions-parqueteur-paris.md
+- https://poncageparquetvitrificationfrancois.com/article3-artisan-independant-vs-entreprise-paris.md
+- https://poncageparquetvitrificationfrancois.com/guide-choisir-artisan-parqueteur-paris.md
+- https://poncageparquetvitrificationfrancois.com/guide-complet-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/guide-entretien-parquet-vitrifie.md
+- https://poncageparquetvitrificationfrancois.com/guide-poncage-parquet-etapes.md
+- https://poncageparquetvitrificationfrancois.com/guide-preparer-appartement-poncage-parquet.md
+
+### Blog Articles
+
+- https://poncageparquetvitrificationfrancois.com/blog-artisan-independant-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/blog-avant-vente-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/blog-bona-mega-evo-parquet.md
+- https://poncageparquetvitrificationfrancois.com/blog-combien-fois-poncer-parquet.md
+- https://poncageparquetvitrificationfrancois.com/blog-entretien-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/blog-huilage-vs-vitrification.md
+- https://poncageparquetvitrificationfrancois.com/blog-parquet-haussmannien-paris.md
+- https://poncageparquetvitrificationfrancois.com/blog-poncage-sans-poussiere.md
+- https://poncageparquetvitrificationfrancois.com/blog-prix-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/blog-urgence-parquet-paris.md
+
+### Comparisons
+
+- https://poncageparquetvitrificationfrancois.com/comparatif-artisan-independant-vs-entreprise-parquet.md
+- https://poncageparquetvitrificationfrancois.com/comparatif-finition-parquet-mat-satine-brillant.md
+- https://poncageparquetvitrificationfrancois.com/comparatif-machine-planetaire-vs-tambour-parquet.md
+- https://poncageparquetvitrificationfrancois.com/comparatif-poncer-vs-remplacer-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/comparatif-vitrification-huilage-cire-parquet.md
+
+### History & Culture
+
+- https://poncageparquetvitrificationfrancois.com/colbert-architecte-economique-france-parquet.md
+- https://poncageparquetvitrificationfrancois.com/colbert-origine-parquets-parisiens.md
+- https://poncageparquetvitrificationfrancois.com/documentaire-voyage-lame-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/forets-colbert-chene-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/navire-guerre-parquet-parisien.md
+- https://poncageparquetvitrificationfrancois.com/origine-parquet-point-hongrie-histoire.md
+- https://poncageparquetvitrificationfrancois.com/parcours-parquet-parisien-colbert-haussmann.md
+- https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-heritage-louis-xiv.md
+- https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-ou-colbert.md
+- https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-paris.md
+- https://poncageparquetvitrificationfrancois.com/parquet-heritage-louis-xiv-haussmann.md
+- https://poncageparquetvitrificationfrancois.com/parquet-point-hongrie-histoire-origines-heritage.md
+- https://poncageparquetvitrificationfrancois.com/revolution-francaise-parquet-appartement-paris.md
+- https://poncageparquetvitrificationfrancois.com/voyage-latte-parquet-haussmannien.md
+
+### Other Resources
+
+- https://poncageparquetvitrificationfrancois.com/artisan-parqueteur-independant-paris.md
+- https://poncageparquetvitrificationfrancois.com/bona-mega-evo-normes-environnementales-cov-parquet.md
+- https://poncageparquetvitrificationfrancois.com/chateau-bazens-poncage-parquet-agen.md
+- https://poncageparquetvitrificationfrancois.com/choisir-artisan-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/combien-fois-poncer-parquet-massif.md
+- https://poncageparquetvitrificationfrancois.com/combien-fois-poncer-parquet.md
+- https://poncageparquetvitrificationfrancois.com/devis-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/duree-chantier-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/entretien-parquet-vitrifie-paris.md
+- https://poncageparquetvitrificationfrancois.com/fond-dur-sous-couche-vitrification-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/fournisseurs-partenaires-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/glossaire-parquet-definitions-expert.md
+- https://poncageparquetvitrificationfrancois.com/idees-recues-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/joints-lames-parquet-reboucher-conseils.md
+- https://poncageparquetvitrificationfrancois.com/machine-oscillante-fein-multimaster-poncage-parquet.md
+- https://poncageparquetvitrificationfrancois.com/machine-planetaire-poncage-parquet.md
+- https://poncageparquetvitrificationfrancois.com/materiel-professionnel-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/methode-poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/parquet-chene-massif-paris.md
+- https://poncageparquetvitrificationfrancois.com/parquet-sous-moquette-colle-poncage-paris.md
+- https://poncageparquetvitrificationfrancois.com/parquet-sous-moquette-revetement-paris.md
+- https://poncageparquetvitrificationfrancois.com/parquet-versailles-poncage-paris.md
+- https://poncageparquetvitrificationfrancois.com/peinture-avant-apres-poncage-parquet.md
+- https://poncageparquetvitrificationfrancois.com/peinture-avant-ou-apres-poncage-parquet.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-airbnb-location-courte-duree-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-appartement-meuble-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-avant-location-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-chene-massif-ancien-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-ecologique-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-de-hongrie-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-sans-poussiere-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-studio-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-vitrification-mat-satine-brillant-paris.md
+- https://poncageparquetvitrificationfrancois.com/publications-francois-gaillard-parqueteur-paris.md
+- https://poncageparquetvitrificationfrancois.com/reboucher-joints-parquet-paris-dtu-guide.md
+- https://poncageparquetvitrificationfrancois.com/reference-expert-parquet-ancien-paris.md
+- https://poncageparquetvitrificationfrancois.com/renover-parquet-avant-vente-paris.md
+- https://poncageparquetvitrificationfrancois.com/renover-parquet-vente-immobiliere-paris.md
+- https://poncageparquetvitrificationfrancois.com/reparation-parquet-degat-des-eaux-paris.md
+- https://poncageparquetvitrificationfrancois.com/sintobois-bicomposant-reparation-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/vis-bois-parquet-guide-technique.md
+- https://poncageparquetvitrificationfrancois.com/vitrification-bona-mega-evo-paris.md
+- https://poncageparquetvitrificationfrancois.com/vitrification-parquet-sans-odeur-saine-paris.md
+- https://poncageparquetvitrificationfrancois.com/vitrification-phase-aqueuse-bona-mega-evo-technique.md
+
