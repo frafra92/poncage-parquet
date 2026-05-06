@@ -543,9 +543,8 @@ article p,
 
 /* La géométrie sacrée pulse en 6 temps — comme 6 = 1+2+3 */
 header::before {
-  animation:
-    phi-rotate 3141ms linear infinite,  /* π × 1000 — cycle */
-    hex-pulse  6000ms ease-in-out infinite; /* 6 × 1000ms */
+  /* Animations désactivées pour performance */
+  animation: none;
 }
 
 /* ── Relation 6 + 28 = 34 (Fibonacci) ───────────────────── */
