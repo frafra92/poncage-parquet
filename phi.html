@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>φ</title>
+  <meta name="robots" content="noindex, nofollow">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #000;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: none;
+    }
+
+    /* Fond étoilé */
+    .stars {
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(ellipse at center, #0d0a05 0%, #000 100%);
+      z-index: 0;
+    }
+
+    /* Particules dorées */
+    canvas#particles {
+      position: fixed;
+      inset: 0;
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    /* Cercles concentriques animés */
+    .rings {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 2;
+      pointer-events: none;
+    }
+
+    .ring {
+      position: absolute;
+      border-radius: 50%;
+      border: 1px solid rgba(201, 168, 76, 0.08);
+      animation: expand linear infinite;
+    }
+
+    .ring:nth-child(1)  { width: 100px;  height: 100px;  animation-duration: 8s;  animation-delay: 0s; }
+    .ring:nth-child(2)  { width: 162px;  height: 162px;  animation-duration: 8s;  animation-delay: -1s; }
+    .ring:nth-child(3)  { width: 262px;  height: 262px;  animation-duration: 8s;  animation-delay: -2s; }
+    .ring:nth-child(4)  { width: 423px;  height: 423px;  animation-duration: 8s;  animation-delay: -3s; }
+    .ring:nth-child(5)  { width: 685px;  height: 685px;  animation-duration: 8s;  animation-delay: -4s; }
+    .ring:nth-child(6)  { width: 1108px; height: 1108px; animation-duration: 8s;  animation-delay: -5s; }
+
+    @keyframes expand {
+      0%   { opacity: 0;    transform: scale(0.3); }
+      10%  { opacity: 0.6; }
+      80%  { opacity: 0.1; }
+      100% { opacity: 0;    transform: scale(1.8); }
+    }
+
+    /* Container image */
+    .container {
+      position: relative;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Halo lumineux derrière l'image */
+    .halo {
+      position: absolute;
+      width: 520px;
+      height: 520px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(201,168,76,0.25) 0%, rgba(201,168,76,0.05) 50%, transparent 70%);
+      animation: pulse 3.14s ease-in-out infinite;
+      z-index: 9;
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1);    opacity: 0.6; }
+      50%       { transform: scale(1.08); opacity: 1;   }
+    }
+
+    /* L'image */
+    .sacred-img {
+      position: relative;
+      z-index: 10;
+      width: 480px;
+      height: 480px;
+      max-width: 90vw;
+      max-height: 90vw;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 1px solid rgba(201,168,76,0.4);
+      box-shadow:
+        0 0 40px rgba(201,168,76,0.3),
+        0 0 80px rgba(201,168,76,0.15),
+        0 0 160px rgba(201,168,76,0.05),
+        inset 0 0 40px rgba(0,0,0,0.5);
+      animation: imgPulse 3.14s ease-in-out infinite, imgRotate 314s linear infinite;
+      filter: brightness(1.1) contrast(1.05) saturate(1.2);
+    }
+
+    @keyframes imgPulse {
+      0%, 100% { box-shadow: 0 0 40px rgba(201,168,76,0.3), 0 0 80px rgba(201,168,76,0.15), 0 0 160px rgba(201,168,76,0.05), inset 0 0 40px rgba(0,0,0,0.5); }
+      50%       { box-shadow: 0 0 60px rgba(201,168,76,0.5), 0 0 120px rgba(201,168,76,0.25), 0 0 200px rgba(201,168,76,0.1), inset 0 0 40px rgba(0,0,0,0.5); }
+    }
+
+    @keyframes imgRotate {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
+
+    /* Signature φ */
+    .phi-sign {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Georgia', serif;
+      font-size: 1.2rem;
+      color: rgba(201,168,76,0.3);
+      letter-spacing: .5em;
+      z-index: 20;
+      animation: fadeInOut 6s ease-in-out infinite;
+    }
+
+    @keyframes fadeInOut {
+      0%, 100% { opacity: 0.15; }
+      50%       { opacity: 0.5; }
+    }
+
+    /* Curseur personnalisé */
+    #cursor {
+      position: fixed;
+      width: 20px;
+      height: 20px;
+      border: 1px solid rgba(201,168,76,0.8);
+      border-radius: 50%;
+      pointer-events: none;
+      z-index: 9999;
+      transform: translate(-50%, -50%);
+      transition: width 0.2s, height 0.2s, opacity 0.2s;
+    }
+
+    #cursor::after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      background: rgba(201,168,76,0.9);
+    }
+
+    /* Overlay de vignette */
+    .vignette {
+      position: fixed;
+      inset: 0;
+      background: radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,0.7) 100%);
+      z-index: 5;
+      pointer-events: none;
+    }
+
+    /* Lien retour invisible */
+    .back {
+      position: fixed;
+      top: 1.5rem;
+      left: 1.5rem;
+      color: rgba(201,168,76,0.2);
+      font-family: 'Georgia', serif;
+      font-size: .8rem;
+      text-decoration: none;
+      z-index: 20;
+      transition: color 0.3s;
+      letter-spacing: .2em;
+    }
+    .back:hover { color: rgba(201,168,76,0.7); }
+  </style>
+</head>
+<body>
+
+<div class="stars"></div>
+<canvas id="particles"></canvas>
+<div class="rings">
+  <div class="ring"></div>
+  <div class="ring"></div>
+  <div class="ring"></div>
+  <div class="ring"></div>
+  <div class="ring"></div>
+  <div class="ring"></div>
+</div>
+
+<div class="vignette"></div>
+
+<div id="cursor"></div>
+
+<a href="index.html" class="back">← retour</a>
+
+<div class="container">
+  <div class="halo"></div>
+  <img src="sacred-geometry-gold.jpg" alt="Géométrie sacrée · φ = 1.618" class="sacred-img">
+</div>
+
+<div class="phi-sign">φ · π · 1.618</div>
+
+<script>
+// ── Curseur personnalisé ──────────────────────────────────────────────────────
+const cursor = document.getElementById('cursor');
+document.addEventListener('mousemove', e => {
+  cursor.style.left = e.clientX + 'px';
+  cursor.style.top  = e.clientY + 'px';
+});
+
+// ── Particules dorées ─────────────────────────────────────────────────────────
+const canvas = document.getElementById('particles');
+const ctx = canvas.getContext('2d');
+canvas.width  = window.innerWidth;
+canvas.height = window.innerHeight;
+
+window.addEventListener('resize', () => {
+  canvas.width  = window.innerWidth;
+  canvas.height = window.innerHeight;
+});
+
+const PHI = 1.618;
+const PI  = Math.PI;
+
+// Générer des particules en spirale de Fibonacci
+const particles = [];
+const N = 144; // nombre de Fibonacci
+
+for (let i = 0; i < N; i++) {
+  const angle  = i * 2 * PI / (PHI * PHI); // angle doré
+  const radius = Math.sqrt(i) * 18;
+  const cx = canvas.width  / 2;
+  const cy = canvas.height / 2;
+
+  particles.push({
+    x: cx + Math.cos(angle) * radius,
+    y: cy + Math.sin(angle) * radius,
+    baseX: cx + Math.cos(angle) * radius,
+    baseY: cy + Math.sin(angle) * radius,
+    size:  Math.random() * 2 + 0.5,
+    speed: Math.random() * 0.02 + 0.005,
+    phase: Math.random() * PI * 2,
+    opacity: Math.random() * 0.6 + 0.2,
+  });
+}
+
+let frame = 0;
+
+function drawParticles() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  frame++;
+
+  particles.forEach((p, i) => {
+    // Mouvement orbital doux
+    const t = frame * p.speed + p.phase;
+    p.x = p.baseX + Math.cos(t) * 8;
+    p.y = p.baseY + Math.sin(t * PHI) * 8;
+
+    // Opacité pulsante
+    const opacity = p.opacity * (0.5 + 0.5 * Math.sin(t * 2));
+
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, p.size, 0, PI * 2);
+    ctx.fillStyle = `rgba(201, 168, 76, ${opacity})`;
+    ctx.fill();
+
+    // Relier les particules proches
+    for (let j = i + 1; j < Math.min(i + 5, particles.length); j++) {
+      const q = particles[j];
+      const dx = p.x - q.x;
+      const dy = p.y - q.y;
+      const dist = Math.sqrt(dx*dx + dy*dy);
+      if (dist < 60) {
+        ctx.beginPath();
+        ctx.moveTo(p.x, p.y);
+        ctx.lineTo(q.x, q.y);
+        ctx.strokeStyle = `rgba(201, 168, 76, ${0.08 * (1 - dist/60)})`;
+        ctx.lineWidth = 0.5;
+        ctx.stroke();
+      }
+    }
+  });
+
+  requestAnimationFrame(drawParticles);
+}
+
+drawParticles();
+
+// ── Interaction souris — attraction des particules ────────────────────────────
+document.addEventListener('mousemove', e => {
+  particles.forEach(p => {
+    const dx = e.clientX - p.baseX;
+    const dy = e.clientY - p.baseY;
+    const dist = Math.sqrt(dx*dx + dy*dy);
+    if (dist < 120) {
+      const force = (120 - dist) / 120 * 15;
+      p.baseX += dx / dist * force * 0.02;
+      p.baseY += dy / dist * force * 0.02;
+    }
+  });
+});
+</script>
+
+</body>
+</html>
