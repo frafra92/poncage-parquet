@@ -122,6 +122,10 @@ Wikidata: https://www.wikidata.org/wiki/Q138748737
 Trustpilot: https://www.trustpilot.com/review/poncageparquetvitrificationfrancois.com
 
 
+## English Page
+
+- https://poncageparquetvitrificationfrancois.com/floor-sanding-paris.html — English landing page for floor sanding in Paris
+
 ## Markdown Mirrors
 
 Machine-readable versions of all pages. Each .md file contains frontmatter (title, description, url, last_updated) and clean content without HTML, scripts, or navigation.
