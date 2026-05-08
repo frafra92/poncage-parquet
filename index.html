@@ -2546,7 +2546,6 @@ François Gaillard, artisan parqueteur indépendant basé à Montrouge (92120) �
 </main>
 
 <footer style="position:relative">
-  <a href="phi.html" style="position:absolute;right:1.5rem;bottom:1.5rem;color:#c9a84c;font-family:Georgia,serif;font-size:1.1rem;text-decoration:none;letter-spacing:.1em;opacity:.75;transition:opacity .3s" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='.75'">φ</a>
   <span class="footer-brand">François Gaillard · Ponçage Parquet Paris</span>
   <p style="margin-bottom:.5rem">&copy; 2026 · Artisan parqueteur à Montrouge</p>
   <p style="font-size:.72rem;color:var(--text-muted);line-height:2;flex-wrap:wrap">
@@ -2957,5 +2956,22 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closeNavMenu
     observer.observe(badge);
   })();
   </script>
+
+<!-- Signe secret φ -->
+<a href="phi.html" id="phi-secret" style="
+  position:fixed;
+  bottom:1.2rem;
+  right:1.5rem;
+  z-index:998;
+  color:#c9a84c;
+  font-family:Georgia,serif;
+  font-size:1.4rem;
+  text-decoration:none;
+  line-height:1;
+  opacity:0.8;
+  transition:opacity .3s, transform .3s;
+  cursor:pointer;
+" onmouseover="this.style.opacity='1';this.style.transform='scale(1.2)'" 
+   onmouseout="this.style.opacity='0.8';this.style.transform='scale(1)'">φ</a>
 </body>
 </html>
