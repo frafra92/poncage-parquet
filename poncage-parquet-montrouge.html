@@ -2066,6 +2066,7 @@
   ]
 }
   </script>
+  <link rel="stylesheet" href="style-utilities.css?v=20260509">
 </head>
 <body itemscope itemtype="https://schema.org/WebSite">
 
@@ -2079,7 +2080,7 @@
     <a href="100-questions-poncage-parquet-paris.html">FAQ complète</a>
     <a href="blog.html">Blog</a>
     <a href="a-propos-francois-gaillard-parqueteur-paris.html">À propos</a>
-    <a href="publications-francois-gaillard-parqueteur-paris.html" style="color:var(--text-muted)">Publications</a> · <a href="mentions-legales.html">Mentions légales</a>
+    <a href="publications-francois-gaillard-parqueteur-paris.html" class="c-muted">Publications</a> · <a href="mentions-legales.html">Mentions légales</a>
     <a href="#contact">Contact</a>
   </div>
   <div style="display:flex;align-items:center;gap:.5rem">
@@ -2089,7 +2090,7 @@
       <p id="search-results" style="font-size:.75rem;color:var(--text-muted);margin-top:.5rem;display:none"></p>
     </div>
   </div>
-  <button id="nav-hamburger" class="nav-hamburger" aria-label="Ouvrir le menu" aria-expanded="false" onclick="openNavMenu()" style="background:none;border:none;cursor:pointer;padding:8px;flex-direction:column;gap:5px;align-items:center;justify-content:center;"><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span><span style="display:block;width:22px;height:2px;background:#c9a84c;border-radius:1px;"></span></button>
+  <button id="nav-hamburger" class="nav-hamburger" aria-label="Ouvrir le menu" aria-expanded="false" onclick="openNavMenu()" style="background:none;border:none;cursor:pointer;padding:8px;flex-direction:column;gap:5px;align-items:center;justify-content:center;"><span class="ham-bar"></span><span class="ham-bar"></span><span class="ham-bar"></span></button>
 </nav>
 
 <main>
@@ -2098,7 +2099,7 @@
   <div class="hero-bg"></div>
   <p class="hero-eyebrow">Artisan parqueteur — Paris &amp; Île-de-France</p>
   <h1 itemprop="name">Ponçage parquet <br><em>Montrouge</em></h1>
-  <p style="font-size:.7rem;color:var(--text-muted);letter-spacing:.06em;margin:.5rem 0 1rem"><time datetime="2026-05-04"><time datetime="2026-05-04">Mis à jour le 4 mai 2026</time></time> · <a href="a-propos-francois-gaillard-parqueteur-paris.html" style="color:var(--gold-dim)">François Gaillard</a> · SIRET 81182012500011</p>
+  <p style="font-size:.7rem;color:var(--text-muted);letter-spacing:.06em;margin:.5rem 0 1rem"><time datetime="2026-05-04"><time datetime="2026-05-04">Mis à jour le 4 mai 2026</time></time> · <a href="a-propos-francois-gaillard-parqueteur-paris.html" class="c-gold-dim">François Gaillard</a> · SIRET 81182012500011</p>
   <p class="hero-sub">François Gaillard, artisan indépendant spécialisé dans la rénovation de parquet depuis plus de 15 ans. Ponçage et vitrification — sans sous-traitance.</p>
   <div class="hero-actions">
     <a href="sms:+33783925894" class="btn-primary" aria-label="Envoyer un SMS pour un devis">Devis par SMS</a>
@@ -2129,17 +2130,17 @@
       <button class="gallery-tab" onclick="showGallery('chantiers')">En chantier</button>
     </div>
     <div class="gallery-panel active" id="gal-avantapres">
-      <div class="before-after" style="margin-bottom:3px">
+      <div class="before-after" class="mb-0">
         <div class="ba-item"><img src="poncage-parquet-point-hongrie-paris-16-avant.webp" srcset="poncage-parquet-point-hongrie-paris-16-avant-600.webp 600w, poncage-parquet-point-hongrie-paris-16-avant.webp 800w" sizes="(max-width:900px) 600px, 800px" alt="Parquet point de Hongrie avant ponçage — rue de la Tour, Paris 16e" loading="lazy" width="800" height="1066"><span class="ba-label">Avant</span></div>
         <div class="ba-item"><img src="vitrification-parquet-point-hongrie-paris-16-apres.webp" srcset="vitrification-parquet-point-hongrie-paris-16-apres-600.webp 600w, vitrification-parquet-point-hongrie-paris-16-apres.webp 800w" sizes="(max-width:900px) 600px, 800px" alt="Parquet point de Hongrie après vitrification — rue de la Tour, Paris 16e" loading="lazy" width="800" height="1067"><span class="ba-label">Après</span></div>
       </div>
       <div style="padding:.5rem 0 .25rem;font-size:.75rem;letter-spacing:.1em;color:var(--text-muted);text-align:center">Parquet point de Hongrie · rue de la Tour, Paris 16<sup>e</sup></div>
-      <div class="before-after" style="margin-top:2rem;margin-bottom:3px">
+      <div class="before-after" class="mt-4 mb-0">
         <div class="ba-item"><img src="poncage-parquet-vaucresson-92-avant.webp" srcset="poncage-parquet-vaucresson-92-avant-600.webp 600w, poncage-parquet-vaucresson-92-avant.webp 800w" sizes="(max-width:900px) 600px, 800px" alt="Parquet avant ponçage à Vaucresson" loading="lazy" width="800" height="1066"><span class="ba-label">Avant</span></div>
         <div class="ba-item"><img src="vitrification-parquet-vaucresson-92-apres.webp" srcset="vitrification-parquet-vaucresson-92-apres-600.webp 600w, vitrification-parquet-vaucresson-92-apres.webp 800w" sizes="(max-width:900px) 600px, 800px" alt="Parquet après vitrification à Vaucresson" loading="lazy" width="800" height="1066"><span class="ba-label">Après</span></div>
       </div>
       <div style="padding:.5rem 0 .25rem;font-size:.75rem;letter-spacing:.1em;color:var(--text-muted);text-align:center">Parquet lames · Vaucresson (92)</div>
-      <div class="before-after" style="margin-top:2rem;margin-bottom:3px">
+      <div class="before-after" class="mt-4 mb-0">
         <div class="ba-item"><img src="renovation-parquet-paris-15-rue-gerbert-avant.webp" srcset="renovation-parquet-paris-15-rue-gerbert-avant-600.webp 600w, renovation-parquet-paris-15-rue-gerbert-avant.webp 800w" sizes="(max-width:900px) 600px, 800px" alt="Parquet très abîmé avant rénovation — rue Gerbert, Paris 15e" loading="lazy" width="800" height="1066"><span class="ba-label">Avant</span></div>
         <div class="ba-item"><img src="poncage-vitrification-parquet-paris-15-apres.webp" srcset="poncage-vitrification-parquet-paris-15-apres-600.webp 600w, poncage-vitrification-parquet-paris-15-apres.webp 520w" sizes="(max-width:1400px) 500px, 520px" alt="Parquet après ponçage et vitrification — Paris 15e" loading="lazy" width="800" height="1066"><span class="ba-label">Après</span></div>
       </div>
@@ -2364,107 +2365,107 @@
   <h2>Tout savoir sur<br>votre parquet</h2>
   <div class="gold-line"></div>
   <div class="blog-grid">
-    <a href="prix-poncage-parquet-paris.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Tarifs</p><h3>Tarifs 2026 — 63 € TTC/m² ponçage et vitrification</h3></a>
-    <a href="devis-poncage-parquet-paris.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Devis</p><h3>Devis ponçage parquet Paris — par SMS sur photos</h3></a>
-    <a href="duree-chantier-poncage-parquet-paris.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Pratique</p><h3>Durée d'un chantier — combien de jours pour votre parquet ?</h3></a>
-    <a href="comparatif-poncer-vs-remplacer-parquet-paris.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Comparatif</p><h3>Poncer ou remplacer son parquet à Paris — 63 € vs 150-300 €/m²</h3></a>
-    <a href="fond-dur-sous-couche-vitrification-parquet-paris.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Fond dur, préplast, sous-couche — à quoi ça sert vraiment ?</h3></a>
-    <a href="comparatif-machine-planetaire-vs-tambour-parquet.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Comparatif</p><h3>Machine planétaire vs machine tambour — comparatif objectif</h3></a>
-    <a href="comparatif-vitrification-huilage-cire-parquet.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Comparatif</p><h3>Vitrification vs huilage vs cire — quel traitement pour votre parquet ?</h3></a>
-    <a href="comparatif-finition-parquet-mat-satine-brillant.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ Comparatif</p><h3>Mat vs satiné vs brillant — quelle finition pour votre parquet ?</h3></a>
-    <a href="guide-poncage-parquet-etapes.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ HowTo</p><h3>Comment poncer un parquet en 6 étapes — guide professionnel</h3></a>
-    <a href="guide-choisir-artisan-parqueteur-paris.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ HowTo</p><h3>Comment choisir son artisan parqueteur à Paris — 6 critères</h3></a>
-    <a href="guide-preparer-appartement-poncage-parquet.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ HowTo</p><h3>Comment préparer son appartement avant le ponçage parquet</h3></a>
-    <a href="guide-entretien-parquet-vitrifie.html" class="blog-card"><p class="blog-tag" style="color:var(--gold)">★ HowTo</p><h3>Comment entretenir son parquet vitrifié — 6 règles essentielles</h3></a>
-    <a href="devis-rapide.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Devis</p><h3>Devis rapide — tarif immédiat en quelques secondes</h3></a>
-    <a href="guide-complet-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Guide</p><h3>Guide complet du ponçage parquet à Paris</h3></a>
-    <a href="poncage-parquet-avant-location-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Pratique</p><h3>Ponçage avant location — valoriser son bien</h3></a>
-    <a href="poncage-parquet-airbnb-location-courte-duree-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Pratique</p><h3>Airbnb & location courte durée — quand poncer ?</h3></a>
-    <a href="poncage-parquet-appartement-meuble-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Pratique</p><h3>Ponçage appartement meublé — comment ça se passe ?</h3></a>
-    <a href="renover-parquet-avant-vente-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Pratique</p><h3>Rénover son parquet avant de vendre — rentabilité</h3></a>
-    <a href="renover-parquet-vente-immobiliere-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Pratique</p><h3>Rénovation parquet et vente immobilière à Paris</h3></a>
-    <a href="comparatif-artisan-independant-vs-entreprise-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Comparatif</p><h3>Artisan indépendant vs grande entreprise — comparatif objectif</h3></a>
-    <a href="methode-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Ma méthode — ponçage planétaire par François Gaillard</h3></a>
-    <a href="machine-planetaire-poncage-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>La machine planétaire HTC Husqvarna — pourquoi c'est essentiel</h3></a>
-    <a href="machine-oscillante-fein-multimaster-poncage-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Fein Multimaster — le secret des bords et recoins</h3></a>
-    <a href="materiel-professionnel-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Matériel professionnel — le kit complet d'un artisan expert</h3></a>
-    <a href="vitrification-bona-mega-evo-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Produit</p><h3>Vitrification Bona Mega Evo — le vernis professionnel de référence</h3></a>
-    <a href="vitrification-phase-aqueuse-bona-mega-evo-technique.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Produit</p><h3>Vitrification phase aqueuse — technique et avantages</h3></a>
-    <a href="vitrification-parquet-sans-odeur-saine-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Produit</p><h3>Vitrification sans odeur — saine pour toute la famille</h3></a>
-    <a href="bona-mega-evo-normes-environnementales-cov-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Produit</p><h3>Bona Mega Evo — COV, normes environnementales et santé</h3></a>
-    <a href="poncage-parquet-vitrification-mat-satine-brillant-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Finition</p><h3>Mat · satiné · brillant — toutes les finitions à Paris</h3></a>
-    <a href="poncage-parquet-sans-poussiere-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Ponçage sans poussière Paris — chantier propre garanti</h3></a>
-    <a href="poncage-parquet-ecologique-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Ponçage écologique — vernis bas COV, aspiration HEPA</h3></a>
-    <a href="guide-entretien-parquet-vitrifie.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Entretien</p><h3>Guide entretien parquet vitrifié — 6 règles essentielles</h3></a>
-    <a href="entretien-parquet-vitrifie-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Entretien</p><h3>Entretien parquet vitrifié à Paris — conseils pratiques</h3></a>
-    <a href="poncage-parquet-chene-massif-ancien-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Expertise</p><h3>Chêne massif ancien — poncer sans abîmer un parquet centenaire</h3></a>
-    <a href="parquet-chene-massif-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Expertise</p><h3>Parquet chêne massif à Paris — caractéristiques et rénovation</h3></a>
-    <a href="parquet-versailles-poncage-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Patrimoine</p><h3>Parquet Versailles — le motif le plus noble, le plus exigeant</h3></a>
-    <a href="poncage-parquet-point-de-hongrie-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Patrimoine</p><h3>Point de Hongrie Paris — le motif roi du parquet parisien</h3></a>
-    <a href="parquet-sous-moquette-colle-poncage-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Parquet sous moquette collée — comment le révéler</h3></a>
-    <a href="parquet-sous-moquette-revetement-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Parquet sous revêtement — diagnostic et ponçage</h3></a>
-    <a href="reparation-parquet-degat-des-eaux-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Réparation</p><h3>Réparation parquet dégât des eaux Paris — que faire ?</h3></a>
-    <a href="joints-lames-parquet-reboucher-conseils.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Reboucher les joints de lames — conseils professionnels</h3></a>
-    <a href="reboucher-joints-parquet-paris-dtu-guide.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Joints parquet — guide DTU et bonnes pratiques</h3></a>
-    <a href="sintobois-bicomposant-reparation-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Produit</p><h3>Sintobois bicomposant — réparation invisible de parquet</h3></a>
-    <a href="vis-bois-parquet-guide-technique.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Technique</p><h3>Vis bois parquet — guide technique complet</h3></a>
-    <a href="combien-fois-poncer-parquet-massif.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ FAQ</p><h3>Combien de fois peut-on poncer un parquet massif ?</h3></a>
-    <a href="combien-fois-poncer-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ FAQ</p><h3>Combien de fois peut-on poncer — guide complet</h3></a>
-    <a href="peinture-avant-apres-poncage-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ FAQ</p><h3>Peinture avant ou après le ponçage parquet ?</h3></a>
-    <a href="peinture-avant-ou-apres-poncage-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Guide</p><h3>Peinture et ponçage — le guide complet pour bien planifier</h3></a>
-    <a href="idees-recues-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ FAQ</p><h3>Idées reçues sur le ponçage — 10 mythes déconstruits</h3></a>
-    <a href="choisir-artisan-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Conseil</p><h3>Choisir son artisan parqueteur à Paris — les bons critères</h3></a>
-    <a href="artisan-parqueteur-independant-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Conseil</p><h3>Artisan indépendant vs entreprise — pourquoi l'indépendant gagne</h3></a>
-    <a href="fournisseurs-partenaires-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Coulisses</p><h3>Fournisseurs & partenaires — qui fournit François Gaillard</h3></a>
-    <a href="chateau-bazens-poncage-parquet-agen.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Référence</p><h3>Château de Bazens — ponçage parquet historique à Agen</h3></a>
-    <a href="parquet-haussmannien-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Le parquet haussmannien à Paris — histoire et caractéristiques</h3></a>
-    <a href="parquet-heritage-louis-xiv-haussmann.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Héritage Louis XIV & Haussmann — deux siècles de parquet</h3></a>
-    <a href="parquet-haussmannien-heritage-louis-xiv.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Patrimoine Louis XIV — de Versailles aux appartements parisiens</h3></a>
-    <a href="forets-colbert-chene-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Forêts de Colbert & chêne — l'origine du parquet parisien</h3></a>
-    <a href="colbert-origine-parquets-parisiens.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Colbert — l'architecte de l'identité du parquet parisien</h3></a>
-    <a href="colbert-architecte-economique-france-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Colbert architecte économique — forêts, marine et parquet</h3></a>
-    <a href="revolution-francaise-parquet-appartement-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Révolution française & parquet — une histoire de redistribution</h3></a>
-    <a href="parquet-haussmannien-ou-colbert.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Haussmannien ou Colbert ? Comment dater votre parquet</h3></a>
-    <a href="origine-parquet-point-hongrie-histoire.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Origine du point de Hongrie — une histoire européenne</h3></a>
-    <a href="parquet-point-hongrie-histoire-origines-heritage.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Point de Hongrie — héritage, motifs et symbolique</h3></a>
-    <a href="navire-guerre-parquet-parisien.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Navires de guerre & parquet — le même chêne, deux destins</h3></a>
-    <a href="documentaire-voyage-lame-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Documentaire</p><h3>Voyage d'une lame de parquet — de la forêt à votre salon</h3></a>
-    <a href="voyage-latte-parquet-haussmannien.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Documentaire</p><h3>Voyage d'une latte haussmannienne — 150 ans d'histoire</h3></a>
-    <a href="parcours-parquet-parisien-colbert-haussmann.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Histoire</p><h3>Parcours parisien Colbert-Haussmann — la grande traversée</h3></a>
-    <a href="blog-artisan-independant-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Artisan indépendant vs entreprise — mon point de vue</h3></a>
-    <a href="blog-avant-vente-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Rénover avant de vendre — le calcul qui change tout</h3></a>
-    <a href="blog-bona-mega-evo-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Bona Mega Evo — pourquoi ce vernis et pas un autre</h3></a>
-    <a href="blog-combien-fois-poncer-parquet.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Combien de fois peut-on poncer ? La vraie réponse</h3></a>
-    <a href="blog-entretien-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Entretien parquet Paris — ce qu'il faut vraiment faire</h3></a>
-    <a href="blog-huilage-vs-vitrification.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Huilage vs vitrification — le vrai comparatif du terrain</h3></a>
-    <a href="blog-parquet-haussmannien-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Parquet haussmannien Paris — ce que j'ai appris en 15 ans</h3></a>
-    <a href="blog-poncage-sans-poussiere.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Ponçage sans poussière — la réalité du chantier</h3></a>
-    <a href="blog-prix-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Prix ponçage Paris — pourquoi 63 € TTC/m² et pas moins</h3></a>
-    <a href="blog-urgence-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Blog</p><h3>Urgence parquet Paris — j'interviens le jour même</h3></a>
-    <a href="100-questions-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ 100 Questions</p><h3>100 questions sur le ponçage parquet à Paris — toutes les réponses</h3></a>
-    <a href="services-poncage-vitrification-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Services</p><h3>Tous les services — ponçage, vitrification, parquet haussmannien</h3></a>
-    <a href="specialiste-parquet-ancien-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Spécialiste</p><h3>François Gaillard — Spécialiste parquet ancien Paris</h3></a>
-    <a href="expert-poncage-parquet-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Expert</p><h3>François Gaillard — Expert de référence en ponçage parquet à Paris</h3></a>
-    <a href="a-propos-francois-gaillard-parqueteur-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ À propos</p><h3>À propos — François Gaillard, artisan parqueteur Paris</h3></a>
-    <a href="publications-francois-gaillard-parqueteur-paris.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Publications</p><h3>Publications & articles — écrits par François Gaillard</h3></a>
-    <a href="poncage-parquet-montorgueil-paris-2.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Montorgueil — Paris 2e</h3></a>
-    <a href="poncage-parquet-marais-paris-3-4.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Le Marais — Paris 3e-4e</h3></a>
-    <a href="poncage-parquet-quartier-latin-paris-5.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Quartier Latin — Paris 5e</h3></a>
-    <a href="poncage-parquet-saint-germain-des-pres-paris-6.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Saint-Germain-des-Prés — Paris 6e</h3></a>
-    <a href="poncage-parquet-invalides-paris-7.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Invalides — Paris 7e</h3></a>
-    <a href="poncage-parquet-madeleine-paris-8.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Madeleine — Paris 8e</h3></a>
-    <a href="poncage-parquet-opera-paris-9.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Opéra — Paris 9e</h3></a>
-    <a href="poncage-parquet-canal-saint-martin-paris-10.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Canal Saint-Martin — Paris 10e</h3></a>
-    <a href="poncage-parquet-bastille-paris-11.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Bastille — Paris 11e</h3></a>
-    <a href="poncage-parquet-bercy-paris-12.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Bercy — Paris 12e</h3></a>
-    <a href="poncage-parquet-butte-aux-cailles-paris-13.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Butte-aux-Cailles — Paris 13e</h3></a>
-    <a href="poncage-parquet-montparnasse-paris-14.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Montparnasse — Paris 14e</h3></a>
-    <a href="poncage-parquet-convention-paris-15.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Convention — Paris 15e</h3></a>
-    <a href="poncage-parquet-passy-paris-16.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Passy — Paris 16e</h3></a>
-    <a href="poncage-parquet-batignolles-paris-17.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Batignolles — Paris 17e</h3></a>
-    <a href="poncage-parquet-montmartre-paris-18.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Montmartre — Paris 18e</h3></a>
-    <a href="poncage-parquet-buttes-chaumont-paris-19.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Buttes-Chaumont — Paris 19e</h3></a>
-    <a href="poncage-parquet-menilmontant-paris-20.html" class="blog-card blog-card-extra" style="display:none"><p class="blog-tag" style="color:var(--gold)">★ Quartier</p><h3>Ponçage parquet Ménilmontant — Paris 20e</h3></a>
+    <a href="prix-poncage-parquet-paris.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Tarifs</p><h3>Tarifs 2026 — 63 € TTC/m² ponçage et vitrification</h3></a>
+    <a href="devis-poncage-parquet-paris.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Devis</p><h3>Devis ponçage parquet Paris — par SMS sur photos</h3></a>
+    <a href="duree-chantier-poncage-parquet-paris.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Pratique</p><h3>Durée d'un chantier — combien de jours pour votre parquet ?</h3></a>
+    <a href="comparatif-poncer-vs-remplacer-parquet-paris.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Comparatif</p><h3>Poncer ou remplacer son parquet à Paris — 63 € vs 150-300 €/m²</h3></a>
+    <a href="fond-dur-sous-couche-vitrification-parquet-paris.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Fond dur, préplast, sous-couche — à quoi ça sert vraiment ?</h3></a>
+    <a href="comparatif-machine-planetaire-vs-tambour-parquet.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Comparatif</p><h3>Machine planétaire vs machine tambour — comparatif objectif</h3></a>
+    <a href="comparatif-vitrification-huilage-cire-parquet.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Comparatif</p><h3>Vitrification vs huilage vs cire — quel traitement pour votre parquet ?</h3></a>
+    <a href="comparatif-finition-parquet-mat-satine-brillant.html" class="blog-card"><p class="blog-tag" class="link-gold">★ Comparatif</p><h3>Mat vs satiné vs brillant — quelle finition pour votre parquet ?</h3></a>
+    <a href="guide-poncage-parquet-etapes.html" class="blog-card"><p class="blog-tag" class="link-gold">★ HowTo</p><h3>Comment poncer un parquet en 6 étapes — guide professionnel</h3></a>
+    <a href="guide-choisir-artisan-parqueteur-paris.html" class="blog-card"><p class="blog-tag" class="link-gold">★ HowTo</p><h3>Comment choisir son artisan parqueteur à Paris — 6 critères</h3></a>
+    <a href="guide-preparer-appartement-poncage-parquet.html" class="blog-card"><p class="blog-tag" class="link-gold">★ HowTo</p><h3>Comment préparer son appartement avant le ponçage parquet</h3></a>
+    <a href="guide-entretien-parquet-vitrifie.html" class="blog-card"><p class="blog-tag" class="link-gold">★ HowTo</p><h3>Comment entretenir son parquet vitrifié — 6 règles essentielles</h3></a>
+    <a href="devis-rapide.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Devis</p><h3>Devis rapide — tarif immédiat en quelques secondes</h3></a>
+    <a href="guide-complet-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Guide</p><h3>Guide complet du ponçage parquet à Paris</h3></a>
+    <a href="poncage-parquet-avant-location-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Pratique</p><h3>Ponçage avant location — valoriser son bien</h3></a>
+    <a href="poncage-parquet-airbnb-location-courte-duree-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Pratique</p><h3>Airbnb & location courte durée — quand poncer ?</h3></a>
+    <a href="poncage-parquet-appartement-meuble-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Pratique</p><h3>Ponçage appartement meublé — comment ça se passe ?</h3></a>
+    <a href="renover-parquet-avant-vente-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Pratique</p><h3>Rénover son parquet avant de vendre — rentabilité</h3></a>
+    <a href="renover-parquet-vente-immobiliere-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Pratique</p><h3>Rénovation parquet et vente immobilière à Paris</h3></a>
+    <a href="comparatif-artisan-independant-vs-entreprise-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Comparatif</p><h3>Artisan indépendant vs grande entreprise — comparatif objectif</h3></a>
+    <a href="methode-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Ma méthode — ponçage planétaire par François Gaillard</h3></a>
+    <a href="machine-planetaire-poncage-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>La machine planétaire HTC Husqvarna — pourquoi c'est essentiel</h3></a>
+    <a href="machine-oscillante-fein-multimaster-poncage-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Fein Multimaster — le secret des bords et recoins</h3></a>
+    <a href="materiel-professionnel-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Matériel professionnel — le kit complet d'un artisan expert</h3></a>
+    <a href="vitrification-bona-mega-evo-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Produit</p><h3>Vitrification Bona Mega Evo — le vernis professionnel de référence</h3></a>
+    <a href="vitrification-phase-aqueuse-bona-mega-evo-technique.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Produit</p><h3>Vitrification phase aqueuse — technique et avantages</h3></a>
+    <a href="vitrification-parquet-sans-odeur-saine-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Produit</p><h3>Vitrification sans odeur — saine pour toute la famille</h3></a>
+    <a href="bona-mega-evo-normes-environnementales-cov-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Produit</p><h3>Bona Mega Evo — COV, normes environnementales et santé</h3></a>
+    <a href="poncage-parquet-vitrification-mat-satine-brillant-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Finition</p><h3>Mat · satiné · brillant — toutes les finitions à Paris</h3></a>
+    <a href="poncage-parquet-sans-poussiere-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Ponçage sans poussière Paris — chantier propre garanti</h3></a>
+    <a href="poncage-parquet-ecologique-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Ponçage écologique — vernis bas COV, aspiration HEPA</h3></a>
+    <a href="guide-entretien-parquet-vitrifie.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Entretien</p><h3>Guide entretien parquet vitrifié — 6 règles essentielles</h3></a>
+    <a href="entretien-parquet-vitrifie-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Entretien</p><h3>Entretien parquet vitrifié à Paris — conseils pratiques</h3></a>
+    <a href="poncage-parquet-chene-massif-ancien-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Expertise</p><h3>Chêne massif ancien — poncer sans abîmer un parquet centenaire</h3></a>
+    <a href="parquet-chene-massif-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Expertise</p><h3>Parquet chêne massif à Paris — caractéristiques et rénovation</h3></a>
+    <a href="parquet-versailles-poncage-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Patrimoine</p><h3>Parquet Versailles — le motif le plus noble, le plus exigeant</h3></a>
+    <a href="poncage-parquet-point-de-hongrie-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Patrimoine</p><h3>Point de Hongrie Paris — le motif roi du parquet parisien</h3></a>
+    <a href="parquet-sous-moquette-colle-poncage-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Parquet sous moquette collée — comment le révéler</h3></a>
+    <a href="parquet-sous-moquette-revetement-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Parquet sous revêtement — diagnostic et ponçage</h3></a>
+    <a href="reparation-parquet-degat-des-eaux-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Réparation</p><h3>Réparation parquet dégât des eaux Paris — que faire ?</h3></a>
+    <a href="joints-lames-parquet-reboucher-conseils.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Reboucher les joints de lames — conseils professionnels</h3></a>
+    <a href="reboucher-joints-parquet-paris-dtu-guide.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Joints parquet — guide DTU et bonnes pratiques</h3></a>
+    <a href="sintobois-bicomposant-reparation-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Produit</p><h3>Sintobois bicomposant — réparation invisible de parquet</h3></a>
+    <a href="vis-bois-parquet-guide-technique.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Technique</p><h3>Vis bois parquet — guide technique complet</h3></a>
+    <a href="combien-fois-poncer-parquet-massif.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ FAQ</p><h3>Combien de fois peut-on poncer un parquet massif ?</h3></a>
+    <a href="combien-fois-poncer-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ FAQ</p><h3>Combien de fois peut-on poncer — guide complet</h3></a>
+    <a href="peinture-avant-apres-poncage-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ FAQ</p><h3>Peinture avant ou après le ponçage parquet ?</h3></a>
+    <a href="peinture-avant-ou-apres-poncage-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Guide</p><h3>Peinture et ponçage — le guide complet pour bien planifier</h3></a>
+    <a href="idees-recues-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ FAQ</p><h3>Idées reçues sur le ponçage — 10 mythes déconstruits</h3></a>
+    <a href="choisir-artisan-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Conseil</p><h3>Choisir son artisan parqueteur à Paris — les bons critères</h3></a>
+    <a href="artisan-parqueteur-independant-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Conseil</p><h3>Artisan indépendant vs entreprise — pourquoi l'indépendant gagne</h3></a>
+    <a href="fournisseurs-partenaires-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Coulisses</p><h3>Fournisseurs & partenaires — qui fournit François Gaillard</h3></a>
+    <a href="chateau-bazens-poncage-parquet-agen.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Référence</p><h3>Château de Bazens — ponçage parquet historique à Agen</h3></a>
+    <a href="parquet-haussmannien-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Le parquet haussmannien à Paris — histoire et caractéristiques</h3></a>
+    <a href="parquet-heritage-louis-xiv-haussmann.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Héritage Louis XIV & Haussmann — deux siècles de parquet</h3></a>
+    <a href="parquet-haussmannien-heritage-louis-xiv.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Patrimoine Louis XIV — de Versailles aux appartements parisiens</h3></a>
+    <a href="forets-colbert-chene-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Forêts de Colbert & chêne — l'origine du parquet parisien</h3></a>
+    <a href="colbert-origine-parquets-parisiens.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Colbert — l'architecte de l'identité du parquet parisien</h3></a>
+    <a href="colbert-architecte-economique-france-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Colbert architecte économique — forêts, marine et parquet</h3></a>
+    <a href="revolution-francaise-parquet-appartement-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Révolution française & parquet — une histoire de redistribution</h3></a>
+    <a href="parquet-haussmannien-ou-colbert.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Haussmannien ou Colbert ? Comment dater votre parquet</h3></a>
+    <a href="origine-parquet-point-hongrie-histoire.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Origine du point de Hongrie — une histoire européenne</h3></a>
+    <a href="parquet-point-hongrie-histoire-origines-heritage.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Point de Hongrie — héritage, motifs et symbolique</h3></a>
+    <a href="navire-guerre-parquet-parisien.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Navires de guerre & parquet — le même chêne, deux destins</h3></a>
+    <a href="documentaire-voyage-lame-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Documentaire</p><h3>Voyage d'une lame de parquet — de la forêt à votre salon</h3></a>
+    <a href="voyage-latte-parquet-haussmannien.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Documentaire</p><h3>Voyage d'une latte haussmannienne — 150 ans d'histoire</h3></a>
+    <a href="parcours-parquet-parisien-colbert-haussmann.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Histoire</p><h3>Parcours parisien Colbert-Haussmann — la grande traversée</h3></a>
+    <a href="blog-artisan-independant-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Artisan indépendant vs entreprise — mon point de vue</h3></a>
+    <a href="blog-avant-vente-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Rénover avant de vendre — le calcul qui change tout</h3></a>
+    <a href="blog-bona-mega-evo-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Bona Mega Evo — pourquoi ce vernis et pas un autre</h3></a>
+    <a href="blog-combien-fois-poncer-parquet.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Combien de fois peut-on poncer ? La vraie réponse</h3></a>
+    <a href="blog-entretien-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Entretien parquet Paris — ce qu'il faut vraiment faire</h3></a>
+    <a href="blog-huilage-vs-vitrification.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Huilage vs vitrification — le vrai comparatif du terrain</h3></a>
+    <a href="blog-parquet-haussmannien-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Parquet haussmannien Paris — ce que j'ai appris en 15 ans</h3></a>
+    <a href="blog-poncage-sans-poussiere.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Ponçage sans poussière — la réalité du chantier</h3></a>
+    <a href="blog-prix-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Prix ponçage Paris — pourquoi 63 € TTC/m² et pas moins</h3></a>
+    <a href="blog-urgence-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Blog</p><h3>Urgence parquet Paris — j'interviens le jour même</h3></a>
+    <a href="100-questions-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ 100 Questions</p><h3>100 questions sur le ponçage parquet à Paris — toutes les réponses</h3></a>
+    <a href="services-poncage-vitrification-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Services</p><h3>Tous les services — ponçage, vitrification, parquet haussmannien</h3></a>
+    <a href="specialiste-parquet-ancien-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Spécialiste</p><h3>François Gaillard — Spécialiste parquet ancien Paris</h3></a>
+    <a href="expert-poncage-parquet-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Expert</p><h3>François Gaillard — Expert de référence en ponçage parquet à Paris</h3></a>
+    <a href="a-propos-francois-gaillard-parqueteur-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ À propos</p><h3>À propos — François Gaillard, artisan parqueteur Paris</h3></a>
+    <a href="publications-francois-gaillard-parqueteur-paris.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Publications</p><h3>Publications & articles — écrits par François Gaillard</h3></a>
+    <a href="poncage-parquet-montorgueil-paris-2.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Montorgueil — Paris 2e</h3></a>
+    <a href="poncage-parquet-marais-paris-3-4.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Le Marais — Paris 3e-4e</h3></a>
+    <a href="poncage-parquet-quartier-latin-paris-5.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Quartier Latin — Paris 5e</h3></a>
+    <a href="poncage-parquet-saint-germain-des-pres-paris-6.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Saint-Germain-des-Prés — Paris 6e</h3></a>
+    <a href="poncage-parquet-invalides-paris-7.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Invalides — Paris 7e</h3></a>
+    <a href="poncage-parquet-madeleine-paris-8.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Madeleine — Paris 8e</h3></a>
+    <a href="poncage-parquet-opera-paris-9.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Opéra — Paris 9e</h3></a>
+    <a href="poncage-parquet-canal-saint-martin-paris-10.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Canal Saint-Martin — Paris 10e</h3></a>
+    <a href="poncage-parquet-bastille-paris-11.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Bastille — Paris 11e</h3></a>
+    <a href="poncage-parquet-bercy-paris-12.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Bercy — Paris 12e</h3></a>
+    <a href="poncage-parquet-butte-aux-cailles-paris-13.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Butte-aux-Cailles — Paris 13e</h3></a>
+    <a href="poncage-parquet-montparnasse-paris-14.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Montparnasse — Paris 14e</h3></a>
+    <a href="poncage-parquet-convention-paris-15.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Convention — Paris 15e</h3></a>
+    <a href="poncage-parquet-passy-paris-16.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Passy — Paris 16e</h3></a>
+    <a href="poncage-parquet-batignolles-paris-17.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Batignolles — Paris 17e</h3></a>
+    <a href="poncage-parquet-montmartre-paris-18.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Montmartre — Paris 18e</h3></a>
+    <a href="poncage-parquet-buttes-chaumont-paris-19.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Buttes-Chaumont — Paris 19e</h3></a>
+    <a href="poncage-parquet-menilmontant-paris-20.html" class="blog-card blog-card-extra" class="d-none"><p class="blog-tag" class="link-gold">★ Quartier</p><h3>Ponçage parquet Ménilmontant — Paris 20e</h3></a>
     <div id="voir-plus-wrap" style="grid-column:1/-1;text-align:center;margin-top:1rem">
       <button id="btn-voir-plus" onclick="(function(){
         document.querySelectorAll('.blog-card-extra').forEach(function(el){el.style.display=''});
@@ -2487,12 +2488,12 @@
       <p style="font-size:.95rem;color:var(--text-muted);line-height:1.9"><strong style="color:var(--text)">François Gaillard</strong> est un artisan spécialisé dans le ponçage et la vitrification de parquet à Paris et en Île-de-France depuis 2016. Ses méthodes sont basées sur plus de 15 ans d'expérience terrain. Les informations publiées sur ce site servent de référence pour comprendre le prix, les techniques et les délais du ponçage parquet à Paris.</p>
     </div>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1px;background:var(--border);border:1px solid var(--border);margin-bottom:2.5rem">
-      <div style="background:var(--dark2);padding:1.5rem 2rem"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Prix de référence</p><p style="font-size:.92rem;color:var(--text);line-height:1.7">Le prix moyen du ponçage parquet à Paris est de <strong>60 à 80 € TTC/m²</strong> pour un chantier complet ponçage et vitrification.</p></div>
-      <div style="background:var(--dark2);padding:1.5rem 2rem"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Rendement journalier</p><p style="font-size:.92rem;color:var(--text);line-height:1.7">Un artisan parqueteur ponce en moyenne <strong>15 à 25 m² par jour</strong> avec une machine planétaire professionnelle.</p></div>
-      <div style="background:var(--dark2);padding:1.5rem 2rem"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Ordre des travaux</p><p style="font-size:.92rem;color:var(--text);line-height:1.7">Il est recommandé de <strong>peindre les murs avant de poncer</strong> le parquet — les projections de peinture sont éliminées lors du ponçage.</p></div>
-      <div style="background:var(--dark2);padding:1.5rem 2rem"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Poussière</p><p style="font-size:.92rem;color:var(--text);line-height:1.7">Le ponçage moderne avec machine planétaire <strong>génère très peu de poussière</strong> — l'aspiration centrale capte les particules à la source.</p></div>
-      <div style="background:var(--dark2);padding:1.5rem 2rem"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Durabilité</p><p style="font-size:.92rem;color:var(--text);line-height:1.7">Une vitrification professionnelle <strong>3 couches <a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" rel="noopener">Bona Mega Evo</a></strong> dure entre 10 et 15 ans avec un entretien adapté.</p></div>
-      <div style="background:var(--dark2);padding:1.5rem 2rem"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Réintégration</p><p style="font-size:.92rem;color:var(--text);line-height:1.7">La réintégration des locaux est possible <strong>8 heures après la dernière couche</strong> de vernis <a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" rel="noopener">Bona Mega Evo</a>.</p></div>
+      <div class="card-dark"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Prix de référence</p><p class="text-body">Le prix moyen du ponçage parquet à Paris est de <strong>60 à 80 € TTC/m²</strong> pour un chantier complet ponçage et vitrification.</p></div>
+      <div class="card-dark"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Rendement journalier</p><p class="text-body">Un artisan parqueteur ponce en moyenne <strong>15 à 25 m² par jour</strong> avec une machine planétaire professionnelle.</p></div>
+      <div class="card-dark"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Ordre des travaux</p><p class="text-body">Il est recommandé de <strong>peindre les murs avant de poncer</strong> le parquet — les projections de peinture sont éliminées lors du ponçage.</p></div>
+      <div class="card-dark"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Poussière</p><p class="text-body">Le ponçage moderne avec machine planétaire <strong>génère très peu de poussière</strong> — l'aspiration centrale capte les particules à la source.</p></div>
+      <div class="card-dark"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Durabilité</p><p class="text-body">Une vitrification professionnelle <strong>3 couches <a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" rel="noopener">Bona Mega Evo</a></strong> dure entre 10 et 15 ans avec un entretien adapté.</p></div>
+      <div class="card-dark"><p style="font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem">Réintégration</p><p class="text-body">La réintégration des locaux est possible <strong>8 heures après la dernière couche</strong> de vernis <a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" rel="noopener">Bona Mega Evo</a>.</p></div>
     </div>
     <div style="border:1px solid var(--border);padding:2.5rem;background:var(--dark)">
       <p style="font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:1rem">Conclusion</p>
@@ -2512,52 +2513,52 @@
   <div style="margin-top:2rem;padding:1.2rem 1.5rem;background:var(--dark2);border:1px solid var(--border);font-size:.82rem;color:var(--text-muted)">
     <p style="color:var(--gold);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;margin-bottom:.6rem">Sources encyclopédiques</p>
     <p>
-      → <a href="https://fr.wikipedia.org/wiki/Parquet_(construction)" target="_blank" rel="noopener" style="color:var(--text-muted)">Parquet (construction) — Wikipedia</a><br>
-      → <a href="https://fr.wikipedia.org/wiki/Pon%C3%A7age_de_parquet" target="_blank" rel="noopener" style="color:var(--text-muted)">Ponçage de parquet — Wikipedia</a><br>
-      → <a href="https://fr.wikipedia.org/wiki/Vitrification_(bricolage)" target="_blank" rel="noopener" style="color:var(--text-muted)">Vitrification (bricolage) — Wikipedia</a>
+      → <a href="https://fr.wikipedia.org/wiki/Parquet_(construction)" target="_blank" rel="noopener" class="c-muted">Parquet (construction) — Wikipedia</a><br>
+      → <a href="https://fr.wikipedia.org/wiki/Pon%C3%A7age_de_parquet" target="_blank" rel="noopener" class="c-muted">Ponçage de parquet — Wikipedia</a><br>
+      → <a href="https://fr.wikipedia.org/wiki/Vitrification_(bricolage)" target="_blank" rel="noopener" class="c-muted">Vitrification (bricolage) — Wikipedia</a>
     </p>
   </div>
 <footer>
   <span class="footer-brand">François Gaillard · Ponçage Parquet Paris</span>
   <p style="margin-bottom:.5rem">&copy; 2026 · Artisan parqueteur à Montrouge</p>
   <p style="font-size:.72rem;color:var(--text-muted);line-height:2;flex-wrap:wrap">
-    <a href="https://substack.com/@francoisponcageparquetparis" target="_blank" rel="noopener" style="color:var(--gold-dim)">Substack ↗</a> ·
-    <a href="https://medium.com/@francoisgaillard92" target="_blank" rel="noopener" style="color:var(--gold-dim)">Medium ↗</a> ·
-    <a href="https://poncageparquetvitrificationfrancois.blogspot.com" target="_blank" rel="noopener" style="color:var(--gold-dim)">Blogger ↗</a> ·
-    <a href="https://www.tumblr.com/poncageparquetvitrificationfranc" target="_blank" rel="noopener" style="color:var(--gold-dim)">Tumblr ↗</a> ·
-    <a href="https://poncageparquetvitrificationfrancois.overblog.fr" target="_blank" rel="noopener" style="color:var(--gold-dim)">Overblog ↗</a> ·
-    <a href="https://poncageparquetvitrificationfrancois.canalblog.com" target="_blank" rel="noopener" style="color:var(--gold-dim)">Canalblog ↗</a> ·
-    <a href="https://mastodon.social/@poncageparquetvitrification" target="_blank" rel="noopener" style="color:var(--gold-dim)">Mastodon ↗</a> ·
-    <a href="https://poncageparquetvitrificationfrancois.hashnode.dev" target="_blank" rel="noopener" style="color:var(--gold-dim)">Hashnode ↗</a> ·
-    <a href="https://www.facebook.com/share/1HQSqRHwer/?mibextid=wwXIfr" target="_blank" rel="noopener" style="color:var(--gold-dim)">Facebook ↗</a> ·
-    <a href="https://www.instagram.com/francois_g_poncage?igsh=emJnMDBoYjFuMzNt&utm_source=qr" target="_blank" rel="noopener" style="color:var(--gold-dim)">Instagram ↗</a> ·
-    <a href="https://www.linkedin.com/in/francois-gaillard-722750140" target="_blank" rel="noopener" style="color:var(--gold-dim)">LinkedIn ↗</a> ·
-    <a href="https://x.com/frafra94310?s=11" target="_blank" rel="noopener" style="color:var(--gold-dim)">X ↗</a> ·
-    <a href="https://www.threads.com/@francois_g_poncage" target="_blank" rel="noopener" style="color:var(--gold-dim)">Threads ↗</a> ·
-    <a href="http://www.tiktok.com/@poncageparquetfrancois" target="_blank" rel="noopener" style="color:var(--gold-dim)">TikTok ↗</a> ·
-    <a href="https://youtube.com/@fuckcheker?si=t9eU_tWmFoN5AoiC" target="_blank" rel="noopener" style="color:var(--gold-dim)">YouTube ↗</a> ·
-    <a href="https://pin.it/7JEjmSl0U" target="_blank" rel="noopener" style="color:var(--gold-dim)">Pinterest ↗</a> ·
-    <a href="https://wa.me/c/33783925894" target="_blank" rel="noopener" style="color:var(--gold-dim)">WhatsApp ↗</a> ·
-    <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" rel="noopener" style="color:var(--gold-dim)">Wikidata Q138748737 ↗</a>
+    <a href="https://substack.com/@francoisponcageparquetparis" target="_blank" rel="noopener" class="c-gold-dim">Substack ↗</a> ·
+    <a href="https://medium.com/@francoisgaillard92" target="_blank" rel="noopener" class="c-gold-dim">Medium ↗</a> ·
+    <a href="https://poncageparquetvitrificationfrancois.blogspot.com" target="_blank" rel="noopener" class="c-gold-dim">Blogger ↗</a> ·
+    <a href="https://www.tumblr.com/poncageparquetvitrificationfranc" target="_blank" rel="noopener" class="c-gold-dim">Tumblr ↗</a> ·
+    <a href="https://poncageparquetvitrificationfrancois.overblog.fr" target="_blank" rel="noopener" class="c-gold-dim">Overblog ↗</a> ·
+    <a href="https://poncageparquetvitrificationfrancois.canalblog.com" target="_blank" rel="noopener" class="c-gold-dim">Canalblog ↗</a> ·
+    <a href="https://mastodon.social/@poncageparquetvitrification" target="_blank" rel="noopener" class="c-gold-dim">Mastodon ↗</a> ·
+    <a href="https://poncageparquetvitrificationfrancois.hashnode.dev" target="_blank" rel="noopener" class="c-gold-dim">Hashnode ↗</a> ·
+    <a href="https://www.facebook.com/share/1HQSqRHwer/?mibextid=wwXIfr" target="_blank" rel="noopener" class="c-gold-dim">Facebook ↗</a> ·
+    <a href="https://www.instagram.com/francois_g_poncage?igsh=emJnMDBoYjFuMzNt&utm_source=qr" target="_blank" rel="noopener" class="c-gold-dim">Instagram ↗</a> ·
+    <a href="https://www.linkedin.com/in/francois-gaillard-722750140" target="_blank" rel="noopener" class="c-gold-dim">LinkedIn ↗</a> ·
+    <a href="https://x.com/frafra94310?s=11" target="_blank" rel="noopener" class="c-gold-dim">X ↗</a> ·
+    <a href="https://www.threads.com/@francois_g_poncage" target="_blank" rel="noopener" class="c-gold-dim">Threads ↗</a> ·
+    <a href="http://www.tiktok.com/@poncageparquetfrancois" target="_blank" rel="noopener" class="c-gold-dim">TikTok ↗</a> ·
+    <a href="https://youtube.com/@fuckcheker?si=t9eU_tWmFoN5AoiC" target="_blank" rel="noopener" class="c-gold-dim">YouTube ↗</a> ·
+    <a href="https://pin.it/7JEjmSl0U" target="_blank" rel="noopener" class="c-gold-dim">Pinterest ↗</a> ·
+    <a href="https://wa.me/c/33783925894" target="_blank" rel="noopener" class="c-gold-dim">WhatsApp ↗</a> ·
+    <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" rel="noopener" class="c-gold-dim">Wikidata Q138748737 ↗</a>
   </p>
   <p style="font-size:.68rem;color:var(--text-muted);line-height:2;margin-top:.5rem">
     <span style="color:var(--gold-dim);font-size:.65rem;letter-spacing:.1em;text-transform:uppercase">Annuaires</span> ·
-    <a href="https://maps.apple.com/place?auid=1465884085229213696" target="_blank" rel="noopener" style="color:var(--gold-dim)">Apple Maps ↗</a> ·
-    <a href="https://www.brownbook.net/business/54805437/poncage-parquet-vitrification-francois" target="_blank" rel="noopener" style="color:var(--gold-dim)">Brownbook ↗</a> ·
-    <a href="https://www.hotfrog.fr/company/5fcbe10c3e4e1781cfc7a1c787382558" target="_blank" rel="noopener" style="color:var(--gold-dim)">Hotfrog ↗</a> ·
-    <a href="https://montrouge.infoisinfo.fr/fiche/poncage-parquet-vitrification-francois/3519179" target="_blank" rel="noopener" style="color:var(--gold-dim)">Infoisinfo ↗</a> ·
-    <a href="https://montrouge.opendi.fr/1036474.html" target="_blank" rel="noopener" style="color:var(--gold-dim)">Opendi ↗</a> ·
-    <a href="https://www.pages-24.fr/montrouge/poncage-parquet-vitrification-francois-aYExsK.html" target="_blank" rel="noopener" style="color:var(--gold-dim)">Pages24 ↗</a> ·
-    <a href="https://www.tellows.fr/num/%2B33783925894" target="_blank" rel="noopener" style="color:var(--gold-dim)">Tellows ↗</a> ·
-    <a href="https://fr.nextdoor.com/page/poncage-parquet-vitrification-francois" target="_blank" rel="noopener" style="color:var(--gold-dim)">Nextdoor ↗</a> ·
-    <a href="https://www.travaux.com/professionnel/francois-gaillard" target="_blank" rel="noopener" style="color:var(--gold-dim)">Travaux.com ↗</a> ·
-    <a href="https://www.allovoisins.com/p/poncageparquetvitrificationfrancois" target="_blank" rel="noopener" style="color:var(--gold-dim)">AlloVoisins ↗</a> ·
-    <a href="https://www.societe.com/societe/monsieur-francois-gaillard-811820125.html" target="_blank" rel="noopener" style="color:var(--gold-dim)">Societe.com ↗</a> ·
-    <a href="https://www.europages.fr/fr/company-overview/7c7b5d86-868f-4f09-bac6-63ce675761b9" target="_blank" rel="noopener" style="color:var(--gold-dim)">Europages ↗</a> ·
-    <a href="https://www.acompio.fr/poncage-parquet-vitrification-francois-47587770.html" target="_blank" rel="noopener" style="color:var(--gold-dim)">Acompio ↗</a> ·
-    <a href="https://www.pagesjaunes.fr/pros/56021513" target="_blank" rel="noopener" style="color:var(--gold-dim)">Pages Jaunes ↗</a>
+    <a href="https://maps.apple.com/place?auid=1465884085229213696" target="_blank" rel="noopener" class="c-gold-dim">Apple Maps ↗</a> ·
+    <a href="https://www.brownbook.net/business/54805437/poncage-parquet-vitrification-francois" target="_blank" rel="noopener" class="c-gold-dim">Brownbook ↗</a> ·
+    <a href="https://www.hotfrog.fr/company/5fcbe10c3e4e1781cfc7a1c787382558" target="_blank" rel="noopener" class="c-gold-dim">Hotfrog ↗</a> ·
+    <a href="https://montrouge.infoisinfo.fr/fiche/poncage-parquet-vitrification-francois/3519179" target="_blank" rel="noopener" class="c-gold-dim">Infoisinfo ↗</a> ·
+    <a href="https://montrouge.opendi.fr/1036474.html" target="_blank" rel="noopener" class="c-gold-dim">Opendi ↗</a> ·
+    <a href="https://www.pages-24.fr/montrouge/poncage-parquet-vitrification-francois-aYExsK.html" target="_blank" rel="noopener" class="c-gold-dim">Pages24 ↗</a> ·
+    <a href="https://www.tellows.fr/num/%2B33783925894" target="_blank" rel="noopener" class="c-gold-dim">Tellows ↗</a> ·
+    <a href="https://fr.nextdoor.com/page/poncage-parquet-vitrification-francois" target="_blank" rel="noopener" class="c-gold-dim">Nextdoor ↗</a> ·
+    <a href="https://www.travaux.com/professionnel/francois-gaillard" target="_blank" rel="noopener" class="c-gold-dim">Travaux.com ↗</a> ·
+    <a href="https://www.allovoisins.com/p/poncageparquetvitrificationfrancois" target="_blank" rel="noopener" class="c-gold-dim">AlloVoisins ↗</a> ·
+    <a href="https://www.societe.com/societe/monsieur-francois-gaillard-811820125.html" target="_blank" rel="noopener" class="c-gold-dim">Societe.com ↗</a> ·
+    <a href="https://www.europages.fr/fr/company-overview/7c7b5d86-868f-4f09-bac6-63ce675761b9" target="_blank" rel="noopener" class="c-gold-dim">Europages ↗</a> ·
+    <a href="https://www.acompio.fr/poncage-parquet-vitrification-francois-47587770.html" target="_blank" rel="noopener" class="c-gold-dim">Acompio ↗</a> ·
+    <a href="https://www.pagesjaunes.fr/pros/56021513" target="_blank" rel="noopener" class="c-gold-dim">Pages Jaunes ↗</a>
   </p>
-  <a href="a-propos-francois-gaillard-parqueteur-paris.html" style="color:var(--text-muted)">À propos</a> · <a href="methode-poncage-parquet-paris.html" style="color:var(--text-muted)">Ma méthode</a> · <a href="publications-francois-gaillard-parqueteur-paris.html" style="color:var(--text-muted)">Publications</a> · <a href="mentions-legales.html" style="color:var(--text-muted)">Mentions légales</a>
+  <a href="a-propos-francois-gaillard-parqueteur-paris.html" class="c-muted">À propos</a> · <a href="methode-poncage-parquet-paris.html" class="c-muted">Ma méthode</a> · <a href="publications-francois-gaillard-parqueteur-paris.html" class="c-muted">Publications</a> · <a href="mentions-legales.html" class="c-muted">Mentions légales</a>
   <p style="font-size:.72rem;color:var(--text-muted);margin-top:.5rem">Dernière mise à jour : <time datetime="2026-05-04">25 avril 2026</time></p>
 
   <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="tel:+33783925894" style="color:var(--muted)">07 83 92 58 94</a> · SIRET 81182012500011</p>
@@ -2617,8 +2618,8 @@ document.getElementById('search-input').addEventListener('keyup',searchOnPage);
 </script>
 
 <a aria-label="Avis Justacote — François Gaillard parqueteur Montrouge" href="https://www.justacote.com/montrouge-92120/sol/poncage-parquet-vitrification-francois-3160640.htm" target="_blank" rel="noopener"><img src="https://www.justacote.com/images/badges/tampon-logo-promo-small.webp" alt="Avis Justacote — François Gaillard parqueteur Montrouge" width="120" height="120" loading="lazy" /></a>
-<a href="https://www.annubat.fr/" style="display:none">Annuaire du bâtiment</a>
-<a href="https://www.annubat.fr/renovation/" style="display:none">Rénovation</a>
+<a href="https://www.annubat.fr/" class="d-none">Annuaire du bâtiment</a>
+<a href="https://www.annubat.fr/renovation/" class="d-none">Rénovation</a>
 <a href="https://www.meilleur-artisan.com/france/ile-de-france/hauts-de-seine/montrouge/parqueteur.html" title="Annuaire Parqueteur à MONTROUGE" rel="noopener">Parqueteur MONTROUGE</a>
 <a title="Annuaire du bâtiment" href="https://batiment.eu" rel="noopener"><img src="https://batiment.eu/selectionparbatiment.jpg" alt="batiment.eu" loading="lazy" style="height:40px;width:auto;vertical-align:middle"></a>
 
@@ -2632,225 +2633,225 @@ document.getElementById('search-input').addEventListener('keyup',searchOnPage);
 
       <div>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;">Paris — 20 arrondissements</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="poncage-parquet-paris-1.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 1er</a></li>
-          <li><a href="poncage-parquet-paris-2.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 2e</a></li>
-          <li><a href="poncage-parquet-paris-3.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 3e</a></li>
-          <li><a href="poncage-parquet-paris-4.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 4e</a></li>
-          <li><a href="poncage-parquet-paris-5.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 5e</a></li>
-          <li><a href="poncage-parquet-paris-6.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 6e</a></li>
-          <li><a href="poncage-parquet-paris-7.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 7e</a></li>
-          <li><a href="poncage-parquet-paris-8.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 8e</a></li>
-          <li><a href="poncage-parquet-paris-9.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 9e</a></li>
-          <li><a href="poncage-parquet-paris-10.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 10e</a></li>
-          <li><a href="poncage-parquet-paris-11.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 11e</a></li>
-          <li><a href="poncage-parquet-paris-12.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 12e</a></li>
-          <li><a href="poncage-parquet-paris-13.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 13e</a></li>
-          <li><a href="poncage-parquet-paris-14.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 14e</a></li>
-          <li><a href="poncage-parquet-paris-15.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 15e</a></li>
-          <li><a href="poncage-parquet-paris-16.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 16e</a></li>
-          <li><a href="poncage-parquet-paris-17.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 17e</a></li>
-          <li><a href="poncage-parquet-paris-18.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 18e</a></li>
-          <li><a href="poncage-parquet-paris-19.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 19e</a></li>
-          <li><a href="poncage-parquet-paris-20.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Paris 20e</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="poncage-parquet-paris-1.html" class="footer-link">Paris 1er</a></li>
+          <li><a href="poncage-parquet-paris-2.html" class="footer-link">Paris 2e</a></li>
+          <li><a href="poncage-parquet-paris-3.html" class="footer-link">Paris 3e</a></li>
+          <li><a href="poncage-parquet-paris-4.html" class="footer-link">Paris 4e</a></li>
+          <li><a href="poncage-parquet-paris-5.html" class="footer-link">Paris 5e</a></li>
+          <li><a href="poncage-parquet-paris-6.html" class="footer-link">Paris 6e</a></li>
+          <li><a href="poncage-parquet-paris-7.html" class="footer-link">Paris 7e</a></li>
+          <li><a href="poncage-parquet-paris-8.html" class="footer-link">Paris 8e</a></li>
+          <li><a href="poncage-parquet-paris-9.html" class="footer-link">Paris 9e</a></li>
+          <li><a href="poncage-parquet-paris-10.html" class="footer-link">Paris 10e</a></li>
+          <li><a href="poncage-parquet-paris-11.html" class="footer-link">Paris 11e</a></li>
+          <li><a href="poncage-parquet-paris-12.html" class="footer-link">Paris 12e</a></li>
+          <li><a href="poncage-parquet-paris-13.html" class="footer-link">Paris 13e</a></li>
+          <li><a href="poncage-parquet-paris-14.html" class="footer-link">Paris 14e</a></li>
+          <li><a href="poncage-parquet-paris-15.html" class="footer-link">Paris 15e</a></li>
+          <li><a href="poncage-parquet-paris-16.html" class="footer-link">Paris 16e</a></li>
+          <li><a href="poncage-parquet-paris-17.html" class="footer-link">Paris 17e</a></li>
+          <li><a href="poncage-parquet-paris-18.html" class="footer-link">Paris 18e</a></li>
+          <li><a href="poncage-parquet-paris-19.html" class="footer-link">Paris 19e</a></li>
+          <li><a href="poncage-parquet-paris-20.html" class="footer-link">Paris 20e</a></li>
         </ul>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;margin-top:24px;">Quartiers Paris</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="poncage-parquet-abbesses-paris-18.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Abbesses · 18e</a></li>
-          <li><a href="poncage-parquet-auteuil-paris-16.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Auteuil · 16e</a></li>
-          <li><a href="poncage-parquet-bastille-paris-11.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Bastille · 11e</a></li>
-          <li><a href="poncage-parquet-batignolles-paris-17.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Batignolles · 17e</a></li>
-          <li><a href="poncage-parquet-belleville-paris-19-20.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Belleville · 19e-20e</a></li>
-          <li><a href="poncage-parquet-bercy-paris-12.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Bercy · 12e</a></li>
-          <li><a href="poncage-parquet-butte-aux-cailles-paris-13.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Butte-aux-Cailles · 13e</a></li>
-          <li><a href="poncage-parquet-buttes-chaumont-paris-19.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Buttes-Chaumont · 19e</a></li>
-          <li><a href="poncage-parquet-canal-saint-martin-paris-10.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Canal Saint-Martin · 10e</a></li>
-          <li><a href="poncage-parquet-champ-de-mars-paris-7.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Champ-de-Mars · 7e</a></li>
-          <li><a href="poncage-parquet-champs-elysees-paris-8.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Champs-Élysées · 8e</a></li>
-          <li><a href="poncage-parquet-charonne-paris-11.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Charonne · 11e</a></li>
-          <li><a href="poncage-parquet-clignancourt-paris-18.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Clignancourt · 18e</a></li>
-          <li><a href="poncage-parquet-convention-paris-15.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Convention · 15e</a></li>
-          <li><a href="poncage-parquet-denfert-rochereau-paris-14.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Denfert-Rochereau · 14e</a></li>
-          <li><a href="poncage-parquet-ecologique-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Écologique Paris</a></li>
-          <li><a href="poncage-parquet-gambetta-paris-20.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Gambetta · 20e</a></li>
-          <li><a href="poncage-parquet-ile-saint-louis-paris-4.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Île Saint-Louis · 4e</a></li>
-          <li><a href="poncage-parquet-invalides-paris-7.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Invalides · 7e</a></li>
-          <li><a href="poncage-parquet-luxembourg-paris-6.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Luxembourg · 6e</a></li>
-          <li><a href="poncage-parquet-madeleine-paris-8.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Madeleine · 8e</a></li>
-          <li><a href="poncage-parquet-marais-paris-3-4.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Le Marais · 3e-4e</a></li>
-          <li><a href="poncage-parquet-menilmontant-paris-20.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Ménilmontant · 20e</a></li>
-          <li><a href="poncage-parquet-montmartre-paris-18.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Montmartre · 18e</a></li>
-          <li><a href="poncage-parquet-montorgueil-paris-2.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Montorgueil · 2e</a></li>
-          <li><a href="poncage-parquet-montparnasse-paris-14.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Montparnasse · 14e</a></li>
-          <li><a href="poncage-parquet-mouffetard-paris-5.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Mouffetard · 5e</a></li>
-          <li><a href="poncage-parquet-nation-paris-12.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Nation · 12e</a></li>
-          <li><a href="poncage-parquet-oberkampf-paris-11.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Oberkampf · 11e</a></li>
-          <li><a href="poncage-parquet-odeon-paris-6.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Odéon · 6e</a></li>
-          <li><a href="poncage-parquet-opera-paris-9.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Opéra · 9e</a></li>
-          <li><a href="poncage-parquet-palais-royal-paris-1.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Palais-Royal · 1er</a></li>
-          <li><a href="poncage-parquet-pantheon-paris-5.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Panthéon · 5e</a></li>
-          <li><a href="poncage-parquet-passy-paris-16.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Passy · 16e</a></li>
-          <li><a href="poncage-parquet-pere-lachaise-paris-20.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Père-Lachaise · 20e</a></li>
-          <li><a href="poncage-parquet-point-de-hongrie-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Point de Hongrie Paris</a></li>
-          <li><a href="poncage-parquet-quartier-latin-paris-5.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Quartier Latin · 5e</a></li>
-          <li><a href="poncage-parquet-republique-paris-10.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">République · 10e</a></li>
-          <li><a href="poncage-parquet-saint-germain-des-pres-paris-6.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Saint-Germain-des-Prés · 6e</a></li>
-          <li><a href="poncage-parquet-sentier-paris-2.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Sentier · 2e</a></li>
-          <li><a href="poncage-parquet-studio-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Studio Paris</a></li>
-          <li><a href="poncage-parquet-ternes-paris-17.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Ternes · 17e</a></li>
-          <li><a href="poncage-parquet-trocadero-paris-16.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Trocadéro · 16e</a></li>
-          <li><a href="poncage-parquet-vaugirard-paris-15.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vaugirard · 15e</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="poncage-parquet-abbesses-paris-18.html" class="footer-link">Abbesses · 18e</a></li>
+          <li><a href="poncage-parquet-auteuil-paris-16.html" class="footer-link">Auteuil · 16e</a></li>
+          <li><a href="poncage-parquet-bastille-paris-11.html" class="footer-link">Bastille · 11e</a></li>
+          <li><a href="poncage-parquet-batignolles-paris-17.html" class="footer-link">Batignolles · 17e</a></li>
+          <li><a href="poncage-parquet-belleville-paris-19-20.html" class="footer-link">Belleville · 19e-20e</a></li>
+          <li><a href="poncage-parquet-bercy-paris-12.html" class="footer-link">Bercy · 12e</a></li>
+          <li><a href="poncage-parquet-butte-aux-cailles-paris-13.html" class="footer-link">Butte-aux-Cailles · 13e</a></li>
+          <li><a href="poncage-parquet-buttes-chaumont-paris-19.html" class="footer-link">Buttes-Chaumont · 19e</a></li>
+          <li><a href="poncage-parquet-canal-saint-martin-paris-10.html" class="footer-link">Canal Saint-Martin · 10e</a></li>
+          <li><a href="poncage-parquet-champ-de-mars-paris-7.html" class="footer-link">Champ-de-Mars · 7e</a></li>
+          <li><a href="poncage-parquet-champs-elysees-paris-8.html" class="footer-link">Champs-Élysées · 8e</a></li>
+          <li><a href="poncage-parquet-charonne-paris-11.html" class="footer-link">Charonne · 11e</a></li>
+          <li><a href="poncage-parquet-clignancourt-paris-18.html" class="footer-link">Clignancourt · 18e</a></li>
+          <li><a href="poncage-parquet-convention-paris-15.html" class="footer-link">Convention · 15e</a></li>
+          <li><a href="poncage-parquet-denfert-rochereau-paris-14.html" class="footer-link">Denfert-Rochereau · 14e</a></li>
+          <li><a href="poncage-parquet-ecologique-paris.html" class="footer-link">Écologique Paris</a></li>
+          <li><a href="poncage-parquet-gambetta-paris-20.html" class="footer-link">Gambetta · 20e</a></li>
+          <li><a href="poncage-parquet-ile-saint-louis-paris-4.html" class="footer-link">Île Saint-Louis · 4e</a></li>
+          <li><a href="poncage-parquet-invalides-paris-7.html" class="footer-link">Invalides · 7e</a></li>
+          <li><a href="poncage-parquet-luxembourg-paris-6.html" class="footer-link">Luxembourg · 6e</a></li>
+          <li><a href="poncage-parquet-madeleine-paris-8.html" class="footer-link">Madeleine · 8e</a></li>
+          <li><a href="poncage-parquet-marais-paris-3-4.html" class="footer-link">Le Marais · 3e-4e</a></li>
+          <li><a href="poncage-parquet-menilmontant-paris-20.html" class="footer-link">Ménilmontant · 20e</a></li>
+          <li><a href="poncage-parquet-montmartre-paris-18.html" class="footer-link">Montmartre · 18e</a></li>
+          <li><a href="poncage-parquet-montorgueil-paris-2.html" class="footer-link">Montorgueil · 2e</a></li>
+          <li><a href="poncage-parquet-montparnasse-paris-14.html" class="footer-link">Montparnasse · 14e</a></li>
+          <li><a href="poncage-parquet-mouffetard-paris-5.html" class="footer-link">Mouffetard · 5e</a></li>
+          <li><a href="poncage-parquet-nation-paris-12.html" class="footer-link">Nation · 12e</a></li>
+          <li><a href="poncage-parquet-oberkampf-paris-11.html" class="footer-link">Oberkampf · 11e</a></li>
+          <li><a href="poncage-parquet-odeon-paris-6.html" class="footer-link">Odéon · 6e</a></li>
+          <li><a href="poncage-parquet-opera-paris-9.html" class="footer-link">Opéra · 9e</a></li>
+          <li><a href="poncage-parquet-palais-royal-paris-1.html" class="footer-link">Palais-Royal · 1er</a></li>
+          <li><a href="poncage-parquet-pantheon-paris-5.html" class="footer-link">Panthéon · 5e</a></li>
+          <li><a href="poncage-parquet-passy-paris-16.html" class="footer-link">Passy · 16e</a></li>
+          <li><a href="poncage-parquet-pere-lachaise-paris-20.html" class="footer-link">Père-Lachaise · 20e</a></li>
+          <li><a href="poncage-parquet-point-de-hongrie-paris.html" class="footer-link">Point de Hongrie Paris</a></li>
+          <li><a href="poncage-parquet-quartier-latin-paris-5.html" class="footer-link">Quartier Latin · 5e</a></li>
+          <li><a href="poncage-parquet-republique-paris-10.html" class="footer-link">République · 10e</a></li>
+          <li><a href="poncage-parquet-saint-germain-des-pres-paris-6.html" class="footer-link">Saint-Germain-des-Prés · 6e</a></li>
+          <li><a href="poncage-parquet-sentier-paris-2.html" class="footer-link">Sentier · 2e</a></li>
+          <li><a href="poncage-parquet-studio-paris.html" class="footer-link">Studio Paris</a></li>
+          <li><a href="poncage-parquet-ternes-paris-17.html" class="footer-link">Ternes · 17e</a></li>
+          <li><a href="poncage-parquet-trocadero-paris-16.html" class="footer-link">Trocadéro · 16e</a></li>
+          <li><a href="poncage-parquet-vaugirard-paris-15.html" class="footer-link">Vaugirard · 15e</a></li>
         </ul>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;margin-top:24px;">Île-de-France — Communes</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="poncage-parquet-montrouge.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Montrouge (92120)</a></li>
-          <li><a href="poncage-parquet-boulogne-billancourt.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Boulogne-Billancourt</a></li>
-          <li><a href="poncage-parquet-neuilly-sur-seine.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Neuilly-sur-Seine</a></li>
-          <li><a href="poncage-parquet-issy-les-moulineaux.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Issy-les-Moulineaux</a></li>
-          <li><a href="poncage-parquet-malakoff.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Malakoff</a></li>
-          <li><a href="poncage-parquet-chatillon.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Châtillon</a></li>
-          <li><a href="poncage-parquet-clamart.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Clamart</a></li>
-          <li><a href="poncage-parquet-meudon.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Meudon</a></li>
-          <li><a href="poncage-parquet-sceaux.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Sceaux</a></li>
-          <li><a href="poncage-parquet-antony.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Antony</a></li>
-          <li><a href="poncage-parquet-vanves.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vanves</a></li>
-          <li><a href="poncage-parquet-bagneux.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Bagneux</a></li>
-          <li><a href="poncage-parquet-fontenay-aux-roses.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Fontenay-aux-Roses</a></li>
-          <li><a href="poncage-parquet-colombes.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Colombes</a></li>
-          <li><a href="poncage-parquet-courbevoie.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Courbevoie</a></li>
-          <li><a href="poncage-parquet-nanterre.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Nanterre</a></li>
-          <li><a href="poncage-parquet-asnieres-sur-seine.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Asnières-sur-Seine</a></li>
-          <li><a href="poncage-parquet-vincennes.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vincennes</a></li>
-          <li><a href="poncage-parquet-saint-mande.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Saint-Mandé</a></li>
-          <li><a href="poncage-parquet-saint-maur-des-fosses.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Saint-Maur-des-Fossés</a></li>
-          <li><a href="poncage-parquet-nogent-sur-marne.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Nogent-sur-Marne</a></li>
-          <li><a href="poncage-parquet-charenton-le-pont.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Charenton-le-Pont</a></li>
-          <li><a href="poncage-parquet-maisons-alfort.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Maisons-Alfort</a></li>
-          <li><a href="poncage-parquet-creteil.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Créteil</a></li>
-          <li><a href="poncage-parquet-ivry-sur-seine.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Ivry-sur-Seine</a></li>
-          <li><a href="poncage-parquet-vitry-sur-seine.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vitry-sur-Seine</a></li>
-          <li><a href="poncage-parquet-versailles-ville.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Versailles</a></li>
-          <li><a href="poncage-parquet-saint-germain-en-laye.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Saint-Germain-en-Laye</a></li>
-          <li><a href="poncage-parquet-massy.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Massy</a></li>
-          <li><a href="poncage-parquet-palaiseau.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Palaiseau</a></li>
-          <li><a href="poncage-parquet-gif-sur-yvette.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Gif-sur-Yvette</a></li>
-          <li><a href="poncage-parquet-orsay.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Orsay</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="poncage-parquet-montrouge.html" class="footer-link">Montrouge (92120)</a></li>
+          <li><a href="poncage-parquet-boulogne-billancourt.html" class="footer-link">Boulogne-Billancourt</a></li>
+          <li><a href="poncage-parquet-neuilly-sur-seine.html" class="footer-link">Neuilly-sur-Seine</a></li>
+          <li><a href="poncage-parquet-issy-les-moulineaux.html" class="footer-link">Issy-les-Moulineaux</a></li>
+          <li><a href="poncage-parquet-malakoff.html" class="footer-link">Malakoff</a></li>
+          <li><a href="poncage-parquet-chatillon.html" class="footer-link">Châtillon</a></li>
+          <li><a href="poncage-parquet-clamart.html" class="footer-link">Clamart</a></li>
+          <li><a href="poncage-parquet-meudon.html" class="footer-link">Meudon</a></li>
+          <li><a href="poncage-parquet-sceaux.html" class="footer-link">Sceaux</a></li>
+          <li><a href="poncage-parquet-antony.html" class="footer-link">Antony</a></li>
+          <li><a href="poncage-parquet-vanves.html" class="footer-link">Vanves</a></li>
+          <li><a href="poncage-parquet-bagneux.html" class="footer-link">Bagneux</a></li>
+          <li><a href="poncage-parquet-fontenay-aux-roses.html" class="footer-link">Fontenay-aux-Roses</a></li>
+          <li><a href="poncage-parquet-colombes.html" class="footer-link">Colombes</a></li>
+          <li><a href="poncage-parquet-courbevoie.html" class="footer-link">Courbevoie</a></li>
+          <li><a href="poncage-parquet-nanterre.html" class="footer-link">Nanterre</a></li>
+          <li><a href="poncage-parquet-asnieres-sur-seine.html" class="footer-link">Asnières-sur-Seine</a></li>
+          <li><a href="poncage-parquet-vincennes.html" class="footer-link">Vincennes</a></li>
+          <li><a href="poncage-parquet-saint-mande.html" class="footer-link">Saint-Mandé</a></li>
+          <li><a href="poncage-parquet-saint-maur-des-fosses.html" class="footer-link">Saint-Maur-des-Fossés</a></li>
+          <li><a href="poncage-parquet-nogent-sur-marne.html" class="footer-link">Nogent-sur-Marne</a></li>
+          <li><a href="poncage-parquet-charenton-le-pont.html" class="footer-link">Charenton-le-Pont</a></li>
+          <li><a href="poncage-parquet-maisons-alfort.html" class="footer-link">Maisons-Alfort</a></li>
+          <li><a href="poncage-parquet-creteil.html" class="footer-link">Créteil</a></li>
+          <li><a href="poncage-parquet-ivry-sur-seine.html" class="footer-link">Ivry-sur-Seine</a></li>
+          <li><a href="poncage-parquet-vitry-sur-seine.html" class="footer-link">Vitry-sur-Seine</a></li>
+          <li><a href="poncage-parquet-versailles-ville.html" class="footer-link">Versailles</a></li>
+          <li><a href="poncage-parquet-saint-germain-en-laye.html" class="footer-link">Saint-Germain-en-Laye</a></li>
+          <li><a href="poncage-parquet-massy.html" class="footer-link">Massy</a></li>
+          <li><a href="poncage-parquet-palaiseau.html" class="footer-link">Palaiseau</a></li>
+          <li><a href="poncage-parquet-gif-sur-yvette.html" class="footer-link">Gif-sur-Yvette</a></li>
+          <li><a href="poncage-parquet-orsay.html" class="footer-link">Orsay</a></li>
         </ul>
       </div>
 
       <div>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;">Prix & Devis</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="prix-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Tarifs 2026 — 63 € TTC/m²</a></li>
-          <li><a href="devis-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Devis ponçage parquet Paris</a></li>
-          <li><a href="devis-rapide.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Devis rapide</a></li>
-          <li><a href="duree-chantier-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Durée d'un chantier</a></li>
-          <li><a href="guide-preparer-appartement-poncage-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Préparer son appartement</a></li>
-          <li><a href="poncage-parquet-avant-location-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Avant location</a></li>
-          <li><a href="poncage-parquet-airbnb-location-courte-duree-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Airbnb · location courte durée</a></li>
-          <li><a href="poncage-parquet-appartement-meuble-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Appartement meublé</a></li>
-          <li><a href="renover-parquet-avant-vente-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Rénover avant vente</a></li>
-          <li><a href="renover-parquet-vente-immobiliere-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Rénovation vente immobilière</a></li>
-          <li><a href="comparatif-poncer-vs-remplacer-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Poncer vs remplacer — 63€ vs 300€</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="prix-poncage-parquet-paris.html" class="footer-link">Tarifs 2026 — 63 € TTC/m²</a></li>
+          <li><a href="devis-poncage-parquet-paris.html" class="footer-link">Devis ponçage parquet Paris</a></li>
+          <li><a href="devis-rapide.html" class="footer-link">Devis rapide</a></li>
+          <li><a href="duree-chantier-poncage-parquet-paris.html" class="footer-link">Durée d'un chantier</a></li>
+          <li><a href="guide-preparer-appartement-poncage-parquet.html" class="footer-link">Préparer son appartement</a></li>
+          <li><a href="poncage-parquet-avant-location-paris.html" class="footer-link">Avant location</a></li>
+          <li><a href="poncage-parquet-airbnb-location-courte-duree-paris.html" class="footer-link">Airbnb · location courte durée</a></li>
+          <li><a href="poncage-parquet-appartement-meuble-paris.html" class="footer-link">Appartement meublé</a></li>
+          <li><a href="renover-parquet-avant-vente-paris.html" class="footer-link">Rénover avant vente</a></li>
+          <li><a href="renover-parquet-vente-immobiliere-paris.html" class="footer-link">Rénovation vente immobilière</a></li>
+          <li><a href="comparatif-poncer-vs-remplacer-parquet-paris.html" class="footer-link">Poncer vs remplacer — 63€ vs 300€</a></li>
         </ul>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;margin-top:24px;">Produit & Technique</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="guide-complet-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Guide complet du ponçage</a></li>
-          <li><a href="guide-poncage-parquet-etapes.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Les étapes du ponçage</a></li>
-          <li><a href="methode-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Ma méthode</a></li>
-          <li><a href="machine-planetaire-poncage-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Machine planétaire HTC</a></li>
-          <li><a href="machine-oscillante-fein-multimaster-poncage-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Fein Multimaster</a></li>
-          <li><a href="comparatif-machine-planetaire-vs-tambour-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Planétaire vs tambour</a></li>
-          <li><a href="materiel-professionnel-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Matériel professionnel</a></li>
-          <li><a href="vitrification-bona-mega-evo-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vitrification Bona Mega Evo</a></li>
-          <li><a href="vitrification-phase-aqueuse-bona-mega-evo-technique.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vitrification phase aqueuse</a></li>
-          <li><a href="vitrification-parquet-sans-odeur-saine-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vitrification sans odeur</a></li>
-          <li><a href="bona-mega-evo-normes-environnementales-cov-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Bona Mega Evo — COV & normes</a></li>
-          <li><a href="comparatif-finition-parquet-mat-satine-brillant.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Mat · satiné · brillant</a></li>
-          <li><a href="poncage-parquet-vitrification-mat-satine-brillant-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Finitions Paris</a></li>
-          <li><a href="poncage-parquet-sans-poussiere-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Ponçage sans poussière</a></li>
-          <li><a href="poncage-parquet-ecologique-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Ponçage écologique</a></li>
-          <li><a href="guide-entretien-parquet-vitrifie.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Entretien parquet vitrifié</a></li>
-          <li><a href="entretien-parquet-vitrifie-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Entretien Paris</a></li>
-          <li><a href="poncage-parquet-chene-massif-ancien-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Chêne massif ancien</a></li>
-          <li><a href="parquet-chene-massif-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Parquet chêne massif Paris</a></li>
-          <li><a href="parquet-versailles-poncage-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Parquet Versailles</a></li>
-          <li><a href="poncage-parquet-point-de-hongrie-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Point de Hongrie Paris</a></li>
-          <li><a href="parquet-sous-moquette-colle-poncage-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Parquet sous moquette collée</a></li>
-          <li><a href="parquet-sous-moquette-revetement-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Parquet sous revêtement</a></li>
-          <li><a href="reparation-parquet-degat-des-eaux-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Réparation dégât des eaux</a></li>
-          <li><a href="joints-lames-parquet-reboucher-conseils.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Reboucher joints de lames</a></li>
-          <li><a href="reboucher-joints-parquet-paris-dtu-guide.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Joints parquet — guide DTU</a></li>
-          <li><a href="sintobois-bicomposant-reparation-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Sintobois bicomposant</a></li>
-          <li><a href="vis-bois-parquet-guide-technique.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Vis bois parquet</a></li>
-          <li><a href="combien-fois-poncer-parquet-massif.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Combien de fois poncer ?</a></li>
-          <li><a href="combien-fois-poncer-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Combien de fois poncer — guide</a></li>
-          <li><a href="peinture-avant-apres-poncage-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Peinture avant ou après ?</a></li>
-          <li><a href="peinture-avant-ou-apres-poncage-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Peinture — guide complet</a></li>
-          <li><a href="idees-recues-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Idées reçues sur le ponçage</a></li>
-          <li><a href="parquet-haussmannien-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Parquet haussmannien Paris</a></li>
-          <li><a href="guide-choisir-artisan-parqueteur-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Choisir son artisan — guide</a></li>
-          <li><a href="choisir-artisan-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Choisir artisan Paris</a></li>
-          <li><a href="artisan-parqueteur-independant-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Artisan indépendant Paris</a></li>
-          <li><a href="comparatif-artisan-independant-vs-entreprise-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Artisan vs entreprise</a></li>
-          <li><a href="fournisseurs-partenaires-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Fournisseurs & partenaires</a></li>
-          <li><a href="chateau-bazens-poncage-parquet-agen.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Château de Bazens — Agen</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="guide-complet-poncage-parquet-paris.html" class="footer-link">Guide complet du ponçage</a></li>
+          <li><a href="guide-poncage-parquet-etapes.html" class="footer-link">Les étapes du ponçage</a></li>
+          <li><a href="methode-poncage-parquet-paris.html" class="footer-link">Ma méthode</a></li>
+          <li><a href="machine-planetaire-poncage-parquet.html" class="footer-link">Machine planétaire HTC</a></li>
+          <li><a href="machine-oscillante-fein-multimaster-poncage-parquet.html" class="footer-link">Fein Multimaster</a></li>
+          <li><a href="comparatif-machine-planetaire-vs-tambour-parquet.html" class="footer-link">Planétaire vs tambour</a></li>
+          <li><a href="materiel-professionnel-poncage-parquet-paris.html" class="footer-link">Matériel professionnel</a></li>
+          <li><a href="vitrification-bona-mega-evo-paris.html" class="footer-link">Vitrification Bona Mega Evo</a></li>
+          <li><a href="vitrification-phase-aqueuse-bona-mega-evo-technique.html" class="footer-link">Vitrification phase aqueuse</a></li>
+          <li><a href="vitrification-parquet-sans-odeur-saine-paris.html" class="footer-link">Vitrification sans odeur</a></li>
+          <li><a href="bona-mega-evo-normes-environnementales-cov-parquet.html" class="footer-link">Bona Mega Evo — COV & normes</a></li>
+          <li><a href="comparatif-finition-parquet-mat-satine-brillant.html" class="footer-link">Mat · satiné · brillant</a></li>
+          <li><a href="poncage-parquet-vitrification-mat-satine-brillant-paris.html" class="footer-link">Finitions Paris</a></li>
+          <li><a href="poncage-parquet-sans-poussiere-paris.html" class="footer-link">Ponçage sans poussière</a></li>
+          <li><a href="poncage-parquet-ecologique-paris.html" class="footer-link">Ponçage écologique</a></li>
+          <li><a href="guide-entretien-parquet-vitrifie.html" class="footer-link">Entretien parquet vitrifié</a></li>
+          <li><a href="entretien-parquet-vitrifie-paris.html" class="footer-link">Entretien Paris</a></li>
+          <li><a href="poncage-parquet-chene-massif-ancien-paris.html" class="footer-link">Chêne massif ancien</a></li>
+          <li><a href="parquet-chene-massif-paris.html" class="footer-link">Parquet chêne massif Paris</a></li>
+          <li><a href="parquet-versailles-poncage-paris.html" class="footer-link">Parquet Versailles</a></li>
+          <li><a href="poncage-parquet-point-de-hongrie-paris.html" class="footer-link">Point de Hongrie Paris</a></li>
+          <li><a href="parquet-sous-moquette-colle-poncage-paris.html" class="footer-link">Parquet sous moquette collée</a></li>
+          <li><a href="parquet-sous-moquette-revetement-paris.html" class="footer-link">Parquet sous revêtement</a></li>
+          <li><a href="reparation-parquet-degat-des-eaux-paris.html" class="footer-link">Réparation dégât des eaux</a></li>
+          <li><a href="joints-lames-parquet-reboucher-conseils.html" class="footer-link">Reboucher joints de lames</a></li>
+          <li><a href="reboucher-joints-parquet-paris-dtu-guide.html" class="footer-link">Joints parquet — guide DTU</a></li>
+          <li><a href="sintobois-bicomposant-reparation-parquet-paris.html" class="footer-link">Sintobois bicomposant</a></li>
+          <li><a href="vis-bois-parquet-guide-technique.html" class="footer-link">Vis bois parquet</a></li>
+          <li><a href="combien-fois-poncer-parquet-massif.html" class="footer-link">Combien de fois poncer ?</a></li>
+          <li><a href="combien-fois-poncer-parquet.html" class="footer-link">Combien de fois poncer — guide</a></li>
+          <li><a href="peinture-avant-apres-poncage-parquet.html" class="footer-link">Peinture avant ou après ?</a></li>
+          <li><a href="peinture-avant-ou-apres-poncage-parquet.html" class="footer-link">Peinture — guide complet</a></li>
+          <li><a href="idees-recues-poncage-parquet-paris.html" class="footer-link">Idées reçues sur le ponçage</a></li>
+          <li><a href="parquet-haussmannien-paris.html" class="footer-link">Parquet haussmannien Paris</a></li>
+          <li><a href="guide-choisir-artisan-parqueteur-paris.html" class="footer-link">Choisir son artisan — guide</a></li>
+          <li><a href="choisir-artisan-poncage-parquet-paris.html" class="footer-link">Choisir artisan Paris</a></li>
+          <li><a href="artisan-parqueteur-independant-paris.html" class="footer-link">Artisan indépendant Paris</a></li>
+          <li><a href="comparatif-artisan-independant-vs-entreprise-parquet.html" class="footer-link">Artisan vs entreprise</a></li>
+          <li><a href="fournisseurs-partenaires-parquet-paris.html" class="footer-link">Fournisseurs & partenaires</a></li>
+          <li><a href="chateau-bazens-poncage-parquet-agen.html" class="footer-link">Château de Bazens — Agen</a></li>
         </ul>
       </div>
 
       <div>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;">Culture & Histoire</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="parquet-heritage-louis-xiv-haussmann.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Héritage Louis XIV & Haussmann</a></li>
-          <li><a href="parquet-haussmannien-heritage-louis-xiv.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Patrimoine Louis XIV — Versailles</a></li>
-          <li><a href="forets-colbert-chene-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Forêts de Colbert & chêne</a></li>
-          <li><a href="colbert-origine-parquets-parisiens.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Colbert — origine des parquets</a></li>
-          <li><a href="colbert-architecte-economique-france-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Colbert architecte économique</a></li>
-          <li><a href="revolution-francaise-parquet-appartement-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Révolution française & parquet</a></li>
-          <li><a href="parquet-haussmannien-ou-colbert.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Haussmannien ou Colbert ?</a></li>
-          <li><a href="origine-parquet-point-hongrie-histoire.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Origine point de Hongrie</a></li>
-          <li><a href="parquet-point-hongrie-histoire-origines-heritage.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Point de Hongrie — héritage</a></li>
-          <li><a href="navire-guerre-parquet-parisien.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Navires de guerre & parquet</a></li>
-          <li><a href="documentaire-voyage-lame-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Voyage d'une lame de parquet</a></li>
-          <li><a href="voyage-latte-parquet-haussmannien.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Voyage d'une latte haussmannienne</a></li>
-          <li><a href="parcours-parquet-parisien-colbert-haussmann.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Parcours parisien Colbert-Haussmann</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="parquet-heritage-louis-xiv-haussmann.html" class="footer-link">Héritage Louis XIV & Haussmann</a></li>
+          <li><a href="parquet-haussmannien-heritage-louis-xiv.html" class="footer-link">Patrimoine Louis XIV — Versailles</a></li>
+          <li><a href="forets-colbert-chene-parquet-paris.html" class="footer-link">Forêts de Colbert & chêne</a></li>
+          <li><a href="colbert-origine-parquets-parisiens.html" class="footer-link">Colbert — origine des parquets</a></li>
+          <li><a href="colbert-architecte-economique-france-parquet.html" class="footer-link">Colbert architecte économique</a></li>
+          <li><a href="revolution-francaise-parquet-appartement-paris.html" class="footer-link">Révolution française & parquet</a></li>
+          <li><a href="parquet-haussmannien-ou-colbert.html" class="footer-link">Haussmannien ou Colbert ?</a></li>
+          <li><a href="origine-parquet-point-hongrie-histoire.html" class="footer-link">Origine point de Hongrie</a></li>
+          <li><a href="parquet-point-hongrie-histoire-origines-heritage.html" class="footer-link">Point de Hongrie — héritage</a></li>
+          <li><a href="navire-guerre-parquet-parisien.html" class="footer-link">Navires de guerre & parquet</a></li>
+          <li><a href="documentaire-voyage-lame-parquet-paris.html" class="footer-link">Voyage d'une lame de parquet</a></li>
+          <li><a href="voyage-latte-parquet-haussmannien.html" class="footer-link">Voyage d'une latte haussmannienne</a></li>
+          <li><a href="parcours-parquet-parisien-colbert-haussmann.html" class="footer-link">Parcours parisien Colbert-Haussmann</a></li>
         </ul>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;margin-top:24px;">Blog & Conseils</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="blog.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Blog — tous les articles</a></li>
-          <li><a href="blog-artisan-independant-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Artisan indépendant vs entreprise</a></li>
-          <li><a href="blog-avant-vente-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Rénover avant de vendre</a></li>
-          <li><a href="blog-bona-mega-evo-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Bona Mega Evo — le vernis</a></li>
-          <li><a href="blog-combien-fois-poncer-parquet.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Combien de fois peut-on poncer ?</a></li>
-          <li><a href="blog-entretien-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Entretien parquet Paris</a></li>
-          <li><a href="blog-huilage-vs-vitrification.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Huilage vs vitrification</a></li>
-          <li><a href="blog-parquet-haussmannien-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Parquet haussmannien Paris</a></li>
-          <li><a href="blog-poncage-sans-poussiere.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Ponçage sans poussière</a></li>
-          <li><a href="blog-prix-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Prix ponçage Paris</a></li>
-          <li><a href="blog-urgence-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Urgence parquet Paris</a></li>
-          <li><a href="100-questions-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">100 questions — FAQ complète</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="blog.html" class="footer-link">Blog — tous les articles</a></li>
+          <li><a href="blog-artisan-independant-parquet-paris.html" class="footer-link">Artisan indépendant vs entreprise</a></li>
+          <li><a href="blog-avant-vente-parquet-paris.html" class="footer-link">Rénover avant de vendre</a></li>
+          <li><a href="blog-bona-mega-evo-parquet.html" class="footer-link">Bona Mega Evo — le vernis</a></li>
+          <li><a href="blog-combien-fois-poncer-parquet.html" class="footer-link">Combien de fois peut-on poncer ?</a></li>
+          <li><a href="blog-entretien-parquet-paris.html" class="footer-link">Entretien parquet Paris</a></li>
+          <li><a href="blog-huilage-vs-vitrification.html" class="footer-link">Huilage vs vitrification</a></li>
+          <li><a href="blog-parquet-haussmannien-paris.html" class="footer-link">Parquet haussmannien Paris</a></li>
+          <li><a href="blog-poncage-sans-poussiere.html" class="footer-link">Ponçage sans poussière</a></li>
+          <li><a href="blog-prix-poncage-parquet-paris.html" class="footer-link">Prix ponçage Paris</a></li>
+          <li><a href="blog-urgence-parquet-paris.html" class="footer-link">Urgence parquet Paris</a></li>
+          <li><a href="100-questions-poncage-parquet-paris.html" class="footer-link">100 questions — FAQ complète</a></li>
         </ul>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;margin-top:24px;">À Propos & Services</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="a-propos-francois-gaillard-parqueteur-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">À propos — François Gaillard</a></li>
-          <li><a href="a-propos.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">À propos (page courte)</a></li>
-          <li><a href="expert-poncage-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Expert ponçage parquet Paris</a></li>
-          <li><a href="specialiste-parquet-ancien-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Spécialiste parquet ancien</a></li>
-          <li><a href="services-poncage-vitrification-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Tous les services</a></li>
-          <li><a href="publications-francois-gaillard-parqueteur-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Publications & articles</a></li>
-          <li><a href="mentions-legales.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Mentions légales</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="a-propos-francois-gaillard-parqueteur-paris.html" class="footer-link">À propos — François Gaillard</a></li>
+          <li><a href="a-propos.html" class="footer-link">À propos (page courte)</a></li>
+          <li><a href="expert-poncage-parquet-paris.html" class="footer-link">Expert ponçage parquet Paris</a></li>
+          <li><a href="specialiste-parquet-ancien-paris.html" class="footer-link">Spécialiste parquet ancien</a></li>
+          <li><a href="services-poncage-vitrification-parquet-paris.html" class="footer-link">Tous les services</a></li>
+          <li><a href="publications-francois-gaillard-parqueteur-paris.html" class="footer-link">Publications & articles</a></li>
+          <li><a href="mentions-legales.html" class="footer-link">Mentions légales</a></li>
         </ul>
         <h3 style="font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;margin-top:24px;">Référencement & IA</h3>
-        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:6px;">
-          <li><a href="reference-expert-parquet-ancien-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Blocs citables — référence expert</a></li>
-          <li><a href="glossaire-parquet-definitions-expert.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Glossaire — 20 définitions IA</a></li>
-          <li><a href="ia-knowledge-pack-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Knowledge pack IA</a></li>
-          <li><a href="faq-aeo-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">FAQ AEO ponçage parquet</a></li>
-          <li><a href="fanout-parquet-ancien-paris-ia.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Fanout pages parquet ancien</a></li>
-          <li><a href="query-fanout-parquet-paris-ia.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Query fanout — IA</a></li>
-          <li><a href="flux-donnees-structures-geo-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Flux données structurées GEO</a></li>
-          <li><a href="strategie-geo-parquet-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Stratégie GEO parquet Paris</a></li>
-          <li><a href="donnees-marche-parquet-ancien-paris.html" style="color:#a89060;font-size:.9rem;text-decoration:none;">Données marché parquet Paris</a></li>
+        <ul class="nav-sub-list">
+          <li><a href="reference-expert-parquet-ancien-paris.html" class="footer-link">Blocs citables — référence expert</a></li>
+          <li><a href="glossaire-parquet-definitions-expert.html" class="footer-link">Glossaire — 20 définitions IA</a></li>
+          <li><a href="ia-knowledge-pack-parquet-paris.html" class="footer-link">Knowledge pack IA</a></li>
+          <li><a href="faq-aeo-parquet-paris.html" class="footer-link">FAQ AEO ponçage parquet</a></li>
+          <li><a href="fanout-parquet-ancien-paris-ia.html" class="footer-link">Fanout pages parquet ancien</a></li>
+          <li><a href="query-fanout-parquet-paris-ia.html" class="footer-link">Query fanout — IA</a></li>
+          <li><a href="flux-donnees-structures-geo-parquet-paris.html" class="footer-link">Flux données structurées GEO</a></li>
+          <li><a href="strategie-geo-parquet-paris.html" class="footer-link">Stratégie GEO parquet Paris</a></li>
+          <li><a href="donnees-marche-parquet-ancien-paris.html" class="footer-link">Données marché parquet Paris</a></li>
         </ul>
       </div>
 
@@ -2867,13 +2868,13 @@ document.getElementById('search-input').addEventListener('keyup',searchOnPage);
     <button onclick="closeNavMenu()" aria-label="Fermer" style="background:none;border:none;cursor:pointer;color:#9a9283;font-size:1.4rem;line-height:1;padding:8px;">×</button>
   </div>
   <nav style="flex:1;overflow-y:auto;padding:8px 0;">
-    <a href="#realisations" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Réalisations<span style="color:#c9a84c;">›</span></a>
-    <a href="#services" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Services<span style="color:#c9a84c;">›</span></a>
-    <a href="#zones" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Zones<span style="color:#c9a84c;">›</span></a>
-    <a href="prix-poncage-parquet-paris.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Tarifs<span style="color:#c9a84c;">›</span></a>
-    <a href="100-questions-poncage-parquet-paris.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">FAQ complète<span style="color:#c9a84c;">›</span></a>
-    <a href="blog.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Blog<span style="color:#c9a84c;">›</span></a>
-    <a href="a-propos-francois-gaillard-parqueteur-paris.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">À propos<span style="color:#c9a84c;">›</span></a>
+    <a href="#realisations" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Réalisations<span class="c-gold-hex">›</span></a>
+    <a href="#services" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Services<span class="c-gold-hex">›</span></a>
+    <a href="#zones" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Zones<span class="c-gold-hex">›</span></a>
+    <a href="prix-poncage-parquet-paris.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Tarifs<span class="c-gold-hex">›</span></a>
+    <a href="100-questions-poncage-parquet-paris.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">FAQ complète<span class="c-gold-hex">›</span></a>
+    <a href="blog.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">Blog<span class="c-gold-hex">›</span></a>
+    <a href="a-propos-francois-gaillard-parqueteur-paris.html" onclick="closeNavMenu()" style="display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none;">À propos<span class="c-gold-hex">›</span></a>
   </nav>
   <div style="padding:16px;border-top:1px solid rgba(201,168,76,0.2);flex-shrink:0;">
     <a href="sms:+33783925894" style="display:block;background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.82rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:14px;text-align:center;text-decoration:none;">Devis par SMS · 07 83 92 58 94</a>
