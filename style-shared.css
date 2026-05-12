@@ -52,3 +52,70 @@
 .dot-dispo-sm{width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0}
 /* === ENCART GOLD GAUCHE === */
 .encart-gold-left{font-size:1rem;color:var(--texte,#E8E2D4);background:rgba(201,168,76,0.08);border-left:4px solid var(--or,#c9a84c);padding:1rem 1.25rem;border-radius:0 4px 4px 0}
+
+/* === FOOTER META LIGNE (216x) === */
+.footer-meta-sm{font-size:.72rem;color:var(--muted,#9a9283);margin-top:.5rem}
+/* === BREADCRUMB STD (189x) === */
+.breadcrumb-std{max-width:900px;margin:0 auto;padding:1rem 2rem 0;font-size:.75rem;color:var(--muted,#888)}
+.breadcrumb-std a{color:var(--muted,#888);text-decoration:none}
+/* === H2 BLANC CG 1.4rem (80x) === */
+.h2-blanc-lg{font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:#fff;margin-bottom:1rem;font-weight:400}
+/* === H2 OR CG 1.2rem (64x) === */
+.h2-or-md{font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--or,#c9a84c);margin-bottom:1rem;font-weight:400;letter-spacing:.03em}
+/* === DOT INLINE EXACT (49x) === */
+.dot-green-8{width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block}
+.dot-green-7{width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block}
+/* === CTA BTN STICKY INLINE (49x) === */
+.cta-btn-sticky{background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.78rem;font-weight:500;padding:8px 18px;border-radius:3px;text-decoration:none;white-space:nowrap}
+/* === BTN MENU MOBILE (49x) === */
+.btn-menu-mobile{background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:.5rem}
+/* === MT-05 === */
+.mt-05{margin-top:.5rem}
+/* === MAX-860 === */
+.max-860{max-width:860px;margin:0 auto}
+/* === LIST MUTED GLOBAL === */
+.list-muted-border{font-size:.85rem;color:var(--muted,#9A9283);padding:.5rem 0;border-bottom:1px solid rgba(201,168,76,0.1)}
+/* === OR SOMBRE (71x) === */
+.c-or-sombre-inline{color:var(--or-sombre,#9A7840)}
+
+/* === CTA STICKY CONTAINER (128x) === */
+.cta-sticky-wrap{position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,0.35);padding:10px 20px;display:none;align-items:center;justify-content:space-between;gap:12px;box-shadow:0 -4px 20px rgba(0,0,0,0.4)}
+.cta-sticky-col{position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,0.35);padding:10px 16px 16px;display:none;flex-direction:column;gap:8px;box-shadow:0 -4px 20px rgba(0,0,0,0.4)}
+/* === BTN OR BLOCK (128x) === */
+.btn-or-block{background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.82rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:13px;text-decoration:none;text-align:center;display:block}
+/* === BTN OR INLINE (128x) === */
+.btn-or-inline{background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:10px 22px;text-decoration:none;white-space:nowrap;flex-shrink:0}
+/* === BTN NAV CLOSE (128x) === */
+.btn-nav-close{background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:4px 8px;flex-shrink:0;line-height:1}
+.btn-nav-close2{background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1}
+/* === DOT DISPO EXACT (128x) === */
+.dot-dispo-lg{width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0}
+/* === BREADCRUMB QUARTIER === */
+.bc-quartier{max-width:860px;margin:0 auto;padding:4.5rem 2rem 0;font-size:.75rem;color:var(--muted,#888)}
+/* === PT-15 === */
+.pt-15{padding-top:1.5rem}
+/* === H2 BLANC MD (80x) === */
+.h2-cg-blanc{font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:#fff;margin-bottom:1.5rem;font-weight:400}
+/* === H2 OR LT (64x) === */
+.h2-cg-or{font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--or,#c9a84c);margin-bottom:1rem;letter-spacing:.05em;font-weight:400}
+/* === FLEX ROW BETWEEN SIMPLE === */
+.flex-between{display:flex;align-items:center;justify-content:space-between}
+/* === NAV BRAND XS exact === */
+.nav-brand-xs{font-family:'Jost',sans-serif;font-size:.72rem;color:#9a9283}
+/* === ENCART CTA BAND (47x) === */
+.cta-encart{background:rgba(201,168,76,.08);border:1px solid rgba(201,168,76,.35);border-left:4px solid #c9a84c;padding:1.25rem;border-radius:0 4px 4px 0}
+
+.section-dark-band{background:var(--noir2,#111);border-top:1px solid var(--bord,rgba(201,168,76,0.2));border-bottom:1px solid var(--bord,rgba(201,168,76,0.2));padding:1.5rem 2rem}
+
+/* === AVIS CARD (7x) === */
+.avis-card{background:var(--dark2,#1a1710);padding:1.8rem 2rem;border-bottom:1px solid var(--border,rgba(201,168,76,0.12))}
+.avis-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.8rem}
+.avis-title{font-family:'Cormorant Garamond',serif;font-size:1.1rem;color:#fff;font-weight:600}
+.avis-note{font-size:.8rem;color:var(--gold,#c9a84c)}
+.avis-text{font-family:'Cormorant Garamond',serif;font-size:1.05rem;color:var(--text,#e8e2d4);line-height:1.8}
+/* === PUB CARD (5x) === */
+.pub-card{background:var(--noir2,#111);padding:1.2rem}
+.pub-label{font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--or,#c9a84c);margin-bottom:.3rem;display:block}
+.pub-text{font-size:.82rem;color:var(--muted,#9a9283);line-height:1.6}
+.pub-tag{font-size:.55rem;padding:.15rem .5rem;margin-bottom:.3rem;display:inline-block}
+.c-texte-inline{color:var(--texte,#E8E2D4)}
