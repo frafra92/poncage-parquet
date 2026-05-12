@@ -41,7 +41,7 @@
 <body>
 <nav><span class="nav-brand">François Gaillard · Parquet</span><a href="index.html" class="nav-back">← Retour au site</a></nav>
 <main id="main">
-<nav aria-label="Fil d'Ariane" style="max-width:900px;margin:0 auto;padding:1rem 2rem 0;font-size:.75rem;color:var(--muted)">
+<nav aria-label="Fil d'Ariane" class="breadcrumb-std">
   <a href="index.html" class="c-muted-link">Accueil</a><span class="bc-sep">›</span><span class="c-or">Devis ponçage parquet Paris – Par SMS sur photos – François </span>
 </nav>
 <div class="hero">
@@ -94,7 +94,7 @@
 <p style="font-size:.85rem;margin:1rem 0"><a href="aeo-parquet-paris.html" class="link-gold-underline">→ Questions fréquentes sur le devis parquet</a></p>
 </main>
 <footer><span class="footer-brand">François Gaillard · Ponçage Parquet Paris</span><p><a href="index.html" class="c-muted">Accueil</a> · <a href="100-questions-poncage-parquet-paris.html" class="c-muted">FAQ</a> · <a href="prix-poncage-parquet-paris.html" class="c-muted">Tarifs</a></p>
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
+  <p class="footer-meta-sm">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
 </footer>
 <script>function toggle(btn){const item=btn.closest('.faq-item');const isOpen=item.classList.contains('open');document.querySelectorAll('.faq-item.open').forEach(i=>i.classList.remove('open'));if(!isOpen)item.classList.add('open')}</script>
 <div id="cta-sticky" style="
@@ -112,38 +112,17 @@
 ">
   <!-- Indicateur disponibilité -->
   <div class="flex-shrink-row">
-    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+    <span class="dot-dispo-lg"></span>
     <span class="brand-sm">Disponible · 63 € TTC/m²</span>
   </div>
 
   <!-- CTA principal -->
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.78rem;
-    font-weight:600;
-    letter-spacing:.12em;
-    text-transform:uppercase;
-    padding:10px 22px;
-    text-decoration:none;
-    white-space:nowrap;
-    flex-shrink:0;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-inline" aria-label="Demander un devis par SMS">
     Devis par SMS · 07 83 92 58 94
   </a>
 
   <!-- Bouton fermer -->
-  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-    background:none;
-    border:none;
-    color:#9a9283;
-    font-size:1.1rem;
-    cursor:pointer;
-    padding:4px 8px;
-    flex-shrink:0;
-    line-height:1;
-  " aria-label="Fermer">×</button>
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
 </div>
 
 <!-- Variante mobile plein écran -->
@@ -161,26 +140,12 @@
 ">
   <div class="flex-row-between">
     <div class="flex-row-8">
-      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+      <span class="dot-dispo-sm"></span>
       <span class="brand-xs">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
     </div>
-    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-      background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
-    " aria-label="Fermer">×</button>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
   </div>
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.82rem;
-    font-weight:600;
-    letter-spacing:.1em;
-    text-transform:uppercase;
-    padding:13px;
-    text-decoration:none;
-    text-align:center;
-    display:block;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-block" aria-label="Demander un devis par SMS">
     Devis par SMS — 07 83 92 58 94
   </a>
 </div>

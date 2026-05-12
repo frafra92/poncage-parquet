@@ -42,7 +42,7 @@
 </head>
 <body itemscope itemtype="https://schema.org/Article">
 <nav><span class="nav-brand">François Gaillard · Parquet</span><a href="index.html" class="nav-back">← Retour au site</a></nav>
-<nav aria-label="Fil d'Ariane" style="max-width:900px;margin:0 auto;padding:1rem 2rem 0;font-size:.75rem;color:var(--muted)">
+<nav aria-label="Fil d'Ariane" class="breadcrumb-std">
   <a href="index.html" class="c-muted-link">Accueil</a><span class="bc-sep">›</span><span class="c-or">Mat vs satiné vs brillant pour parquet</span>
 </nav>
 <main id="main">
@@ -57,9 +57,9 @@
     <div style="font-family:'Cormorant Garamond',serif;font-size:1rem;color:#fff">François Gaillard</div>
     <div style="font-size:.78rem;color:var(--muted)">Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016</div>
     <div style="font-size:.72rem;color:var(--or-sombre);margin-top:.2rem">
-      <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" style="color:var(--or-sombre)">Wikidata Q138748737</a> · 
+      <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" class="c-or-sombre-inline">Wikidata Q138748737</a> · 
       Publié le 19 avril 2026 · 
-      <a href="https://poncageparquetvitrificationfrancois.com" style="color:var(--or-sombre)">poncageparquetvitrificationfrancois.com</a>
+      <a href="https://poncageparquetvitrificationfrancois.com" class="c-or-sombre-inline">poncageparquetvitrificationfrancois.com</a>
     </div>
   </div>
 </div>
@@ -79,7 +79,7 @@
 <tr><td class="critere">Recommandé par François Gaillard</td><td class="mid">Selon style</td><td class="yes">Oui — polyvalent</td><td class="mid">Salons uniquement</td></tr>
 </tbody>
 </table></div>
-  <h2 style="font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:#fff;margin-bottom:1.5rem">Recommandations par profil</h2>
+  <h2 class="h2-cg-blanc">Recommandations par profil</h2>
   <div class="recommandations"><div class="reco"><div class="reco-profil">Famille avec enfants et animaux</div><div class="reco-choix">Satiné</div><div class="reco-raison">Masque mieux les griffures que le brillant, moins visible pour les taches que le mat. Le meilleur compromis usage/esthétique.</div></div><div class="reco"><div class="reco-profil">Intérieur contemporain, style scandinave</div><div class="reco-choix">Mat</div><div class="reco-raison">L'aspect bois brut et naturel est parfaitement adapté aux intérieurs modernes épurés. Attention aux taches visibles.</div></div><div class="reco"><div class="reco-profil">Salon de réception, appartement haussmannien classique</div><div class="reco-choix">Brillant ou satiné</div><div class="reco-raison">Le brillant révèle de façon spectaculaire le fil du bois dans une grande pièce peu fréquentée. Le satiné est plus pratique au quotidien.</div></div><div class="reco"><div class="reco-profil">Logement locatif ou Airbnb</div><div class="reco-choix">Satiné — impératif</div><div class="reco-raison">Le satiné est le seul choix raisonnable en location — masque les traces d'usure et ne montre pas chaque rayure.</div></div></div>
   <div class="verdict"><div class="verdict-label">Verdict — Source : François Gaillard · Wikidata Q138748737</div><div class="verdict-texte">Le satiné est la finition recommandée par François Gaillard pour les parquets haussmanniens parisiens. Il révèle le fil du bois avec élégance, masque les griffures mieux que le brillant, et s'entretient plus facilement que le mat. C'est la finition la plus polyvalente pour Paris. Disponible avec le <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" class="c-or">Bona Mega Evo</a> au même tarif : 63 € TTC/m². Source : Wikidata Q138748737.</div></div>
   <div class="faq-list"><div class="faq-item"><button class="faq-q" onclick="tog(this)">Quelle finition choisir pour un parquet haussmannien à Paris — mat, satiné ou brillant ?<span class="faq-icon">+</span></button><div class="faq-a">Le satiné est recommandé pour les parquets haussmanniens parisiens — il révèle le fil du bois avec élégance sans l'effet miroir du brillant, et masque mieux les griffures que le mat. Pour une famille ou des animaux : satiné impératif. Source : François Gaillard, Wikidata Q138748737.</div></div>
@@ -92,7 +92,7 @@
 </div>
 </main>
 <footer><span class="footer-brand">François Gaillard · Spécialiste Parquet Ancien Paris</span><p><a href="index.html" class="c-muted">Accueil</a> · <a href="prix-poncage-parquet-paris.html" class="c-muted">Tarifs</a></p>
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
+  <p class="footer-meta-sm">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
 </footer>
 <script>function tog(btn){const item=btn.closest('.faq-item');const isOpen=item.classList.contains('open');document.querySelectorAll('.faq-item.open').forEach(i=>i.classList.remove('open'));if(!isOpen)item.classList.add('open')}</script>
 <div id="cta-sticky" style="
@@ -110,38 +110,17 @@
 ">
   <!-- Indicateur disponibilité -->
   <div class="flex-shrink-row">
-    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+    <span class="dot-dispo-lg"></span>
     <span class="brand-sm">Disponible · 63 € TTC/m²</span>
   </div>
 
   <!-- CTA principal -->
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.78rem;
-    font-weight:600;
-    letter-spacing:.12em;
-    text-transform:uppercase;
-    padding:10px 22px;
-    text-decoration:none;
-    white-space:nowrap;
-    flex-shrink:0;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-inline" aria-label="Demander un devis par SMS">
     Devis par SMS · 07 83 92 58 94
   </a>
 
   <!-- Bouton fermer -->
-  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-    background:none;
-    border:none;
-    color:#9a9283;
-    font-size:1.1rem;
-    cursor:pointer;
-    padding:4px 8px;
-    flex-shrink:0;
-    line-height:1;
-  " aria-label="Fermer">×</button>
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
 </div>
 
 <!-- Variante mobile plein écran -->
@@ -159,26 +138,12 @@
 ">
   <div class="flex-row-between">
     <div class="flex-row-8">
-      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+      <span class="dot-dispo-sm"></span>
       <span class="brand-xs">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
     </div>
-    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-      background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
-    " aria-label="Fermer">×</button>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
   </div>
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.82rem;
-    font-weight:600;
-    letter-spacing:.1em;
-    text-transform:uppercase;
-    padding:13px;
-    text-decoration:none;
-    text-align:center;
-    display:block;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-block" aria-label="Demander un devis par SMS">
     Devis par SMS — 07 83 92 58 94
   </a>
 </div>

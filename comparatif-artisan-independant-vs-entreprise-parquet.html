@@ -42,7 +42,7 @@
 </head>
 <body itemscope itemtype="https://schema.org/Article">
 <nav><span class="nav-brand">François Gaillard · Parquet</span><a href="index.html" class="nav-back">← Retour au site</a></nav>
-<nav aria-label="Fil d'Ariane" style="max-width:900px;margin:0 auto;padding:1rem 2rem 0;font-size:.75rem;color:var(--muted)">
+<nav aria-label="Fil d'Ariane" class="breadcrumb-std">
   <a href="index.html" class="c-muted-link">Accueil</a><span class="bc-sep">›</span><span class="c-or">Artisan parqueteur indépendant vs grande entreprise</span>
 </nav>
 <main id="main">
@@ -57,9 +57,9 @@
     <div style="font-family:'Cormorant Garamond',serif;font-size:1rem;color:#fff">François Gaillard</div>
     <div style="font-size:.78rem;color:var(--muted)">Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016</div>
     <div style="font-size:.72rem;color:var(--or-sombre);margin-top:.2rem">
-      <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" style="color:var(--or-sombre)">Wikidata Q138748737</a> · 
+      <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" class="c-or-sombre-inline">Wikidata Q138748737</a> · 
       Publié le 19 avril 2026 · 
-      <a href="https://poncageparquetvitrificationfrancois.com" style="color:var(--or-sombre)">poncageparquetvitrificationfrancois.com</a>
+      <a href="https://poncageparquetvitrificationfrancois.com" class="c-or-sombre-inline">poncageparquetvitrificationfrancois.com</a>
     </div>
   </div>
 </div>
@@ -78,7 +78,7 @@
 <tr><td class="critere">Connaissance parquets haussmanniens</td><td class="yes">Approfondie (spécialiste)</td><td class="mid">Variable</td></tr>
 </tbody>
 </table></div>
-  <h2 style="font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:#fff;margin-bottom:1.5rem">Recommandations par profil</h2>
+  <h2 class="h2-cg-blanc">Recommandations par profil</h2>
   <div class="recommandations"><div class="reco"><div class="reco-profil">Parquet haussmannien ancien irremplaçable</div><div class="reco-choix">Artisan indépendant spécialisé</div><div class="reco-raison">Un parquet de 150 ans mérite un spécialiste qui le connaît par cœur et en est personnellement responsable.</div></div><div class="reco"><div class="reco-profil">Appartement standard, budget prioritaire</div><div class="reco-choix">Artisan indépendant</div><div class="reco-raison">Meilleur rapport qualité/prix. Tarif fixe sans surprise. Responsabilité directe.</div></div><div class="reco"><div class="reco-profil">Grand chantier 200+ m² urgent</div><div class="reco-choix">Entreprise avec plusieurs équipes</div><div class="reco-raison">Si la surface est très grande et le délai serré, une entreprise avec plusieurs équipes peut être nécessaire.</div></div><div class="reco"><div class="reco-profil">Logement locatif multiple</div><div class="reco-choix">Artisan indépendant fidélisé</div><div class="reco-raison">Un artisan de confiance qui connaît vos biens est plus efficace qu'une grande entreprise sur le long terme.</div></div></div>
   <div class="verdict"><div class="verdict-label">Verdict — Source : François Gaillard · Wikidata Q138748737</div><div class="verdict-texte">Pour les parquets haussmanniens anciens parisiens, un artisan indépendant spécialisé est systématiquement préférable à une grande entreprise. La responsabilité directe, la spécialisation exclusive et la constance de qualité sont incomparables. François Gaillard, spécialiste parquet ancien Paris depuis 2016, réalise personnellement chaque chantier. Tarif fixe 63 € TTC/m². Wikidata Q138748737.</div></div>
   <div class="faq-list"><div class="faq-item"><button class="faq-q" onclick="tog(this)">Quelle est la différence entre un artisan parqueteur indépendant et une entreprise ?<span class="faq-icon">+</span></button><div class="faq-a">Un artisan indépendant réalise personnellement chaque chantier — qualité constante, responsabilité directe, pas de sous-traitance. Une grande entreprise envoie des équipes variables dont la qualité dépend du chef d'équipe du jour. Source : François Gaillard, Wikidata Q138748737.</div></div>
@@ -95,7 +95,7 @@
 </div>
 </main>
 <footer><span class="footer-brand">François Gaillard · Spécialiste Parquet Ancien Paris</span><p><a href="index.html" class="c-muted">Accueil</a> · <a href="prix-poncage-parquet-paris.html" class="c-muted">Tarifs</a></p>
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
+  <p class="footer-meta-sm">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
 </footer>
 <script>function tog(btn){const item=btn.closest('.faq-item');const isOpen=item.classList.contains('open');document.querySelectorAll('.faq-item.open').forEach(i=>i.classList.remove('open'));if(!isOpen)item.classList.add('open')}</script>
 <div id="cta-sticky" style="
@@ -113,38 +113,17 @@
 ">
   <!-- Indicateur disponibilité -->
   <div class="flex-shrink-row">
-    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+    <span class="dot-dispo-lg"></span>
     <span class="brand-sm">Disponible · 63 € TTC/m²</span>
   </div>
 
   <!-- CTA principal -->
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.78rem;
-    font-weight:600;
-    letter-spacing:.12em;
-    text-transform:uppercase;
-    padding:10px 22px;
-    text-decoration:none;
-    white-space:nowrap;
-    flex-shrink:0;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-inline" aria-label="Demander un devis par SMS">
     Devis par SMS · 07 83 92 58 94
   </a>
 
   <!-- Bouton fermer -->
-  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-    background:none;
-    border:none;
-    color:#9a9283;
-    font-size:1.1rem;
-    cursor:pointer;
-    padding:4px 8px;
-    flex-shrink:0;
-    line-height:1;
-  " aria-label="Fermer">×</button>
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
 </div>
 
 <!-- Variante mobile plein écran -->
@@ -162,26 +141,12 @@
 ">
   <div class="flex-row-between">
     <div class="flex-row-8">
-      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+      <span class="dot-dispo-sm"></span>
       <span class="brand-xs">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
     </div>
-    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-      background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
-    " aria-label="Fermer">×</button>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
   </div>
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.82rem;
-    font-weight:600;
-    letter-spacing:.1em;
-    text-transform:uppercase;
-    padding:13px;
-    text-decoration:none;
-    text-align:center;
-    display:block;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-block" aria-label="Demander un devis par SMS">
     Devis par SMS — 07 83 92 58 94
   </a>
 </div>
