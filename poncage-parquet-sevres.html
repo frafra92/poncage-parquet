@@ -45,7 +45,7 @@
   <a href="index.html" class="nav-back">← Retour au site</a>
 </nav>
 <main id="main">
-<nav aria-label="Fil d'Ariane" style="max-width:900px;margin:0 auto;padding:1rem 2rem 0;font-size:.75rem;color:var(--muted)">
+<nav aria-label="Fil d'Ariane" class="breadcrumb-std">
   <a href="index.html" class="c-muted-link">Accueil</a><span class="bc-sep">›</span><a href="specialiste-parquet-ancien-paris.html" class="c-muted-link">Paris & IDF</a><span class="bc-sep">›</span><span class="c-or">Ponçage parquet Sèvres (92310)</span>
 </nav>
 
@@ -74,8 +74,8 @@
   <!-- CTA SMS MILIEU DE PAGE -->
   <div style="background:rgba(201,168,76,.08);border:1px solid rgba(201,168,76,.35);border-left:4px solid #c9a84c;padding:1.5rem 2rem;margin:2rem 0;display:flex;align-items:center;justify-content:space-between;gap:1.5rem;flex-wrap:wrap;">
     <div>
-      <p style="font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:#fff;margin-bottom:.3rem;">Devis gratuit par SMS — réponse rapide</p>
-      <p style="font-size:.82rem;color:#9a9283;margin:0;">3–4 photos de votre parquet · Surface · Tarif fixe 63 € TTC/m²</p>
+      <p class="h2-blanc-lg">Devis gratuit par SMS — réponse rapide</p>
+      <p class="footer-meta-sm">3–4 photos de votre parquet · Surface · Tarif fixe 63 € TTC/m²</p>
     </div>
     <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:12px 24px;text-decoration:none;white-space:nowrap;flex-shrink:0;">SMS · 07 83 92 58 94</a>
   </div>
@@ -109,7 +109,7 @@
 
 <!-- SERVICES -->
 <div style="background:var(--noir2);border-top:1px solid var(--bord);border-bottom:1px solid var(--bord);padding:4rem 2rem">
-  <div style="max-width:860px;margin:0 auto">
+  <div class="max-860">
     <p style="font-size:.72rem;letter-spacing:.2em;text-transform:uppercase;color:var(--or);margin-bottom:1rem">Prestations</p>
     <h2 style="font-family:'Cormorant Garamond',serif;font-size:1.8rem;color:#fff;margin-bottom:1rem">Ponçage &amp; vitrification uniquement</h2>
     <div class="gold-sep"></div>
@@ -197,29 +197,29 @@
 <script>function tog(b){var a=b.nextElementSibling;var o=b.classList.contains("open");document.querySelectorAll(".faq-q.open").forEach(function(x){x.classList.remove("open");x.nextElementSibling.style.maxHeight="0"});if(!o){b.classList.add("open");a.style.maxHeight=a.scrollHeight+"px"}}</script>
 <footer>
   <p>© 2026 · <a href="index.html">François Gaillard — Ponçage Parquet Paris &amp; Île-de-France</a> · Montrouge (92120) · SIRET 81182012500011 · Wikidata Q138748737</p>
-  <p style="margin-top:.5rem"><a href="mentions-legales.html">Mentions légales</a> · <a href="prix-poncage-parquet-paris.html">Tarifs</a> · <a href="devis-poncage-parquet-paris.html">Devis</a> · <a href="100-questions-poncage-parquet-paris.html">FAQ</a></p>
+  <p class="mt-05"><a href="mentions-legales.html">Mentions légales</a> · <a href="prix-poncage-parquet-paris.html">Tarifs</a> · <a href="devis-poncage-parquet-paris.html">Devis</a> · <a href="100-questions-poncage-parquet-paris.html">FAQ</a></p>
 
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
+  <p class="footer-meta-sm">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
 </footer>
 
 <!-- CTA STICKY -->
 <div id="cta-sticky">
   <div class="flex-shrink-row">
-    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;"></span>
+    <span class="dot-disponible"></span>
     <span class="brand-sm">Disponible · 63 € TTC/m²</span>
   </div>
-  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:10px 22px;text-decoration:none;white-space:nowrap;flex-shrink:0;">Devis par SMS · 07 83 92 58 94</a>
-  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:4px 8px;flex-shrink:0;line-height:1;" aria-label="Fermer">×</button>
+  <a href="sms:+33783925894" class="btn-or-inline">Devis par SMS · 07 83 92 58 94</a>
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
 </div>
 <div id="cta-sticky-mobile">
   <div class="flex-row-between">
     <div class="flex-row-8">
-      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;"></span>
+      <span class="dot-dispo-sm"></span>
       <span class="brand-xs">Disponible · 63 € TTC/m²</span>
     </div>
-    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;" aria-label="Fermer">×</button>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close2" aria-label="Fermer">×</button>
   </div>
-  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.82rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:13px;text-decoration:none;text-align:center;display:block;">Devis par SMS — 07 83 92 58 94</a>
+  <a href="sms:+33783925894" class="btn-or-block">Devis par SMS — 07 83 92 58 94</a>
 </div>
 <script>
 (function(){
