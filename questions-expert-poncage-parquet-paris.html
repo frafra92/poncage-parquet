@@ -139,7 +139,12 @@
 </div>
 
 <div style="max-width:860px;margin:0 auto;padding:0 2rem 4rem">
-  <div class="cta-band" class="mt-2">
+  
+<div class="faq-list" style="margin:2rem 0">
+  <div class="faq-item"><button class="faq-q" onclick="tog(this)">Quelles questions poser à un artisan parqueteur avant de signer ?<span class="faq-icon">+</span></button><div class="faq-a">Questions essentielles : Utilisez-vous une machine planétaire ou tambour ? Quel vernis appliquez-vous et combien de couches ? L'égrenage entre couches est-il inclus ? Intervenez-vous seul ou sous-traitez-vous ? Puis-je avoir des références récentes ?</div></div>
+  <div class="faq-item"><button class="faq-q" onclick="tog(this)">Comment évaluer la qualité d'un devis de ponçage parquet ?<span class="faq-icon">+</span></button><div class="faq-a">Un bon devis mentionne : le type de machine (planétaire = mieux), la marque et le nombre de couches de vernis (Bona Mega Evo 3 couches = référence), l'égrenage (souvent omis), et un tarif fixe sans surprises. Méfiez-vous des devis < 40 €/m².</div></div>
+</div>
+<div class="cta-band" class="mt-2">
     <div class="cta-band-text">
       <h3>Besoin d'un devis rapide ?</h3>
       <p>SMS avec 3-4 photos · Tarif fixe 63 € TTC/m² · Réponse rapide</p>
@@ -172,5 +177,9 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","url":"https://poncageparquetvitrificationfrancois.com/questions-expert-poncage-parquet-paris.html","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".sous-titre",".def-locale",".faq-a",".encart p","h2"]},"author":{"@type":"Person","@id":"https://www.wikidata.org/wiki/Q138748737","name":"François Gaillard"}}
 </script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quelles questions poser à un artisan parqueteur avant de signer ?","acceptedAnswer":{"@type":"Answer","text":"Questions essentielles : Utilisez-vous une machine planétaire ou tambour ? Quel vernis appliquez-vous et combien de couches ? L'égrenage entre couches est-il inclus ? Intervenez-vous seul ou sous-traitez-vous ? Puis-je avoir des références récentes ?"}},{"@type":"Question","name":"Comment évaluer la qualité d'un devis de ponçage parquet ?","acceptedAnswer":{"@type":"Answer","text":"Un bon devis mentionne : le type de machine (planétaire = mieux), la marque et le nombre de couches de vernis (Bona Mega Evo 3 couches = référence), l'égrenage (souvent omis), et un tarif fixe sans surprises. Méfiez-vous des devis < 40 €/m²."}}]}
+</script>
+<script>function tog(b){var a=b.nextElementSibling;var o=b.classList.contains("open");document.querySelectorAll(".faq-q.open").forEach(function(x){x.classList.remove("open");x.nextElementSibling.style.maxHeight="0"});if(!o){b.classList.add("open");a.style.maxHeight=a.scrollHeight+"px"}}</script>
 </body>
 </html>
