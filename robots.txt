@@ -1,5 +1,5 @@
 # robots.txt — poncageparquetvitrificationfrancois.com
-# Dernière mise à jour : 2026-05-01
+# Dernière mise à jour : 2026-05-12
 
 # Autoriser tous les crawlers
 User-agent: *
@@ -27,6 +27,18 @@ Allow: /
 User-agent: Omgilibot
 Allow: /
 
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
 # Bloquer uniquement les fichiers techniques
 Disallow: /7f49e4e8-6c34-4ed7-a619-b2b656607e69.html
 Disallow: /googlefefc9d50d82467ab.html

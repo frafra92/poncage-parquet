@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/100-questions-poncage-parquet-paris.html</loc>
     <lastmod>2026-05-01</lastmod>
@@ -8,7 +9,7 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/a-propos-francois-gaillard-parqueteur-paris.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -98,7 +99,7 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/blog.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -260,6 +261,27 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/index.html</loc>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/artisan-poncage-parquet-paris-francois-gaillard.webp</image:loc>
+      <image:title>François Gaillard, artisan parqueteur Paris</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris-16-avant.webp</image:loc>
+      <image:title>Parquet point de Hongrie avant ponçage — Paris 16e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-point-hongrie-paris-16-apres.webp</image:loc>
+      <image:title>Parquet point de Hongrie après vitrification — Paris 16e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/renovation-parquet-paris-15-rue-gerbert-avant.webp</image:loc>
+      <image:title>Parquet très abîmé avant rénovation — Paris 15e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-vitrification-parquet-paris-15-apres.webp</image:loc>
+      <image:title>Parquet rénové après ponçage et vitrification — Paris 15e</image:title>
+    </image:image>
+
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -338,6 +360,11 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-paris.html</loc>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/artisan-poncage-parquet-paris-francois-gaillard.webp</image:loc>
+      <image:title>Artisan parqueteur spécialiste parquet haussmannien Paris</image:title>
+    </image:image>
+
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -758,6 +785,19 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-montrouge.html</loc>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/artisan-poncage-parquet-paris-francois-gaillard.webp</image:loc>
+      <image:title>François Gaillard, artisan parqueteur Montrouge</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris-16-avant.webp</image:loc>
+      <image:title>Parquet point de Hongrie avant ponçage Paris</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-point-hongrie-paris-16-apres.webp</image:loc>
+      <image:title>Parquet point de Hongrie après vitrification</image:title>
+    </image:image>
+
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -1130,7 +1170,7 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/prix-poncage-parquet-paris.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -1286,12 +1326,46 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/galerie-realisations-poncage-parquet-paris.html</loc>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris-16-avant.webp</image:loc>
+      <image:title>Parquet point de Hongrie avant ponçage — rue de la Tour, Paris 16e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-point-hongrie-paris-16-apres.webp</image:loc>
+      <image:title>Parquet point de Hongrie après vitrification Bona Mega Evo — Paris 16e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-vaucresson-92-avant.webp</image:loc>
+      <image:title>Parquet lames avant ponçage — Vaucresson (92)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-vaucresson-92-apres.webp</image:loc>
+      <image:title>Parquet lames après vitrification — Vaucresson (92)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/renovation-parquet-paris-15-rue-gerbert-avant.webp</image:loc>
+      <image:title>Parquet dégât des eaux avant rénovation — Paris 15e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-vitrification-parquet-paris-15-apres.webp</image:loc>
+      <image:title>Parquet après ponçage et vitrification brillant — Paris 15e</image:title>
+    </image:image>
+
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris.html</loc>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris-16-avant.webp</image:loc>
+      <image:title>Parquet point de Hongrie avant ponçage — Paris 16e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-point-hongrie-paris-16-apres.webp</image:loc>
+      <image:title>Parquet point de Hongrie après vitrification machine planétaire</image:title>
+    </image:image>
+
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>

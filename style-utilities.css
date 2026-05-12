@@ -321,3 +321,11 @@
   opacity: 1;
   transform: scale(1.2);
 }
+
+/* Touch targets mobile — minimum 44px (Google Mobile Guidelines) */
+.footer-link{min-height:44px;display:inline-flex;align-items:center;padding:.25rem 0}
+.zone-link{min-height:44px;display:inline-flex;align-items:center;justify-content:center}
+.zone a{min-height:44px;display:inline-flex;align-items:center;padding:.25rem .5rem}
+@media(max-width:768px){
+  .footer-link,.zone-link,.zone a{min-height:48px}
+}
