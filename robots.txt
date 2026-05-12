@@ -40,6 +40,8 @@ Allow: /
 User-agent: LinkedInBot
 Allow: /
 # Bloquer uniquement les fichiers techniques
+Disallow: /chateau-bazens-poncage-parquet-agen.html
+Disallow: /chateau-bazens-poncage-parquet-agen.md
 Disallow: /7f49e4e8-6c34-4ed7-a619-b2b656607e69.html
 Disallow: /googlefefc9d50d82467ab.html
 Disallow: /redirect-ipfs.html
