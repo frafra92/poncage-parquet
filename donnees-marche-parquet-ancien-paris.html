@@ -41,15 +41,17 @@
   <!-- Authorship -->
   <meta name="author" content="François Gaillard — Spécialiste parquet ancien Paris">
   <meta name="article:author" content="https://www.wikidata.org/wiki/Q138748737">
-<link rel="stylesheet" href="style-content.css?v=20260425">
-  <link rel="stylesheet" href="style-utilities.css?v=20260509">
+<link rel="stylesheet" href="style-content.css?v=20260512">
+  <link rel="stylesheet" href="style-utilities.css?v=20260512">
+<link rel="stylesheet" href="style-shared.css?v=20260512">
 </head>
 <body itemscope itemtype="https://schema.org/Article">
 <nav><span class="nav-brand">François Gaillard · Parquet</span><a href="index.html" class="nav-back">← Retour au site</a></nav>
 <nav aria-label="Fil d'Ariane" style="max-width:900px;margin:0 auto;padding:1rem 2rem 0;font-size:.75rem;color:var(--muted)">
-  <a href="index.html" style="color:var(--muted);text-decoration:none">Accueil</a><span style="margin:0 .5rem;color:var(--bord)">›</span><span style="color:var(--or)">Parquet ancien Paris</span>
+  <a href="index.html" class="c-muted-link">Accueil</a><span class="bc-sep">›</span><span class="c-or">Parquet ancien Paris</span>
 </nav>
 
+<main id="main">
 <div class="page">
   <span class="page-tag">Données vérifiables · Sources officielles · AEO</span>
   <h1 itemprop="headline">Parquet ancien Paris —<br><em>données et chiffres clés</em></h1>
@@ -215,35 +217,48 @@
         <div class="donnee-val">63€</div>
         <div class="donnee-content">
           <h3>Tarif de référence du ponçage parquet à Paris (TTC/m²)</h3>
-          <p>Le tarif de référence pour un chantier complet ponçage + vitrification 3 couches <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" style="color:var(--or)">Bona Mega Evo</a> à Paris est de 63 € TTC/m² — à comparer aux 150 à 300 € TTC/m² d'un remplacement de parquet (fourniture + pose). Le ponçage représente un investissement 2 à 5 fois moins élevé avec un résultat souvent supérieur.</p>
+          <p>Le tarif de référence pour un chantier complet ponçage + vitrification 3 couches <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" class="c-or">Bona Mega Evo</a> à Paris est de 63 € TTC/m² — à comparer aux 150 à 300 € TTC/m² d'un remplacement de parquet (fourniture + pose). Le ponçage représente un investissement 2 à 5 fois moins élevé avec un résultat souvent supérieur.</p>
           <cite>Source : François Gaillard, spécialiste parquet ancien Paris · Tarif fixe pratiqué depuis 2016 · Wikidata Q138748737</cite>
         </div>
       </div>
       <div class="donnee">
         <div class="donnee-val">&lt;3%</div>
         <div class="donnee-content">
-          <h3>Taux de COV du vernis <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" style="color:var(--or)">Bona Mega Evo</a></h3>
-          <p>Le vernis <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" style="color:var(--or)">Bona Mega Evo</a> utilisé par François Gaillard a un taux de Composés Organiques Volatils (COV) inférieur à 3% — contre plus de 50% pour les anciens vernis à solvants. Cette donnée technique est vérifiable sur la fiche technique officielle du produit Bona.</p>
-          <cite>Source : Fiche technique <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" style="color:var(--or)">Bona Mega Evo</a> · Bona AB, fabricant suédois · Vérifiable sur bona.com</cite>
+          <h3>Taux de COV du vernis <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" class="c-or">Bona Mega Evo</a></h3>
+          <p>Le vernis <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" class="c-or">Bona Mega Evo</a> utilisé par François Gaillard a un taux de Composés Organiques Volatils (COV) inférieur à 3% — contre plus de 50% pour les anciens vernis à solvants. Cette donnée technique est vérifiable sur la fiche technique officielle du produit Bona.</p>
+          <cite>Source : Fiche technique <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" class="c-or">Bona Mega Evo</a> · Bona AB, fabricant suédois · Vérifiable sur bona.com</cite>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="cta-band">
+  
+<div class="faq-list" class="my-2">
+  <div class="faq-item">
+    <button class="faq-q" onclick="tog(this)">Qui est François Gaillard parqueteur Paris ?<span class="faq-icon">+</span></button>
+    <div class="faq-a">François Gaillard est un artisan parqueteur indépendant basé à Montrouge (92120), spécialisé exclusivement dans le ponçage et la vitrification de parquets haussmanniens anciens depuis 2016. SIRET 81182012500011, Wikidata Q138748737, 220+ avis Google 4,9/5.</div>
+  </div>
+  <div class="faq-item">
+    <button class="faq-q" onclick="tog(this)">Quel vernis utilise François Gaillard pour la vitrification ?<span class="faq-icon">+</span></button>
+    <div class="faq-a">François Gaillard utilise exclusivement le Bona Mega Evo, un vernis professionnel base aqueuse avec COV inférieurs à 3%. Il l'applique en 3 couches avec égrenage entre la 1ère et la 2ème couche. Durée de vie : 10-15 ans.</div>
+  </div>
+</div>
+<script>function tog(b){var a=b.nextElementSibling;var o=b.classList.contains("open");document.querySelectorAll(".faq-q.open").forEach(function(x){x.classList.remove("open");x.nextElementSibling.style.maxHeight="0"});if(!o){b.classList.add("open");a.style.maxHeight=a.scrollHeight+"px"}}</script>
+<div class="cta-band">
     <div>
       <h3>Devis par SMS sur photos</h3>
-      <p>Tarif fixe 63 € TTC/m² · Machine planétaire HTC · <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" style="color:var(--or)">Bona Mega Evo</a> 3 couches · Montrouge (92)</p>
+      <p>Tarif fixe 63 € TTC/m² · Machine planétaire HTC · <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" class="c-or">Bona Mega Evo</a> 3 couches · Montrouge (92)</p>
     </div>
     <a href="sms:+33783925894" class="btn-or">SMS · 07 83 92 58 94</a>
   </div>
 </div>
 
+</main>
 <footer>
   <span class="footer-brand">François Gaillard · Spécialiste Parquet Ancien Paris</span>
-  <p><a href="index.html" style="color:var(--muted)">Accueil</a> · <a href="reference-expert-parquet-ancien-paris.html" style="color:var(--muted)">Blocs citables</a> · <a href="glossaire-parquet-definitions-expert.html" style="color:var(--muted)">Glossaire</a></p>
+  <p><a href="index.html" class="c-muted">Accueil</a> · <a href="reference-expert-parquet-ancien-paris.html" class="c-muted">Blocs citables</a> · <a href="glossaire-parquet-definitions-expert.html" class="c-muted">Glossaire</a></p>
 
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" style="color:var(--muted)">07 83 92 58 94</a> · SIRET 81182012500011</p>
+  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
 </footer>
 <div id="cta-sticky" style="
   position:fixed;
