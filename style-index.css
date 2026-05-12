@@ -82,7 +82,6 @@ section h2{font-family:'Cormorant Garamond',serif;font-size:clamp(2rem,4vw,3rem)
 .zones-section{max-width:100%;padding:6rem 2rem;background:var(--dark2);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
 .zones-inner{max-width:1000px;margin:0 auto}
 .zone-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;margin-top:1.5rem}
-.zone-link{display:block;padding:.55rem 1rem;font-size:.8rem;color:var(--text-muted);border:1px solid var(--border);text-align:center;transition:border-color .2s,color .2s,background .2s}
 .zone-link:hover{border-color:var(--gold);color:var(--gold);background:rgba(201,168,76,.05)}
 .zone-grid-idf{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:8px;margin-top:1.5rem}
 .faq-cta-band{background:var(--dark3);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:3rem 2rem}
@@ -122,8 +121,7 @@ footer p{font-size:.78rem;color:var(--text-muted)}
   footer{flex-direction:column}
 }
 .nav-links a,.footer-links a,.footer-sameAs a{min-height:44px;display:inline-flex;align-items:center}
-.btn,.btn-or,.hero-cta,.cta-sms,.cta-btn{min-height:44px}
-@font-face{font-family:'Cormorant Garamond';font-display:swap}
+.btn,.btn-or,.hero-cta,.cta-sms,@font-face{font-family:'Cormorant Garamond';font-display:swap}
 @font-face{font-family:'Jost';font-display:swap}
 
 .nav-hamburger{display:none}
