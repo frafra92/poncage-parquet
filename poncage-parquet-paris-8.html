@@ -48,7 +48,7 @@
 </nav>
 
 <!-- BREADCRUMB VISIBLE -->
-<nav aria-label="Fil d'Ariane" style="max-width:860px;margin:0 auto;padding:4.5rem 2rem 0;font-size:.75rem;color:var(--muted)">
+<nav aria-label="Fil d'Ariane" class="bc-quartier">
   <a href="index.html" class="c-muted-link">Accueil</a>
   <span class="bc-sep">›</span>
   <a href="specialiste-parquet-ancien-paris.html" class="c-muted-link">Paris</a>
@@ -57,7 +57,7 @@
 </nav>
 
 <main id="main">
-<div class="page" style="padding-top:1.5rem">
+<div class="page" class="pt-15">
   <span class="page-tag">Ponçage parquet · Paris 8e arrondissement · 75008</span>
   <h1>Ponçage parquet<br><em>Paris 8e</em></h1>
   <p class="sous-titre">Les Champs-Élysées, la Madeleine — des appartements de prestige avec des parquets d'exception. Artisan indépendant François Gaillard — machine planétaire HTC Husqvarna, <a href="https://www.bona.com/fr/" target="_blank" rel="noopener" class="c-or">Bona Mega Evo</a> 3 couches. Tarif fixe 63 € TTC/m².</p>
@@ -88,7 +88,7 @@
     <p>👉 Pour le quartier spécifique : <a href="poncage-parquet-madeleine-paris-8.html" class="c-or">Ponçage parquet Madeleine — Paris 8e</a></p>
   </div>
 
-  <h2 style="font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:#fff;margin-bottom:1.5rem">Questions fréquentes — Paris 8e</h2>
+  <h2 class="h2-cg-blanc">Questions fréquentes — Paris 8e</h2>
   <div class="faq-list">
     <div class="faq-item">
       <button class="faq-q" onclick="tog(this)">Quel est le prix du ponçage parquet à Paris 8e ?<span class="faq-icon">+</span></button>
@@ -112,7 +112,7 @@
     </div>
   </div>
 
-  <h2 style="font-family:'Cormorant Garamond',serif;font-size:1.2rem;color:var(--or);margin-bottom:1rem;letter-spacing:.05em">Tous les arrondissements & zones d'intervention</h2>
+  <h2 class="h2-cg-or">Tous les arrondissements & zones d'intervention</h2>
   <div class="zones">
     <div class="zone"><a href="poncage-parquet-paris-1.html">Paris 1er</a></div>
     <div class="zone"><a href="poncage-parquet-paris-2.html">Paris 2e</a></div>
@@ -154,27 +154,27 @@
   <span class="footer-brand">François Gaillard · Ponçage Parquet Paris</span>
   <p><a href="index.html" class="c-muted">Accueil</a> · <a href="100-questions-poncage-parquet-paris.html" class="c-muted">FAQ</a> · <a href="prix-poncage-parquet-paris.html" class="c-muted">Tarifs</a></p>
 
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
+  <p class="footer-meta-sm">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
 </footer>
 
-<div id="cta-sticky" style="position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,0.35);padding:10px 20px;display:none;align-items:center;justify-content:space-between;gap:12px;box-shadow:0 -4px 20px rgba(0,0,0,0.4)">
+<div id="cta-sticky" class="cta-sticky-wrap">
   <div class="flex items-center flex-gap-sm flex-shrink-0">
-    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0"></span>
+    <span class="dot-dispo-lg"></span>
     <span class="cta-status">Disponible · 63 € TTC/m²</span>
   </div>
-  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:10px 22px;text-decoration:none;white-space:nowrap;flex-shrink:0" aria-label="Demander un devis par SMS">Devis par SMS · 07 83 92 58 94</a>
-  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:4px 8px;flex-shrink:0;line-height:1" aria-label="Fermer">×</button>
+  <a href="sms:+33783925894" class="btn-or-inline" aria-label="Demander un devis par SMS">Devis par SMS · 07 83 92 58 94</a>
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
 </div>
 
-<div id="cta-sticky-mobile" style="position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,0.35);padding:10px 16px 16px;display:none;flex-direction:column;gap:8px;box-shadow:0 -4px 20px rgba(0,0,0,0.4)">
-  <div style="display:flex;align-items:center;justify-content:space-between">
+<div id="cta-sticky-mobile" class="cta-sticky-col">
+  <div class="flex-between">
     <div style="display:flex;align-items:center;gap:8px">
       <span class="dot-dispo-sm"></span>
-      <span style="font-family:'Jost',sans-serif;font-size:.72rem;color:#9a9283">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
+      <span class="nav-brand-xs">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
     </div>
-    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1" aria-label="Fermer">×</button>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close2" aria-label="Fermer">×</button>
   </div>
-  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.82rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:13px;text-decoration:none;text-align:center;display:block" aria-label="Demander un devis par SMS">Devis par SMS — 07 83 92 58 94</a>
+  <a href="sms:+33783925894" class="btn-or-block" aria-label="Demander un devis par SMS">Devis par SMS — 07 83 92 58 94</a>
 </div>
 
 <script>
