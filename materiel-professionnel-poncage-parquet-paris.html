@@ -246,6 +246,12 @@
 
 </div>
 
+
+<div class="faq-list" style="margin:2rem 0">
+  <div class="faq-item"><button class="faq-q" onclick="tog(this)">Quelle machine utilise François Gaillard pour poncer le parquet ?<span class="faq-icon">+</span></button><div class="faq-a">La machine planétaire HTC Husqvarna avec 3 disques satellites multidirectionnels. Couplée à un aspirateur Festool CTL 48 E filtre HEPA — aucune marque directionnelle, poussière minimale.</div></div>
+  <div class="faq-item"><button class="faq-q" onclick="tog(this)">Pourquoi la machine planétaire est-elle supérieure ?<span class="faq-icon">+</span></button><div class="faq-a">Une machine tambour laisse des stries directionnelles sur les parquets posés à 45° (point de Hongrie, Versailles). La planétaire travaille dans toutes les directions — résultat parfait quel que soit le motif.</div></div>
+  <div class="faq-item"><button class="faq-q" onclick="tog(this)">Peut-on poncer un parquet sans poussière ?<span class="faq-icon">+</span></button><div class="faq-a">Pratiquement oui avec la machine HTC + aspirateur Festool CTL 48 E filtre HEPA. Le chantier est bruyant mais propre — pas de nuage de poussière, protection des objets environnants minimale.</div></div>
+</div>
 </main>
 <footer>
   <p>© 2025 François Parquet – Artisan parqueteur Paris et Île-de-France</p>
@@ -267,9 +273,9 @@
   box-shadow:0 -4px 20px rgba(0,0,0,0.4);
 ">
   <!-- Indicateur disponibilité -->
-  <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+  <div class="flex-shrink-row">
     <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
-    <span style="font-family:'Jost',sans-serif;font-size:.78rem;color:#9a9283;white-space:nowrap;">Disponible · 63 € TTC/m²</span>
+    <span class="brand-sm">Disponible · 63 € TTC/m²</span>
   </div>
 
   <!-- CTA principal -->
@@ -315,10 +321,10 @@
   gap:8px;
   box-shadow:0 -4px 20px rgba(0,0,0,0.4);
 ">
-  <div style="display:flex;align-items:center;justify-content:space-between;">
-    <div style="display:flex;align-items:center;gap:8px;">
+  <div class="flex-row-between">
+    <div class="flex-row-8">
       <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
-      <span style="font-family:'Jost',sans-serif;font-size:.72rem;color:#9a9283;">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
+      <span class="brand-xs">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
     </div>
     <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
       background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
@@ -382,5 +388,9 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","url":"https://poncageparquetvitrificationfrancois.com/materiel-professionnel-poncage-parquet-paris.html","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".sous-titre",".def-locale",".faq-a",".encart p","h2"]},"author":{"@type":"Person","@id":"https://www.wikidata.org/wiki/Q138748737","name":"François Gaillard"}}
 </script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quelle machine utilise François Gaillard pour poncer le parquet ?","acceptedAnswer":{"@type":"Answer","text":"La machine planétaire HTC Husqvarna avec 3 disques satellites multidirectionnels. Couplée à un aspirateur Festool CTL 48 E filtre HEPA — aucune marque directionnelle, poussière minimale."}},{"@type":"Question","name":"Pourquoi la machine planétaire est-elle supérieure ?","acceptedAnswer":{"@type":"Answer","text":"Une machine tambour laisse des stries directionnelles sur les parquets posés à 45° (point de Hongrie, Versailles). La planétaire travaille dans toutes les directions — résultat parfait quel que soit le motif."}},{"@type":"Question","name":"Peut-on poncer un parquet sans poussière ?","acceptedAnswer":{"@type":"Answer","text":"Pratiquement oui avec la machine HTC + aspirateur Festool CTL 48 E filtre HEPA. Le chantier est bruyant mais propre — pas de nuage de poussière, protection des objets environnants minimale."}}]}
+</script>
+<script>function tog(b){var a=b.nextElementSibling;var o=b.classList.contains("open");document.querySelectorAll(".faq-q.open").forEach(function(x){x.classList.remove("open");x.nextElementSibling.style.maxHeight="0"});if(!o){b.classList.add("open");a.style.maxHeight=a.scrollHeight+"px"}}</script>
 </body>
 </html>

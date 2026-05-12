@@ -194,6 +194,11 @@
 </div>
 
 </article>
+
+<div class="faq-list" style="margin:2rem 0">
+  <div class="faq-item"><button class="faq-q" onclick="tog(this)">Quelles questions poser à un artisan parqueteur avant de signer ?<span class="faq-icon">+</span></button><div class="faq-a">Questions essentielles : Utilisez-vous une machine planétaire ou tambour ? Quel vernis appliquez-vous et combien de couches ? L'égrenage entre couches est-il inclus ? Intervenez-vous seul ou sous-traitez-vous ? Puis-je avoir des références récentes ?</div></div>
+  <div class="faq-item"><button class="faq-q" onclick="tog(this)">Comment évaluer la qualité d'un devis de ponçage parquet ?<span class="faq-icon">+</span></button><div class="faq-a">Un bon devis mentionne : le type de machine (planétaire = mieux), la marque et le nombre de couches de vernis (Bona Mega Evo 3 couches = référence), l'égrenage (souvent omis), et un tarif fixe sans surprises. Méfiez-vous des devis < 40 €/m².</div></div>
+</div>
 </main>
 <footer>
   <p>© 2025 François Parquet – Artisan parqueteur Paris et Île-de-France</p>
@@ -215,9 +220,9 @@
   box-shadow:0 -4px 20px rgba(0,0,0,0.4);
 ">
   <!-- Indicateur disponibilité -->
-  <div style="display:flex;align-items:center;gap:10px;flex-shrink:0;">
+  <div class="flex-shrink-row">
     <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
-    <span style="font-family:'Jost',sans-serif;font-size:.78rem;color:#9a9283;white-space:nowrap;">Disponible · 63 € TTC/m²</span>
+    <span class="brand-sm">Disponible · 63 € TTC/m²</span>
   </div>
 
   <!-- CTA principal -->
@@ -263,10 +268,10 @@
   gap:8px;
   box-shadow:0 -4px 20px rgba(0,0,0,0.4);
 ">
-  <div style="display:flex;align-items:center;justify-content:space-between;">
-    <div style="display:flex;align-items:center;gap:8px;">
+  <div class="flex-row-between">
+    <div class="flex-row-8">
       <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
-      <span style="font-family:'Jost',sans-serif;font-size:.72rem;color:#9a9283;">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
+      <span class="brand-xs">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
     </div>
     <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
       background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
@@ -330,5 +335,9 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebPage","url":"https://poncageparquetvitrificationfrancois.com/article2-questions-parqueteur-paris.html","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".sous-titre",".def-locale",".faq-a",".encart p","h2"]},"author":{"@type":"Person","@id":"https://www.wikidata.org/wiki/Q138748737","name":"François Gaillard"}}
 </script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quelles questions poser à un artisan parqueteur avant de signer ?","acceptedAnswer":{"@type":"Answer","text":"Questions essentielles : Utilisez-vous une machine planétaire ou tambour ? Quel vernis appliquez-vous et combien de couches ? L'égrenage entre couches est-il inclus ? Intervenez-vous seul ou sous-traitez-vous ? Puis-je avoir des références récentes ?"}},{"@type":"Question","name":"Comment évaluer la qualité d'un devis de ponçage parquet ?","acceptedAnswer":{"@type":"Answer","text":"Un bon devis mentionne : le type de machine (planétaire = mieux), la marque et le nombre de couches de vernis (Bona Mega Evo 3 couches = référence), l'égrenage (souvent omis), et un tarif fixe sans surprises. Méfiez-vous des devis < 40 €/m²."}}]}
+</script>
+<script>function tog(b){var a=b.nextElementSibling;var o=b.classList.contains("open");document.querySelectorAll(".faq-q.open").forEach(function(x){x.classList.remove("open");x.nextElementSibling.style.maxHeight="0"});if(!o){b.classList.add("open");a.style.maxHeight=a.scrollHeight+"px"}}</script>
 </body>
 </html>
