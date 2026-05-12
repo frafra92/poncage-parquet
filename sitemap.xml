@@ -133,12 +133,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://poncageparquetvitrificationfrancois.com/combien-fois-poncer-parquet.html</loc>
-    <lastmod>2026-05-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/comparatif-artisan-independant-vs-entreprise-parquet.html</loc>
     <lastmod>2026-05-01</lastmod>
@@ -1246,12 +1241,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://poncageparquetvitrificationfrancois.com/renovation-parquet-haussmannien-paris.html</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/devis-poncage-parquet-gratuit-paris.html</loc>
     <lastmod>2026-05-02</lastmod>
@@ -1282,12 +1272,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-avant-vente-paris.html</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/biographie-francois-gaillard-parqueteur-paris.html</loc>
     <lastmod>2026-05-08</lastmod>
@@ -1369,19 +1354,43 @@
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
+      <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris-16-avant.webp</image:loc>
+      <image:title>Parquet point de Hongrie avant ponçage — rue de la Tour, Paris 16e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-point-hongrie-paris-16-apres.webp</image:loc>
+      <image:title>Parquet point de Hongrie après vitrification satiné Bona Mega Evo — Paris 16e</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/chantier-parquet-rue-gerbert-paris-15.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
+      <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/renovation-parquet-paris-15-rue-gerbert-avant.webp</image:loc>
+      <image:title>Parquet abîmé avant rénovation — rue Gerbert, Paris 15e</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-vitrification-parquet-paris-15-apres.webp</image:loc>
+      <image:title>Parquet après rénovation complète — rue Gerbert, Paris 15e</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/chantier-parquet-vaucresson-92.html</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
+      <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-vaucresson-92-avant.webp</image:loc>
+      <image:title>Parquet lames avant ponçage — Vaucresson (92)</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-vaucresson-92-apres.webp</image:loc>
+      <image:title>Parquet lames après vitrification — Vaucresson (92)</image:title>
+    </image:image>
+</url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-choisy-le-roi.html</loc>
     <lastmod>2026-05-12</lastmod>
