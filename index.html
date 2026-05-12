@@ -592,7 +592,7 @@ François Gaillard, artisan parqueteur indépendant basé à Montrouge (92120) �
 
 <!-- BLOC EXPERTISE -->
 <section style="background:var(--dark2);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:5rem 2rem">
-  <div style="max-width:860px;margin:0 auto">
+  <div class="max-860">
     <p class="section-label">Expertise &amp; Référence</p>
     <h2>Le ponçage parquet à Paris —<br>les informations de référence</h2>
     <div class="gold-line"></div>
@@ -1056,17 +1056,17 @@ document.getElementById('search-input').addEventListener('keyup',searchOnPage);
 </div>
 
 <!-- CTA STICKY -->
-<div id="cta-sticky" style="position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,0.35);padding:10px 20px;display:none;align-items:center;justify-content:space-between;gap:12px;box-shadow:0 -4px 20px rgba(0,0,0,0.4);">
-  <div class="flex-shrink-row"><span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;"></span><span class="brand-sm">Disponible · 63 € TTC/m²</span></div>
-  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:10px 22px;text-decoration:none;white-space:nowrap;flex-shrink:0;">Devis par SMS · 07 83 92 58 94</a>
-  <button data-close-cta="cta-sticky" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:4px 8px;flex-shrink:0;line-height:1;" aria-label="Fermer">×</button>
+<div id="cta-sticky" class="cta-sticky-wrap">
+  <div class="flex-shrink-row"><span class="dot-disponible"></span><span class="brand-sm">Disponible · 63 € TTC/m²</span></div>
+  <a href="sms:+33783925894" class="btn-or-inline">Devis par SMS · 07 83 92 58 94</a>
+  <button data-close-cta="cta-sticky" class="btn-nav-close" aria-label="Fermer">×</button>
 </div>
-<div id="cta-sticky-mobile" style="position:fixed;bottom:0;left:0;right:0;z-index:999;background:#1a1710;border-top:1px solid rgba(201,168,76,0.35);padding:10px 16px 16px;display:none;flex-direction:column;gap:8px;box-shadow:0 -4px 20px rgba(0,0,0,0.4);">
+<div id="cta-sticky-mobile" class="cta-sticky-col">
   <div class="flex-row-between">
-    <div class="flex-row-8"><span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;"></span><span class="brand-xs">Disponible · 63 € TTC/m²</span></div>
-    <button data-close-cta="cta-sticky-mobile" style="background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;" aria-label="Fermer">×</button>
+    <div class="flex-row-8"><span class="dot-dispo-sm"></span><span class="brand-xs">Disponible · 63 € TTC/m²</span></div>
+    <button data-close-cta="cta-sticky-mobile" class="btn-nav-close2" aria-label="Fermer">×</button>
   </div>
-  <a href="sms:+33783925894" style="background:#c9a84c;color:#0d0b08;font-family:'Jost',sans-serif;font-size:.82rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:13px;text-decoration:none;text-align:center;display:block;">Devis par SMS — 07 83 92 58 94</a>
+  <a href="sms:+33783925894" class="btn-or-block">Devis par SMS — 07 83 92 58 94</a>
 </div>
 
 <script>

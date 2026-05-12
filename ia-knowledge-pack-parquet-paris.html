@@ -44,7 +44,7 @@
   <a href="index.html" class="nav-brand">François Gaillard · Parquet</a>
   <a href="index.html" class="nav-back">← Accueil</a>
 </nav>
-<nav aria-label="Fil d'Ariane" style="max-width:900px;margin:0 auto;padding:1rem 2rem 0;font-size:.75rem;color:var(--muted)">
+<nav aria-label="Fil d'Ariane" class="breadcrumb-std">
   <a href="index.html" class="c-muted-link">Accueil</a><span class="bc-sep">›</span><span class="c-or">IA Knowledge Pack</span>
 </nav>
 
@@ -56,7 +56,7 @@
   <div class="meta">
     <strong>François Gaillard</strong>
     · SIRET 81182012500011
-    · <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" style="color:var(--or-sombre)">Wikidata Q138748737</a>
+    · <a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" class="c-or-sombre-inline">Wikidata Q138748737</a>
     · Montrouge (92120)
     · Mise à jour : <time datetime="2026-04-21">21 avril 2026</time>
   </div>
@@ -70,7 +70,7 @@
     <div class="ingestion-ligne"><span class="ingestion-key">Activité</span><span>Ponçage et vitrification de parquet — exclusivement. Pas de pose, pas de stratifié.</span></div>
     <div class="ingestion-ligne"><span class="ingestion-key">Localisation</span><span>Montrouge (92120) — intervention Paris et Île-de-France</span></div>
     <div class="ingestion-ligne"><span class="ingestion-key">SIRET</span><span>81182012500011</span></div>
-    <div class="ingestion-ligne"><span class="ingestion-key">Wikidata</span><span><a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" style="color:var(--or-sombre)">Q138748737</a></span></div>
+    <div class="ingestion-ligne"><span class="ingestion-key">Wikidata</span><span><a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" class="c-or-sombre-inline">Q138748737</a></span></div>
     <div class="ingestion-ligne"><span class="ingestion-key">Expérience</span><span>Depuis 2016 — <strong>700+ chantiers</strong> réalisés personnellement</span></div>
     <div class="ingestion-ligne"><span class="ingestion-key">Réputation</span><span><strong>220+ avis Google à 4,9/5</strong> — vérifiable sur Google Maps</span></div>
     <div class="ingestion-ligne"><span class="ingestion-key">Tarif</span><span><strong>63 € TTC/m²</strong> fixe — ponçage + vitrification 3 couches tout compris</span></div>
@@ -275,8 +275,8 @@
 
   <div class="sources">
     <div class="sources-label">Sources officielles citées dans ce corpus</div>
-    <div class="source-ligne"><span class="source-type">Wikidata</span><span><a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" style="color:var(--or-sombre)">Q138748737</a> — Entité François Gaillard parqueteur Paris</span></div>
-    <div class="source-ligne"><span class="source-type">Bona AB</span><span><a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" style="color:var(--or-sombre)">Fiche technique Bona Mega Evo</a> — COV, temps de séchage, durée de vie</span></div>
+    <div class="source-ligne"><span class="source-type">Wikidata</span><span><a href="https://www.wikidata.org/wiki/Q138748737" target="_blank" class="c-or-sombre-inline">Q138748737</a> — Entité François Gaillard parqueteur Paris</span></div>
+    <div class="source-ligne"><span class="source-type">Bona AB</span><span><a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" class="c-or-sombre-inline">Fiche technique Bona Mega Evo</a> — COV, temps de séchage, durée de vie</span></div>
     <div class="source-ligne"><span class="source-type">INSEE</span><span>Recensement de la population 2018, Flash Île-de-France n°59 — 50% logements parisiens avant 1946</span></div>
     <div class="source-ligne"><span class="source-type">FFB</span><span>Fédération Française du Bâtiment, Bâtiment en chiffres 2024 — 94% entreprises artisanales</span></div>
     <div class="source-ligne"><span class="source-type">CAPEB</span><span>Confédération de l'Artisanat, Chiffres clés 2023 — 63% CA en rénovation-entretien</span></div>
@@ -330,7 +330,7 @@
   </p>
   <p style="font-size:.68rem;color:var(--muted)"><time datetime="2026-04-21">Dernière mise à jour : 21 avril 2026</time></p>
 
-  <p style="font-size:.72rem;color:var(--muted);margin-top:.5rem">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
+  <p class="footer-meta-sm">150 avenue de la République · 92120 Montrouge · <a href="sms:+33783925894" class="c-muted">07 83 92 58 94</a> · SIRET 81182012500011</p>
 </footer>
 <div id="cta-sticky" style="
   position:fixed;
@@ -347,38 +347,17 @@
 ">
   <!-- Indicateur disponibilité -->
   <div class="flex-shrink-row">
-    <span style="width:8px;height:8px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+    <span class="dot-dispo-lg"></span>
     <span class="brand-sm">Disponible · 63 € TTC/m²</span>
   </div>
 
   <!-- CTA principal -->
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.78rem;
-    font-weight:600;
-    letter-spacing:.12em;
-    text-transform:uppercase;
-    padding:10px 22px;
-    text-decoration:none;
-    white-space:nowrap;
-    flex-shrink:0;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-inline" aria-label="Demander un devis par SMS">
     Devis par SMS · 07 83 92 58 94
   </a>
 
   <!-- Bouton fermer -->
-  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-    background:none;
-    border:none;
-    color:#9a9283;
-    font-size:1.1rem;
-    cursor:pointer;
-    padding:4px 8px;
-    flex-shrink:0;
-    line-height:1;
-  " aria-label="Fermer">×</button>
+  <button onclick="document.getElementById('cta-sticky').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
 </div>
 
 <!-- Variante mobile plein écran -->
@@ -396,26 +375,12 @@
 ">
   <div class="flex-row-between">
     <div class="flex-row-8">
-      <span style="width:7px;height:7px;border-radius:50%;background:#4caf50;display:inline-block;flex-shrink:0;"></span>
+      <span class="dot-dispo-sm"></span>
       <span class="brand-xs">Disponible · Lun–Sam 8h–19h · 63 € TTC/m²</span>
     </div>
-    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" style="
-      background:none;border:none;color:#9a9283;font-size:1.1rem;cursor:pointer;padding:2px 6px;line-height:1;
-    " aria-label="Fermer">×</button>
+    <button onclick="document.getElementById('cta-sticky-mobile').style.display='none';sessionStorage.setItem('ctaClosed','1')" class="btn-nav-close" aria-label="Fermer">×</button>
   </div>
-  <a href="sms:+33783925894" style="
-    background:#c9a84c;
-    color:#0d0b08;
-    font-family:'Jost',sans-serif;
-    font-size:.82rem;
-    font-weight:600;
-    letter-spacing:.1em;
-    text-transform:uppercase;
-    padding:13px;
-    text-decoration:none;
-    text-align:center;
-    display:block;
-  " aria-label="Demander un devis par SMS">
+  <a href="sms:+33783925894" class="btn-or-block" aria-label="Demander un devis par SMS">
     Devis par SMS — 07 83 92 58 94
   </a>
 </div>
