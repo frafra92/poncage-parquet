@@ -33,11 +33,11 @@
 <link rel="preload" as="font" crossorigin href="https://fonts.gstatic.com/s/jost/v18/92zatBhPNqw73oDd4iYl.woff2" type="font/woff2">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="style-index.css?v=20260517">
-<link rel="stylesheet" href="style-index.css?v=20260517">
-<link rel="stylesheet" href="style-utilities.css?v=20260517">
-<link rel="stylesheet" href="style-shared.css?v=20260517">
-<link rel="stylesheet" href="style-phi.css?v=20260517">
+<link rel="preload" as="style" href="style-index.css?v=20260518">
+<link rel="stylesheet" href="style-index.css?v=20260518">
+<link rel="stylesheet" href="style-utilities.css?v=20260518">
+<link rel="stylesheet" href="style-shared.css?v=20260518">
+<link rel="stylesheet" href="style-phi.css?v=20260518">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2WFFQHC680"></script>
 <script>
@@ -266,6 +266,39 @@ section .faq-item + .faq-item {
 .devis-prix-duree{font-size:.72rem;color:var(--text-muted)}
 .devis-prix-note{font-size:.78rem;color:var(--text-muted);line-height:1.6}
 @media(max-width:560px){.devis-prix-grid{grid-template-columns:repeat(2,1fr)}}
+
+/* === CORRECTIONS V24 ===*/
+
+/* Fix grille devis : 4 colonnes forcées sur desktop */
+.devis-list {
+  grid-template-columns: repeat(4, 1fr) !important;
+}
+@media(max-width: 900px) {
+  .devis-list { grid-template-columns: repeat(2, 1fr) !important; }
+  .devis-item { border-right: 1px solid var(--border) !important; border-bottom: 1px solid var(--border) !important; }
+  .devis-item:nth-child(2n) { border-right: none !important; }
+  .devis-item:last-child { border-bottom: none !important; }
+}
+@media(max-width: 480px) {
+  .devis-list { grid-template-columns: 1fr !important; }
+  .devis-item { border-right: none !important; }
+}
+
+/* Annuler le max-width 860px sur les sections qui doivent être full-width dans leur conteneur */
+/* La section devis a son propre max-width via .devis-box */
+#services, #blog, .zones-section, .gallery-section, .section-temoignages, .faq-cta-band, .bona-band {
+  max-width: 100% !important;
+}
+
+/* Services : padding plus généreux pour respiration */
+.service-card { padding: 2rem 1.5rem !important; }
+.service-card h3 { font-size: 1.2rem !important; }
+.service-card p { font-size: .85rem !important; }
+
+/* Section devis : conserver max-width 1000px mais pas 860 */
+section:not(#services):not(#blog):not(.section-temoignages) {
+  max-width: 1000px !important;
+}
 </style>
 </head>
 <body itemscope itemtype="https://schema.org/WebSite">
