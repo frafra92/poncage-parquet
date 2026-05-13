@@ -6,7 +6,7 @@ Lance après chaque upload GitHub pour notifier Bing instantanément.
 """
 import urllib.request, json, os
 
-KEY = "API_KEY_HERE"
+KEY = "0B44C59CD3E10CC88E1B8524B0ECB95B"
 HOST = "poncageparquetvitrificationfrancois.com"
 DOMAIN = f"https://{HOST}"
 
