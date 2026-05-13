@@ -33,11 +33,11 @@
 <link rel="preload" as="font" crossorigin href="https://fonts.gstatic.com/s/jost/v18/92zatBhPNqw73oDd4iYl.woff2" type="font/woff2">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="style-index.css?v=20260516">
-<link rel="stylesheet" href="style-index.css?v=20260516">
-<link rel="stylesheet" href="style-utilities.css?v=20260516">
-<link rel="stylesheet" href="style-shared.css?v=20260516">
-<link rel="stylesheet" href="style-phi.css?v=20260516">
+<link rel="preload" as="style" href="style-index.css?v=20260517">
+<link rel="stylesheet" href="style-index.css?v=20260517">
+<link rel="stylesheet" href="style-utilities.css?v=20260517">
+<link rel="stylesheet" href="style-shared.css?v=20260517">
+<link rel="stylesheet" href="style-phi.css?v=20260517">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2WFFQHC680"></script>
 <script>
@@ -187,6 +187,85 @@ section > .faq-item {
 
 /* === BLOG V22 ===*/
 .blog-cat-label{font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim,#a89060);margin-bottom:.6rem;display:block;margin-top:.5rem}
+
+/* === CORRECTIONS V23 ===*/
+
+/* Zone-link : bordure visible avec !important pour surpasser utilities.css */
+.zone-link {
+  border: 1px solid rgba(201,168,76,.25) !important;
+  color: var(--gold) !important;
+  font-size: .82rem !important;
+  padding: .3rem .8rem !important;
+  border-radius: 2px !important;
+  transition: background .15s, border-color .15s !important;
+  text-decoration: none !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 36px !important;
+}
+.zone-link:hover {
+  background: rgba(201,168,76,.08) !important;
+  border-color: var(--gold) !important;
+}
+.zone-grid, .zone-grid-idf {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 6px !important;
+  margin-top: 1.2rem !important;
+}
+
+/* Sections devis et FAQ : max-width centré */
+section:not(.section-temoignages):not(#blog) {
+  max-width: 860px;
+}
+
+/* Section dévis box : pas de padding qui se cumule */
+.devis-box { margin: 0 auto; }
+
+/* Zones section : limiter hauteur max sur desktop avec un scroll */
+.zones-section { overflow: visible; }
+.zones-inner { max-width: 1000px; margin: 0 auto; }
+
+/* Tabs galerie : pas d'overflow caché qui coupe */
+.gallery-tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+
+/* FAQ items hors faq-list - forcer la même bordure */
+section > .faq-item,
+div > .faq-item:not(.faq-list .faq-item) {
+  border: 1px solid rgba(201,168,76,.2) !important;
+  border-top: none !important;
+}
+section .faq-item + .faq-item {
+  border-top: none !important;
+}
+
+/* Réduire padding zone-grid vertical */
+.zones-section { padding: 3rem 2rem !important; }
+
+/* Stats bar : pas de débordement */
+.stats-bar { overflow: hidden; }
+
+/* Blog section : max-width correct */
+#blog { max-width: 100% !important; padding: 3rem 2rem !important; }
+#blog .blog-grid { max-width: 1000px; margin: 0 auto; }
+#blog > .section-label,
+#blog > h2,
+#blog > p,
+#blog > .gold-line,
+#blog > .blog-cat-label { max-width: 1000px; margin-left: auto; margin-right: auto; }
+
+/* === SIMULATEUR PRIX DEVIS ===*/
+.devis-prix-rapide{background:var(--dark);border:1px solid rgba(201,168,76,.2);padding:1.5rem 2rem;margin-bottom:2rem}
+.devis-prix-titre{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:1rem}
+.devis-prix-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:rgba(201,168,76,.15);border:1px solid rgba(201,168,76,.15);margin-bottom:1rem}
+.devis-prix-item{background:var(--dark2);padding:1rem;text-align:center;display:flex;flex-direction:column;gap:.3rem}
+.devis-prix-item--highlight{background:var(--dark3)}
+.devis-prix-surface{font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted)}
+.devis-prix-total{font-family:'Cormorant Garamond',serif;font-size:1.5rem;font-weight:500;color:var(--gold);line-height:1}
+.devis-prix-duree{font-size:.72rem;color:var(--text-muted)}
+.devis-prix-note{font-size:.78rem;color:var(--text-muted);line-height:1.6}
+@media(max-width:560px){.devis-prix-grid{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
 <body itemscope itemtype="https://schema.org/WebSite">
@@ -368,6 +447,16 @@ section > .faq-item {
       <div class="devis-item"><span class="devis-num">02</span><p>La surface en m² à poncer et vitrifier</p></div>
       <div class="devis-item"><span class="devis-num">03</span><p>L'étage et présence d'ascenseur — pour l'accès au matériel professionnel</p></div>
       <div class="devis-item"><span class="devis-num">04</span><p>Appartement meublé ou vide — déplacement des meubles possible sur devis</p></div>
+    </div>
+    <div class="devis-prix-rapide">
+      <p class="devis-prix-titre">Estimation rapide — tarif fixe 63&nbsp;€&nbsp;TTC/m²</p>
+      <div class="devis-prix-grid">
+        <div class="devis-prix-item"><span class="devis-prix-surface">30 m²</span><span class="devis-prix-total">1&nbsp;890&nbsp;€</span><span class="devis-prix-duree">1–2 jours</span></div>
+        <div class="devis-prix-item devis-prix-item--highlight"><span class="devis-prix-surface">50 m²</span><span class="devis-prix-total">3&nbsp;150&nbsp;€</span><span class="devis-prix-duree">2–3 jours</span></div>
+        <div class="devis-prix-item devis-prix-item--highlight"><span class="devis-prix-surface">60 m²</span><span class="devis-prix-total">3&nbsp;780&nbsp;€</span><span class="devis-prix-duree">3–4 jours</span></div>
+        <div class="devis-prix-item"><span class="devis-prix-surface">100 m²</span><span class="devis-prix-total">6&nbsp;300&nbsp;€</span><span class="devis-prix-duree">5–6 jours</span></div>
+      </div>
+      <p class="devis-prix-note">Tout compris : ponçage planétaire + vitrification Bona Mega Evo 3 couches + égrenage. Réintégration 8h après la dernière couche.</p>
     </div>
     <a href="sms:+33783925894" class="btn-primary" aria-label="Contacter par SMS">Envoyer par SMS · 07 83 92 58 94</a>
   </div>
