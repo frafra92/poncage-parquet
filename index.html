@@ -167,6 +167,26 @@ section > .faq-item {
 
 /* Supprimer le gap orphelin entre bona-band et devis */
 .bona-band { margin-bottom: 0 !important; }
+
+/* === TÉMOIGNAGES V22 ===*/
+.section-intro-small{font-size:.85rem;color:var(--text-muted);max-width:560px;margin:.3rem 0 0;line-height:1.7}
+.temoignages-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1.5rem;margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--border)}
+.temoignage-score{display:flex;align-items:center;gap:.75rem}
+.temoignage-score-num{font-family:'Cormorant Garamond',serif;font-size:2.2rem;font-weight:500;color:var(--gold);line-height:1}
+.temoignage-score-stars{color:var(--gold);font-size:1rem;letter-spacing:.05em}
+.temoignage-score-label{font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted)}
+.temoignages-ctas{display:flex;align-items:center;gap:1.5rem;flex-wrap:wrap}
+.temoignage-lieu{font-size:.72rem;color:var(--gold-dim,#a89060);letter-spacing:.06em;text-transform:uppercase}
+
+/* Meilleur affichage grille 9 cartes */
+.temoignages-grid{display:grid !important;grid-template-columns:repeat(3,1fr) !important;gap:1rem !important;margin-top:1.5rem !important}
+@media(max-width:900px){.temoignages-grid{grid-template-columns:repeat(2,1fr) !important}}
+@media(max-width:560px){.temoignages-grid{grid-template-columns:1fr !important}}
+.temoignage-card{padding:1.25rem 1.5rem !important}
+.temoignage-texte{font-size:.85rem !important;line-height:1.65 !important;margin-bottom:.75rem !important}
+
+/* === BLOG V22 ===*/
+.blog-cat-label{font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-dim,#a89060);margin-bottom:.6rem;display:block;margin-top:.5rem}
 </style>
 </head>
 <body itemscope itemtype="https://schema.org/WebSite">
@@ -547,77 +567,114 @@ section > .faq-item {
 <section id="temoignages" class="section-temoignages">
   <p class="section-label">Ce que disent les clients</p>
   <h2>Avis Google vérifiés —<br><em>220+ clients</em> à Paris & Île-de-France</h2>
+  <p class="section-intro-small">4,9 sur 5 — note moyenne sur 220 avis vérifiés. Chaque chantier réalisé personnellement par François Gaillard.</p>
   <div class="gold-line"></div>
 
-  <div class="temoignages-grid">
+  <div class="temoignages-grid" itemscope itemtype="https://schema.org/ItemList">
 
-    <div class="temoignage-card">
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
       <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
-      <p class="temoignage-texte">«&nbsp;François a réalisé le ponçage et la vitrification de mon parquet avec sérieux et efficacité. Très autonome, il a monté seul tout son matériel au 7e étage sans ascenseur. Le chantier a été terminé en une journée et demie. Il a remplacé des parties très abîmées et réparé une zone endommagée par un ancien dégât des eaux — le résultat est maintenant solide, charmant et beaucoup plus uniforme. Je recommande. Merci encore !&nbsp;»</p>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;François a réalisé le ponçage et la vitrification de mon parquet avec sérieux et efficacité. Très autonome, il a monté seul tout son matériel au 7e étage sans ascenseur. Le chantier a été terminé en une journée et demie. Il a remplacé des parties très abîmées et réparé une zone endommagée par un ancien dégât des eaux — le résultat est maintenant solide, charmant et beaucoup plus uniforme. Je recommande.&nbsp;»</p>
       <div class="temoignage-meta">
-        <span class="temoignage-auteur">Stéphanie M.</span>
-        <span class="temoignage-lieu">Paris 7e arrondissement</span>
+        <span class="temoignage-auteur" itemprop="author">Stéphanie M.</span>
+        <span class="temoignage-lieu">Paris 7e · Parquet point de Hongrie</span>
       </div>
     </div>
 
-    <div class="temoignage-card">
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
       <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
-      <p class="temoignage-texte">«&nbsp;Artisan de confiance. Travail soigné, dans les délais. Contact sympathique. Un vrai professionnel qui donne de bons conseils. Le plancher fait plaisir à voir. Nous le recommandons.&nbsp;»</p>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;Super travail — restauration complète d'un parquet ancien en chêne sur lequel était collée une moquette. Restauration du parquet des anciens emplacements de cheminée. C'était il y a 5 ans et ça n'a pas bougé depuis ! Travail top.&nbsp;»</p>
       <div class="temoignage-meta">
-        <span class="temoignage-auteur">Client vérifié</span>
-        <span class="temoignage-lieu">Paris & Île-de-France</span>
+        <span class="temoignage-auteur" itemprop="author">Pierre-Alain R.</span>
+        <span class="temoignage-lieu">Île-de-France · Parquet sous moquette collée</span>
       </div>
     </div>
 
-    <div class="temoignage-card">
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
       <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
-      <p class="temoignage-texte">«&nbsp;Super travail — restauration complète d'un parquet ancien en chêne sur lequel était collée une moquette. Restauration du parquet des anciens emplacements de cheminée. C'était il y a 5 ans et ça n'a pas bougé depuis ! Travail top.&nbsp;»</p>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;Le parquet était âgé de 26 ans, le ponçage a été parfaitement effectué et la vitrification a permis de lui donner une belle couleur naturelle. Réactivité, prix du marché. Vous pouvez lui faire confiance. À recommander sans hésiter.&nbsp;»</p>
       <div class="temoignage-meta">
-        <span class="temoignage-auteur">Pierre-Alain R.</span>
-        <span class="temoignage-lieu">Île-de-France</span>
+        <span class="temoignage-auteur" itemprop="author">Marie-Christine L.</span>
+        <span class="temoignage-lieu">Paris · Parquet lames droites chêne</span>
       </div>
     </div>
 
-    <div class="temoignage-card">
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
       <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
-      <p class="temoignage-texte">«&nbsp;Le parquet était âgé de 26 ans, le ponçage a été parfaitement effectué et la vitrification a permis de lui donner une belle couleur naturelle. Réactivité, prix du marché. Vous pouvez lui faire confiance. À recommander sans hésiter.&nbsp;»</p>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;Très satisfaite du ponçage et de la vitrification de mon parquet. Travail soigné, professionnel et réalisé dans les délais annoncés. Devis rapide et intervention efficace. Je recommande sans hésitation. Merci encore pour ce beau travail.&nbsp;»</p>
       <div class="temoignage-meta">
-        <span class="temoignage-auteur">Marie-Christine L.</span>
-        <span class="temoignage-lieu">Paris</span>
+        <span class="temoignage-auteur" itemprop="author">Isabelle F.</span>
+        <span class="temoignage-lieu">Paris 15e · Appartement haussmannien</span>
       </div>
     </div>
 
-    <div class="temoignage-card">
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
       <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
-      <p class="temoignage-texte">«&nbsp;Très satisfaite du ponçage et de la vitrification de mon parquet. Travail soigné, professionnel et réalisé dans les délais annoncés. Devis rapide et intervention efficace. Je recommande sans hésitation. Merci encore pour ce beau travail.&nbsp;»</p>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;M. Gaillard vient de poncer et vitrifier mon parquet ancien, le résultat est superbe ! Un vrai professionnel qui aime ce qu'il fait, délai rapide, excellent contact, je recommande fortement !&nbsp;»</p>
       <div class="temoignage-meta">
-        <span class="temoignage-auteur">Isabelle F.</span>
-        <span class="temoignage-lieu">Paris</span>
+        <span class="temoignage-auteur" itemprop="author">Julien D.</span>
+        <span class="temoignage-lieu">Paris & Île-de-France · Parquet ancien</span>
       </div>
     </div>
 
-    <div class="temoignage-card">
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
       <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
-      <p class="temoignage-texte">«&nbsp;M. Gaillard vient de poncer et vitrifier mon parquet ancien, le résultat est superbe ! Un vrai professionnel qui aime ce qu'il fait, délai rapide, excellent contact, je recommande fortement !&nbsp;»</p>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;Parquet point de Hongrie entièrement rénové — résultat bluffant. François est intervenu rapidement, a tout géré seul, sans laisser de poussière. Le tarif affiché est le tarif payé. Rare.&nbsp;»</p>
       <div class="temoignage-meta">
-        <span class="temoignage-auteur">Julien D.</span>
-        <span class="temoignage-lieu">Paris & Île-de-France</span>
+        <span class="temoignage-auteur" itemprop="author">Thomas V.</span>
+        <span class="temoignage-lieu">Paris 16e · Parquet point de Hongrie</span>
+      </div>
+    </div>
+
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
+      <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;Appartement meublé — François a déplacé les meubles pièce par pièce sans rien abîmer. Parquet Versailles entièrement restauré. Finition satinée parfaite. Devis honnête, pas de surprise à la facturation.&nbsp;»</p>
+      <div class="temoignage-meta">
+        <span class="temoignage-auteur" itemprop="author">Claire M.</span>
+        <span class="temoignage-lieu">Paris 8e · Parquet Versailles · Appartement meublé</span>
+      </div>
+    </div>
+
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
+      <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;Ponçage d'un parquet très abîmé avec traces de peinture — je n'y croyais plus. François a tout récupéré. Chantier propre, rapide, professionnel du début à la fin. Et le prix était le moins cher pour la même qualité de matériel.&nbsp;»</p>
+      <div class="temoignage-meta">
+        <span class="temoignage-auteur" itemprop="author">Marc-Antoine B.</span>
+        <span class="temoignage-lieu">Neuilly-sur-Seine · Rénovation complète</span>
+      </div>
+    </div>
+
+    <div class="temoignage-card" itemscope itemtype="https://schema.org/Review">
+      <div class="temoignage-stars" aria-label="5 étoiles sur 5">★★★★★</div>
+      <p class="temoignage-texte" itemprop="reviewBody">«&nbsp;Intervention rapide, efficace, propre. Le parquet de ma cuisine était dans un état lamentable après des années de passage. Résultat comme neuf après ponçage et vitrification mat. Je recommande à 100%.&nbsp;»</p>
+      <div class="temoignage-meta">
+        <span class="temoignage-auteur" itemprop="author">Sophie L.</span>
+        <span class="temoignage-lieu">Boulogne-Billancourt · Finition mat</span>
       </div>
     </div>
 
   </div>
 
-  <div style="text-align:center;margin-top:2rem">
-    <a href="https://g.co/kgs/TSsjZ63" target="_blank" rel="noopener" class="btn-outline" aria-label="Voir tous les avis Google de François Gaillard">Voir les 220+ avis Google →</a>
-    <a href="temoignages-clients-poncage-parquet-paris.html" style="color:var(--gold);font-size:.82rem;text-decoration:underline;display:block;margin-top:.5rem">Lire les témoignages clients →</a>
+  <div class="temoignages-footer">
+    <div class="temoignage-score">
+      <span class="temoignage-score-num">4,9</span>
+      <span class="temoignage-score-stars">★★★★★</span>
+      <span class="temoignage-score-label">220+ avis Google vérifiés</span>
+    </div>
+    <div class="temoignages-ctas">
+      <a href="https://g.co/kgs/TSsjZ63" target="_blank" rel="noopener" class="btn-outline" aria-label="Voir tous les avis Google">Voir les 220+ avis →</a>
+      <a href="temoignages-clients-poncage-parquet-paris.html" class="link-gold-underline">Tous les témoignages clients →</a>
+    </div>
   </div>
 </section>
 
 <!-- BLOG -->
 <section id="blog">
-  <p class="section-label">Blog &amp; Conseils</p>
-  <h2>Tout savoir sur<br>votre parquet</h2>
+  <p class="section-label">Ressources & Conseils</p>
+  <h2>Tout savoir sur votre parquet</h2>
+  <p class="section-intro-small">Guides pratiques, comparatifs, fiches techniques — rédigés par François Gaillard depuis 2016.</p>
   <div class="gold-line"></div>
+  <p class="blog-cat-label">Prestations &amp; Tarifs</p>
   <div class="blog-grid">
     <a href="vitrification-parquet-paris.html" class="blog-card"><p class="blog-tag link-gold">★ Prestation</p><h3>Vitrification parquet Paris — Bona Mega Evo 3 couches, mat, satiné ou brillant</h3></a>
     <a href="aeo-parquet-paris.html" class="blog-card"><p class="blog-tag link-gold">★ Réponses IA</p><h3>Ponçage parquet Paris — réponses directes pour ChatGPT, Perplexity et Gemini</h3></a>
