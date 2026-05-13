@@ -33,11 +33,11 @@
 <link rel="preload" as="font" crossorigin href="https://fonts.gstatic.com/s/jost/v18/92zatBhPNqw73oDd4iYl.woff2" type="font/woff2">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="style-index.css?v=20260515">
-<link rel="stylesheet" href="style-index.css?v=20260515">
-<link rel="stylesheet" href="style-utilities.css?v=20260515">
-<link rel="stylesheet" href="style-shared.css?v=20260515">
-<link rel="stylesheet" href="style-phi.css?v=20260515">
+<link rel="preload" as="style" href="style-index.css?v=20260516">
+<link rel="stylesheet" href="style-index.css?v=20260516">
+<link rel="stylesheet" href="style-utilities.css?v=20260516">
+<link rel="stylesheet" href="style-shared.css?v=20260516">
+<link rel="stylesheet" href="style-phi.css?v=20260516">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2WFFQHC680"></script>
 <script>
@@ -102,6 +102,71 @@ section { padding: 4rem 2rem !important; }
 
 /* Sections : pas de background blanc résiduel */
 main > section, main > div { --section-bg: transparent; }
+
+/* === CORRECTIONS V22 ===*/
+
+/* Services grid — corriger la 4e card coupée */
+.services-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important;
+  gap: 1px !important;
+  background: var(--border) !important;
+}
+@media(max-width: 900px) {
+  .services-grid { grid-template-columns: repeat(2, 1fr) !important; }
+}
+@media(max-width: 480px) {
+  .services-grid { grid-template-columns: 1fr !important; }
+}
+
+/* FAQ — items hors .faq-list : même style que dedans */
+section > .faq-item {
+  border-left: 1px solid var(--border) !important;
+  border-right: 1px solid var(--border) !important;
+  border-bottom: 1px solid var(--border) !important;
+}
+
+/* Contact — réduire le gap mort */
+#contact .gold-line { margin: 1rem 0 1.5rem !important; }
+
+/* Zones IDF — rendre les liens cliquables visibles */
+.zone-grid .zone a,
+.zone-grid-idf .zone a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: .3rem .7rem;
+  border: 1px solid rgba(201,168,76,.2);
+  color: var(--gold);
+  font-size: .82rem;
+  text-decoration: none;
+  transition: background .15s, border-color .15s;
+  border-radius: 2px;
+}
+.zone-grid .zone a:hover,
+.zone-grid-idf .zone a:hover {
+  background: rgba(201,168,76,.07);
+  border-color: var(--gold);
+}
+
+/* Témoignages — hauteur raisonnable */
+.section-temoignages { padding: 3rem 2rem !important; }
+.temoignages-grid { 
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)) !important;
+  gap: 1rem !important;
+  margin-top: 1.5rem !important;
+}
+
+/* Blog section padding */
+#blog { padding: 3.5rem 2rem !important; }
+
+/* Zones section — h2 position */
+.zones-section .zones-inner h2 {
+  margin-bottom: .5rem !important;
+}
+
+/* Supprimer le gap orphelin entre bona-band et devis */
+.bona-band { margin-bottom: 0 !important; }
 </style>
 </head>
 <body itemscope itemtype="https://schema.org/WebSite">
@@ -426,8 +491,7 @@ main > section, main > div { --section-bg: transparent; }
     <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">Quand peut-on réintégrer les locaux après vitrification ?<span class="faq-icon" aria-hidden="true">+</span></button><div class="faq-a">Avec le <a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" rel="noopener">Bona Mega Evo</a> : réintégration possible 8 heures après la dernière couche. Vous pouvez rentrer chez vous le lendemain matin.</div></div>
     <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">Combien de fois peut-on poncer un parquet ?<span class="faq-icon" aria-hidden="true">+</span></button><div class="faq-a">Cela dépend de l'épaisseur du bois au-dessus des rainures. En général, un parquet massif peut être poncé 3 à 5 fois sur sa durée de vie. Un diagnostic préalable est toujours réalisé.</div></div>
     <div class="faq-item"><button class="faq-q" onclick="toggleFaq(this)">Les animaux domestiques peuvent-ils rester pendant le chantier ?<span class="faq-icon" aria-hidden="true">+</span></button><div class="faq-a">Pour le ponçage, il est préférable que les animaux soient absents à cause du bruit. Pour la vitrification, le vernis <a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" rel="noopener">Bona Mega Evo</a> est à base aqueuse, adapté aux foyers avec animaux, enfants et bébés. Réintégration 8 heures après la dernière couche.</div></div>
-  </div>
-  <div style="margin-top:1.5rem;text-align:right">    <div class="faq-item">
+  <div class="faq-item">
       <button class="faq-q" onclick="tog(this)">Qu'est-ce que le ponçage parquet ?<span class="faq-icon">+</span></button>
       <div class="faq-a">Le ponçage parquet est l'opération qui consiste à abraser mécaniquement la surface d'un plancher en bois massif pour supprimer rayures, taches et irrégularités, avant application d'un vernis de protection. C'est la seule méthode pour rénover un parquet ancien sans le remplacer.</div>
     </div>
@@ -458,7 +522,8 @@ main > section, main > div { --section-bg: transparent; }
     <div class="faq-a">Une vitrification 3 couches <a href="https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/" target="_blank" rel="noopener">Bona Mega Evo</a> dure entre 10 et 15 ans avec un entretien adapté. La durée dépend du trafic, de la finition choisie (mat, satiné, brillant) et de l'entretien régulier.</div>
   </div>
   </div>
-    </div>
+</div>
+<div style="margin-top:1rem;text-align:right">
 <a href="100-questions-poncage-parquet-paris.html" style="font-size:.85rem;letter-spacing:.1em;text-transform:uppercase;color:var(--gold)">Toutes les questions &rarr;</a></div>
 </section>
 
