@@ -33,11 +33,11 @@
 <link rel="preload" as="font" crossorigin href="https://fonts.gstatic.com/s/jost/v18/92zatBhPNqw73oDd4iYl.woff2" type="font/woff2">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="style-index.css?v=20260519">
-<link rel="stylesheet" href="style-index.css?v=20260519">
-<link rel="stylesheet" href="style-utilities.css?v=20260519">
-<link rel="stylesheet" href="style-shared.css?v=20260519">
-<link rel="stylesheet" href="style-phi.css?v=20260519">
+<link rel="preload" as="style" href="style-index.css?v=20260520">
+<link rel="stylesheet" href="style-index.css?v=20260520">
+<link rel="stylesheet" href="style-utilities.css?v=20260520">
+<link rel="stylesheet" href="style-shared.css?v=20260520">
+<link rel="stylesheet" href="style-phi.css?v=20260520">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2WFFQHC680"></script>
 <script>
@@ -343,6 +343,31 @@ footer > .footer-sameAs, footer > p:last-of-type {
 /* BLOG : les .blog-card-extra restent cachées jusqu'au clic */
 .blog-card-extra { display: none !important; }
 .blog-card-extra.visible { display: flex !important; }
+
+/* === CORRECTIONS V26 ===*/
+
+/* Section contact : réduire padding bas */
+#contact { padding-bottom: 2rem !important; }
+
+/* Gap mort entre contact et FAQ : supprimer margin-top de la section FAQ */
+#contact + section { margin-top: 0 !important; }
+
+/* Section services : h2 max-width pour mieux aligner avec la grille */
+#services > .section-label,
+#services > h2,
+#services > .gold-line {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Gallery section : lien Commons bien visible */
+.gallery-section p a.link-gold-underline { opacity: .8; }
+.gallery-section p a.link-gold-underline:hover { opacity: 1; }
+
+/* Stats bar : survol sur le lien 700+ */
+.stat-item a:hover .stat-number { color: #fff !important; }
+.stat-item a:hover .stat-label { color: rgba(255,255,255,.7) !important; }
 </style>
 </head>
 <body itemscope itemtype="https://schema.org/WebSite">
@@ -388,7 +413,7 @@ footer > .footer-sameAs, footer > p:last-of-type {
       <div><dt>Peut-on rester chez soi pendant le ponçage ?</dt><dd>Non pour le ponçage (bruit machine planétaire). Oui dès 8&nbsp;h après la vitrification — le Bona Mega Evo est sans solvant, sans odeur forte.</dd></div>
     </dl>
   </div>
-  <p style="font-size:.7rem;color:var(--text-muted);letter-spacing:.06em;margin:.5rem 0 1rem"><time datetime="2026-05-04">Mis à jour le 4 mai 2026</time> · <a href="a-propos-francois-gaillard-parqueteur-paris.html" class="c-gold-dim">François Gaillard</a> · SIRET 81182012500011</p>
+  <p style="font-size:.7rem;color:var(--text-muted);letter-spacing:.06em;margin:.5rem 0 1rem"><time datetime="2026-05-04">Mis à jour le 4 mai 2026</time> · <a href="a-propos-francois-gaillard-parqueteur-paris.html" class="c-gold-dim">François Gaillard</a> · SIRET 81182012500011 · <a href="https://commons.wikimedia.org/wiki/Category:Pon%C3%A7age_Parquet_Vitrification_Fran%C3%A7ois" target="_blank" rel="noopener" style="color:var(--gold-dim,#a89060);text-decoration:none">99 photos Wikimedia Commons</a></p>
   <p class="hero-sub">Je m'appelle <strong>François Gaillard</strong>, artisan indépendant spécialisé dans le ponçage et la vitrification de parquet à Paris et en région parisienne depuis 2016. J'interviens directement chez vous — sans sous-traitance — pour rénover vos parquets anciens haussmanniens ou plus récents, avec une machine planétaire HTC qui limite fortement la poussière. Tarif fixe <strong>63 € TTC/m²</strong>, devis par SMS sur photos.</p>
   <div class="hero-actions">
     <a href="sms:+33783925894" class="btn-primary" aria-label="Envoyer un SMS pour un devis">Devis par SMS</a>
@@ -430,6 +455,7 @@ footer > .footer-sameAs, footer > p:last-of-type {
     <p class="section-label">Réalisations</p>
     <h2>Réalisations — ponçage parquet Paris <br><em>Avant &amp; Après</em></h2>
     <p style="margin-top:.5rem;font-size:.82rem"><a href="galerie-realisations-poncage-parquet-paris.html" class="link-gold-underline">Voir toute la galerie →</a></p>
+  <p style="margin-top:.3rem;font-size:.78rem;color:var(--text-muted)"><a href="https://commons.wikimedia.org/wiki/Category:Pon%C3%A7age_Parquet_Vitrification_Fran%C3%A7ois" target="_blank" rel="noopener" class="link-gold-underline">99 photos sur Wikimedia Commons →</a></p>
     <div class="gold-line"></div>
     <div class="gallery-tabs">
       <button class="gallery-tab active" onclick="showGallery('avantapres')">Avant / Après</button>
