@@ -370,6 +370,44 @@ footer > .footer-sameAs, footer > p:last-of-type {
 .stat-item a:hover .stat-label { color: rgba(255,255,255,.7) !important; }
 
 .c-or, a.c-or { color: var(--gold, #c9a84c) !important; }
+
+/* === PERFORMANCES V28 ===*/
+
+/* Fix animations non composées — utiliser transform/opacity uniquement */
+.service-card, .temoignage-card, .blog-card, .stat-item, .faq-item, .zone-link {
+  will-change: auto;
+  transform: translateZ(0);
+}
+.service-card:hover, .temoignage-card:hover, .blog-card:hover {
+  transform: translateY(-2px);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+/* CTA sticky : will-change pour animation slide */
+#cta-sticky {
+  will-change: transform;
+  transform: translateZ(0);
+}
+
+/* Supprimer transition:all si présente dans les overrides */
+.zone-link, .footer-link, a {
+  transition: color .15s, opacity .15s, border-color .15s;
+}
+
+/* Fix contraste Bona Mega Evo — toutes les occurrences */
+a.c-or,
+.c-or,
+p a[href*="bona.com"],
+h3 a[href*="bona.com"],
+.text-body a[href*="bona.com"] {
+  color: #c9a84c !important;
+  text-decoration: underline !important;
+  text-decoration-color: rgba(201,168,76,.4) !important;
+  text-underline-offset: 2px !important;
+}
+
+/* Google Tag Manager — différer le plus possible (async déjà, rien à faire HTML) */
+/* Mais on peut réduire le DOM : section blog limiter les cartes initiales à 9 */
 </style>
 </head>
 <body itemscope itemtype="https://schema.org/WebSite">
