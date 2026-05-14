@@ -1417,7 +1417,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closeNavMenu
   // Calcul unique au chargement pour éviter forced reflow à chaque scroll
   var cachedFooterTop=Infinity;
   function updateFooterTop(){var f=document.querySelector('footer');if(f)cachedFooterTop=f.getBoundingClientRect().top+window.scrollY-window.innerHeight-60;}
-  updateFooterTop();
+  requestAnimationFrame(function(){requestAnimationFrame(updateFooterTop);});
   window.addEventListener('resize',updateFooterTop,{passive:true});
   window.addEventListener('scroll',function(){var s=window.scrollY;if(s>300&&s<cachedFooterTop)sticky.style.display='flex';else sticky.style.display='none';},{passive:true});
 })();
