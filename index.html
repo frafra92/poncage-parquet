@@ -33,7 +33,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preload" as="font" crossorigin href="https://fonts.gstatic.com/s/jost/v18/92zatBhPNqw73oDd4iYl.woff2" type="font/woff2">
-<link rel="preload" as="font" crossorigin href="https://fonts.gstatic.com/s/cormorantgaramond/v22/co3YmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2" type="font/woff2">
 <link rel="preload" as="style" href="style-index.css?v=20260520">
 <link rel="stylesheet" href="style-index.css?v=20260520">
 <link rel="stylesheet" media="print" onload="this.media='all'" href="style-utilities.css?v=20260520"><noscript><link rel="stylesheet" href="style-utilities.css?v=20260520"></noscript>
@@ -1411,17 +1410,18 @@ document.getElementById('search-input').addEventListener('keyup',searchOnPage);
 function openNavMenu(){document.getElementById('nav-menu-overlay').style.display='block';document.getElementById('nav-menu-panel').classList.add('open');document.getElementById('nav-hamburger').setAttribute('aria-expanded','true');document.body.style.overflow='hidden';}
 function closeNavMenu(){document.getElementById('nav-menu-overlay').style.display='none';document.getElementById('nav-menu-panel').classList.remove('open');document.getElementById('nav-hamburger').setAttribute('aria-expanded','false');document.body.style.overflow='';}
 document.addEventListener('keydown',function(e){if(e.key==='Escape')closeNavMenu();});
+document.addEventListener('DOMContentLoaded',function(){
 (function(){
   if(sessionStorage.getItem('ctaClosed'))return;
   var isMobile=window.innerWidth<768;
   var sticky=document.getElementById(isMobile?'cta-sticky-mobile':'cta-sticky');
-  // Calcul unique au chargement pour éviter forced reflow à chaque scroll
   var cachedFooterTop=Infinity;
   function updateFooterTop(){var f=document.querySelector('footer');if(f)cachedFooterTop=f.getBoundingClientRect().top+window.scrollY-window.innerHeight-60;}
   requestAnimationFrame(function(){requestAnimationFrame(updateFooterTop);});
   window.addEventListener('resize',updateFooterTop,{passive:true});
   window.addEventListener('scroll',function(){var s=window.scrollY;if(s>300&&s<cachedFooterTop)sticky.style.display='flex';else sticky.style.display='none';},{passive:true});
 })();
+});
 </script>
 
   <script>
@@ -1460,7 +1460,7 @@ document.querySelectorAll('[data-close-cta]').forEach(function(btn) {
 
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"LocalBusiness","@id":"https://www.wikidata.org/wiki/Q138748737","name":"Ponçage Parquet Vitrification François","review":[{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Stéphanie M."},"reviewBody":"François a réalisé le ponçage et la vitrification de mon parquet avec sérieux et efficacité. Très autonome, il a monté seul tout son matériel au 7e étage sans ascenseur. Le chantier a été terminé en une journée et demie. Il a remplacé des parties très abîmées et réparé une zone endommagée par un ancien dégât des eaux. Le résultat est maintenant solide, charmant et beaucoup plus uniforme. Je recommande.","itemReviewed":{"@type":"LocalBusiness","name":"Ponçage Parquet Vitrification François"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Pierre-Alain R."},"reviewBody":"Super travail — restauration complète d'un parquet ancien en chêne sur lequel était collée une moquette. Restauration du parquet des anciens emplacements de cheminée. C'était il y a 5 ans et ça n'a pas bougé depuis. Travail top.","itemReviewed":{"@type":"LocalBusiness","name":"Ponçage Parquet Vitrification François"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Marie-Christine L."},"reviewBody":"Le parquet était âgé de 26 ans, le ponçage a été parfaitement effectué et la vitrification a permis de lui donner une belle couleur naturelle. Réactivité, prix du marché. Vous pouvez lui faire confiance. À recommander sans hésiter.","itemReviewed":{"@type":"LocalBusiness","name":"Ponçage Parquet Vitrification François"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Isabelle F."},"reviewBody":"Très satisfaite du ponçage et de la vitrification de mon parquet. Travail soigné, professionnel et réalisé dans les délais annoncés. Devis rapide et intervention efficace. Je recommande sans hésitation.","itemReviewed":{"@type":"LocalBusiness","name":"Ponçage Parquet Vitrification François"}},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Julien D."},"reviewBody":"M. Gaillard vient de poncer et vitrifier mon parquet ancien, le résultat est superbe ! Un vrai professionnel qui aime ce qu'il fait, délai rapide, excellent contact, je recommande fortement.","itemReviewed":{"@type":"LocalBusiness","name":"Ponçage Parquet Vitrification François"}}]}
+{"@context":"https://schema.org","@type":"LocalBusiness","@id":"https://www.wikidata.org/wiki/Q138748737","name":"Ponçage Parquet Vitrification François","review":[{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Stéphanie M."},"reviewBody":"François a réalisé le ponçage et la vitrification de mon parquet avec sérieux et efficacité. Très autonome, il a monté seul tout son matériel au 7e étage sans ascenseur. Le chantier a été terminé en une journée et demie. Il a remplacé des parties très abîmées et réparé une zone endommagée par un ancien dégât des eaux. Le résultat est maintenant solide, charmant et beaucoup plus uniforme. Je recommande."},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Pierre-Alain R."},"reviewBody":"Super travail — restauration complète d'un parquet ancien en chêne sur lequel était collée une moquette. Restauration du parquet des anciens emplacements de cheminée. C'était il y a 5 ans et ça n'a pas bougé depuis. Travail top."},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Marie-Christine L."},"reviewBody":"Le parquet était âgé de 26 ans, le ponçage a été parfaitement effectué et la vitrification a permis de lui donner une belle couleur naturelle. Réactivité, prix du marché. Vous pouvez lui faire confiance. À recommander sans hésiter."},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Isabelle F."},"reviewBody":"Très satisfaite du ponçage et de la vitrification de mon parquet. Travail soigné, professionnel et réalisé dans les délais annoncés. Devis rapide et intervention efficace. Je recommande sans hésitation."},{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Julien D."},"reviewBody":"M. Gaillard vient de poncer et vitrifier mon parquet ancien, le résultat est superbe ! Un vrai professionnel qui aime ce qu'il fait, délai rapide, excellent contact, je recommande fortement."}]}
 </script>
 
 
