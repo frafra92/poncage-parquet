@@ -975,7 +975,7 @@ h3 a[href*="bona.com"],
   <span class="footer-brand">François Gaillard · Ponçage Parquet Paris</span>
   <p style="margin-bottom:.5rem">&copy; 2026 · Artisan parqueteur à Montrouge</p>
 
-  <div class="footer-nav-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:2rem;margin:2rem 0;text-align:left">
+  <div class="footer-nav-grid" id="footer-nav-grid" style="display:none;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:2rem;margin:2rem 0;text-align:left">
 
     <div>
       <h3 class="lbl-footer-col">Services</h3>
@@ -990,7 +990,7 @@ h3 a[href*="bona.com"],
         <li><a href="vitrification-parquet-paris.html" class="footer-link">Vitrification parquet Paris</a></li>
         <li><a href="services-poncage-vitrification-parquet-paris.html" class="footer-link">Services ponçage & vitrification</a></li>
       </ul>
-    </div>
+    
 
     <div>
       <h3 class="lbl-footer-col">Types de parquet</h3>
@@ -1054,6 +1054,7 @@ h3 a[href*="bona.com"],
         <li><a href="floor-sanding-paris.html" class="footer-link">Floor sanding Paris (English)</a></li>
       </ul>
     </div>
+  </div>
 
   </div>
 
@@ -1540,6 +1541,15 @@ window.addEventListener('load',function(){
   gtag('js',new Date());
   gtag('config','G-2WFFQHC680');
 });
+</script>
+
+<script>
+(function(){
+  if(window.innerWidth>600){
+    var g=document.getElementById('footer-nav-grid');
+    if(g)g.style.display='grid';
+  }
+})();
 </script>
 </body>
 </html>
