@@ -406,6 +406,15 @@ h3 a[href*="bona.com"],
 /* Google Tag Manager — différer le plus possible (async déjà, rien à faire HTML) */
 /* Mais on peut réduire le DOM : section blog limiter les cartes initiales à 9 */
 </style>
+
+<style>
+@media(max-width:600px){
+  .footer-nav-grid{display:none!important;}
+  .zone-grid,.zone-grid-idf{grid-template-columns:1fr!important;gap:16px!important;}
+  .zone-link{width:100%!important;min-height:52px!important;padding:.75rem 1rem!important;}
+  footer{padding-top:3rem!important;}
+}
+</style>
 </head>
 <body>
 
