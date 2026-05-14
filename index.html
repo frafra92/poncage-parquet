@@ -1544,12 +1544,12 @@ window.addEventListener('load',function(){
 </script>
 
 <script>
-(function(){
+(window.requestIdleCallback||function(cb){setTimeout(cb,300)})(function(){
   if(window.innerWidth>600){
     var g=document.getElementById('footer-nav-grid');
     if(g)g.style.display='grid';
   }
-})();
+});
 </script>
 </body>
 </html>
