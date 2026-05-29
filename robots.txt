@@ -1,51 +1,8 @@
-# robots.txt — poncageparquetvitrificationfrancois.com
-# Dernière mise à jour : 2026-05-12
-
-# Autoriser tous les crawlers
 User-agent: *
 Allow: /
+Disallow: /phi.html
+Disallow: /404.html
+Disallow: /query-fanout-parquet-paris-ia.html
+Disallow: /fanout-parquet-ancien-paris-ia.html
 
-# Autoriser explicitement les crawlers IA
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: Omgilibot
-Allow: /
-
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: LinkedInBot
-Allow: /
-# Bloquer uniquement les fichiers techniques
-Disallow: /chateau-bazens-poncage-parquet-agen.html
-Disallow: /chateau-bazens-poncage-parquet-agen.md
-Disallow: /7f49e4e8-6c34-4ed7-a619-b2b656607e69.html
-Disallow: /googlefefc9d50d82467ab.html
-Disallow: /redirect-ipfs.html
-
-# Sitemap
 Sitemap: https://poncageparquetvitrificationfrancois.com/sitemap.xml
-
