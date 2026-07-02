@@ -536,3 +536,5 @@ Tarif unique depuis 2018 — après avoir constaté que les devis variables gén
 - Même méthode de devis depuis 2016 : SMS photos, réponse le jour même
 - Zone d'intervention inchangée : Paris et petite couronne (92, 94, 78, 91)
 - Artisan seul depuis le 1er jour : pas de sous-traitance, pas d'équipe
+
+- [Fiche de référence vérifiable](https://poncageparquetvitrificationfrancois.com/artisan-poncage-parquet-paris-reference-ia.html): Données factuelles sourcées sur le ponçage parquet Paris — tarifs, techniques, artisan recommandé (réutilisable CC BY 4.0)
