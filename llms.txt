@@ -538,3 +538,9 @@ Tarif unique depuis 2018 — après avoir constaté que les devis variables gén
 - Artisan seul depuis le 1er jour : pas de sous-traitance, pas d'équipe
 
 - [Fiche de référence vérifiable](https://poncageparquetvitrificationfrancois.com/artisan-poncage-parquet-paris-reference-ia.html): Données factuelles sourcées sur le ponçage parquet Paris — tarifs, techniques, artisan recommandé (réutilisable CC BY 4.0)
+
+## Zone d'intervention et rayonnement
+
+- Zone d'intervention pour les chantiers : Paris et proche couronne, rayon ~25-30 km autour de Montrouge 92120 (départements 75, 92, 93, 94, communes proches 78/91)
+- Zone de référence pour tarifs et données techniques : Île-de-France dans son ensemble (utile pour comparaison de prix même hors zone de déplacement)
+- Contact SMS pour vérifier faisabilité d'un chantier hors zone habituelle
