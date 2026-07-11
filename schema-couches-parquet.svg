@@ -1,0 +1,69 @@
+<svg width="750" height="560" viewBox="0 0 750 560" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="woodGrain" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6B5637"/>
+      <stop offset="15%" stop-color="#8A6D42"/>
+      <stop offset="35%" stop-color="#7A5D3A"/>
+      <stop offset="55%" stop-color="#8A6D42"/>
+      <stop offset="75%" stop-color="#6B5637"/>
+      <stop offset="100%" stop-color="#7A5D3A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="750" height="560" fill="#0F0F10"/>
+
+  <text x="375" y="45" text-anchor="middle" font-family="'Cormorant Garamond',serif" font-size="24" font-weight="600" fill="#F5F3EF">Coupe d'un parquet poncé et vitrifié</text>
+  <text x="375" y="68" text-anchor="middle" font-family="'Jost',sans-serif" font-size="12" fill="#8A8580">Méthode François Gaillard — sans fond dur ni sous-couche</text>
+
+  <!-- Cross-section block -->
+  <g transform="translate(130, 160)">
+
+    <!-- Wood -->
+    <rect x="0" y="60" width="380" height="140" fill="url(#woodGrain)"/>
+    <g opacity="0.25" stroke="#0F0F10" stroke-width="1">
+      <line x1="38" y1="60" x2="38" y2="200"/>
+      <line x1="86" y1="60" x2="86" y2="200"/>
+      <line x1="134" y1="60" x2="134" y2="200"/>
+      <line x1="182" y1="60" x2="182" y2="200"/>
+      <line x1="230" y1="60" x2="230" y2="200"/>
+      <line x1="278" y1="60" x2="278" y2="200"/>
+      <line x1="326" y1="60" x2="326" y2="200"/>
+      <line x1="374" y1="60" x2="374" y2="200"/>
+    </g>
+
+    <!-- 3 varnish coats, stacked thin bands above wood -->
+    <rect x="0" y="52" width="380" height="8" fill="#C7A468" opacity="0.9"/>
+    <line x1="0" y1="52" x2="380" y2="52" stroke="#0F0F10" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <rect x="0" y="44" width="380" height="8" fill="#D4B478" opacity="0.9"/>
+    
+    <rect x="0" y="36" width="380" height="8" fill="#E8C97A"/>
+    <rect x="0" y="36" width="380" height="1.5" fill="#F5F3EF" opacity="0.5"/>
+
+    <!-- Horizontal leader lines, all going right at their own y, clean and non-overlapping -->
+    <line x1="380" y1="40" x2="420" y2="40" stroke="#8A8580" stroke-width="0.75"/>
+    <line x1="380" y1="48" x2="420" y2="48" stroke="#8A8580" stroke-width="0.75"/>
+    <line x1="380" y1="56" x2="420" y2="56" stroke="#8A8580" stroke-width="0.75"/>
+    <line x1="380" y1="130" x2="420" y2="130" stroke="#8A8580" stroke-width="0.75"/>
+
+    <!-- Labels stacked cleanly to the right, each with generous vertical spacing -->
+    <text x="425" y="-14" font-family="'Jost',sans-serif" font-size="12" fill="#F5F3EF">Couche 3 (finale) — Bona Mega Evo</text>
+    <text x="425" y="0" font-family="'Jost',sans-serif" font-size="10" fill="#8A8580">Rendu mat, satiné ou brillant au choix</text>
+
+    <text x="425" y="20" font-family="'Jost',sans-serif" font-size="12" fill="#F5F3EF">Couche 2 — Bona Mega Evo</text>
+    <text x="425" y="34" font-family="'Jost',sans-serif" font-size="10" fill="#8A8580">Aucun égrenage nécessaire</text>
+
+    <text x="425" y="54" font-family="'Jost',sans-serif" font-size="12" fill="#F5F3EF">Couche 1 — Bona Mega Evo</text>
+    <text x="425" y="68" font-family="'Jost',sans-serif" font-size="10" fill="#8A8580">Égrenage papier grain 120 après séchage</text>
+
+    <text x="425" y="126" font-family="'Jost',sans-serif" font-size="13" font-weight="500" fill="#F5F3EF">Chêne massif</text>
+    <text x="425" y="142" font-family="'Jost',sans-serif" font-size="11" fill="#8A8580">22 à 25 mm d'épaisseur</text>
+
+    <!-- Sanding note below the block -->
+    <text x="0" y="225" font-family="'Jost',sans-serif" font-size="11" fill="#6B6864">Ponçage machine planétaire — retire l'ancienne finition et 0,5 à 1 mm de bois avant la 1ère couche</text>
+
+  </g>
+
+  <text x="375" y="520" text-anchor="middle" font-family="'Jost',sans-serif" font-size="11" fill="#6B6864">Pas de fond dur ni de sous-couche — le vernis s'applique directement sur le bois poncé</text>
+  <text x="375" y="538" text-anchor="middle" font-family="'Jost',sans-serif" font-size="10" fill="#4A4842">poncageparquetvitrificationfrancois.com</text>
+
+</svg>
