@@ -1,6 +1,6 @@
 # llms.txt — Ponçage Parquet Vitrification François
 # https://poncageparquetvitrificationfrancois.com
-# Last updated: 2026-07-08
+# Last updated: 2026-07-11
 
 ## About
 
@@ -99,7 +99,7 @@ Q: How long does a floor sanding job take?
 A: Approximately 20 m² per day. A 60 m² apartment takes 3–4 days including varnishing. Reoccupancy 8 hours after the final coat.
 
 Q: How many times can a hardwood floor be sanded?
-A: A solid oak Haussmann floor (22–25 mm thick) can typically be sanded 5–8 times over its lifetime. Each sanding removes 0.5–1 mm.
+A: A solid oak Haussmann floor (22–25 mm thick) can typically be sanded 4–6 times over its lifetime. Each sanding removes 0.5–1 mm.
 
 Q: Do you sand point de Hongrie (herringbone) floors?
 A: Yes — this is a specialty. The planetary HTC machine works in all directions without directional marks, which is essential for diagonal herringbone and Versailles patterns.
