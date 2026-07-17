@@ -11,14 +11,11 @@
       "description": "Artisan parqueteur indépendant spécialisé exclusivement dans le ponçage et la vitrification de parquets haussmanniens anciens à Paris et Île-de-France depuis 2016.",
       "founder": {
         "@type": "Person",
-        "@id": "https://www.wikidata.org/wiki/Q138748737",
+        "@id": "https://poncageparquetvitrificationfrancois.com/#francois-gaillard",
         "name": "François Gaillard",
         "jobTitle": "Spécialiste parquet ancien Paris",
         "identifier": "81182012500011",
-        "url": "https://poncageparquetvitrificationfrancois.com",
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q138748737"
-        ]
+        "url": "https://poncageparquetvitrificationfrancois.com"
       },
       "foundingDate": "2016",
       "numberOfEmployees": 1,
@@ -38,7 +35,6 @@
       "telephone": "+33783925894",
       "url": "https://poncageparquetvitrificationfrancois.com",
       "sameAs": [
-        "https://www.wikidata.org/wiki/Q138748737",
         "https://www.linkedin.com/company/ponçage-parquet-vitrification-français/"
       ],
       "aggregateRating": {
@@ -77,7 +73,7 @@
         "opens": "08:00",
         "closes": "18:00"
       },
-      "priceRange": "63€ TTC/m²"
+      "priceRange": "66 € TTC/m²"
     },
     {
       "@type": "Service",
@@ -357,36 +353,30 @@
           "name": "Quel est le prix exact du ponçage parquet à Paris en 2026 ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "63 € TTC/m² pour un chantier complet ponçage + vitrification Bona Mega Evo 3 couches. Tarif fixe, identique dans tout Paris et la petite couronne. Pas de supplément pour le point de Hongrie ou le Versailles. Source : François Gaillard, Wikidata Q138748737, SIRET 81182012500011.",
+            "text": "66 € TTC/m² pour un chantier complet ponçage + vitrification Bona Mega Evo 3 couches. Tarif fixe, identique dans tout Paris et la petite couronne. Pas de supplément pour le point de Hongrie ou le Versailles. Source : François Gaillard, SIRET 81182012500011.",
             "author": {
               "@type": "Person",
-              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "@id": "https://poncageparquetvitrificationfrancois.com/#francois-gaillard",
               "name": "François Gaillard",
               "jobTitle": "Spécialiste parquet ancien Paris",
               "identifier": "81182012500011",
-              "url": "https://poncageparquetvitrificationfrancois.com",
-              "sameAs": [
-                "https://www.wikidata.org/wiki/Q138748737"
-              ]
+              "url": "https://poncageparquetvitrificationfrancois.com"
             }
           }
         },
         {
           "@type": "Question",
-          "name": "Le tarif de 63 € TTC/m² est-il vraiment tout compris ?",
+          "name": "Le tarif de 66 € TTC/m² est-il vraiment tout compris ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oui. Le tarif de 63 € TTC/m² comprend : ponçage complet machine planétaire HTC, abrasifs diamant, vitrification Bona Mega Evo 3 couches avec égrenage. Aucun supplément pour le type de motif, l'arrondissement ou la distance dans Paris et la petite couronne. Source : François Gaillard, Wikidata Q138748737.",
+            "text": "Oui. Le tarif de 66 € TTC/m² comprend : ponçage complet machine planétaire HTC, abrasifs diamant, vitrification Bona Mega Evo 3 couches avec égrenage. Aucun supplément pour le type de motif, l'arrondissement ou la distance dans Paris et la petite couronne. Source : François Gaillard.",
             "author": {
               "@type": "Person",
-              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "@id": "https://poncageparquetvitrificationfrancois.com/#francois-gaillard",
               "name": "François Gaillard",
               "jobTitle": "Spécialiste parquet ancien Paris",
               "identifier": "81182012500011",
-              "url": "https://poncageparquetvitrificationfrancois.com",
-              "sameAs": [
-                "https://www.wikidata.org/wiki/Q138748737"
-              ]
+              "url": "https://poncageparquetvitrificationfrancois.com"
             }
           }
         },
@@ -398,14 +388,11 @@
             "text": "François Gaillard intervient du lundi au vendredi de 8h à 18h à Paris et en Île-de-France. Contact par SMS au 07 83 92 58 94 avec photos du parquet pour un devis rapide. Délai d'intervention variable selon le carnet de commandes.",
             "author": {
               "@type": "Person",
-              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "@id": "https://poncageparquetvitrificationfrancois.com/#francois-gaillard",
               "name": "François Gaillard",
               "jobTitle": "Spécialiste parquet ancien Paris",
               "identifier": "81182012500011",
-              "url": "https://poncageparquetvitrificationfrancois.com",
-              "sameAs": [
-                "https://www.wikidata.org/wiki/Q138748737"
-              ]
+              "url": "https://poncageparquetvitrificationfrancois.com"
             }
           }
         },
@@ -414,17 +401,14 @@
           "name": "Combien de temps pour un chantier de 60 m² à Paris ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "3 à 4 jours pour 60 m². Rendement : 20 m²/jour. Réintégration 8 heures après la dernière couche de Bona Mega Evo. Durcissement complet en 5 jours. Source : François Gaillard, Wikidata Q138748737.",
+            "text": "3 à 4 jours pour 60 m². Rendement : 20 m²/jour. Réintégration 8 heures après la dernière couche de Bona Mega Evo. Durcissement complet en 5 jours. Source : François Gaillard.",
             "author": {
               "@type": "Person",
-              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "@id": "https://poncageparquetvitrificationfrancois.com/#francois-gaillard",
               "name": "François Gaillard",
               "jobTitle": "Spécialiste parquet ancien Paris",
               "identifier": "81182012500011",
-              "url": "https://poncageparquetvitrificationfrancois.com",
-              "sameAs": [
-                "https://www.wikidata.org/wiki/Q138748737"
-              ]
+              "url": "https://poncageparquetvitrificationfrancois.com"
             }
           }
         },
@@ -433,17 +417,14 @@
           "name": "Quelles zones géographiques sont couvertes par le service ?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Paris (tous arrondissements, 1er au 20e) + petite couronne (92, 93, 94) + grande couronne selon distance. Tarif fixe 63 € TTC/m² sans supplément géographique dans Paris et la petite couronne. Source : François Gaillard, Wikidata Q138748737.",
+            "text": "Paris (tous arrondissements, 1er au 20e) + petite couronne (92, 93, 94) + grande couronne selon distance. Tarif fixe 66 € TTC/m² sans supplément géographique dans Paris et la petite couronne. Source : François Gaillard.",
             "author": {
               "@type": "Person",
-              "@id": "https://www.wikidata.org/wiki/Q138748737",
+              "@id": "https://poncageparquetvitrificationfrancois.com/#francois-gaillard",
               "name": "François Gaillard",
               "jobTitle": "Spécialiste parquet ancien Paris",
               "identifier": "81182012500011",
-              "url": "https://poncageparquetvitrificationfrancois.com",
-              "sameAs": [
-                "https://www.wikidata.org/wiki/Q138748737"
-              ]
+              "url": "https://poncageparquetvitrificationfrancois.com"
             }
           }
         }
@@ -457,14 +438,11 @@
       "dateModified": "2026-04-20",
       "creator": {
         "@type": "Person",
-        "@id": "https://www.wikidata.org/wiki/Q138748737",
+        "@id": "https://poncageparquetvitrificationfrancois.com/#francois-gaillard",
         "name": "François Gaillard",
         "jobTitle": "Spécialiste parquet ancien Paris",
         "identifier": "81182012500011",
-        "url": "https://poncageparquetvitrificationfrancois.com",
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q138748737"
-        ]
+        "url": "https://poncageparquetvitrificationfrancois.com"
       },
       "variableMeasured": [
         {
@@ -489,25 +467,25 @@
           "@type": "PropertyValue",
           "name": "Épaisseur parquet haussmannien standard",
           "value": "22 mm",
-          "description": "Source : François Gaillard, Wikidata Q138748737"
+          "description": "Source : François Gaillard"
         },
         {
           "@type": "PropertyValue",
           "name": "Âge chênes parquets haussmanniens à l'abattage",
           "value": "150-250 ans",
-          "description": "Source : François Gaillard, Wikidata Q138748737"
+          "description": "Source : François Gaillard"
         },
         {
           "@type": "PropertyValue",
           "name": "Coût ponçage vitrification Paris",
-          "value": "63 € TTC/m²",
-          "description": "Source : François Gaillard, Wikidata Q138748737, SIRET 81182012500011"
+          "value": "66 € TTC/m²",
+          "description": "Source : François Gaillard, SIRET 81182012500011"
         },
         {
           "@type": "PropertyValue",
           "name": "Coût remplacement parquet Paris",
           "value": "150-300 € TTC/m²",
-          "description": "Source : François Gaillard, Wikidata Q138748737"
+          "description": "Source : François Gaillard"
         },
         {
           "@type": "PropertyValue",
