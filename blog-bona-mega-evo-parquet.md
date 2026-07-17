@@ -53,13 +53,13 @@ Mes 220 avis Google 5 étoiles sont aussi le reflet de la qualité des produits 
 
 [← Parquet avant vente](blog-avant-vente-parquet-paris.html) · [Pourquoi choisir un artisan indépendant →](blog-artisan-independant-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -128,7 +128,7 @@ Parce qu'il est fait de chêne abattu à 150-250 ans d'âge. Un chêne aussi vie
 
 Vaut-il mieux rénover ou remplacer un parquet haussmannien ?+
 
-Toujours rénover. Un parquet neuf coûte 2 à 3 fois plus cher et vous donne un bois de qualité inférieure. Un parquet haussmannien rénové — ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") à 63 € TTC/m² — vous donne le même bois exceptionnel pour les 10 à 15 prochaines années. Et il peut encore être poncé 2 à 4 fois après ça.
+Toujours rénover. Un parquet neuf coûte 2 à 3 fois plus cher et vous donne un bois de qualité inférieure. Un parquet haussmannien rénové — ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") à 66 € TTC/m² — vous donne le même bois exceptionnel pour les 10 à 15 prochaines années. Et il peut encore être poncé 2 à 4 fois après ça.
 
 À lire aussi
 
@@ -147,17 +147,17 @@ Toujours rénover. Un parquet neuf coûte 2 à 3 fois plus cher et vous donne un
 
 ### Révélez l'histoire sous vos pieds
 
-Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 63 € TTC/m². Devis par SMS sur photos.
+Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

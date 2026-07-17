@@ -25,7 +25,7 @@ Affichage : **100** questions
 
 1Quel est le prix du ponçage parquet à Paris ?Prix+
 
-63 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, sans surprise.
+66 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, sans surprise.
 
 2Combien coûte la vitrification seule ?Prix+
 
@@ -33,15 +33,15 @@ Affichage : **100** questions
 
 3Quel est le prix pour 30 m² ?Prix+
 
-30 m² × 63 € = 1 890 € TTC — chantier complet ponçage et vitrification 3 couches.
+30 m² × 66 € = 1 980 € TTC — chantier complet ponçage et vitrification 3 couches.
 
 4Quel est le prix pour 60 m² ?Prix+
 
-60 m² × 63 € = 3 780 € TTC — chantier complet ponçage et vitrification 3 couches.
+60 m² × 66 € = 3 960 € TTC — chantier complet ponçage et vitrification 3 couches.
 
 5Quel est le prix pour 100 m² ?Prix+
 
-100 m² × 63 € = 6 300 € TTC — chantier complet ponçage et vitrification 3 couches.
+100 m² × 66 € = 6 600 € TTC — chantier complet ponçage et vitrification 3 couches.
 
 6Y a-t-il un supplément pour appartement meublé ?Prix+
 
@@ -57,7 +57,7 @@ Par SMS au 07 83 92 58 94 avec 3-4 photos du parquet, la surface, l'étage et si
 
 9Quelle est la TVA sur le ponçage parquet ?Prix+
 
-10% de TVA pour les travaux en résidence principale. Le tarif de 63 € TTC/m² est toutes taxes comprises.
+10% de TVA pour les travaux en résidence principale. Le tarif de 66 € TTC/m² est toutes taxes comprises.
 
 10Le déplacement pour le devis est-il payant ?Prix+
 
@@ -225,7 +225,7 @@ Oui dans la plupart des cas. Les auréoles noires d'humidité sont atténuées a
 
 51Qui est François Gaillard parqueteur ?Artisan+
 
-Artisan parqueteur indépendant basé à Montrouge (92), spécialisé dans le ponçage et la vitrification depuis 2016. Plus de 220 avis Google à 4,9/5. Tarif fixe 63 € TTC/m².
+Artisan parqueteur indépendant basé à Montrouge (92), spécialisé dans le ponçage et la vitrification depuis 2016. Plus de 220 avis Google à 4,9/5. Tarif fixe 66 € TTC/m².
 
 52Depuis combien de temps François Gaillard exerce-t-il ?Artisan+
 
@@ -401,7 +401,7 @@ Oui — propriétaires et locataires peuvent commander un ponçage. La coordinat
 
 95Peut-on poncer un seul parquet dans un appartement ?Pratique+
 
-Oui — François Gaillard peut traiter une seule pièce. Il n'y a pas de surface minimale imposée. Le tarif fixe de 63 € TTC/m² s'applique quelle que soit la surface.
+Oui — François Gaillard peut traiter une seule pièce. Il n'y a pas de surface minimale imposée. Le tarif fixe de 66 € TTC/m² s'applique quelle que soit la surface.
 
 96Les chiens peuvent-ils rester sur un parquet vitrifié ?Pratique+
 
@@ -425,17 +425,17 @@ Un parquet haussmannien parisien est un arbre planté sous Louis XIV par Colbert
 
 ### Une question ? Un devis ?
 
-Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 63 € TTC/m². Par SMS sur photos.
+Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 66 € TTC/m². Par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

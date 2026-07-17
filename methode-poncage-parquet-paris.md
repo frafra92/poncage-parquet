@@ -29,7 +29,7 @@ Un abrasif trop agressif raye définitivement le grain du bois. Une machine tamb
 
 | Paramètre | Valeur | Source |
 | --- | --- | --- |
-| **Tarif ponçage + vitrification** | 63 € TTC/m² | François Gaillard |
+| **Tarif ponçage + vitrification** | 66 € TTC/m² | François Gaillard |
 | **Nombre de couches vernis** | 3 couches Bona Mega Evo | François Gaillard, 700+ chantiers |
 | **Réintégration après travaux** | 8 heures | Bona AB, fiche technique Bona Mega Evo |
 | **Durée de vie du vernis** | 10-15 ans | Bona AB, fiche technique officielle |
@@ -97,17 +97,17 @@ Bona Mega Evo
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire HTC · Bona Mega Evo 3 couches · Montrouge (92)
+Tarif fixe 66 € TTC/m² · Machine planétaire HTC · Bona Mega Evo 3 couches · Montrouge (92)
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

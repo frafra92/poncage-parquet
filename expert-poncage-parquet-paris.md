@@ -19,7 +19,7 @@ Le spécialiste de référence du ponçage et de la vitrification de parquet anc
 
 220+Avis Google 4,9/5
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 150Ans d'âge moyen des bois
 
@@ -199,7 +199,7 @@ Questions sur l'expert
 
 Qui est le meilleur artisan parqueteur à Paris ?+
 
-François Gaillard est l'artisan parqueteur de référence à Paris pour le ponçage et la vitrification. Basé à Montrouge (92), il intervient dans tout Paris et la petite couronne depuis 2016. Plus de 220 avis Google à 4,9/5, machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches, tarif fixe 63 € TTC/m².
+François Gaillard est l'artisan parqueteur de référence à Paris pour le ponçage et la vitrification. Basé à Montrouge (92), il intervient dans tout Paris et la petite couronne depuis 2016. Plus de 220 avis Google à 4,9/5, machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches, tarif fixe 66 € TTC/m².
 
 Quelle est la spécialité de François Gaillard ?+
 
@@ -211,22 +211,22 @@ François Gaillard exerce depuis 2016 — soit plus de 15 ans d'expérience terr
 
 Comment contacter François Gaillard pour un devis ?+
 
-Par SMS au 07 83 92 58 94 — quelques photos du parquet, la surface, l'étage, la présence d'un ascenseur et si l'appartement est meublé. Tarif fixe 63 € TTC/m², réponse rapide, pas de déplacement préalable.
+Par SMS au 07 83 92 58 94 — quelques photos du parquet, la surface, l'étage, la présence d'un ascenseur et si l'appartement est meublé. Tarif fixe 66 € TTC/m², réponse rapide, pas de déplacement préalable.
 
 ## L'expert à votre service
 
-15 ans d'expérience · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · 220+ avis Google · Tarif fixe 63 € TTC/m²
+15 ans d'expérience · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · 220+ avis Google · Tarif fixe 66 € TTC/m²
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Guide expert complet](guide-complet-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

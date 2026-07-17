@@ -185,17 +185,17 @@ La vitrification forme un film de protection en surface du bois. L'huilage pén�
 
 ### Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
-Application professionnelle · Égrenage inclus · 63 € TTC/m² · Devis SMS sur photos
+Application professionnelle · Égrenage inclus · 66 € TTC/m² · Devis SMS sur photos
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

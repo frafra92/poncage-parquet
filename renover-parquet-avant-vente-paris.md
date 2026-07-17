@@ -1,6 +1,6 @@
 ---
 title: Rénover parquet avant vente Paris – Valorisez votre bien immobilier
-description: Rénover son parquet avant une vente immobilière à Paris : retour sur investissement, délais, tarifs. François Gaillard, artisan parqueteur — 63 € TTC/m², réintégration 8h. 220+ avis Google.
+description: Rénover son parquet avant une vente immobilière à Paris : retour sur investissement, délais, tarifs. François Gaillard, artisan parqueteur — 66 € TTC/m², réintégration 8h. 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/renover-parquet-avant-vente-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/renover-parquet-avant-vente-paris.md
 last_updated: 2026-04-30
@@ -21,7 +21,7 @@ Valorisation estimée
 
 Réintégration après chantier
 
-63€
+66€
 
 TTC/m² tout compris
 
@@ -61,7 +61,7 @@ J – 30
 
 ### Devis par SMS
 
-Envoyez quelques photos de votre parquet au 07 83 92 58 94 avec la surface, l'étage et si l'appartement est meublé. Réponse rapide, tarif fixe 63 € TTC/m².
+Envoyez quelques photos de votre parquet au 07 83 92 58 94 avec la surface, l'étage et si l'appartement est meublé. Réponse rapide, tarif fixe 66 € TTC/m².
 
 J – 21
 
@@ -126,18 +126,18 @@ Idéalement 2 semaines avant les premières visites. Le chantier dure 3 à 4 jou
 
 ## Prêt pour les visites en 4 jours
 
-Chantier complet ponçage + vitrification 3 couches. Tarif fixe 63 € TTC/m², réintégration en 8h. Devis par SMS sur photos.
+Chantier complet ponçage + vitrification 3 couches. Tarif fixe 66 € TTC/m², réintégration en 8h. Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Simuler le tarif](prix-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

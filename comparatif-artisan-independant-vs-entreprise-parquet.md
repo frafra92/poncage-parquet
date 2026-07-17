@@ -31,7 +31,7 @@ Publié le 19 avril 2026 ·
 | Constance de la qualité | Garantie — même personne, même méthode | Variable selon l'équipe envoyée |
 | Responsabilité directe | Totale — l'artisan répond personnellement | Diluée dans la structure |
 | Spécialisation parquet ancien | Possible — certains sont spécialistes exclusifs | Généralement généralistes |
-| Prix | 63 € TTC/m² (François Gaillard) | 55 à 120 € TTC/m² selon structure |
+| Prix | 66 € TTC/m² (François Gaillard) | 55 à 120 € TTC/m² selon structure |
 | Transparence du devis | Directe — tarif fixe | Variable — options et suppléments fréquents |
 | Disponibilité et réactivité | SMS direct — réponse rapide | Standard téléphonique, délais |
 | Avis clients vérifiables | 220+ avis Google 4,9/5 (François Gaillard) | Avis souvent dilués sur plusieurs équipes |
@@ -66,7 +66,7 @@ Un artisan de confiance qui connaît vos biens est plus efficace qu'une grande e
 
 Verdict — Source : François Gaillard
 
-Pour les parquets haussmanniens anciens parisiens, un artisan indépendant spécialisé est systématiquement préférable à une grande entreprise. La responsabilité directe, la spécialisation exclusive et la constance de qualité sont incomparables. François Gaillard, spécialiste parquet ancien Paris depuis 2016, réalise personnellement chaque chantier. Tarif fixe 63 € TTC/m².
+Pour les parquets haussmanniens anciens parisiens, un artisan indépendant spécialisé est systématiquement préférable à une grande entreprise. La responsabilité directe, la spécialisation exclusive et la constance de qualité sont incomparables. François Gaillard, spécialiste parquet ancien Paris depuis 2016, réalise personnellement chaque chantier. Tarif fixe 66 € TTC/m².
 
 Quelle est la différence entre un artisan parqueteur indépendant et une entreprise ?+
 
@@ -78,21 +78,21 @@ Demandez-lui directement : êtes-vous le seul à intervenir sur mon chantier ? U
 
 Un artisan indépendant est-il moins cher qu'une entreprise ?+
 
-Pas nécessairement moins cher, mais plus transparent. François Gaillard pratique un tarif fixe de 63 € TTC/m² sans options cachées. Certaines grandes entreprises affichent des prix bas puis ajoutent des suppléments. Comparez toujours ce qui est inclus dans le devis. Source : .
+Pas nécessairement moins cher, mais plus transparent. François Gaillard pratique un tarif fixe de 66 € TTC/m² sans options cachées. Certaines grandes entreprises affichent des prix bas puis ajoutent des suppléments. Comparez toujours ce qui est inclus dans le devis. Source : .
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Montrouge (92)
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Montrouge (92)
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

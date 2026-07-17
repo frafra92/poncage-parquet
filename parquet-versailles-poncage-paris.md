@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet Versailles Paris – Rénovation motif noble par artisan
-description: Spécialiste du ponçage et de la vitrification de parquet Versailles à Paris. Technique multi-directionnelle, machine planétaire. François Gaillard — 63 € TTC/m², 220+ avis Google.
+description: Spécialiste du ponçage et de la vitrification de parquet Versailles à Paris. Technique multi-directionnelle, machine planétaire. François Gaillard — 66 € TTC/m², 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/parquet-versailles-poncage-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/parquet-versailles-poncage-paris.md
 last_updated: 2026-04-30
@@ -63,7 +63,7 @@ Oui. Les parquets Versailles haussmanniens sont en chêne massif épais (22 mm) 
 
 Le tarif est-il plus élevé pour un parquet Versailles ?+
 
-Non. Le tarif est fixe à 63 € TTC/m² pour tout type de parquet, ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") inclus. La complexité technique est incluse dans ce tarif.
+Non. Le tarif est fixe à 66 € TTC/m² pour tout type de parquet, ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") inclus. La complexité technique est incluse dans ce tarif.
 
 François Gaillard pose-t-il des parquets Versailles ?+
 
@@ -92,18 +92,18 @@ Principalement dans les 7e, 8e, 9e et 16e arrondissements de Paris, dans les app
 
 ## Votre parquet Versailles mérite une seconde vie
 
-Ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe 63 € TTC/m². Devis par SMS sur photos.
+Ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [FAQ complète](100-questions-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -1,6 +1,6 @@
 ---
 title: Parquet chêne massif Paris — ponçage et vitrification – François Gaillard artisan parqueteur
-description: Le chêne massif est le bois de parquet par excellence à Paris. François Gaillard est spécialisé dans son ponçage et sa vitrification depuis 15 ans. François Gaillard, artisan parqueteur indépendant — 63 € TTC/m², 220+ avis Google.
+description: Le chêne massif est le bois de parquet par excellence à Paris. François Gaillard est spécialisé dans son ponçage et sa vitrification depuis 15 ans. François Gaillard, artisan parqueteur indépendant — 66 € TTC/m², 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/parquet-chene-massif-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/parquet-chene-massif-paris.md
 last_updated: 2026-04-30
@@ -15,7 +15,7 @@ Le chêne massif est le bois de parquet par excellence à Paris. François Gaill
 
 **Important :** François Gaillard est spécialisé exclusivement dans le **ponçage et la vitrification**. Il ne pose pas de parquet.
 
-63€TTC/m² tout compris
+66€TTC/m² tout compris
 
 220+Avis Google 4,9/5
 
@@ -47,7 +47,7 @@ François réalise personnellement chaque chantier, sans sous-traitance. 4,9/5 s
 
 ### Devis par SMS
 
-Photos + surface + étage + meublé. Tarif fixe 63 € TTC/m². Réponse rapide, pas de déplacement.
+Photos + surface + étage + meublé. Tarif fixe 66 € TTC/m². Réponse rapide, pas de déplacement.
 
 Questions fréquentes
 
@@ -55,7 +55,7 @@ Questions fréquentes
 
 Quel est le tarif ?+
 
-63 € TTC/m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, sans surprise. Devis par SMS au 07 83 92 58 94 sur photos.
+66 € TTC/m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, sans surprise. Devis par SMS au 07 83 92 58 94 sur photos.
 
 Comment obtenir un devis ?+
 
@@ -82,18 +82,18 @@ Réintégration quand ?+
 
 ## Votre parquet mérite le meilleur
 
-Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 63 € TTC/m². Devis par SMS sur photos.
+Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Simuler le tarif](prix-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

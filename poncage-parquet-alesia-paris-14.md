@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet Alésia Paris 14e — François Gaillard, artisan parqueteur
-description: Ponçage et vitrification de parquet à Alésia (Paris 14e). François Gaillard, artisan indépendant — machine planétaire HTC, Bona Mega Evo 3 couches. Tarif fixe 63 € TTC/m². Devis par SMS.
+description: Ponçage et vitrification de parquet à Alésia (Paris 14e). François Gaillard, artisan indépendant — machine planétaire HTC, Bona Mega Evo 3 couches. Tarif fixe 66 € TTC/m². Devis par SMS.
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-alesia-paris-14.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-alesia-paris-14.md
 last_updated: 2026-04-30
@@ -17,7 +17,7 @@ Artisan parqueteur indépendant intervenant à Alésia et dans tout le 14e arron
 
 [Devis par SMS — 07 83 92 58 94](sms:+33783925894)
 
-63 € TTC/m²
+66 € TTC/m²
 Ponçage + vitrification 3 couches · Tarif fixe · Devis par SMS uniquement
 
 ## Intervention à Alésia — Paris 14e
@@ -64,13 +64,13 @@ Le devis se fait exclusivement par SMS, sur la base de 3 à 4 photos de votre pa
 
 [SMS — 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

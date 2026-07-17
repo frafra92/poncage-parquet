@@ -1,6 +1,6 @@
 ---
 title: Vitrification parquet mat, satiné ou brillant Paris — Quel finition choisir ?
-description: Mat, satiné ou brillant — quelle finition choisir pour votre parquet à Paris ? Conseils de François Gaillard, artisan parqueteur indépendant. Bona Mega Evo disponible en plusieurs niveaux de brillance. Tarif fixe 63 € TTC/m².
+description: Mat, satiné ou brillant — quelle finition choisir pour votre parquet à Paris ? Conseils de François Gaillard, artisan parqueteur indépendant. Bona Mega Evo disponible en plusieurs niveaux de brillance. Tarif fixe 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-vitrification-mat-satine-brillant-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-vitrification-mat-satine-brillant-paris.md
 last_updated: 2026-04-30
@@ -11,9 +11,9 @@ Vitrification parquet :
 
 # Vitrification parquet : *mat, satiné ou brillant* ?
 
-Mat, satiné ou brillant — quelle finition choisir pour votre parquet à Paris ? Conseils de François Gaillard, artisan parqueteur indépendant. [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") disponible en plusieurs niveaux de brillance. Tarif fixe 63 € TTC/m².
+Mat, satiné ou brillant — quelle finition choisir pour votre parquet à Paris ? Conseils de François Gaillard, artisan parqueteur indépendant. [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") disponible en plusieurs niveaux de brillance. Tarif fixe 66 € TTC/m².
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis 4,9/5
 
@@ -57,17 +57,17 @@ Oui — le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/prote
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -109,17 +109,17 @@ Vous voulez aller plus loin ? L'article technique complet explique les normes DT
 
 ### Une question sur votre parquet ?
 
-Envoyez des photos par SMS — je vous réponds. **Tarif fixe 63 € TTC/m²** · Paris et Île-de-France.
+Envoyez des photos par SMS — je vous réponds. **Tarif fixe 66 € TTC/m²** · Paris et Île-de-France.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

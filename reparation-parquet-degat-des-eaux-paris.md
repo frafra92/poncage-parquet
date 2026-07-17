@@ -1,6 +1,6 @@
 ---
 title: Réparation parquet suite dégât des eaux Paris — Solutions par François Gaillard
-description: Votre parquet a souffert d'une fuite ou d'une inondation à Paris ? François Gaillard, artisan parqueteur indépendant, évalue les dégâts et propose ponçage, remplacement de lames ou vitrification. Tarif fixe 63 € TTC/m².
+description: Votre parquet a souffert d'une fuite ou d'une inondation à Paris ? François Gaillard, artisan parqueteur indépendant, évalue les dégâts et propose ponçage, remplacement de lames ou vitrification. Tarif fixe 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/reparation-parquet-degat-des-eaux-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/reparation-parquet-degat-des-eaux-paris.md
 last_updated: 2026-04-30
@@ -11,9 +11,9 @@ Réparation parquet
 
 # Réparation parquet *dégât des eaux* Paris
 
-Votre parquet a souffert d'une fuite ou d'une inondation à Paris ? François Gaillard, artisan parqueteur indépendant, évalue les dégâts et propose ponçage, remplacement de lames ou vitrification. Tarif fixe 63 € TTC/m².
+Votre parquet a souffert d'une fuite ou d'une inondation à Paris ? François Gaillard, artisan parqueteur indépendant, évalue les dégâts et propose ponçage, remplacement de lames ou vitrification. Tarif fixe 66 € TTC/m².
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis 4,9/5
 
@@ -51,21 +51,21 @@ Oui pour la majorité des taches noires liées à l'humidité. Si les taches son
 
 Quel est le prix pour rénover un parquet après dégât des eaux à Paris ?+
 
-Le tarif de base est de 63 € TTC/m² pour ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Si des lames doivent être remplacées, un devis spécifique est établi sur photos.
+Le tarif de base est de 66 € TTC/m² pour ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Si des lames doivent être remplacées, un devis spécifique est établi sur photos.
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

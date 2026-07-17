@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet point de Hongrie Paris – Artisan spécialisé François Gaillard
-description: Spécialiste du ponçage et de la rénovation de parquet point de Hongrie à Paris. Technique en diagonale, machine planétaire. Tarif fixe 63 € TTC/m². 220+ avis Google.
+description: Spécialiste du ponçage et de la rénovation de parquet point de Hongrie à Paris. Technique en diagonale, machine planétaire. Tarif fixe 66 € TTC/m². 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-de-hongrie-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-de-hongrie-paris.md
 last_updated: 2026-04-30
@@ -17,7 +17,7 @@ Le point de Hongrie est l'une des poses les plus élégantes et les plus exigean
 
 22mmÉpaisseur typique
 
-63€TTC/m²
+66€TTC/m²
 
 8hRéintégration
 
@@ -85,7 +85,7 @@ Le point de Hongrie est posé en diagonale. Une machine tambour qui ponce dans u
 
 Le tarif est-il plus élevé pour un point de Hongrie ?+
 
-Non. Le tarif est le même : 63 € TTC par m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). La complexité technique est incluse dans le tarif.
+Non. Le tarif est le même : 66 € TTC par m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). La complexité technique est incluse dans le tarif.
 
 Quelle est la différence avec le parquet à bâtons rompus ?+
 
@@ -118,18 +118,18 @@ Principalement dans les 7e, 8e, 16e et 17e arrondissements. Aussi dans certains 
 
 ## Votre point de Hongrie retrouve son éclat
 
-Technique spécialisée, machine planétaire, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 63 € TTC/m².
+Technique spécialisée, machine planétaire, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 66 € TTC/m².
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Parquet haussmannien](parquet-haussmannien-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

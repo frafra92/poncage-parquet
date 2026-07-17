@@ -53,7 +53,7 @@ Nettoyage plus approfondi des zones à fort trafic (entrée, couloir). Vérifica
 
 10–15 ans
 
-Ponçage et nouvelle vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Le parquet retrouve son éclat d'origine. Tarif fixe 63 € TTC/m².
+Ponçage et nouvelle vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Le parquet retrouve son éclat d'origine. Tarif fixe 66 € TTC/m².
 
 Questions fréquentes
 
@@ -69,7 +69,7 @@ Non. Le vinaigre blanc est acide et dégrade le vernis à long terme. Il ternit 
 
 Mon parquet vitrifié est terne — que faire ?+
 
-Un parquet terne ne peut pas être ravivé localement. Il faut reponcer l'ensemble et appliquer un nouveau vernis. C'est le travail de François Gaillard : ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") à 63 € TTC/m².
+Un parquet terne ne peut pas être ravivé localement. Il faut reponcer l'ensemble et appliquer un nouveau vernis. C'est le travail de François Gaillard : ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") à 66 € TTC/m².
 
 Combien de temps dure le vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?+
 
@@ -94,18 +94,18 @@ Combien de temps dure le vernis [Bona Mega Evo](https://www.bona.com/fr/produits
 
 ## Parquet terne ou abîmé ? On le remet à neuf
 
-Ponçage complet + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe 63 € TTC/m². Devis par SMS sur photos.
+Ponçage complet + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

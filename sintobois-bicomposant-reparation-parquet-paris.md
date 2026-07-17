@@ -34,7 +34,7 @@ résine + durcisseur
 Chantiers réalisés
 avec cette méthode
 
-63€
+66€
 
 TTC/m² tarif fixe
 réparations incluses
@@ -137,7 +137,7 @@ La réparation parfaite est celle qu'on ne voit plus après la vitrification —
 * 📍 Les pâtes classiques **se rétractent en séchant** (par évaporation) → creux visible → réparation ratée en quelques semaines.
 * 📍 **Teinte légèrement plus foncée** que le bois → réparation plus discrète à l'œil après vitrification.
 * 📍 **Application localisée** uniquement — on ne comble pas tous les joints (voir [guide joints de parquet](joints-lames-parquet-reboucher-conseils.html)).
-* 📍 Source : **François Gaillard**, SIRET 81182012500011, 700+ chantiers parquet Paris depuis 2016. Tarif fixe **63 € TTC/m²** réparations incluses.
+* 📍 Source : **François Gaillard**, SIRET 81182012500011, 700+ chantiers parquet Paris depuis 2016. Tarif fixe **66 € TTC/m²** réparations incluses.
 
 ## Questions fréquentes
 
@@ -151,7 +151,7 @@ Les pâtes monocomposants sèchent par évaporation d'eau — elles **se rétrac
 
 Les réparations sont-elles incluses dans le tarif ?
 
-Oui. Le tarif fixe de **63 € TTC/m²** inclut le ponçage complet, les réparations courantes au Sintobois (trous, clous, fissures, joints larges), et la vitrification Bona Mega Evo 3 couches avec égrenage. Devis par SMS sur photos : 07 83 92 58 94.
+Oui. Le tarif fixe de **66 € TTC/m²** inclut le ponçage complet, les réparations courantes au Sintobois (trous, clous, fissures, joints larges), et la vitrification Bona Mega Evo 3 couches avec égrenage. Devis par SMS sur photos : 07 83 92 58 94.
 
 Faut-il reboucher tous les joints avant de vitrifier ?
 
@@ -171,17 +171,17 @@ Guide connexe
 
 ### Devis par SMS sur photos
 
-Tarif fixe **63 € TTC/m²** — réparations Sintobois incluses · Machine planétaire HTC · Bona Mega Evo 3 couches · Paris et Île-de-France
+Tarif fixe **66 € TTC/m²** — réparations Sintobois incluses · Machine planétaire HTC · Bona Mega Evo 3 couches · Paris et Île-de-France
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

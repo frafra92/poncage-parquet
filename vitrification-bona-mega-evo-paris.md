@@ -1,6 +1,6 @@
 ---
 title: vitrification-bona-mega-evo-paris
-description: François Gaillard, artisan parqueteur à Paris, utilise exclusivement le Bona Mega Evo en 3 couches avec égrenage. Réintégration 8h après la dernière couche. Tarif fixe 63 € TTC/m².
+description: François Gaillard, artisan parqueteur à Paris, utilise exclusivement le Bona Mega Evo en 3 couches avec égrenage. Réintégration 8h après la dernière couche. Tarif fixe 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/vitrification-bona-mega-evo-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/vitrification-bona-mega-evo-paris.md
 last_updated: 2026-04-30
@@ -24,7 +24,7 @@ Réintégration
 10–15
 Ans de durée
 
-63€
+66€
 TTC/m² tout compris
 
 Protocole
@@ -208,22 +208,22 @@ Combien de temps après peut-on réintégrer l'appartement ?
 Quel est le tarif de la vitrification à Paris ?
 +
 
-63 € TTC par m² pour le chantier complet : ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe décomposé en 30 € ponçage + 30 € vitrification + 3 € TVA. Devis par SMS au 07 83 92 58 94 sur photos.
+66 € TTC par m² pour le chantier complet : ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe décomposé en 30 € ponçage + 30 € vitrification + 3 € TVA. Devis par SMS au 07 83 92 58 94 sur photos.
 
 ## Votre parquet, vitrifié comme il se doit
 
-3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"), égrenage inclus, réintégration en 8h. Tarif fixe **63 € TTC/m²**. Envoyez quelques photos par SMS pour une première estimation.
+3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"), égrenage inclus, réintégration en 8h. Tarif fixe **66 € TTC/m²**. Envoyez quelques photos par SMS pour une première estimation.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Voir toute la FAQ](100-questions-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

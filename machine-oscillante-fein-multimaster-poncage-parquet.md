@@ -182,17 +182,17 @@ Article connexe
 
 ### Devis par SMS sur photos
 
-Tarif fixe **63 € TTC/m²** · Machine planétaire HTC + Fein Multimaster + [Bona Mega Evo](vitrification-bona-mega-evo-paris.html) 3 couches · Paris et Île-de-France
+Tarif fixe **66 € TTC/m²** · Machine planétaire HTC + Fein Multimaster + [Bona Mega Evo](vitrification-bona-mega-evo-paris.html) 3 couches · Paris et Île-de-France
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

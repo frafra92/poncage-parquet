@@ -171,17 +171,17 @@ C'est exactement l'opposé de ce que font les matériaux modernes. Là où un pa
 
 ### Votre parquet peut encore être poncé ?
 
-Envoyez des photos par SMS — on mesure l'épaisseur résiduelle et on vous répond. Tarif fixe 63 € TTC/m².
+Envoyez des photos par SMS — on mesure l'épaisseur résiduelle et on vous répond. Tarif fixe 66 € TTC/m².
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

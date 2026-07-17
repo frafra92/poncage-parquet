@@ -146,13 +146,13 @@ F
 **François — Artisan parqueteur indépendant à Montrouge (92)**
 J'ai investi dans ce matériel parce que la qualité du résultat en dépend directement. Un bon artisan sans bon matériel ne peut pas garantir un travail parfait — les deux sont indissociables.
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

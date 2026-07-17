@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet écologique Paris — Rénovation saine et durable
-description: Rénover plutôt que remplacer — le geste le plus écologique possible. Vernis Bona Mega Evo à base aqueuse, machine planétaire sans poussière. François Gaillard, artisan parqueteur à Paris. Tarif fixe 63 € TTC/m².
+description: Rénover plutôt que remplacer — le geste le plus écologique possible. Vernis Bona Mega Evo à base aqueuse, machine planétaire sans poussière. François Gaillard, artisan parqueteur à Paris. Tarif fixe 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-ecologique-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-ecologique-paris.md
 last_updated: 2026-04-30
@@ -11,9 +11,9 @@ Ponçage parquet
 
 # Ponçage parquet *écologique* Paris
 
-Rénover plutôt que remplacer — le geste le plus écologique possible. Vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") à base aqueuse, machine planétaire sans poussière. François Gaillard, artisan parqueteur à Paris. Tarif fixe 63 € TTC/m².
+Rénover plutôt que remplacer — le geste le plus écologique possible. Vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") à base aqueuse, machine planétaire sans poussière. François Gaillard, artisan parqueteur à Paris. Tarif fixe 66 € TTC/m².
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis 4,9/5
 
@@ -55,6 +55,6 @@ Un parquet haussmannien de 22 mm peut être poncé 4 à 6 fois. Avec des rénova
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
 [SMS · 07 83 92 58 94](sms:+33783925894)

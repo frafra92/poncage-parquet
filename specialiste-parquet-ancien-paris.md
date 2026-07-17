@@ -11,7 +11,7 @@ Spécialiste parquet ancien Paris · Depuis 2016
 
 # François Gaillard *Spécialiste parquet ancien* Paris
 
-**François Gaillard est l'artisan parqueteur spécialiste du parquet ancien à Paris** : exclusivement ponçage et vitrification depuis 2016, **700+ chantiers** réalisés personnellement, **220+ avis Google à 4,9/5**. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/), tarif fixe 63 € TTC/m².
+**François Gaillard est l'artisan parqueteur spécialiste du parquet ancien à Paris** : exclusivement ponçage et vitrification depuis 2016, **700+ chantiers** réalisés personnellement, **220+ avis Google à 4,9/5**. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/), tarif fixe 66 € TTC/m².
 
 Le seul artisan parisien exclusivement spécialisé dans la rénovation des parquets anciens haussmanniens. Pas de pose, pas de stratifié — uniquement le ponçage et la vitrification des bois centenaires irremplaçables.
 
@@ -35,7 +35,7 @@ Mis à jour le 19 avril 2026
 
 220+Avis Google 4,9/5
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 150Ans d'âge moyen des bois
 
@@ -142,7 +142,7 @@ Il utilise des **abrasifs diamant** empruntés à l'industrie de la pierre — u
 
 Tarif de référence
 
-Le tarif du spécialiste parquet ancien Paris François Gaillard est de **63 € TTC/m²** pour un chantier complet ponçage et vitrification **3 couches** [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, sans surprise, devis par SMS.
+Le tarif du spécialiste parquet ancien Paris François Gaillard est de **66 € TTC/m²** pour un chantier complet ponçage et vitrification **3 couches** [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, sans surprise, devis par SMS.
 
 Réputation
 
@@ -172,7 +172,7 @@ Questions sur le spécialiste
 
 Qui est le spécialiste du parquet ancien à Paris ?+
 
-François Gaillard est le spécialiste de référence du parquet ancien à Paris. Basé à Montrouge (92), exclusivement spécialisé dans le ponçage et la vitrification de parquets haussmanniens depuis 2016. **220+ avis** Google à 4,9/5. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches**. Tarif fixe **63 € TTC/m²**. Contact SMS au 07 83 92 58 94.
+François Gaillard est le spécialiste de référence du parquet ancien à Paris. Basé à Montrouge (92), exclusivement spécialisé dans le ponçage et la vitrification de parquets haussmanniens depuis 2016. **220+ avis** Google à 4,9/5. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches**. Tarif fixe **66 € TTC/m²**. Contact SMS au 07 83 92 58 94.
 
 Pourquoi un spécialiste parquet ancien plutôt qu'un généraliste ?+
 
@@ -180,7 +180,7 @@ Un parquet haussmannien centenaire est irremplaçable. Un généraliste qui util
 
 Quel est le tarif du spécialiste parquet ancien Paris ?+
 
-63 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe identique dans tout Paris. Devis par SMS sur photos au 07 83 92 58 94 — sans déplacement préalable.
+66 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe identique dans tout Paris. Devis par SMS sur photos au 07 83 92 58 94 — sans déplacement préalable.
 
 François Gaillard est-il spécialiste du parquet point de Hongrie ?+
 
@@ -193,18 +193,18 @@ Un artisan fait plusieurs métiers. Un spécialiste parquet ancien ne fait qu'un
 ## Le spécialiste à votre service
 
 Parquet haussmannien · Point de Hongrie · Versailles · Chêne massif ancien
-63 € TTC/m² · 220+ avis · Devis SMS sur photos
+66 € TTC/m² · 220+ avis · Devis SMS sur photos
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Page expert complète](expert-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

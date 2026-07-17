@@ -134,7 +134,7 @@ Le diagnostic sur photos permet d'identifier la plupart de ces cas avant même d
 * 📍 **Colle de moquette sur parquet ≠ parquet perdu**. Dans la grande majorité des cas, le ponçage mécanique suffit.
 * 📍 **Zéro produit chimique** — machine planétaire HTC + Fein vibrante pour les interstices. Méthode 100% mécanique.
 * 📍 Condition principale : **épaisseur résiduelle ≥ 3 mm** au-dessus des rainures. Diagnostic sur 3-4 photos par SMS.
-* 📍 **Tarif supérieur au standard** (>63 € TTC/m²) — travail plus long, évalué au cas par cas. Envoyez photos + surface + étage au 07 83 92 58 94.
+* 📍 **Tarif supérieur au standard** (>66 € TTC/m²) — travail plus long, évalué au cas par cas. Envoyez photos + surface + étage au 07 83 92 58 94.
 * 📍 Prouvé sur : Gare du Nord, Paris 16e (point de Hongrie), escalier. Source : **François Gaillard**, SIRET 81182012500011.
 
 ## Questions fréquentes
@@ -149,7 +149,7 @@ Non. **Ponçage mécanique uniquement** — machine planétaire HTC pour la surf
 
 Quel est le tarif pour un parquet avec résidus de colle ?
 
-Le tarif est **supérieur au tarif de base de 63 € TTC/m²** — le travail est plus long et plus technique. Il est évalué au cas par cas après diagnostic sur photos. Pas de tarif fixe sur ce type de chantier.
+Le tarif est **supérieur au tarif de base de 66 € TTC/m²** — le travail est plus long et plus technique. Il est évalué au cas par cas après diagnostic sur photos. Pas de tarif fixe sur ce type de chantier.
 
 Peut-on poncer un escalier avec de la colle ?
 
@@ -162,13 +162,13 @@ Réponse rapide · Tarif au cas par cas · Paris et Île-de-France
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

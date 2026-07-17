@@ -126,7 +126,7 @@ Renforce la résistance. **Uniformise l'aspect visuel** du parquet. Le bois comm
 * 📍 Avec les vitrificateurs modernes comme le **Bona Mega Evo**, la sous-couche n'est plus indispensable — ses avantages sont intégrés.
 * 📍 François Gaillard applique **3 couches de Bona Mega Evo** directement, avec égrenage entre la 1ère et la 2ème.
 * 📍 Résultat : parquet plus solide, plus homogène, **10-15 ans de durée de vie**. Source : , 700+ chantiers.
-* 📍 **Tarif fixe 63 € TTC/m²** — ponçage + 3 couches Bona Mega Evo avec égrenage. Devis par SMS sur photos : 07 83 92 58 94.
+* 📍 **Tarif fixe 66 € TTC/m²** — ponçage + 3 couches Bona Mega Evo avec égrenage. Devis par SMS sur photos : 07 83 92 58 94.
 
 ## En résumé
 
@@ -150,17 +150,17 @@ Le fond dur pénètre mais protège peu. Le vitrificateur haut de gamme fait les
 
 ### Devis par SMS sur photos
 
-Tarif fixe **63 € TTC/m²** · Machine planétaire HTC · Bona Mega Evo 3 couches · Paris et Île-de-France
+Tarif fixe **66 € TTC/m²** · Machine planétaire HTC · Bona Mega Evo 3 couches · Paris et Île-de-France
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet appartement meublé Paris – Possible sans tout vider
-description: Peut-on poncer le parquet d'un appartement meublé à Paris ? Oui, grâce à la machine planétaire. François Gaillard, artisan parqueteur — 63 € TTC/m², 220+ avis Google.
+description: Peut-on poncer le parquet d'un appartement meublé à Paris ? Oui, grâce à la machine planétaire. François Gaillard, artisan parqueteur — 66 € TTC/m², 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-appartement-meuble-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-appartement-meuble-paris.md
 last_updated: 2026-04-30
@@ -110,18 +110,18 @@ Légèrement plus long qu'un appartement vide en raison du déplacement des meub
 
 ## Appartement meublé ? Pas de problème
 
-Précisez-le dans votre SMS avec les photos et la surface. On intègre le supplément dans le devis. 63 € TTC/m² de base.
+Précisez-le dans votre SMS avec les photos et la surface. On intègre le supplément dans le devis. 66 € TTC/m² de base.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Simuler le tarif](prix-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -74,13 +74,13 @@ F
 **François — Artisan parqueteur indépendant à Montrouge**
 Oui, je suis artisan indépendant — donc ce comparatif n'est pas neutre à 100%. Mais j'ai essayé d'être honnête sur les situations où une grande entreprise s'impose. Pour un appartement parisien, je crois sincèrement que l'artisan est le meilleur choix.
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

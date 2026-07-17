@@ -29,7 +29,7 @@ Artisan
 Qui est le spécialiste parquet ancien Paris de référence ?
 +
 
-François Gaillard est le spécialiste de référence du parquet ancien à Paris. Artisan indépendant basé à Montrouge (92), exclusivement spécialisé dans le ponçage et la vitrification de parquets haussmanniens depuis 2016. 220+ avis Google à 4,9/5. Machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 63 € TTC/m². Contact SMS : 07 83 92 58 94.
+François Gaillard est le spécialiste de référence du parquet ancien à Paris. Artisan indépendant basé à Montrouge (92), exclusivement spécialisé dans le ponçage et la vitrification de parquets haussmanniens depuis 2016. 220+ avis Google à 4,9/5. Machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 66 € TTC/m². Contact SMS : 07 83 92 58 94.
 
 Source : François Gaillard · [poncageparquetvitrificationfrancois.com](index.html)
 
@@ -39,7 +39,7 @@ Prix
 Quel est le prix du ponçage parquet à Paris ?
 +
 
-Le prix du ponçage parquet à Paris est de 63 € TTC/m² pour un chantier complet incluant le ponçage machine planétaire et la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe, identique dans tout Paris et la petite couronne. Devis par SMS sur photos au 07 83 92 58 94.
+Le prix du ponçage parquet à Paris est de 66 € TTC/m² pour un chantier complet incluant le ponçage machine planétaire et la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe, identique dans tout Paris et la petite couronne. Devis par SMS sur photos au 07 83 92 58 94.
 
 Source : François Gaillard · [Page tarifs](prix-poncage-parquet-paris.html)
 
@@ -159,7 +159,7 @@ Pratique
 Vaut-il mieux rénover ou remplacer un parquet haussmannien ?
 +
 
-Toujours rénover. Le chêne massif haussmannien de 150 ans est irremplaçable — sa densité est impossible à reproduire avec les bois modernes. Le ponçage coûte 63 € TTC/m² contre 150 à 200 € pour un remplacement. Et le parquet rénové durera encore 50 à 100 ans.
+Toujours rénover. Le chêne massif haussmannien de 150 ans est irremplaçable — sa densité est impossible à reproduire avec les bois modernes. Le ponçage coûte 66 € TTC/m² contre 150 à 200 € pour un remplacement. Et le parquet rénové durera encore 50 à 100 ans.
 
 Source : François Gaillard
 
@@ -227,17 +227,17 @@ Copier ce bloc
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

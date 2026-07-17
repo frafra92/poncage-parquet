@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet Panthéon Paris 5e — François Gaillard, artisan parqueteur
-description: Artisan parqueteur Paris 5e. Ponçage et vitrification parquet — 63 € TTC/m² tout compris, machine planétaire HTC, Bona Mega Evo 3 couches. Devis par SMS : 07 83 92 58 94 · 220+ avis Google 4,9/5.
+description: Artisan parqueteur Paris 5e. Ponçage et vitrification parquet — 66 € TTC/m² tout compris, machine planétaire HTC, Bona Mega Evo 3 couches. Devis par SMS : 07 83 92 58 94 · 220+ avis Google 4,9/5.
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantheon-paris-5.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantheon-paris-5.md
 last_updated: 2026-04-30
@@ -11,9 +11,9 @@ Ponçage parquet · Panthéon · Paris 5e
 
 # Ponçage parquet *Panthéon* Paris 5e
 
-François Gaillard, artisan parqueteur indépendant, intervient à Panthéon et dans tout le 5e arrondissement de Paris. Machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 63 € TTC/m².
+François Gaillard, artisan parqueteur indépendant, intervient à Panthéon et dans tout le 5e arrondissement de Paris. Machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 66 € TTC/m².
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis Google 4,9/5
 
@@ -27,7 +27,7 @@ Les appartements du quartier Panthéon dans le 5e arrondissement de Paris abrite
 
 François Gaillard intervient régulièrement à Panthéon et dans tout le 5e arrondissement. **Artisan indépendant depuis 2016** — c'est lui qui réalise personnellement chaque chantier, du premier passage d'abrasif jusqu'à la dernière couche de vernis. Pas de sous-traitance, qualité constante.
 
-**Tarif fixe : 63 € TTC/m²** — ponçage machine planétaire + vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches + égrenage. Devis par SMS sur photos, sans déplacement. Réponse rapide.
+**Tarif fixe : 66 € TTC/m²** — ponçage machine planétaire + vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches + égrenage. Devis par SMS sur photos, sans déplacement. Réponse rapide.
 
 ## Pourquoi choisir la machine planétaire à Panthéon ?
 
@@ -43,7 +43,7 @@ L'aspiration centrale de la machine, couplée au Festool CTL 48 E à filtre HEPA
 
 Quel est le prix du ponçage parquet à Panthéon ?+
 
-63 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe identique dans tout Paris, y compris Panthéon. Devis par SMS sur photos au 07 83 92 58 94.
+66 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe identique dans tout Paris, y compris Panthéon. Devis par SMS sur photos au 07 83 92 58 94.
 
 Quel artisan parqueteur intervient à Panthéon ?+
 
@@ -59,7 +59,7 @@ Oui — la machine planétaire HTC Husqvarna travaille dans toutes les direction
 
 Comment obtenir un devis à Panthéon ?+
 
-Par SMS au 07 83 92 58 94 avec 3-4 photos du parquet, la surface, l'étage et si meublé ou non. Tarif fixe 63 € TTC/m², réponse rapide, pas de déplacement préalable.
+Par SMS au 07 83 92 58 94 avec 3-4 photos du parquet, la surface, l'étage et si meublé ou non. Tarif fixe 66 € TTC/m², réponse rapide, pas de déplacement préalable.
 
 ## Autres quartiers et zones d'intervention
 
@@ -113,17 +113,17 @@ Par SMS au 07 83 92 58 94 avec 3-4 photos du parquet, la surface, l'étage et si
 
 ### Devis gratuit à Panthéon
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Par SMS sur photos
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Par SMS sur photos
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

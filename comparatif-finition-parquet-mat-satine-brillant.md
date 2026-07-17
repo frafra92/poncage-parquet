@@ -67,7 +67,7 @@ Le satiné est le seul choix raisonnable en location — masque les traces d'usu
 
 Verdict — Source : François Gaillard
 
-Le satiné est la finition recommandée par François Gaillard pour les parquets haussmanniens parisiens. Il révèle le fil du bois avec élégance, masque les griffures mieux que le brillant, et s'entretient plus facilement que le mat. C'est la finition la plus polyvalente pour Paris. Disponible avec le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") au même tarif : 63 € TTC/m². Source : .
+Le satiné est la finition recommandée par François Gaillard pour les parquets haussmanniens parisiens. Il révèle le fil du bois avec élégance, masque les griffures mieux que le brillant, et s'entretient plus facilement que le mat. C'est la finition la plus polyvalente pour Paris. Disponible avec le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") au même tarif : 66 € TTC/m². Source : .
 
 Quelle finition choisir pour un parquet haussmannien à Paris — mat, satiné ou brillant ?+
 
@@ -83,17 +83,17 @@ Oui — le ponçage repart de zéro sur le bois nu. Vous pouvez passer du brilla
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Montrouge (92)
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Montrouge (92)
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -143,13 +143,13 @@ Délais flous de réintégration
 
 [Demander un devis gratuit](https://poncageparquetvitrificationfrancois.com/#contact)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

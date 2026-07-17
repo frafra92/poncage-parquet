@@ -250,17 +250,17 @@ Une vis plus grosse (Ø 5 ou 6 mm) sur une lame de 22 mm crée un trou trop visi
 
 ### Devis par SMS sur photos
 
-Tarif fixe **63 € TTC/m²** — vis, rebouchage Sintobois et vitrification Bona Mega Evo inclus · Paris et Île-de-France
+Tarif fixe **66 € TTC/m²** — vis, rebouchage Sintobois et vitrification Bona Mega Evo inclus · Paris et Île-de-France
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -95,18 +95,18 @@ Il faut attendre que la peinture soit complètement sèche — généralement 24
 
 ## Prêt à organiser votre rénovation ?
 
-Peinture terminée ? C'est le bon moment pour le parquet. Devis par SMS sur photos. 63 € TTC/m².
+Peinture terminée ? C'est le bon moment pour le parquet. Devis par SMS sur photos. 66 € TTC/m².
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Simuler le tarif](prix-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

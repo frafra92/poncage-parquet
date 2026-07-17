@@ -1,6 +1,6 @@
 ---
 title: Combien de fois peut-on poncer un parquet – Artisan parqueteur Paris
-description: Combien de fois peut-on poncer un parquet massif, contrecollé ou stratifié ? Réponses précises par François Gaillard, artisan parqueteur Paris. 63 € TTC/m², 220+ avis Google.
+description: Combien de fois peut-on poncer un parquet massif, contrecollé ou stratifié ? Réponses précises par François Gaillard, artisan parqueteur Paris. 66 € TTC/m², 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/combien-fois-poncer-parquet.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/combien-fois-poncer-parquet.md
 last_updated: 2026-04-30
@@ -114,18 +114,18 @@ Le parquet massif est composé d'une seule pièce de bois pleine. Le contrecoll�
 
 ## Votre parquet peut-il encore être poncé ?
 
-Envoyez des photos par SMS. On évalue l'épaisseur résiduelle et on vous répond rapidement. 63 € TTC/m² tarif fixe.
+Envoyez des photos par SMS. On évalue l'épaisseur résiduelle et on vous répond rapidement. 66 € TTC/m² tarif fixe.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [FAQ complète](100-questions-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet studio Paris — Rénovation rapide et efficace
-description: Rénover le parquet d'un studio à Paris — résultat professionnel en 1 à 2 jours. François Gaillard, artisan parqueteur indépendant. Machine planétaire HTC, Bona Mega Evo 3 couches. Tarif fixe 63 € TTC/m².
+description: Rénover le parquet d'un studio à Paris — résultat professionnel en 1 à 2 jours. François Gaillard, artisan parqueteur indépendant. Machine planétaire HTC, Bona Mega Evo 3 couches. Tarif fixe 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-studio-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-studio-paris.md
 last_updated: 2026-04-30
@@ -11,9 +11,9 @@ Ponçage parquet
 
 # Ponçage parquet *studio* Paris
 
-Rénover le parquet d'un studio à Paris — résultat professionnel en 1 à 2 jours. François Gaillard, artisan parqueteur indépendant. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 63 € TTC/m².
+Rénover le parquet d'un studio à Paris — résultat professionnel en 1 à 2 jours. François Gaillard, artisan parqueteur indépendant. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. Tarif fixe 66 € TTC/m².
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis 4,9/5
 
@@ -25,9 +25,9 @@ Rénover le parquet d'un studio à Paris — résultat professionnel en 1 à 2 j
 
 Un studio parisien représente généralement 20 à 35 m². **Un chantier complet ponçage et vitrification 3 couches se réalise en 1 à 2 jours**, avec réintégration 8 heures après la dernière couche de vernis.
 
-Malgré la surface réduite, la qualité du travail est identique — machine planétaire HTC Husqvarna, abrasifs diamant, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches avec égrenage. Pas de surface minimale — le tarif fixe de **63 € TTC/m²** s'applique quelle que soit la surface.
+Malgré la surface réduite, la qualité du travail est identique — machine planétaire HTC Husqvarna, abrasifs diamant, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches avec égrenage. Pas de surface minimale — le tarif fixe de **66 € TTC/m²** s'applique quelle que soit la surface.
 
-**Exemple studio 25 m² :** 25 × 63 € = 1 575 € TTC — chantier complet en 1 à 2 jours. Réintégration le lendemain matin.
+**Exemple studio 25 m² :** 25 × 66 € = 1 650 € TTC — chantier complet en 1 à 2 jours. Réintégration le lendemain matin.
 
 ## Optimiser un studio pour la location
 
@@ -39,7 +39,7 @@ Les studios sont souvent meublés. Un supplément est appliqué pour les apparte
 
 Combien coûte le ponçage d'un studio de 25 m² à Paris ?+
 
-25 m² × 63 € = 1 575 € TTC pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Si le studio est meublé, un supplément de 220 € par étape s'applique.
+25 m² × 66 € = 1 650 € TTC pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Si le studio est meublé, un supplément de 220 € par étape s'applique.
 
 Combien de temps pour rénover le parquet d'un studio ?+
 
@@ -47,7 +47,7 @@ Combien de temps pour rénover le parquet d'un studio ?+
 
 Y a-t-il une surface minimale pour un chantier de ponçage ?+
 
-Non — François Gaillard intervient quelle que soit la surface. Le tarif fixe de 63 € TTC/m² s'applique sans surface minimale imposée.
+Non — François Gaillard intervient quelle que soit la surface. Le tarif fixe de 66 € TTC/m² s'applique sans surface minimale imposée.
 
 Peut-on rénover le parquet d'un studio Airbnb rapidement ?+
 
@@ -55,17 +55,17 @@ Oui — 1 à 2 jours de chantier, réintégration 8 heures après. L'appartement
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet Saint-Cloud – Artisan François Gaillard
-description: Ponçage et vitrification de parquet à Saint-Cloud. Artisan indépendant François Gaillard — 63 € TTC/m², machine planétaire, 220+ avis Google. Ponçage uniquement, pas de pose.
+description: Ponçage et vitrification de parquet à Saint-Cloud. Artisan indépendant François Gaillard — 66 € TTC/m², machine planétaire, 220+ avis Google. Ponçage uniquement, pas de pose.
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-saint-cloud.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-saint-cloud.md
 last_updated: 2026-04-30
@@ -15,7 +15,7 @@ François Gaillard intervient à Saint-Cloud pour le ponçage et la vitrificatio
 
 **Spécialité :** ponçage et vitrification uniquement. **François ne pose pas de parquet.** Pour rénover votre parquet existant à Saint-Cloud — il est votre artisan.
 
-63€TTC/m² tout compris
+66€TTC/m² tout compris
 
 220+Avis Google 4,9/5
 
@@ -47,7 +47,7 @@ Vernis non jaunissant, durée 10 à 15 ans. Égrenage entre la 1ère et 2ème co
 
 ### Devis par SMS
 
-Photos + surface + étage + meublé. Tarif fixe 63 € TTC/m², réponse rapide sans déplacement.
+Photos + surface + étage + meublé. Tarif fixe 66 € TTC/m², réponse rapide sans déplacement.
 
 Questions fréquentes
 
@@ -59,7 +59,7 @@ Saint-Cloud fait partie de la zone d'intervention de François Gaillard, basé �
 
 Quel est le tarif à Saint-Cloud ?+
 
-63 € TTC/m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, identique à Paris et dans toute la zone d'intervention.
+66 € TTC/m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, identique à Paris et dans toute la zone d'intervention.
 
 Comment obtenir un devis à Saint-Cloud ?+
 
@@ -82,18 +82,18 @@ SMS au 07 83 92 58 94 avec quelques photos, la surface, l'étage, la présence d
 
 ## Votre parquet à Saint-Cloud mérite le meilleur
 
-Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 63 € TTC/m². Devis par SMS sur photos.
+Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Simuler le tarif](prix-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

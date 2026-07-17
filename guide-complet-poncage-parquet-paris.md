@@ -11,7 +11,7 @@ Guide expert · 2026 · Paris
 
 # Guide complet du *ponçage parquet* à Paris
 
-Un chantier de ponçage parquet se déroule en **6 étapes** : diagnostic → préparation → ponçage abrasifs diamant → finition → 1ère couche + égrenage → 2e et 3e couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/). Durée : **20 m²/jour**. Réintégration : **8 heures**. Tarif : **63 € TTC/m²**.
+Un chantier de ponçage parquet se déroule en **6 étapes** : diagnostic → préparation → ponçage abrasifs diamant → finition → 1ère couche + égrenage → 2e et 3e couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/). Durée : **20 m²/jour**. Réintégration : **8 heures**. Tarif : **66 € TTC/m²**.
 
 Ce guide détaille l'intégralité du processus de ponçage et de vitrification d'un parquet parisien — du diagnostic initial à la dernière couche de vernis. Rédigé par un artisan, pour des clients qui veulent comprendre exactement ce qu'on fait chez eux.
 
@@ -361,18 +361,18 @@ Il faut identifier et traiter la cause avant de poncer. Un grincement peut venir
 
 ## Confier votre parquet à l'artisan qui maîtrise
 
-15 ans d'expérience, **machine planétaire HTC**, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches**. Tarif fixe **63 € TTC/m²**. Devis par SMS sur photos.
+15 ans d'expérience, **machine planétaire HTC**, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches**. Tarif fixe **66 € TTC/m²**. Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [FAQ complète](100-questions-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

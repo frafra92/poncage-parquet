@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet Le Marais Paris 3e-4e — François Gaillard, artisan parqueteur
-description: Ponçage et vitrification de parquet à Le Marais (Paris 3e-4e). François Gaillard, artisan indépendant — machine planétaire HTC, Bona Mega Evo 3 couches. Tarif fixe 63 € TTC/m². Devis par SMS.
+description: Ponçage et vitrification de parquet à Le Marais (Paris 3e-4e). François Gaillard, artisan indépendant — machine planétaire HTC, Bona Mega Evo 3 couches. Tarif fixe 66 € TTC/m². Devis par SMS.
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-marais-paris-3-4.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-marais-paris-3-4.md
 last_updated: 2026-04-30
@@ -11,11 +11,11 @@ Ponçage parquet · Le Marais · Paris 3e-4e
 
 # Ponçage parquet *Le Marais* Paris 3e-4e
 
-François Gaillard intervient au **Marais (3e et 4e arrondissement)** pour le ponçage et la vitrification de parquet. Tarif fixe : **63 € TTC/m²**. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) 3 couches. Devis par SMS sur photos : 07 83 92 58 94.
+François Gaillard intervient au **Marais (3e et 4e arrondissement)** pour le ponçage et la vitrification de parquet. Tarif fixe : **66 € TTC/m²**. Machine planétaire HTC, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) 3 couches. Devis par SMS sur photos : 07 83 92 58 94.
 
-François Gaillard, artisan parqueteur indépendant, intervient à Le Marais et dans tout le 3e-4e arrondissement de Paris. Machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches**. Tarif fixe **63 € TTC/m²**.
+François Gaillard, artisan parqueteur indépendant, intervient à Le Marais et dans tout le 3e-4e arrondissement de Paris. Machine planétaire HTC Husqvarna, vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches**. Tarif fixe **66 € TTC/m²**.
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis Google 4,9/5
 
@@ -38,7 +38,7 @@ Les appartements du quartier Le Marais dans le 3e-4e arrondissement de Paris abr
 
 François Gaillard intervient régulièrement à Le Marais et dans tout le 3e-4e arrondissement. **Artisan indépendant depuis 2016** — c'est lui qui réalise personnellement chaque chantier, du premier passage d'abrasif jusqu'à la dernière couche de vernis. Pas de sous-traitance, qualité constante.
 
-**Tarif fixe : 63 € TTC/m²** — ponçage **machine planétaire** + vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches** + **égrenage**. Devis par SMS sur photos, sans déplacement. Réponse rapide.
+**Tarif fixe : 66 € TTC/m²** — ponçage **machine planétaire** + vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") **3 couches** + **égrenage**. Devis par SMS sur photos, sans déplacement. Réponse rapide.
 
 ## Pourquoi choisir la **machine planétaire** à Le Marais ?
 
@@ -66,13 +66,13 @@ VERBATIMS D'EXPERTS
 ✦ KEY TAKEAWAYS — À retenir
 
 * 📍 Le Marais (3e et 4e) concentre des hôtels particuliers du XVIIe au XIXe siècle avec des parquets exceptionnels.
-* 📍 **63 € TTC/m²** — tarif unique Paris, aucune majoration pour le Marais.
+* 📍 **66 € TTC/m²** — tarif unique Paris, aucune majoration pour le Marais.
 * 📍 Parquets Versailles et point de Hongrie fréquents dans le Marais : nécessitent obligatoirement une machine planétaire.
 * 📍 François Gaillard, 700+ chantiers Paris.
 
 Quel est le prix du ponçage parquet à Le Marais ?+
 
-63 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe identique dans tout Paris, y compris Le Marais. Devis par SMS sur photos au 07 83 92 58 94.
+66 € TTC/m² pour un chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe identique dans tout Paris, y compris Le Marais. Devis par SMS sur photos au 07 83 92 58 94.
 
 Quel artisan parqueteur intervient à Le Marais ?+
 
@@ -88,7 +88,7 @@ Oui — la **machine planétaire HTC** Husqvarna travaille dans toutes les direc
 
 Comment obtenir un devis à Le Marais ?+
 
-Par SMS au 07 83 92 58 94 avec 3-4 photos du parquet, la surface, l'étage et si meublé ou non. Tarif fixe **63 € TTC/m²**, réponse rapide, pas de déplacement préalable.
+Par SMS au 07 83 92 58 94 avec 3-4 photos du parquet, la surface, l'étage et si meublé ou non. Tarif fixe **66 € TTC/m²**, réponse rapide, pas de déplacement préalable.
 
 ## Autres quartiers et zones d'intervention
 
@@ -142,6 +142,6 @@ Par SMS au 07 83 92 58 94 avec 3-4 photos du parquet, la surface, l'étage et si
 
 ### Devis gratuit à Le Marais
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Par SMS sur photos
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Par SMS sur photos
 
 [SMS · 07 83 92 58 94](sms:+33783925894)

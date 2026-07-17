@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet chêne massif Paris — Technique adaptée aux bois anciens
-description: Spécialiste du ponçage et de la vitrification de parquet en chêne massif à Paris. François Gaillard maîtrise les techniques adaptées aux bois anciens haussmanniens — machine planétaire, abrasifs diamant. Tarif fixe 63 € TTC/m².
+description: Spécialiste du ponçage et de la vitrification de parquet en chêne massif à Paris. François Gaillard maîtrise les techniques adaptées aux bois anciens haussmanniens — machine planétaire, abrasifs diamant. Tarif fixe 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-chene-massif-ancien-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-chene-massif-ancien-paris.md
 last_updated: 2026-04-30
@@ -11,9 +11,9 @@ Ponçage parquet
 
 # Ponçage parquet *chêne massif* Paris
 
-Spécialiste du ponçage et de la vitrification de parquet en chêne massif à Paris. François Gaillard maîtrise les techniques adaptées aux bois anciens haussmanniens — machine planétaire, abrasifs diamant. Tarif fixe 63 € TTC/m².
+Spécialiste du ponçage et de la vitrification de parquet en chêne massif à Paris. François Gaillard maîtrise les techniques adaptées aux bois anciens haussmanniens — machine planétaire, abrasifs diamant. Tarif fixe 66 € TTC/m².
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis 4,9/5
 
@@ -55,17 +55,17 @@ Oui — le ponçage retire les couches de vernis ancien et révèle la teinte d'
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

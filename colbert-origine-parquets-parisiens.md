@@ -88,7 +88,7 @@ Parce qu'ils sont faits de chênes abattus à 150-250 ans — une densité et un
 
 Vaut-il mieux rénover ou remplacer un parquet haussmannien ?+
 
-Toujours rénover. Remplacer un parquet haussmannien par un parquet neuf, c'est perdre un bois de 200 ans irremplaçable. Le ponçage-vitrification à 63 € TTC/m² est 2 à 3 fois moins cher que le remplacement et préserve un patrimoine unique.
+Toujours rénover. Remplacer un parquet haussmannien par un parquet neuf, c'est perdre un bois de 200 ans irremplaçable. Le ponçage-vitrification à 66 € TTC/m² est 2 à 3 fois moins cher que le remplacement et préserve un patrimoine unique.
 
 À lire aussi
 
@@ -107,17 +107,17 @@ Toujours rénover. Remplacer un parquet haussmannien par un parquet neuf, c'est 
 
 ### Préservez l'héritage de Colbert
 
-Ponçage + vitrification 3 couches Bona Mega Evo. 63 € TTC/m². Devis par SMS sur photos.
+Ponçage + vitrification 3 couches Bona Mega Evo. 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

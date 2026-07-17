@@ -209,7 +209,7 @@ Sur un parquet sous moquette, la séquence d'abrasifs peut être adaptée selon 
 
 ### Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — 3 couches
 
-Identique à tout autre chantier : 3 couches de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") avec égrenage entre la 1ère et la 2ème couche. Le tarif est le même : **63 € TTC/m²** pour le chantier complet ponçage et vitrification. Réintégration 8 heures après la dernière couche.
+Identique à tout autre chantier : 3 couches de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") avec égrenage entre la 1ère et la 2ème couche. Le tarif est le même : **66 € TTC/m²** pour le chantier complet ponçage et vitrification. Réintégration 8 heures après la dernière couche.
 
 06
 
@@ -235,7 +235,7 @@ Rarement. Dans la grande majorité des cas, la colle de moquette est en surface 
 
 Quel est le tarif pour rénover un parquet sous moquette ?+
 
-63 € TTC/m² pour le chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — identique à tout autre type de chantier. Des suppléments peuvent s'appliquer pour appartement sans ascenseur ou meublé. Devis par SMS sur photos après retrait de la moquette.
+66 € TTC/m² pour le chantier complet ponçage et vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — identique à tout autre type de chantier. Des suppléments peuvent s'appliquer pour appartement sans ascenseur ou meublé. Devis par SMS sur photos après retrait de la moquette.
 
 Peut-on poser de la moquette sur un parquet sans l'abîmer ?+
 
@@ -258,18 +258,18 @@ Oui si la moquette est posée sur liteaux sans colle directement sur le bois. Da
 
 ## Votre parquet caché attend d'être révélé
 
-Retirez la moquette, prenez des photos et envoyez-les par SMS. François évalue l'état et vous donne une estimation. Tarif fixe 63 € TTC/m².
+Retirez la moquette, prenez des photos et envoyez-les par SMS. François évalue l'état et vous donne une estimation. Tarif fixe 66 € TTC/m².
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Guide complet du ponçage](guide-complet-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

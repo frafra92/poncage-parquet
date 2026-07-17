@@ -1,6 +1,6 @@
 ---
 title: Artisan parqueteur indépendant vs entreprise Paris – Pourquoi choisir l'artisan
-description: Artisan parqueteur indépendant ou grande entreprise à Paris ? Les vraies différences. François Gaillard, artisan indépendant depuis 2016 — 220+ avis Google, 63 € TTC/m².
+description: Artisan parqueteur indépendant ou grande entreprise à Paris ? Les vraies différences. François Gaillard, artisan indépendant depuis 2016 — 220+ avis Google, 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/artisan-parqueteur-independant-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/artisan-parqueteur-independant-paris.md
 last_updated: 2026-04-30
@@ -42,7 +42,7 @@ Fréquente
 
 Tarif transparent
 
-63 € TTC/m² fixe
+66 € TTC/m² fixe
 
 Variable selon devis
 
@@ -125,18 +125,18 @@ Pourquoi faire confiance à 220 avis Google ?+
 
 ## L'artisan qui fait lui-même le travail
 
-François Gaillard, indépendant depuis 2016. 220+ avis Google. 63 € TTC/m² tout compris. Devis par SMS sur photos.
+François Gaillard, indépendant depuis 2016. 220+ avis Google. 66 € TTC/m² tout compris. Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [FAQ complète](100-questions-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet Neuilly-sur-Seine – Artisan François Gaillard
-description: Ponçage et vitrification de parquet à Neuilly-sur-Seine. Artisan parqueteur indépendant François Gaillard — 63 € TTC/m², machine planétaire, 220+ avis Google.
+description: Ponçage et vitrification de parquet à Neuilly-sur-Seine. Artisan parqueteur indépendant François Gaillard — 66 € TTC/m², machine planétaire, 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-neuilly-sur-seine.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-neuilly-sur-seine.md
 last_updated: 2026-04-30
@@ -15,7 +15,7 @@ François Gaillard intervient régulièrement à Neuilly-sur-Seine pour le ponç
 
 **Spécialité :** ponçage et vitrification uniquement. **François ne pose pas de parquet.** Pour rénover votre parquet existant — il est votre artisan.
 
-63€TTC/m² tout compris
+66€TTC/m² tout compris
 
 220+Avis Google 4,9/5
 
@@ -47,7 +47,7 @@ Vernis professionnel non jaunissant, durée 10 à 15 ans. 3 couches systématiqu
 
 ### Devis par SMS
 
-Pas de déplacement. Photos + surface + étage + meublé ou non. Tarif fixe 63 € TTC/m², réponse rapide.
+Pas de déplacement. Photos + surface + étage + meublé ou non. Tarif fixe 66 € TTC/m², réponse rapide.
 
 Questions fréquentes
 
@@ -59,7 +59,7 @@ Oui, régulièrement. Neuilly-sur-Seine fait partie de la zone d'intervention ha
 
 Quel est le tarif à Neuilly-sur-Seine ?+
 
-63 € TTC/m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, identique à Paris. Des suppléments peuvent s'appliquer pour appartement sans ascenseur ou meublé.
+66 € TTC/m² pour un chantier complet ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe, identique à Paris. Des suppléments peuvent s'appliquer pour appartement sans ascenseur ou meublé.
 
 Comment obtenir un devis à Neuilly ?+
 
@@ -84,18 +84,18 @@ Par SMS au 07 83 92 58 94. Envoyez quelques photos de votre parquet avec la surf
 
 ## Votre parquet à Neuilly mérite le meilleur
 
-Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 63 € TTC/m². Devis par SMS sur photos.
+Ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Simuler le tarif](prix-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

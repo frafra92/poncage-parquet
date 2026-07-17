@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet haussmannien Paris – Artisan spécialisé François Gaillard
-description: Spécialiste du ponçage et de la rénovation de parquets haussmanniens à Paris. Chêne massif ancien, point de Hongrie, Versailles. Tarif fixe 63 € TTC/m². François Gaillard, 220+ avis Google.
+description: Spécialiste du ponçage et de la rénovation de parquets haussmanniens à Paris. Chêne massif ancien, point de Hongrie, Versailles. Tarif fixe 66 € TTC/m². François Gaillard, 220+ avis Google.
 url: https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-paris.md
 last_updated: 2026-04-30
@@ -24,7 +24,7 @@ Ans d'âge moyen
 4–6×
 Poncages possibles
 
-63€
+66€
 TTC/m² tout compris
 
 Patrimoine
@@ -216,12 +216,12 @@ Oui. Le point de Hongrie impose de poncer en diagonale par rapport aux murs. La 
 Peut-on remplacer des lames manquantes ?
 +
 
-Oui. On recherche du **chêne massif** de section compatible. Après ponçage de l'ensemble, les nouvelles lames se fondent dans le parquet existant. Ce travail préparatoire est facturé en supplément du tarif de base de **63 € TTC/m²**.
+Oui. On recherche du **chêne massif** de section compatible. Après ponçage de l'ensemble, les nouvelles lames se fondent dans le parquet existant. Ce travail préparatoire est facturé en supplément du tarif de base de **66 € TTC/m²**.
 
 Quel est le tarif pour un parquet haussmannien ?
 +
 
-63 € TTC par m² pour le chantier complet, identique à tout autre parquet. Ce tarif inclut le ponçage multi-passes et la vitrification **3 couches** [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") avec **égrenage**. Devis par SMS au 07 83 92 58 94 sur photos.
+66 € TTC par m² pour le chantier complet, identique à tout autre parquet. Ce tarif inclut le ponçage multi-passes et la vitrification **3 couches** [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") avec **égrenage**. Devis par SMS au 07 83 92 58 94 sur photos.
 
 Le ponçage abîme-t-il le parquet haussmannien ?
 +
@@ -244,18 +244,18 @@ Non, au contraire. Le ponçage retire la couche superficielle usée et révèle 
 
 ## Votre parquet haussmannien mérite une seconde vie
 
-Quelques photos par SMS suffisent pour obtenir une estimation. Tarif fixe **63 € TTC/m²**, réintégration en 8 heures.
+Quelques photos par SMS suffisent pour obtenir une estimation. Tarif fixe **66 € TTC/m²**, réintégration en 8 heures.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Voir la FAQ](100-questions-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

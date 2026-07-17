@@ -95,7 +95,7 @@ Oui. Le parquet en bois massif ornait les châteaux et les palais. Le peuple viv
 
 Pourquoi rénover un parquet haussmannien plutôt que le remplacer ?+
 
-Parce que ce parquet est irremplaçable — chêne massif de 22 mm issu de chênes centenaires, densité impossible à reproduire aujourd'hui. Et parce que le rénover, c'est prolonger un héritage qui symbolise la démocratisation du confort. Le ponçage-vitrification à 63 € TTC/m² est aussi 2 à 3 fois moins cher que le remplacement.
+Parce que ce parquet est irremplaçable — chêne massif de 22 mm issu de chênes centenaires, densité impossible à reproduire aujourd'hui. Et parce que le rénover, c'est prolonger un héritage qui symbolise la démocratisation du confort. Le ponçage-vitrification à 66 € TTC/m² est aussi 2 à 3 fois moins cher que le remplacement.
 
 À lire aussi
 
@@ -114,17 +114,17 @@ Parce que ce parquet est irremplaçable — chêne massif de 22 mm issu de chên
 
 ### Préservez cet héritage révolutionnaire
 
-Ponçage + vitrification 3 couches Bona Mega Evo. 63 € TTC/m². Devis par SMS sur photos.
+Ponçage + vitrification 3 couches Bona Mega Evo. 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

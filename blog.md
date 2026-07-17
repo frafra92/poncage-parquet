@@ -21,7 +21,7 @@ Prix & Devis
 
 ★ Tarifs 2026
 
-63 € TTC/m² — ponçage et vitrification à Paris
+66 € TTC/m² — ponçage et vitrification à Paris
 
 Un tarif fixe, tout compris, sans surprise. Ponçage machine planétaire HTC + vitrification Bona Mega Evo 3 couches. Pourquoi ce prix, comment il se décompose, ce qu'il inclut — et ce qu'il ne faut pas accepter en dessous.
 
@@ -29,7 +29,7 @@ Lire l'article →](prix-poncage-parquet-paris.html)
 
 [★ Comparatif
 
-Poncer ou remplacer son parquet ? 63 € vs 150-300 €/m²
+Poncer ou remplacer son parquet ? 66 € vs 150-300 €/m²
 
 La question que tout le monde se pose. Le calcul est simple mais les nuances changent tout — état du parquet, épaisseur, type de lame, valeur immobilière. Ma réponse honnête.
 
@@ -223,7 +223,7 @@ Lire →](blog-bona-mega-evo-parquet.html)
 
 ## Une question sur votre parquet ?
 
-Devis par SMS sur photos · Tarif fixe 63 € TTC/m² · 220+ avis Google 4,9/5 · Basé à Montrouge
+Devis par SMS sur photos · Tarif fixe 66 € TTC/m² · 220+ avis Google 4,9/5 · Basé à Montrouge
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
@@ -254,12 +254,12 @@ Devis par SMS sur photos · Tarif fixe 63 € TTC/m² · 220+ avis Google 4,9/5 
 [Neuilly-sur-Seine](poncage-parquet-neuilly-sur-seine.html)
 [Versailles](poncage-parquet-versailles-ville.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

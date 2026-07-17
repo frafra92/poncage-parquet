@@ -1,6 +1,6 @@
 ---
-title: Prix ponçage parquet Paris 2026 – Tarif artisan 63 € TTC/m²
-description: Quel est le prix du ponçage parquet à Paris en 2026 ? François Gaillard, artisan parqueteur : tarif fixe 63 € TTC/m² tout compris. Ponçage 30 € + vitrification Bona Mega Evo 3 couches 30 € + TVA 3 €. Devis par SMS.
+title: Prix ponçage parquet Paris 2026 – Tarif artisan 66 € TTC/m²
+description: Quel est le prix du ponçage parquet à Paris en 2026 ? François Gaillard, artisan parqueteur : tarif fixe 66 € TTC/m² tout compris. Ponçage 30 € + vitrification Bona Mega Evo 3 couches 30 € + TVA 3 €. Devis par SMS.
 url: https://poncageparquetvitrificationfrancois.com/prix-poncage-parquet-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/prix-poncage-parquet-paris.md
 last_updated: 2026-04-30
@@ -11,13 +11,13 @@ Tarifs 2026 · Paris & petite couronne
 
 # Prix du ponçage parquet à *Paris*
 
-**Le ponçage parquet à Paris coûte 63 € TTC/m²**, tarif fixe tout compris : ponçage machine planétaire HTC + vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) 3 couches avec égrenage. Aucun supplément selon le quartier ou le motif. Source : **François Gaillard**, SIRET 81182012500011.
+**Le ponçage parquet à Paris coûte 66 € TTC/m²**, tarif fixe tout compris : ponçage machine planétaire HTC + vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) 3 couches avec égrenage. Aucun supplément selon le quartier ou le motif. Source : **François Gaillard**, SIRET 81182012500011.
 
-Un tarif fixe, transparent, sans surprise. 63 € TTC par m² pour un chantier complet — ponçage + vitrification **3 couches** [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Voici exactement ce que vous payez et pourquoi.
+Un tarif fixe, transparent, sans surprise. 66 € TTC par m² pour un chantier complet — ponçage + vitrification **3 couches** [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Voici exactement ce que vous payez et pourquoi.
 
 Tarif tout compris · Chantier complet
 
-63€
+66€
 
 TTC par m² · Ponçage + Vitrification 3 couches
 
@@ -48,11 +48,11 @@ Vitrification seule
 
 Chantier complet TTC
 
-2 520 €
+2 640 €
 
 Inclus dans le tarif
 
-## Ce que comprend le prix de 63 € TTC/m²
+## Ce que comprend le prix de 66 € TTC/m²
 
 DONNÉES VÉRIFIABLES — Sources officielles
 
@@ -130,21 +130,21 @@ VERBATIMS D'EXPERTS
 
 ✦ KEY TAKEAWAYS — À retenir
 
-* 📍 **63 € TTC/m²** — tarif fixe tout compris : ponçage + vitrification Bona Mega Evo 3 couches avec égrenage. Aucun supplément.
+* 📍 **66 € TTC/m²** — tarif fixe tout compris : ponçage + vitrification Bona Mega Evo 3 couches avec égrenage. Aucun supplément.
 * 📍 Valable dans tout Paris (1er au 20e) et la banlieue proche (92, 93, 94). Pas de majoration selon le quartier.
-* 📍 Alternative au remplacement : **150-300 €/m²** pour du parquet neuf, contre **63 €/m²** pour une rénovation complète.
+* 📍 Alternative au remplacement : **150-300 €/m²** pour du parquet neuf, contre **66 €/m²** pour une rénovation complète.
 * 📍 Devis par SMS sur 3-4 photos — pas de déplacement. Réponse rapide. **07 83 92 58 94**.
 * 📍 Source : **François Gaillard**, SIRET 81182012500011, 700+ chantiers réalisés à Paris.
 
 Pourquoi certains artisans sont moins chers ?
 +
 
-Un tarif bas cache souvent du matériel vieillissant, seulement 2 couches de vernis, pas d'**égrenage**, ou des produits bas de gamme qui jaunissent. Avec **63 € TTC/m²**, vous avez la machine planétaire, 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") avec **égrenage**, et plus de 220 avis Google à **4,9/5** qui garantissent le résultat.
+Un tarif bas cache souvent du matériel vieillissant, seulement 2 couches de vernis, pas d'**égrenage**, ou des produits bas de gamme qui jaunissent. Avec **66 € TTC/m²**, vous avez la machine planétaire, 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") avec **égrenage**, et plus de 220 avis Google à **4,9/5** qui garantissent le résultat.
 
 Quel est le prix pour 60 m² à Paris ?
 +
 
-Pour 60 m², le tarif est de 3 780 € TTC chantier complet (ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")). Durée : 3 à 4 jours. Réintégration **8 heures** après la dernière couche.
+Pour 60 m², le tarif est de 3 960 € TTC chantier complet (ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")). Durée : 3 à 4 jours. Réintégration **8 heures** après la dernière couche.
 
 Le devis est-il gratuit ?
 +
@@ -154,22 +154,22 @@ Oui. Pas de déplacement, pas de frais. Quelques photos par SMS au 07 83 92 58 9
 Le tarif est-il le même dans tous les arrondissements ?
 +
 
-Oui. Le tarif de **63 € TTC/m²** est fixe dans tout Paris et la petite couronne — du 1er au 20e arrondissement, Montrouge, Issy, Montrouge, Malakoff. Seuls les suppléments (sans ascenseur, meublé) peuvent varier.
+Oui. Le tarif de **66 € TTC/m²** est fixe dans tout Paris et la petite couronne — du 1er au 20e arrondissement, Montrouge, Issy, Montrouge, Malakoff. Seuls les suppléments (sans ascenseur, meublé) peuvent varier.
 
 ## Obtenez votre tarif en quelques minutes
 
-Quelques photos par SMS, la surface, l'étage et si l'appartement est meublé. Tarif fixe 63 € TTC/m².
+Quelques photos par SMS, la surface, l'étage et si l'appartement est meublé. Tarif fixe 66 € TTC/m².
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Voir la FAQ complète](100-questions-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

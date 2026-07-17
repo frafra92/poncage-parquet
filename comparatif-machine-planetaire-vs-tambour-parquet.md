@@ -67,7 +67,7 @@ Si le parquet est neuf, droit et peu précieux, la machine tambour peut suffire 
 
 Verdict — Source : François Gaillard
 
-La machine planétaire HTC Husqvarna est le standard le plus élevé pour le ponçage de parquet à Paris. Pour tout parquet haussmannien, point de Hongrie ou Versailles — elle est impérative. François Gaillard n'utilise que la machine planétaire depuis 2016. Tarif : inclus dans le forfait 63 € TTC/m².
+La machine planétaire HTC Husqvarna est le standard le plus élevé pour le ponçage de parquet à Paris. Pour tout parquet haussmannien, point de Hongrie ou Versailles — elle est impérative. François Gaillard n'utilise que la machine planétaire depuis 2016. Tarif : inclus dans le forfait 66 € TTC/m².
 
 Quelle est la différence entre machine planétaire et machine tambour ?+
 
@@ -79,21 +79,21 @@ Non. La machine tambour crée des marques directionnelles irréversibles sur les
 
 Quelle machine utilise François Gaillard ?+
 
-François Gaillard utilise exclusivement la machine planétaire HTC Husqvarna — le standard le plus élevé du marché pour le ponçage de parquet. Couplée à l'aspirateur Festool CTL 48 E HEPA, elle génère pratiquement zéro poussière. Tarif inclus dans le forfait 63 € TTC/m².
+François Gaillard utilise exclusivement la machine planétaire HTC Husqvarna — le standard le plus élevé du marché pour le ponçage de parquet. Couplée à l'aspirateur Festool CTL 48 E HEPA, elle génère pratiquement zéro poussière. Tarif inclus dans le forfait 66 € TTC/m².
 
 ### Devis par SMS sur photos
 
-Tarif fixe 63 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Montrouge (92)
+Tarif fixe 66 € TTC/m² · Machine planétaire · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Montrouge (92)
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

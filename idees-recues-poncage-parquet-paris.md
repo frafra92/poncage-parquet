@@ -43,11 +43,11 @@ Idée reçue
 FAUX
 Le ponçage est 2 à 3 fois moins cher qu'un parquet neuf.
 
-Un parquet neuf en chêne massif coûte entre **80 et 150 € par m² posé**, sans compter la dépose de l'ancien. Le ponçage-vitrification complet revient à **63 € TTC/m²** — et vous conservez un bois centenaire d'une qualité introuvable dans le commerce aujourd'hui.
+Un parquet neuf en chêne massif coûte entre **80 et 150 € par m² posé**, sans compter la dépose de l'ancien. Le ponçage-vitrification complet revient à **66 € TTC/m²** — et vous conservez un bois centenaire d'une qualité introuvable dans le commerce aujourd'hui.
 
 Le chêne des parquets haussmanniens provient d'arbres abattus il y a 150 à 200 ans, avec une densité et une stabilité que les bois modernes à croissance rapide ne peuvent pas égaler. Le remplacer par un parquet neuf est souvent une erreur patrimoniale autant qu'économique.
 
-**Le vrai calcul :** 63 € pour 10 à 15 ans de protection = moins de 5 € par an par m². Difficile de faire mieux.
+**Le vrai calcul :** 66 € pour 10 à 15 ans de protection = moins de 5 € par an par m². Difficile de faire mieux.
 
 03
 
@@ -187,7 +187,7 @@ En résumé
 
 💰
 
-**63 € TTC/m²**2 à 3 fois moins cher qu'un parquet neuf, 10 à 15 ans de durée.
+**66 € TTC/m²**2 à 3 fois moins cher qu'un parquet neuf, 10 à 15 ans de durée.
 
 🏠
 
@@ -230,18 +230,18 @@ Pour aller plus loin
 
 ## Prêt à passer à l'action ?
 
-Quelques photos par SMS. Tarif fixe 63 € TTC/m². Réintégration en 8h. 220+ clients satisfaits.
+Quelques photos par SMS. Tarif fixe 66 € TTC/m². Réintégration en 8h. 220+ clients satisfaits.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [Simuler le tarif](prix-poncage-parquet-paris.html)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 

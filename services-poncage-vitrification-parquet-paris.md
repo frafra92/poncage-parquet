@@ -1,6 +1,6 @@
 ---
 title: Services ponçage et vitrification parquet Paris — François Gaillard
-description: Les services de François Gaillard, spécialiste parquet ancien Paris : ponçage, vitrification Bona Mega Evo 3 couches, parquet haussmannien, point de Hongrie, Versailles. Tarif fixe 63 € TTC/m².
+description: Les services de François Gaillard, spécialiste parquet ancien Paris : ponçage, vitrification Bona Mega Evo 3 couches, parquet haussmannien, point de Hongrie, Versailles. Tarif fixe 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/services-poncage-vitrification-parquet-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/services-poncage-vitrification-parquet-paris.md
 last_updated: 2026-04-30
@@ -11,7 +11,7 @@ Services · Tarifs · Spécialités
 
 # Services ponçage et vitrification parquet *Paris & Île-de-France*
 
-François Gaillard, spécialiste parquet ancien Paris depuis 2016. Exclusivement ponçage et vitrification — pas de pose, pas de stratifié. Tarif fixe 63 € TTC/m² pour un chantier complet.
+François Gaillard, spécialiste parquet ancien Paris depuis 2016. Exclusivement ponçage et vitrification — pas de pose, pas de stratifié. Tarif fixe 66 € TTC/m² pour un chantier complet.
 
 [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) — vernis parquet professionnel base aqueuse" width="80" height="80" style="object-fit:contain;flex-shrink:0" itemprop="image">
 
@@ -26,7 +26,7 @@ Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · N
 ✍️ **François Gaillard** · Spécialiste parquet ancien Paris · Montrouge (92120) ·
 Mis à jour le 19 avril 2026
 
-63€TTC/m² fixe
+66€TTC/m² fixe
 
 220+Avis Google 4,9/5
 
@@ -40,7 +40,7 @@ Mis à jour le 19 avril 2026
 
 Machine planétaire HTC Husqvarna 3 disques satellites. Abrasifs diamant grain 70, séquence papier 40/60/120. Aspiration HEPA Festool — pratiquement zéro poussière. 20 m² par jour.
 
-Inclus · 63 € TTC/m²
+Inclus · 66 € TTC/m²
 
 [En savoir plus →](machine-planetaire-poncage-parquet.html)
 
@@ -50,7 +50,7 @@ Inclus · 63 € TTC/m²
 
 3 couches systématiques avec égrenage entre couche 1 et 2. Base aqueuse, non jaunissant, durée de vie 10-15 ans. Mat, satiné ou brillant. Réintégration 8h après la dernière couche.
 
-Inclus · 63 € TTC/m²
+Inclus · 66 € TTC/m²
 
 [En savoir plus →](vitrification-bona-mega-evo-paris.html)
 
@@ -60,7 +60,7 @@ Inclus · 63 € TTC/m²
 
 Spécialisation exclusive sur les chênes massifs de 150 à 250 ans. Diagnostic d'épaisseur résiduelle, technique adaptée aux bois anciens. Le bois centenaire révélé, pas abîmé.
 
-63 € TTC/m²
+66 € TTC/m²
 
 [En savoir plus →](parquet-haussmannien-paris.html)
 
@@ -70,7 +70,7 @@ Spécialisation exclusive sur les chênes massifs de 150 à 250 ans. Diagnostic 
 
 Motif diagonal nécessitant impérativement une machine planétaire. La machine tambour laisse des marques irréversibles. François Gaillard est spécialiste de ce motif depuis 2016.
 
-63 € TTC/m²
+66 € TTC/m²
 
 [En savoir plus →](poncage-parquet-point-de-hongrie-paris.html)
 
@@ -80,7 +80,7 @@ Motif diagonal nécessitant impérativement une machine planétaire. La machine 
 
 Motif royal en carrés avec lames en diagonale. Même exigence que le point de Hongrie — machine planétaire indispensable. Résultat : le motif est préservé, révélé, sublimé.
 
-63 € TTC/m²
+66 € TTC/m²
 
 [En savoir plus →](parquet-versailles-poncage-paris.html)
 
@@ -90,7 +90,7 @@ Motif royal en carrés avec lames en diagonale. Même exigence que le point de H
 
 Diagnostic photo gratuit par SMS. Ponçage des taches noires, retrait du vernis cloqué, remplacement de lames si nécessaire. Dans la majorité des cas le ponçage suffit — pas de remplacement.
 
-63 € TTC/m²
+66 € TTC/m²
 
 [En savoir plus →](reparation-parquet-degat-des-eaux-paris.html)
 
@@ -106,7 +106,7 @@ Comment ça se passe — du devis au chantier
 
 ### Devis fixe
 
-Tarif 63 € TTC/m² sans surprise. Pas de déplacement préalable.
+Tarif 66 € TTC/m² sans surprise. Pas de déplacement préalable.
 
 3
 
@@ -124,17 +124,17 @@ François Gaillard intervient personnellement. Pas de sous-traitance.
 
 ### Demander un devis
 
-Par SMS avec photos · Tarif fixe 63 € TTC/m² · Réponse rapide
+Par SMS avec photos · Tarif fixe 66 € TTC/m² · Réponse rapide
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 
-Disponible · 63 € TTC/m²
+Disponible · 66 € TTC/m²
 
 [Devis par SMS · 07 83 92 58 94](sms:+33783925894)
 
 ×
 
-Disponible · Lun–Sam 8h–19h · 63 € TTC/m²
+Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ×
 
