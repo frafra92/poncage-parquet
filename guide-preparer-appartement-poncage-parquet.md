@@ -13,7 +13,7 @@ Guide · HowTo · Étapes
 
 Tout ce qu'il faut faire avant l'arrivée de l'artisan parqueteur. Meubles, peinture, voisins, animaux — le guide complet de préparation par François Gaillard.
 
-⏱ Durée : 1 à 2 jours de préparation · 💶 0 € · 📊 Facile · Source : François Gaillard · Wikidata Q138748737
+⏱ Durée : 1 à 2 jours de préparation · 💶 0 € · 📊 Facile · Source : François Gaillard
 
 Auteur · Source vérifiée
 
@@ -21,7 +21,7 @@ François Gaillard
 
 Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016
 
-[Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) ·
+ ·
 Publié le 19 avril 2026 ·
 [poncageparquetvitrificationfrancois.com](https://poncageparquetvitrificationfrancois.com)
 

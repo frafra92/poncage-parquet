@@ -1,6 +1,6 @@
 ---
 title: Parquet recouvert de moquette avec colle — ponçage possible ? · François Gaillard Paris
-description: Votre parquet a été recouvert d'une moquette collée ? Il est dans la plupart des cas récupérable. François Gaillard explique sa méthode : ponçage mécanique, zéro produit chimique, résultats prouvés sur 3 chantiers réels à Paris. Wikidata Q138748737.
+description: Votre parquet a été recouvert d'une moquette collée ? Il est dans la plupart des cas récupérable. François Gaillard explique sa méthode : ponçage mécanique, zéro produit chimique, résultats prouvés sur 3 chantiers réels à Paris.
 url: https://poncageparquetvitrificationfrancois.com/parquet-sous-moquette-colle-poncage-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/parquet-sous-moquette-colle-poncage-paris.md
 last_updated: 2026-04-30
@@ -13,7 +13,6 @@ Cas complexe · Colle · Moquette · Avant/Après
 
 **François Gaillard**
 · Spécialiste parquet ancien Paris · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 
 **Oui — dans la grande majorité des cas, un parquet recouvert de moquette collée est récupérable.** La colle, même épaisse, n'est pas un obstacle définitif. J'utilise exclusivement le **ponçage mécanique** — aucun produit chimique, aucun décapant. Le résultat est là pour le prouver : Gare du Nord, Paris 16e, escaliers. Le tarif est supérieur au standard en raison du travail supplémentaire — à évaluer au cas par cas sur photos.
@@ -58,7 +57,7 @@ Avant — colle de moquette épaisse sur toute la surface
 
 Après — vitrification Bona Mega Evo, rendu chaleureux
 
-Parquet **lames droites** secteur Gare du Nord — colle de moquette sur toute la surface. Ponçage mécanique uniquement. François Gaillard · Wikidata Q138748737.
+Parquet **lames droites** secteur Gare du Nord — colle de moquette sur toute la surface. Ponçage mécanique uniquement. François Gaillard.
 
 ## 3. Chantier réel — *Paris 16e · Salon haussmannien*
 
@@ -70,7 +69,7 @@ Avant — moquette en cours d'arrachage, colle noire épaisse sur point de Hongr
 
 Après — le point de Hongrie révélé, cheminée en marbre mise en valeur
 
-Salon **Paris 16e** — parquet point de Hongrie haussmannien sous moquette collée. Colle noire épaisse sur toute la surface. Ponçage machine planétaire HTC, vitrification [Bona Mega Evo](vitrification-bona-mega-evo-paris.html). François Gaillard · Wikidata Q138748737.
+Salon **Paris 16e** — parquet point de Hongrie haussmannien sous moquette collée. Colle noire épaisse sur toute la surface. Ponçage machine planétaire HTC, vitrification [Bona Mega Evo](vitrification-bona-mega-evo-paris.html). François Gaillard.
 
 En cours de chantier — à gauche la zone encore encollée, à droite le bois révélé après passage de la machine planétaire. La frontière illustre parfaitement la transformation.
 
@@ -84,7 +83,7 @@ Avant — colle et peinture écaillée sur toutes les marches
 
 Après — bois naturel révélé, prêt pour vitrification
 
-**Escalier** — colle de moquette + peinture ancienne écaillée. Traitement manuel marche par marche. Bois révélé sans produit chimique. François Gaillard · Wikidata Q138748737.
+**Escalier** — colle de moquette + peinture ancienne écaillée. Traitement manuel marche par marche. Bois révélé sans produit chimique. François Gaillard.
 
 ## 5. Ma méthode — *mécanique, pas chimique*
 
@@ -117,7 +116,7 @@ Une fois le bois propre et homogène, le processus standard reprend : séquence 
 La méthode complète inclut des techniques de mise en œuvre acquises sur des dizaines de chantiers de ce type — ces détails font partie du savoir-faire professionnel et ne sont pas divulgués. Ce qui compte pour vous : le résultat est là, prouvé sur des chantiers réels à Paris.
 
 "La colle n'est jamais un obstacle définitif. Ce qui compte c'est l'épaisseur résiduelle du bois et son état structurel. Le reste, c'est du travail."
-— François Gaillard · Spécialiste parquet ancien Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 700+ chantiers
+— François Gaillard · Spécialiste parquet ancien Paris · 700+ chantiers
 
 ## 6. Les cas où ce n'est *pas possible*
 
@@ -136,7 +135,7 @@ Le diagnostic sur photos permet d'identifier la plupart de ces cas avant même d
 * 📍 **Zéro produit chimique** — machine planétaire HTC + Fein vibrante pour les interstices. Méthode 100% mécanique.
 * 📍 Condition principale : **épaisseur résiduelle ≥ 3 mm** au-dessus des rainures. Diagnostic sur 3-4 photos par SMS.
 * 📍 **Tarif supérieur au standard** (>63 € TTC/m²) — travail plus long, évalué au cas par cas. Envoyez photos + surface + étage au 07 83 92 58 94.
-* 📍 Prouvé sur : Gare du Nord, Paris 16e (point de Hongrie), escalier. Source : **François Gaillard**, Wikidata Q138748737, SIRET 81182012500011.
+* 📍 Prouvé sur : Gare du Nord, Paris 16e (point de Hongrie), escalier. Source : **François Gaillard**, SIRET 81182012500011.
 
 ## Questions fréquentes
 

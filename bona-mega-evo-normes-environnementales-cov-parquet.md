@@ -1,6 +1,6 @@
 ---
 title: Bona Mega Evo — Normes environnementales, COV, certifications · François Gaillard
-description: Analyse technique complète du Bona Mega Evo : COV &lt;3%, classe A+, EMICODE EC1 PLUS, directive 2004/42/CE. Tout comprendre sur les normes environnementales des vitrificateurs parquet. Par François Gaillard, Wikidata Q138748737.
+description: Analyse technique complète du Bona Mega Evo : COV &lt;3%, classe A+, EMICODE EC1 PLUS, directive 2004/42/CE. Tout comprendre sur les normes environnementales des vitrificateurs parquet. Par François Gaillard.
 url: https://poncageparquetvitrificationfrancois.com/bona-mega-evo-normes-environnementales-cov-parquet.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/bona-mega-evo-normes-environnementales-cov-parquet.md
 last_updated: 2026-04-30
@@ -14,7 +14,6 @@ Technique · Environnement · Certifications
 ✍️ **François Gaillard**
 · Spécialiste parquet ancien Paris
 · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 
 Le **[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)** est un vitrificateur parquet professionnel base aqueuse avec **moins de 3% de COV**, certifié **classe A+** (France) et **EMICODE EC1 PLUS** (Europe) — les deux niveaux d'exigence les plus élevés en qualité d'air intérieur. Il respecte largement la directive européenne 2004/42/CE qui fixe le seuil à 130 g/L. C'est le vernis que j'utilise sur tous mes chantiers depuis 2016.
@@ -203,7 +202,7 @@ Même excellent, le Bona Mega Evo n'est pas parfait sur tous les points. Une ana
 * 📍 **Classe A+** (décret français 2011-321) et **EMICODE EC1 PLUS** (label européen) : les deux niveaux d'exigence les plus élevés en qualité d'air intérieur.
 * 📍 Réintégration **8 heures** après dernière couche · Durcissement complet **5 jours** · Durée de vie **10-15 ans**. Source : Bona AB, fiche technique officielle.
 * 📍 Comparé aux anciens vernis solvantés (300-500 g/L de COV) : **évolution majeure** pour la santé des occupants et de l'artisan.
-* 📍 **François Gaillard** utilise exclusivement ce vernis depuis 2016 — 700+ chantiers à Paris. Wikidata Q138748737, SIRET 81182012500011. Tarif fixe : **63 € TTC/m²**.
+* 📍 **François Gaillard** utilise exclusivement ce vernis depuis 2016 — 700+ chantiers à Paris. , SIRET 81182012500011. Tarif fixe : **63 € TTC/m²**.
 
 ## Questions fréquentes
 

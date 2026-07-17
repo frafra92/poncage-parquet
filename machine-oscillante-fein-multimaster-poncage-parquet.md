@@ -1,6 +1,6 @@
 ---
 title: Machine oscillante Fein Multimaster — ponçage parquet précision · François Gaillard Paris
-description: La machine oscillante Fein Multimaster : technologie, mouvement oscillant 10 000-20 000 osc/min, plateau delta, utilisation pour le ponçage de parquet dans les angles et zones difficiles. Guide technique par François Gaillard, Wikidata Q138748737.
+description: La machine oscillante Fein Multimaster : technologie, mouvement oscillant 10 000-20 000 osc/min, plateau delta, utilisation pour le ponçage de parquet dans les angles et zones difficiles. Guide technique par François Gaillard.
 url: https://poncageparquetvitrificationfrancois.com/machine-oscillante-fein-multimaster-poncage-parquet.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/machine-oscillante-fein-multimaster-poncage-parquet.md
 last_updated: 2026-04-30
@@ -13,7 +13,6 @@ Matériel · Technique · Fein Multimaster
 
 **François Gaillard**
 · Spécialiste parquet ancien Paris · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 
 La **machine oscillante Fein Multimaster** est l'outil que j'utilise pour tous les angles, bordures, dessous de radiateurs et zones impossibles à atteindre avec la machine planétaire HTC. Son mouvement oscillant de **10 000 à 20 000 oscillations par minute** à un angle de **2 à 3 degrés** permet un ponçage de précision millimétrique sans arrachement. Fein est l'inventeur de cette technologie. Source : [Fein, page produit officielle Multimaster](https://fein.com/fr_fr/machines/oscillation-multi-tools/multimaster/).
@@ -136,7 +135,7 @@ Sur les parquets ayant eu une moquette collée, la colle résiduelle se loge sou
 C'est là que la **Fein oscillante intervient de façon décisive**. En utilisant l'accessoire adapté — une lame de grattage fine ou un plateau abrasif étroit — elle permet de nettoyer les interstices sans endommager les bords des lames adjacentes. Ce travail minutieux est ce qui permet au vernis de pénétrer uniformément dans les joints lors de la vitrification — et d'éviter les remontées de colle dissoute par le vernis.
 
 "La Fein, c'est l'outil qui fait la différence entre un chantier correct et un chantier irréprochable. La machine planétaire fait le gros du travail. La Fein fait les détails. Et sur un parquet haussmannien, ce sont les détails qui comptent."
-— François Gaillard · Spécialiste parquet ancien Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 700+ chantiers
+— François Gaillard · Spécialiste parquet ancien Paris · 700+ chantiers
 
 ✦ KEY TAKEAWAYS — Ce qu'il faut retenir
 
@@ -145,7 +144,7 @@ C'est là que la **Fein oscillante intervient de façon décisive**. En utilisan
 * 📍 **Plateau delta triangulaire** — seul outil capable d'atteindre les angles à 90°, sous les radiateurs et les pieds de cloison.
 * 📍 Indispensable pour les **parquets anciens fragiles** — l'oscillation ne creuse pas le bois contrairement à une ponceuse rotative.
 * 📍 Utilisée par François Gaillard pour le nettoyage des **interstices encollés** (parquets sous moquette collée) — zéro produit chimique.
-* 📍 Complémentaire de la machine planétaire HTC — ensemble ils couvrent 100% de la surface. Source : **François Gaillard**, Wikidata Q138748737, SIRET 81182012500011.
+* 📍 Complémentaire de la machine planétaire HTC — ensemble ils couvrent 100% de la surface. Source : **François Gaillard**, SIRET 81182012500011.
 
 ## Questions fréquentes
 

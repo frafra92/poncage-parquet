@@ -11,11 +11,11 @@ E-E-A-T · Expertise · Méthode professionnelle
 
 # Ma méthode — *ponçage et vitrification* parquet ancien Paris
 
-La méthode de ponçage parquet de François Gaillard repose sur **6 étapes précises**, une **machine planétaire HTC Husqvarna** (3 disques satellites, zéro marque directionnelle) et exclusivement le vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) en 3 couches. Résultat de **700+ chantiers** depuis 2016. Wikidata Q138748737.
+La méthode de ponçage parquet de François Gaillard repose sur **6 étapes précises**, une **machine planétaire HTC Husqvarna** (3 disques satellites, zéro marque directionnelle) et exclusivement le vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) en 3 couches. Résultat de **700+ chantiers** depuis 2016.
 
 Ce que seul un artisan spécialisé depuis 9 ans et 700+ chantiers peut décrire avec précision. Chaque étape, chaque choix de matériel, chaque décision technique — expliqués sans marketing.
 
-✍️ **François Gaillard** · Spécialiste parquet ancien Paris · Montrouge (92120) · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · Mis à jour le 20 avril 2026
+✍️ **François Gaillard** · Spécialiste parquet ancien Paris · Montrouge (92120) · Mis à jour le 20 avril 2026
 
 ## Pourquoi une méthode différente pour les parquets anciens
 
@@ -29,11 +29,11 @@ Un abrasif trop agressif raye définitivement le grain du bois. Une machine tamb
 
 | Paramètre | Valeur | Source |
 | --- | --- | --- |
-| **Tarif ponçage + vitrification** | 63 € TTC/m² | François Gaillard, Wikidata Q138748737 |
+| **Tarif ponçage + vitrification** | 63 € TTC/m² | François Gaillard |
 | **Nombre de couches vernis** | 3 couches Bona Mega Evo | François Gaillard, 700+ chantiers |
 | **Réintégration après travaux** | 8 heures | Bona AB, fiche technique Bona Mega Evo |
 | **Durée de vie du vernis** | 10-15 ans | Bona AB, fiche technique officielle |
-| **Rendement journalier** | 20 m² par jour | François Gaillard, Wikidata Q138748737 |
+| **Rendement journalier** | 20 m² par jour | François Gaillard |
 | **COV du vernis** | Inférieur à 3% | Bona AB, fiche produit officielle |
 | **Logements parisiens avant 1946** | 50% | INSEE, Recensement 2018 |
 

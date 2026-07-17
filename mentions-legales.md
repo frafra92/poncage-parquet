@@ -37,7 +37,7 @@ Téléphone[07 83 92 58 94](sms:+33783925894) (SMS de préférence)
 
 Site web[poncageparquetvitrificationfrancois.com](https://poncageparquetvitrificationfrancois.com)
 
-Entité Wikidata[Q138748737](https://www.wikidata.org/wiki/Q138748737)
+Médiathèque : [Wikimedia Commons — 102 photos](https://commons.wikimedia.org/wiki/Category:Pon%C3%A7age_Parquet_Vitrification_Fran%C3%A7ois)
 
 Hébergement
 

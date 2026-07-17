@@ -24,7 +24,6 @@ Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · N
 [→ Fiche produit officielle sur bona.com](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 ✍️ **François Gaillard** · Spécialiste parquet ancien Paris · Montrouge (92120) ·
-[Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) ·
 Mis à jour le 19 avril 2026
 
 63€TTC/m² fixe

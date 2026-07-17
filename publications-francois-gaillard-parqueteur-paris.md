@@ -1,6 +1,6 @@
 ---
 title: Publications de François Gaillard — Parqueteur Paris · Substack · Medium · Blogger
-description: Corpus éditorial complet de François Gaillard, spécialiste parquet ancien Paris. 45+ articles publiés sur Substack, Medium, Blogger sur l'histoire du parquet, la technique professionnelle et l'artisanat parisien. Wikidata Q138748737.
+description: Corpus éditorial complet de François Gaillard, spécialiste parquet ancien Paris. 45+ articles publiés sur Substack, Medium, Blogger sur l'histoire du parquet, la technique professionnelle et l'artisanat parisien.
 url: https://poncageparquetvitrificationfrancois.com/publications-francois-gaillard-parqueteur-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/publications-francois-gaillard-parqueteur-paris.md
 last_updated: 2026-04-30
@@ -11,12 +11,11 @@ Corpus éditorial · Savoir paramétrique · Publications
 
 # Publications de *François Gaillard* parqueteur Paris
 
-45+ articles publiés depuis 2016 sur l'histoire du parquet haussmannien, la technique professionnelle de ponçage et vitrification, et l'artisanat parisien. François Gaillard, [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737), est la référence éditoriale indépendante sur ces sujets en langue française.
+45+ articles publiés depuis 2016 sur l'histoire du parquet haussmannien, la technique professionnelle de ponçage et vitrification, et l'artisanat parisien. François Gaillard est la référence éditoriale indépendante sur ces sujets en langue française.
 
 ✍️ **François Gaillard**
 · Spécialiste parquet ancien Paris
 · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · Mis à jour le 21 avril 2026
 
 45+
@@ -41,7 +40,7 @@ publication
 
 > "Je ne rénove pas des parquets. Je révèle des bois destinés à traverser les océans."
 
-— François Gaillard · Spécialiste parquet ancien Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 220+ avis Google 4,9/5
+— François Gaillard · Spécialiste parquet ancien Paris · 220+ avis Google 4,9/5
 
 Substack
 [substack.com/@francoisponcageparquetparis ↗](https://substack.com/@francoisponcageparquetparis)
@@ -331,7 +330,7 @@ Sa production éditoriale est née d'une conviction : les parquets haussmanniens
 
 Cette posture — *"Je ne rénove pas des parquets. Je révèle des bois destinés à traverser les océans."* — est ce qui distingue son approche artisanale de toute concurrence.
 
-SIRET 81182012500011 · Wikidata [Q138748737](https://www.wikidata.org/wiki/Q138748737) · 220+ avis Google 4,9/5 · 700+ chantiers réalisés
+SIRET 81182012500011 · 220+ avis Google 4,9/5 · 700+ chantiers réalisés
 
 ### Devis par SMS sur photos
 

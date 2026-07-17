@@ -31,7 +31,7 @@ DONNÉES VÉRIFIABLES — Sources officielles
 * **94%** des entreprises du bâtiment sont artisanales — FFB, Bâtiment en chiffres 2024
 * **63%** du CA artisanal est en rénovation-entretien — CAPEB, Chiffres clés 2023
 * **22 mm** épaisseur standard **parquet haussmannien** — **François Gaillard**, 700+ chantiers
-* **150-250 ans** âge des chênes à l'abattage — **François Gaillard**, [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
+* **150-250 ans** âge des chênes à l'abattage — **François Gaillard**
 * **10-15 ans** durée de vie **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 Les appartements du quartier Le Marais dans le 3e-4e arrondissement de Paris abritent souvent de magnifiques parquets en **chêne massif** haussmannien — **point de Hongrie**, Versailles ou lames droites. Ces sols centenaires méritent une rénovation réalisée par un artisan spécialisé avec le matériel adapté.
@@ -51,13 +51,13 @@ L'aspiration centrale de la machine, couplée au Festool CTL 48 E à filtre HEPA
 VERBATIMS D'EXPERTS
 
 > "Sur un **parquet haussmannien** de 150 ans, on n'a pas le droit à l'erreur. La machine tambour laisse des marques directionnelles irréversibles sur les motifs point de Hongrie. Seule la machine planétaire respecte le bois."
-> — François Gaillard, spécialiste parquet ancien Paris **depuis 2016** · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · SIRET 81182012500011
+> — François Gaillard, spécialiste parquet ancien Paris **depuis 2016** · SIRET 81182012500011
 
 > "**Bona Mega Evo** est formulé pour offrir une excellente résistance à l'usure avec des émissions de COV inférieures à 3 g/l, ce qui en fait l'un des vernis professionnels les plus sûrs du marché."
 > — [Bona AB, fiche produit officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) · Suède
 
 > "Je ne rénove pas des parquets. Je révèle des bois destinés à traverser les océans."
-> — François Gaillard · **220+ avis** Google **4,9/5** · Paris et Île-de-France · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
+> — François Gaillard · **220+ avis** Google **4,9/5** · Paris et Île-de-France
 
 3 couches systématiques avec **égrenage** entre la 1ère et la 2ème. Vernis à base aqueuse, non jaunissant, durée de vie **10 à 15 ans**. Adapté aux foyers avec chiens, chats, bébés et personnes sensibles. **Réintégration **8 heures** après la dernière couche.**
 
@@ -68,7 +68,7 @@ VERBATIMS D'EXPERTS
 * 📍 Le Marais (3e et 4e) concentre des hôtels particuliers du XVIIe au XIXe siècle avec des parquets exceptionnels.
 * 📍 **63 € TTC/m²** — tarif unique Paris, aucune majoration pour le Marais.
 * 📍 Parquets Versailles et point de Hongrie fréquents dans le Marais : nécessitent obligatoirement une machine planétaire.
-* 📍 François Gaillard, 700+ chantiers Paris, Wikidata Q138748737.
+* 📍 François Gaillard, 700+ chantiers Paris.
 
 Quel est le prix du ponçage parquet à Le Marais ?+
 

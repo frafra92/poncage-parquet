@@ -23,7 +23,7 @@ Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · N
 
 [→ Fiche produit officielle sur bona.com](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
-⏱ Durée : 3 à 4 jours pour 60 m² · 💶 63 € TTC/m² · 📊 Professionnel requis · Source : François Gaillard · Wikidata Q138748737
+⏱ Durée : 3 à 4 jours pour 60 m² · 💶 63 € TTC/m² · 📊 Professionnel requis · Source : François Gaillard
 
 Auteur · Source vérifiée
 
@@ -31,7 +31,7 @@ François Gaillard
 
 Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016
 
-[Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) ·
+ ·
 Publié le 19 avril 2026 ·
 [poncageparquetvitrificationfrancois.com](https://poncageparquetvitrificationfrancois.com)
 

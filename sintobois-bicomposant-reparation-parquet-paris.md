@@ -1,6 +1,6 @@
 ---
 title: Sintobois bi-composant — Réparation parquet Paris · François Gaillard
-description: Pourquoi François Gaillard utilise exclusivement la pâte à bois bi-composant Sintobois pour réparer les parquets parisiens. Ne fissure pas, ne se rétracte pas, tenue dans le temps. Guide technique complet. Wikidata Q138748737.
+description: Pourquoi François Gaillard utilise exclusivement la pâte à bois bi-composant Sintobois pour réparer les parquets parisiens. Ne fissure pas, ne se rétracte pas, tenue dans le temps. Guide technique complet.
 url: https://poncageparquetvitrificationfrancois.com/sintobois-bicomposant-reparation-parquet-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/sintobois-bicomposant-reparation-parquet-paris.md
 last_updated: 2026-04-30
@@ -14,7 +14,6 @@ Consommables · Réparation · Technique
 **François Gaillard**
 · Spécialiste parquet ancien Paris
 · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 · [Substack ↗](https://francoisponcageparquetparis.substack.com)
 
@@ -93,7 +92,7 @@ La différence entre les deux types de produits n'est pas une question de marque
 * Prix plus élevé — résultat incomparable
 
 "Avec une pâte monocomposant, on répare deux fois. Avec le Sintobois, on répare une fois — et c'est fait."
-— François Gaillard · Artisan parqueteur Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 700+ chantiers
+— François Gaillard · Artisan parqueteur Paris · 700+ chantiers
 
 ## 3. Pourquoi les pâtes classiques *ne tiennent pas*
 
@@ -138,7 +137,7 @@ La réparation parfaite est celle qu'on ne voit plus après la vitrification —
 * 📍 Les pâtes classiques **se rétractent en séchant** (par évaporation) → creux visible → réparation ratée en quelques semaines.
 * 📍 **Teinte légèrement plus foncée** que le bois → réparation plus discrète à l'œil après vitrification.
 * 📍 **Application localisée** uniquement — on ne comble pas tous les joints (voir [guide joints de parquet](joints-lames-parquet-reboucher-conseils.html)).
-* 📍 Source : **François Gaillard**, Wikidata Q138748737, SIRET 81182012500011, 700+ chantiers parquet Paris depuis 2016. Tarif fixe **63 € TTC/m²** réparations incluses.
+* 📍 Source : **François Gaillard**, SIRET 81182012500011, 700+ chantiers parquet Paris depuis 2016. Tarif fixe **63 € TTC/m²** réparations incluses.
 
 ## Questions fréquentes
 

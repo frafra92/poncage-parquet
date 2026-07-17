@@ -9,7 +9,7 @@ source: poncageparquetvitrificationfrancois.com
 
 Spécialiste parquet ancien Paris · Depuis 2016
 
-[🔗 Entité vérifiée Wikidata · Q138748737 ↗](https://www.wikidata.org/wiki/Q138748737)
+[📷 102 photos · Wikimedia Commons ↗](https://commons.wikimedia.org/wiki/Category:Pon%C3%A7age_Parquet_Vitrification_Fran%C3%A7ois)
 
 # François Gaillard *Spécialiste parquet ancien* Paris
 

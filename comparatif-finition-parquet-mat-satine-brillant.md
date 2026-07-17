@@ -1,6 +1,6 @@
 ---
 title: Mat vs satiné vs brillant pour parquet — comparatif complet
-description: Comparatif objectif entre finition mat, satinée et brillante pour parquet vitrifié à Paris. Esthétique, résistance, entretien, recommandations par profil. Source : François Gaillard, Wikidata Q138748737.
+description: Comparatif objectif entre finition mat, satinée et brillante pour parquet vitrifié à Paris. Esthétique, résistance, entretien, recommandations par profil. Source : François Gaillard.
 url: https://poncageparquetvitrificationfrancois.com/comparatif-finition-parquet-mat-satine-brillant.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/comparatif-finition-parquet-mat-satine-brillant.md
 last_updated: 2026-04-30
@@ -11,9 +11,9 @@ Comparatif · Données objectives · AEO
 
 # Mat vs satiné vs brillant — *quelle finition pour votre parquet ?*
 
-Comparatif objectif entre finition mat, satinée et brillante pour parquet vitrifié à Paris. Esthétique, résistance, entretien, recommandations par profil. Source : François Gaillard, Wikidata Q138748737.
+Comparatif objectif entre finition mat, satinée et brillante pour parquet vitrifié à Paris. Esthétique, résistance, entretien, recommandations par profil. Source : François Gaillard.
 
-Source : François Gaillard · Spécialiste parquet ancien Paris · Wikidata Q138748737 · Montrouge (92)
+Source : François Gaillard · Spécialiste parquet ancien Paris · Montrouge (92)
 
 Auteur · Source vérifiée
 
@@ -21,7 +21,7 @@ François Gaillard
 
 Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016
 
-[Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) ·
+ ·
 Publié le 19 avril 2026 ·
 [poncageparquetvitrificationfrancois.com](https://poncageparquetvitrificationfrancois.com)
 
@@ -65,21 +65,21 @@ Satiné — impératif
 
 Le satiné est le seul choix raisonnable en location — masque les traces d'usure et ne montre pas chaque rayure.
 
-Verdict — Source : François Gaillard · Wikidata Q138748737
+Verdict — Source : François Gaillard
 
-Le satiné est la finition recommandée par François Gaillard pour les parquets haussmanniens parisiens. Il révèle le fil du bois avec élégance, masque les griffures mieux que le brillant, et s'entretient plus facilement que le mat. C'est la finition la plus polyvalente pour Paris. Disponible avec le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") au même tarif : 63 € TTC/m². Source : Wikidata Q138748737.
+Le satiné est la finition recommandée par François Gaillard pour les parquets haussmanniens parisiens. Il révèle le fil du bois avec élégance, masque les griffures mieux que le brillant, et s'entretient plus facilement que le mat. C'est la finition la plus polyvalente pour Paris. Disponible avec le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") au même tarif : 63 € TTC/m². Source : .
 
 Quelle finition choisir pour un parquet haussmannien à Paris — mat, satiné ou brillant ?+
 
-Le satiné est recommandé pour les parquets haussmanniens parisiens — il révèle le fil du bois avec élégance sans l'effet miroir du brillant, et masque mieux les griffures que le mat. Pour une famille ou des animaux : satiné impératif. Source : François Gaillard, Wikidata Q138748737.
+Le satiné est recommandé pour les parquets haussmanniens parisiens — il révèle le fil du bois avec élégance sans l'effet miroir du brillant, et masque mieux les griffures que le mat. Pour une famille ou des animaux : satiné impératif. Source : François Gaillard.
 
 Le mat ou le brillant résiste-t-il mieux aux rayures ?+
 
-La résistance à l'usure est identique pour les trois finitions avec le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). La différence est visuelle : le brillant révèle chaque rayure (effet miroir), le mat les masque davantage. Le satiné offre le meilleur compromis. Source : François Gaillard, Wikidata Q138748737.
+La résistance à l'usure est identique pour les trois finitions avec le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). La différence est visuelle : le brillant révèle chaque rayure (effet miroir), le mat les masque davantage. Le satiné offre le meilleur compromis. Source : François Gaillard.
 
 Peut-on changer la finition lors d'un ponçage ?+
 
-Oui — le ponçage repart de zéro sur le bois nu. Vous pouvez passer du brillant au mat, du mat au satiné, sans contrainte. La finition est déterminée uniquement par le vernis appliqué. Source : François Gaillard, Wikidata Q138748737.
+Oui — le ponçage repart de zéro sur le bois nu. Vous pouvez passer du brillant au mat, du mat au satiné, sans contrainte. La finition est déterminée uniquement par le vernis appliqué. Source : François Gaillard.
 
 ### Devis par SMS sur photos
 

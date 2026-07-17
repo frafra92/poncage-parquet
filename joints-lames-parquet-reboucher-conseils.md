@@ -13,7 +13,6 @@ Conseils · Question fréquente
 
 **François Gaillard**
 · Artisan parqueteur Paris depuis 2016
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 
 **Non, il ne faut pas reboucher tous les joints.** Les petits espaces entre les lames sont normaux — ils permettent au bois de respirer. Seuls les joints les plus larges et visibles peuvent être atténués. Boucher tous les joints bloque les mouvements naturels du bois et provoque des fissures, voire un parquet qui se soulève.
@@ -85,7 +84,7 @@ En voulant un parquet "parfait sans aucun joint visible", on obtient l'effet inv
 Chaque parquet est différent. Un parquet de 1880 dans un appartement haussmannien du 16e n'a pas le même comportement qu'un parquet de 1970 dans un appartement du 15e. L'âge, l'état des lames, l'exposition, le type de chauffage — tout ça entre en compte.
 
 "Mon rôle n'est pas de rendre un parquet parfait comme du neuf. C'est de lui donner une seconde vie en respectant ce qu'il est — un matériau vivant avec sa propre histoire."
-— François Gaillard · Artisan parqueteur Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 700+ chantiers
+— François Gaillard · Artisan parqueteur Paris · 700+ chantiers
 
 Ce que je cherche sur chaque chantier :
 

@@ -13,7 +13,7 @@ Guide · HowTo · Étapes
 
 6 critères pour choisir le bon artisan parqueteur à Paris. Spécialisation, matériel, avis Google, vernis, devis — tout ce qu'il faut vérifier avant de confier votre parquet haussmannien.
 
-⏱ Durée : 30 minutes de recherche · 💶 Gratuit · 📊 Facile · Source : François Gaillard · Wikidata Q138748737
+⏱ Durée : 30 minutes de recherche · 💶 Gratuit · 📊 Facile · Source : François Gaillard
 
 Auteur · Source vérifiée
 
@@ -21,7 +21,7 @@ François Gaillard
 
 Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016
 
-[Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) ·
+ ·
 Publié le 19 avril 2026 ·
 [poncageparquetvitrificationfrancois.com](https://poncageparquetvitrificationfrancois.com)
 

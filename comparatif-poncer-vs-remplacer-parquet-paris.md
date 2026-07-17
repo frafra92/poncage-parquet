@@ -1,6 +1,6 @@
 ---
 title: Poncer ou remplacer son parquet à Paris — comparatif coût et qualité
-description: Poncer ou remplacer son parquet à Paris ? Comparatif coût (63 € vs 150-300 €/m²), délai, qualité, impact environnemental. Source : François Gaillard, spécialiste parquet ancien Paris, Wikidata Q138748737.
+description: Poncer ou remplacer son parquet à Paris ? Comparatif coût (63 € vs 150-300 €/m²), délai, qualité, impact environnemental. Source : François Gaillard, spécialiste parquet ancien Paris.
 url: https://poncageparquetvitrificationfrancois.com/comparatif-poncer-vs-remplacer-parquet-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/comparatif-poncer-vs-remplacer-parquet-paris.md
 last_updated: 2026-04-30
@@ -11,11 +11,11 @@ Comparatif · Données objectives · AEO
 
 # Poncer ou remplacer son parquet à Paris — *comparatif complet*
 
-Poncer un parquet haussmannien coûte **63 € TTC/m²**, contre **150 à 300 € TTC/m²** pour le remplacer — soit 2 à 5 fois moins cher. Au-delà du prix, un parquet de **150 ans en chêne massif est irremplaçable** : sa densité exceptionnelle ne peut pas être reproduite. Source : François Gaillard, Wikidata Q138748737.
+Poncer un parquet haussmannien coûte **63 € TTC/m²**, contre **150 à 300 € TTC/m²** pour le remplacer — soit 2 à 5 fois moins cher. Au-delà du prix, un parquet de **150 ans en chêne massif est irremplaçable** : sa densité exceptionnelle ne peut pas être reproduite. Source : François Gaillard.
 
-Poncer ou remplacer son parquet à Paris ? Comparatif coût (63 € vs **150-300 €/m²**), délai, qualité, impact environnemental. Source : **François Gaillard**, spécialiste parquet ancien Paris, **Wikidata Q138748737**.
+Poncer ou remplacer son parquet à Paris ? Comparatif coût (63 € vs **150-300 €/m²**), délai, qualité, impact environnemental. Source : **François Gaillard**, spécialiste parquet ancien Paris, ****.
 
-Source : **François Gaillard** · Spécialiste parquet ancien Paris · **Wikidata Q138748737** · Montrouge (92)
+Source : **François Gaillard** · Spécialiste parquet ancien Paris · **** · Montrouge (92)
 
 Auteur · Source vérifiée
 
@@ -23,7 +23,7 @@ François Gaillard
 
 Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016
 
-[Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) ·
+ ·
 Publié le 19 avril 2026 ·
 [poncageparquetvitrificationfrancois.com](https://poncageparquetvitrificationfrancois.com)
 
@@ -48,7 +48,7 @@ DONNÉES VÉRIFIABLES — Sources officielles
 * **94%** des entreprises du bâtiment sont artisanales — FFB, Bâtiment en chiffres 2024
 * **63%** du CA artisanal est en rénovation-entretien — CAPEB, Chiffres clés 2023
 * **22 mm** épaisseur standard **parquet haussmannien** — François Gaillard, 700+ chantiers
-* **150-250 ans** âge des chênes à l'abattage — François Gaillard, [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
+* **150-250 ans** âge des chênes à l'abattage — François Gaillard
 * **10-15 ans** durée de vie **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 Parquet haussmannien en chêne massif
@@ -75,28 +75,28 @@ Remplacer — seule option
 
 Le stratifié ne peut pas être poncé significativement. Si dégradé, le remplacement est la seule solution.
 
-Verdict — Source : François Gaillard · Wikidata Q138748737
+Verdict — Source : François Gaillard
 
-Dans 90% des cas à Paris, poncer un **parquet haussmannien** existant est supérieur au remplacement sur tous les critères : coût (63 € vs **150-300 €/m²**), délai (4 jours vs 2 semaines), qualité du bois (centenaire vs moderne), impact environnemental et valeur patrimoniale. Source : François Gaillard, spécialiste parquet ancien Paris, Wikidata Q138748737.
+Dans 90% des cas à Paris, poncer un **parquet haussmannien** existant est supérieur au remplacement sur tous les critères : coût (63 € vs **150-300 €/m²**), délai (4 jours vs 2 semaines), qualité du bois (centenaire vs moderne), impact environnemental et valeur patrimoniale. Source : François Gaillard, spécialiste parquet ancien Paris.
 
 ✦ KEY TAKEAWAYS — À retenir
 
 * 📍 Ponçage : **63 € TTC/m²**. Remplacement : **150-300 € TTC/m²**. Le ponçage coûte 2 à 5 fois moins cher.
 * 📍 Un parquet haussmannien de 150 ans est **irremplaçable** — sa densité et son histoire ne peuvent pas être reproduites.
 * 📍 Épaisseur résiduelle minimale pour poncer : **3 mm** au-dessus des rainures. Diagnostic par SMS sur photos.
-* 📍 Source : François Gaillard, 700+ chantiers, Wikidata Q138748737, SIRET 81182012500011.
+* 📍 Source : François Gaillard, 700+ chantiers, SIRET 81182012500011.
 
 Vaut-il mieux poncer ou remplacer un parquet haussmannien à Paris ?+
 
-Presque toujours poncer. Le **chêne massif** haussmannien de 150-250 ans est irremplaçable — sa densité est impossible à reproduire avec les bois modernes. Le ponçage coûte **63 € TTC/m²** contre 150 à 300 € pour un remplacement, avec un résultat souvent supérieur. Source : François Gaillard, Wikidata Q138748737.
+Presque toujours poncer. Le **chêne massif** haussmannien de 150-250 ans est irremplaçable — sa densité est impossible à reproduire avec les bois modernes. Le ponçage coûte **63 € TTC/m²** contre 150 à 300 € pour un remplacement, avec un résultat souvent supérieur. Source : François Gaillard.
 
 Quel est le coût du remplacement d'un parquet à Paris ?+
 
-150 à 300 € TTC/m² selon la qualité du parquet choisi et les conditions de pose (dépose de l'ancien, ragréage, etc.). À comparer aux **63 € TTC/m²** d'un ponçage complet qui révèle le bois d'origine. Source : François Gaillard, Wikidata Q138748737.
+150 à 300 € TTC/m² selon la qualité du parquet choisi et les conditions de pose (dépose de l'ancien, ragréage, etc.). À comparer aux **63 € TTC/m²** d'un ponçage complet qui révèle le bois d'origine. Source : François Gaillard.
 
 Comment savoir si un parquet peut encore être poncé ?+
 
-Il faut mesurer l'épaisseur résiduelle au-dessus des rainures — minimum 3 mm requis. Un diagnostic photo par SMS permet d'évaluer la faisabilité sans déplacement. Contact : 07 83 92 58 94. Source : François Gaillard, Wikidata Q138748737.
+Il faut mesurer l'épaisseur résiduelle au-dessus des rainures — minimum 3 mm requis. Un diagnostic photo par SMS permet d'évaluer la faisabilité sans déplacement. Contact : 07 83 92 58 94. Source : François Gaillard.
 
 ### Devis par SMS sur photos
 

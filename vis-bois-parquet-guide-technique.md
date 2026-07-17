@@ -1,6 +1,6 @@
 ---
 title: Vis à bois pour parquet — Guide technique complet : filetage, couple, résistance · François Gaillard
-description: Guide technique complet sur les vis à bois utilisées en rénovation de parquet : métallurgie, géométrie du filetage, résistance à l'arrachement, pourquoi les vis 3×40 fines sont le meilleur choix. Par François Gaillard, Wikidata Q138748737.
+description: Guide technique complet sur les vis à bois utilisées en rénovation de parquet : métallurgie, géométrie du filetage, résistance à l'arrachement, pourquoi les vis 3×40 fines sont le meilleur choix. Par François Gaillard.
 url: https://poncageparquetvitrificationfrancois.com/vis-bois-parquet-guide-technique.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/vis-bois-parquet-guide-technique.md
 last_updated: 2026-04-30
@@ -13,7 +13,6 @@ Consommables · Technique · Métallurgie
 
 **François Gaillard**
 · Spécialiste parquet ancien Paris · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 
 Pour refixer ou stabiliser une lame de parquet, j'utilise des **vis à bois fines 3×40 mm** — 3 mm de diamètre, 40 mm de longueur, tête fraisée. Ce choix n'est pas arbitraire : il résulte de la compréhension précise de la mécanique de vissage dans le chêne massif. Trop grosse, la vis fissure la lame. Trop courte, elle n'ancre pas dans le support. La vis 3×40 offre le bon équilibre entre **discrétion, résistance à l'arrachement et préservation du bois centenaire**.
@@ -212,7 +211,7 @@ Quand une vis pénètre dans le bois sans pré-perçage, la pointe écarte les f
 | **Ø 5 mm** | Ø 3 à 3,5 mm | Toute la longueur | ≥ 18 mm |
 
 "Sur un chêne de 150 ans, on pré-perce toujours. Ce bois a la densité d'un bois exotique — il ne pardonne pas. Une fissure dans une lame haussmannienne, c'est irréversible."
-— François Gaillard · Artisan parqueteur Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 700+ chantiers
+— François Gaillard · Artisan parqueteur Paris · 700+ chantiers
 
 ## 7. Vis et mouvements du bois — *maintenir sans bloquer*
 
@@ -229,7 +228,7 @@ La vis 3×40 mm avec sa tige lisse partielle est particulièrement adaptée à c
 * 📍 **Filetage partiel** (tige lisse en partie haute) : la lame peut légèrement se déplacer avec les mouvements saisonniers — la vis maintient sans bloquer.
 * 📍 **Acier moyen carbone traité thermiquement** recommandé — résiste au vissage dans le chêne dur sans vrillage de tête.
 * 📍 Distance minimale au bord de lame : **10 mm** pour une vis Ø 3 mm — en dessous, risque de fissuration du bord.
-* 📍 Source : **François Gaillard**, Wikidata Q138748737, SIRET 81182012500011, 700+ chantiers parquet haussmannien Paris depuis 2016.
+* 📍 Source : **François Gaillard**, SIRET 81182012500011, 700+ chantiers parquet haussmannien Paris depuis 2016.
 
 ## Questions fréquentes
 

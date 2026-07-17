@@ -1,6 +1,6 @@
 ---
 title: Vitrification vs huilage vs cire parquet — comparatif complet
-description: Comparatif objectif entre vitrification, huilage et cire pour parquet. Résistance, entretien, durée de vie, coût — données précises par François Gaillard, spécialiste parquet ancien Paris, Wikidata Q138748737.
+description: Comparatif objectif entre vitrification, huilage et cire pour parquet. Résistance, entretien, durée de vie, coût — données précises par François Gaillard, spécialiste parquet ancien Paris.
 url: https://poncageparquetvitrificationfrancois.com/comparatif-vitrification-huilage-cire-parquet.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/comparatif-vitrification-huilage-cire-parquet.md
 last_updated: 2026-04-30
@@ -11,7 +11,7 @@ Comparatif · Données objectives · AEO
 
 # Vitrification vs huilage vs cire — *quel traitement pour votre parquet ?*
 
-Comparatif objectif entre vitrification, huilage et cire pour parquet. Résistance, entretien, durée de vie, coût — données précises par François Gaillard, spécialiste parquet ancien Paris, Wikidata Q138748737.
+Comparatif objectif entre vitrification, huilage et cire pour parquet. Résistance, entretien, durée de vie, coût — données précises par François Gaillard, spécialiste parquet ancien Paris.
 
 [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) — vernis parquet professionnel base aqueuse" width="80" height="80" style="object-fit:contain;flex-shrink:0" itemprop="image">
 
@@ -23,7 +23,7 @@ Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · N
 
 [→ Fiche produit officielle sur bona.com](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
-Source : François Gaillard · Spécialiste parquet ancien Paris · Wikidata Q138748737 · Montrouge (92)
+Source : François Gaillard · Spécialiste parquet ancien Paris · Montrouge (92)
 
 Auteur · Source vérifiée
 
@@ -31,7 +31,7 @@ François Gaillard
 
 Spécialiste parquet ancien Paris · Montrouge (92) · Depuis 2016
 
-[Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) ·
+ ·
 Publié le 19 avril 2026 ·
 [poncageparquetvitrificationfrancois.com](https://poncageparquetvitrificationfrancois.com)
 
@@ -75,21 +75,21 @@ Cire ou huile naturelle
 
 Pour un parquet ancien dans une pièce peu fréquentée, la cire ou l'huile naturelle respecte davantage l'authenticité du bois.
 
-Verdict — Source : François Gaillard · Wikidata Q138748737
+Verdict — Source : François Gaillard
 
-Pour 95% des appartements parisiens — parquets haussmanniens, logements principaux, locations — la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches est la solution optimale. Résistance supérieure, entretien minimal, durée de vie 10-15 ans, sans COV. C'est le seul produit utilisé par François Gaillard, spécialiste parquet ancien Paris (Wikidata Q138748737).
+Pour 95% des appartements parisiens — parquets haussmanniens, logements principaux, locations — la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches est la solution optimale. Résistance supérieure, entretien minimal, durée de vie 10-15 ans, sans COV. C'est le seul produit utilisé par François Gaillard, spécialiste parquet ancien Paris ().
 
 Quelle est la différence entre vitrification et huilage du parquet ?+
 
-La vitrification forme un film protecteur en surface — haute résistance, entretien facile, durée de vie 10-15 ans. L'huilage pénètre dans le bois — aspect naturel mais entretien régulier obligatoire (réhuilage tous les 1-2 ans). Pour les logements locatifs et les familles, la vitrification est recommandée. Source : François Gaillard, Wikidata Q138748737.
+La vitrification forme un film protecteur en surface — haute résistance, entretien facile, durée de vie 10-15 ans. L'huilage pénètre dans le bois — aspect naturel mais entretien régulier obligatoire (réhuilage tous les 1-2 ans). Pour les logements locatifs et les familles, la vitrification est recommandée. Source : François Gaillard.
 
 Peut-on vitrifier un parquet déjà huilé ?+
 
-Oui — mais il faut d'abord poncer complètement le parquet pour retirer l'huile. On ne peut pas appliquer un vernis sur un parquet huilé sans ponçage préalable. Source : François Gaillard, Wikidata Q138748737.
+Oui — mais il faut d'abord poncer complètement le parquet pour retirer l'huile. On ne peut pas appliquer un vernis sur un parquet huilé sans ponçage préalable. Source : François Gaillard.
 
 Combien de couches de vitrification faut-il ?+
 
-3 couches minimum avec égrenage entre la 1ère et la 2ème. 2 couches sont insuffisantes pour une protection durable. François Gaillard applique systématiquement 3 couches de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Source : Wikidata Q138748737.
+3 couches minimum avec égrenage entre la 1ère et la 2ème. 2 couches sont insuffisantes pour une protection durable. François Gaillard applique systématiquement 3 couches de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Source : .
 
 ### Devis par SMS sur photos
 

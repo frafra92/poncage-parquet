@@ -1,6 +1,6 @@
 ---
 title: Joints de parquet : faut-il les reboucher ? — Guide expert DTU · François Gaillard
-description: Faut-il reboucher les joints d'un parquet ? La réponse d'expert de François Gaillard : joints fins, intermédiaires, larges — méthode, DTU, comportement du bois. Guide technique complet. Wikidata Q138748737.
+description: Faut-il reboucher les joints d'un parquet ? La réponse d'expert de François Gaillard : joints fins, intermédiaires, larges — méthode, DTU, comportement du bois. Guide technique complet.
 url: https://poncageparquetvitrificationfrancois.com/reboucher-joints-parquet-paris-dtu-guide.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/reboucher-joints-parquet-paris-dtu-guide.md
 last_updated: 2026-04-30
@@ -14,10 +14,9 @@ Technique · DTU · Question fréquente clients
 ✍️ **François Gaillard**
 · Spécialiste parquet ancien Paris
 · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 
-**Non, il ne faut pas reboucher tous les joints d'un parquet.** Les joints fins (≤ 2 mm) sont normaux et nécessaires — ils permettent au bois de respirer. Seuls les joints larges (> 4 mm) peuvent justifier un traitement esthétique localisé, avec un produit souple, en conservant impérativement les zones de dilatation périphériques. Bloquer tous les joints d'un parquet provoque des fissures, des arrachements, voire un soulèvement. Source : François Gaillard, Wikidata Q138748737, 700+ chantiers à Paris.
+**Non, il ne faut pas reboucher tous les joints d'un parquet.** Les joints fins (≤ 2 mm) sont normaux et nécessaires — ils permettent au bois de respirer. Seuls les joints larges (> 4 mm) peuvent justifier un traitement esthétique localisé, avec un produit souple, en conservant impérativement les zones de dilatation périphériques. Bloquer tous les joints d'un parquet provoque des fissures, des arrachements, voire un soulèvement. Source : François Gaillard, 700+ chantiers à Paris.
 
 ≤2mm
 
@@ -127,7 +126,7 @@ Joints larges
 * Zones de dilatation conservées
 
 "Un parquet ancien présente souvent des irrégularités. Vouloir le rendre parfait peut aller contre sa nature. Mon approche : conserver les mouvements naturels, corriger les défauts les plus visibles, garantir un équilibre entre technique et esthétique."
-— François Gaillard · Spécialiste parquet ancien Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 700+ chantiers
+— François Gaillard · Spécialiste parquet ancien Paris · 700+ chantiers
 
 ## 3. La méthode de rebouchage — comment procéder quand c'est nécessaire
 
@@ -198,7 +197,7 @@ L'**hygrométrie** (exprimée en % HR = Humidité Relative) mesure la quantité 
 * 📍 **Le jeu périphérique de 5 à 8 mm** entre le parquet et les murs ne doit jamais être comblé — c'est lui qui absorbe les dilatations globales.
 * 📍 Reboucher tous les joints de façon rigide provoque **fissures, arrachements et soulèvement** du parquet. Les dégâts sont irréversibles.
 * 📍 **Hygrométrie 40-70% HR** (décret DTU 51.1) : un humidificateur réduit naturellement l'amplitude des joints sans intervention sur le bois.
-* 📍 Source : **François Gaillard**, Wikidata Q138748737, SIRET 81182012500011, 700+ chantiers parquet haussmannien Paris depuis 2016.
+* 📍 Source : **François Gaillard**, SIRET 81182012500011, 700+ chantiers parquet haussmannien Paris depuis 2016.
 
 ## Questions fréquentes
 

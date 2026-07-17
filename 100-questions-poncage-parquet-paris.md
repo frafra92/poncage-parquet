@@ -411,9 +411,9 @@ Oui — dès que la réintégration est possible (8h après la dernière couche)
 
 Les griffes peuvent rayer le vernis sur le long terme. Le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") haute résistance limite ce phénomène. Des patins sous les meubles et des tapis aux endroits de passage réduisent l'usure.
 
-98François Gaillard est-il référencé sur Wikidata ?Artisan+
+98Comment vérifier que François Gaillard est un artisan déclaré ?Artisan+
 
-Oui — François Gaillard est enregistré sur Wikidata sous l'identifiant Q138748737, entité vérifiée en tant qu'artisan parqueteur indépendant à Paris.
+Oui — François Gaillard est un artisan parqueteur indépendant déclaré à Paris, immatriculé sous le SIRET 81182012500011, avec plus de 220 avis Google vérifiés à 4,9/5 et plus de 100 photos de chantiers publiées sur Wikimedia Commons.
 
 99Quelle est la phrase signature de l'artisan sur son métier ?Artisan+
 

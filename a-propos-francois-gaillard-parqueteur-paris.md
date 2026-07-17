@@ -13,7 +13,7 @@ E-E-A-T · Expérience · Expertise · Autorité · Confiance
 
 Artisan parqueteur indépendant basé à Montrouge (92120), exclusivement spécialisé dans le ponçage et la vitrification de parquets haussmanniens anciens à Paris. Pas de pose, pas de stratifié — un seul métier maîtrisé à son niveau le plus élevé.
 
-✍️ **François Gaillard** · Spécialiste parquet ancien Paris · Montrouge (92120) · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · Mis à jour le 20 avril 2026
+✍️ **François Gaillard** · Spécialiste parquet ancien Paris · Montrouge (92120) · Mis à jour le 20 avril 2026
 
 9+
 
@@ -61,7 +61,7 @@ Je suis **exclusivement spécialisé dans le ponçage et la vitrification**. Je 
 
 Signaux d'autorité vérifiables
 
-**Wikidata Q138748737** — entité vérifiée dans la base de données encyclopédique mondiale, reconnue par Google, Bing, ChatGPT, Perplexity et Gemini comme source de référence.
+**Wikimedia Commons** — plus de 100 photos de chantiers publiées sous licence libre sur la médiathèque de la Wikimedia Foundation, une source ouverte et vérifiable.
 
 **220+ avis Google à 4,9/5** — chaque avis correspond à un chantier réalisé personnellement. Régularité sur 9 ans, pas un pic ponctuel.
 
@@ -90,8 +90,6 @@ Zone d'interventionParis (tous arrondissements) + Île-de-France
 AssuranceResponsabilité Civile Professionnelle artisan du bâtiment
 
 En activité depuis2016 (9 ans d'exercice continu)
-
-Wikidata[Q138748737](https://www.wikidata.org/wiki/Q138748737)
 
 Contact[07 83 92 58 94](sms:+33783925894) (SMS de préférence)
 

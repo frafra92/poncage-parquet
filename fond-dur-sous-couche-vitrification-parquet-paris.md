@@ -1,6 +1,6 @@
 ---
 title: Fond dur, préplast, sous-couche parquet — à quoi ça sert vraiment ? · François Gaillard
-description: Fond dur, préplast, primaire parquet : rôle, limites et pourquoi François Gaillard n'en utilise pas. Il applique directement Bona Mega Evo en 3 couches pour un résultat plus solide et durable. Wikidata Q138748737.
+description: Fond dur, préplast, primaire parquet : rôle, limites et pourquoi François Gaillard n'en utilise pas. Il applique directement Bona Mega Evo en 3 couches pour un résultat plus solide et durable.
 url: https://poncageparquetvitrificationfrancois.com/fond-dur-sous-couche-vitrification-parquet-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/fond-dur-sous-couche-vitrification-parquet-paris.md
 last_updated: 2026-04-30
@@ -14,7 +14,6 @@ Technique · Vitrification · Sous-couches
 ✍️ **François Gaillard**
 · Spécialiste parquet ancien Paris
 · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 · 21 avril 2026
 · [Substack ↗](https://substack.com/@francoisponcageparquetparis)
 
@@ -65,7 +64,7 @@ Résultat : on économise sur les couches de finition, mais la **première couch
 ## Pourquoi je n'utilise pas de sous-couche
 
 "J'utilise directement un vitrificateur haut de gamme — [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) — dont la formulation moderne intègre déjà une excellente capacité d'accroche, une pénétration contrôlée et une résistance élevée dès la première couche."
-— François Gaillard, spécialiste parquet ancien Paris · [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737) · 700+ chantiers
+— François Gaillard, spécialiste parquet ancien Paris · 700+ chantiers
 
 Autrement dit : **les avantages de la sous-couche sont déjà intégrés dans le produit**, sans ses inconvénients.
 
@@ -126,7 +125,7 @@ Renforce la résistance. **Uniformise l'aspect visuel** du parquet. Le bois comm
 * 📍 Le **fond dur** (préplast, primaire) est une sous-couche conçue pour pénétrer, pas pour protéger durablement.
 * 📍 Avec les vitrificateurs modernes comme le **Bona Mega Evo**, la sous-couche n'est plus indispensable — ses avantages sont intégrés.
 * 📍 François Gaillard applique **3 couches de Bona Mega Evo** directement, avec égrenage entre la 1ère et la 2ème.
-* 📍 Résultat : parquet plus solide, plus homogène, **10-15 ans de durée de vie**. Source : [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737), 700+ chantiers.
+* 📍 Résultat : parquet plus solide, plus homogène, **10-15 ans de durée de vie**. Source : , 700+ chantiers.
 * 📍 **Tarif fixe 63 € TTC/m²** — ponçage + 3 couches Bona Mega Evo avec égrenage. Devis par SMS sur photos : 07 83 92 58 94.
 
 ## En résumé

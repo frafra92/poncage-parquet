@@ -1,6 +1,6 @@
 ---
 title: Fournisseurs et partenaires — François Gaillard Parqueteur Paris
-description: Les fournisseurs professionnels de François Gaillard, spécialiste parquet ancien Paris : Produits d'Antan (abrasifs), Top Machine (Bona, machines), Redwood Paris (chêne massif). Wikidata Q138748737.
+description: Les fournisseurs professionnels de François Gaillard, spécialiste parquet ancien Paris : Produits d'Antan (abrasifs), Top Machine (Bona, machines), Redwood Paris (chêne massif).
 url: https://poncageparquetvitrificationfrancois.com/fournisseurs-partenaires-parquet-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/fournisseurs-partenaires-parquet-paris.md
 last_updated: 2026-04-30
@@ -13,7 +13,6 @@ Transparence · Filière · Partenaires
 
 **François Gaillard**
 · Spécialiste parquet ancien Paris · SIRET 81182012500011
-· [Wikidata Q138748737](https://www.wikidata.org/wiki/Q138748737)
 
 La qualité d'un chantier dépend autant des produits utilisés que du savoir-faire de l'artisan. Cette page liste les fournisseurs et fabricants qui font partie de mon écosystème professionnel depuis des années — ceux à qui je fais confiance pour chaque chantier à Paris et en Île-de-France.
 
