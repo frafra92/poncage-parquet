@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex,nofollow">
-<title>APERÇU SABLE v2 — Artisan ponceur de parquet à Paris — François Gaillard · 66 €/m²</title>
+<title>APERÇU SABLE v3 — Artisan ponceur de parquet à Paris — François Gaillard · 66 €/m²</title>
 <meta name="description" content="Ponçage parquet Paris — artisan indépendant · 66 € TTC/m² · Machine planétaire HTC · Bona Mega Evo 3 couches · 220+ avis Google 4,9/5 · Devis par SMS.">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 <meta name="trustpilot-one-time-domain-verification-id" content="45a3d33e-6003-40e0-a278-123b585eab23"/>
@@ -418,7 +418,9 @@ h3 a[href*="bona.com"],
 </style>
 
 <style id="apercu-sable">
-html{font-size:18px !important}
+/* Base : legerement agrandie, sans casser les elements compacts (badge, stats) */
+html{font-size:17px !important}
+
 :root{
   --noir:#EDE4CE !important; --dark:#EDE4CE !important;
   --noir2:#E4D8B8 !important; --dark2:#E4D8B8 !important;
@@ -431,9 +433,42 @@ html{font-size:18px !important}
   --bord:rgba(26,18,8,.22) !important; --border:rgba(26,18,8,.22) !important;
 }
 body{background:#EDE4CE !important;color:#1A1208 !important;line-height:1.65 !important}
-/* Boutons pleins : fond dore fonce garde, texte clair dessus (lisible, sert de repere visuel) */
-.btn-or, a[href^="sms:"][style*="background"]{background:#6E5514 !important;color:#F5EFDD !important;border-color:#6E5514 !important}
-/* les etoiles/decor peuvent rester dorees, mais tout TEXTE est en noir via les variables ci-dessus */
+
+/* Fix : 22 regles de texte blanc ecrit en dur (invisibles sur fond clair) */
+header h1,
+section h2,
+.service-card h3,
+.bona-text h3,
+.devis-item p,
+.faq-cta-inner h3,
+.blog-card:hover h3,
+.faq-devis-block h3,
+h1,
+h2,
+.spec-item h3,
+.philo-texte,
+.cta-inner h2,
+.c-white,
+.nav-label,
+.h2-section,
+.footer-col-title,
+.footer-col-title-mt,
+.lbl-footer-col,
+.h2-blanc-lg,
+.h2-cg-blanc,
+.avis-title {
+  color:#1A1208 !important;
+}
+
+/* Fix : badge circulaire et barre de stats - tailles fixes en px, independantes
+   de l'agrandissement general, pour eviter tout debordement/chevauchement */
+.badge-pi .badge-number{font-size:26px !important}
+.badge-pi .badge-label{font-size:10px !important;white-space:nowrap !important}
+.stat-number{font-size:38px !important}
+.stat-label{font-size:12px !important}
+
+/* Boutons pleins : texte clair conserve pour rester lisible sur fond dore fonce */
+.btn-or, .btn-primary, a[href^="sms:"][style*="background"]{background:#6E5514 !important;color:#F5EFDD !important;border-color:#6E5514 !important}
 </style>
 </head>
 <body>
