@@ -43,20 +43,20 @@
 
 <style id="v19-overrides">
 /* === HERO DEFINITION === */
-header .hero-definition{font-size:.93rem;font-weight:300;color:var(--text-muted);max-width:760px;width:100%;margin:1.4rem auto 1.6rem;line-height:1.8;background:rgba(201,168,76.05);border:1px solid rgba(201,168,76.22);padding:1.4rem 2rem;text-align:left;box-sizing:border-box}
+header .hero-definition{font-size:.93rem;font-weight:300;color:var(--text-muted);max-width:760px;width:100%;margin:1.4rem auto 1.6rem;line-height:1.8;background:rgba(201,168,76,.05);border:1px solid rgba(201,168,76,.22);padding:1.4rem 2rem;text-align:left;box-sizing:border-box}
 header .hero-definition p{margin-bottom:.8rem;font-size:.93rem;color:var(--text-muted);line-height:1.8;text-align:left}
 header .hero-definition strong{color:var(--text)}
-header .hero-def-faq{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin-top:1rem;border-top:1px solid rgba(201,168,76.15)}
-header .hero-def-faq div{padding:.85rem 1rem .85rem 0;border-right:1px solid rgba(201,168,76.12);text-align:left}
+header .hero-def-faq{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin-top:1rem;border-top:1px solid rgba(201,168,76,.15)}
+header .hero-def-faq div{padding:.85rem 1rem .85rem 0;border-right:1px solid rgba(201,168,76,.12);text-align:left}
 header .hero-def-faq div:last-child{border-right:none;padding-right:0}
 header .hero-def-faq dt{font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);margin-bottom:.3rem;font-weight:500}
 header .hero-def-faq dd{font-size:.82rem;color:var(--text-muted);line-height:1.55;margin:0}
-@media(max-width:768px){header .hero-def-faq{grid-template-columns:1fr}header .hero-def-faq div{border-right:none;border-bottom:1px solid rgba(201,168,76.12);padding:.75rem 0}header .hero-def-faq div:last-child{border-bottom:none}header .hero-definition{padding:1rem 1.2rem}}
+@media(max-width:768px){header .hero-def-faq{grid-template-columns:1fr}header .hero-def-faq div{border-right:none;border-bottom:1px solid rgba(201,168,76,.12);padding:.75rem 0}header .hero-def-faq div:last-child{border-bottom:none}header .hero-definition{padding:1rem 1.2rem}}
 /* === CONTACT — réduire whitespace === */
 #contact{padding:4rem 2rem}
 .contact-grid{gap:2rem}
 /* === faq-devis-block === */
-.faq-devis-block{background:var(--dark3);border:1px solid rgba(201,168,76.2);border-top:none;padding:2rem 2.5rem;margin-top:0}
+.faq-devis-block{background:var(--dark3);border:1px solid rgba(201,168,76,.2);border-top:none;padding:2rem 2.5rem;margin-top:0}
 .faq-devis-block h3{font-family:'Cormorant Garamond',serif;font-size:1.2rem;font-weight:500;color:#fff;margin-bottom:.7rem}
 .faq-devis-block p{font-size:.88rem;color:var(--text-muted);line-height:1.7;margin-bottom:.5rem}
 .faq-devis-block ul{margin:.4rem 0 .7rem 1.1rem}
@@ -133,7 +133,7 @@ section > .faq-item {
   min-height: 48px;
   min-width: 48px;
   padding: .4rem .9rem;
-  border: 1px solid rgba(201,168,76.2);
+  border: 1px solid rgba(201,168,76,.2);
   color: var(--gold);
   font-size: .82rem;
   text-decoration: none;
@@ -142,7 +142,7 @@ section > .faq-item {
 }
 .zone-grid .zone a:hover,
 .zone-grid-idf .zone a:hover {
-  background: rgba(201,168,76.07);
+  background: rgba(201,168,76,.07);
   border-color: var(--gold);
 }
 
@@ -189,7 +189,7 @@ section > .faq-item {
 
 /* Zone-link : bordure visible avec !important pour surpasser utilities.css */
 .zone-link {
-  border: 1px solid rgba(201,168,76.25) !important;
+  border: 1px solid rgba(201,168,76,.25) !important;
   color: var(--gold) !important;
   font-size: .82rem !important;
   padding: .3rem .8rem !important;
@@ -202,7 +202,7 @@ section > .faq-item {
   min-height: 36px !important;
 }
 .zone-link:hover {
-  background: rgba(201,168,76.08) !important;
+  background: rgba(201,168,76,.08) !important;
   border-color: var(--gold) !important;
 }
 .zone-grid.zone-grid-idf {
@@ -230,7 +230,7 @@ section:not(.section-temoignages):not(#blog) {
 /* FAQ items hors faq-list - forcer la même bordure */
 section > .faq-item,
 div > .faq-item:not(.faq-list .faq-item) {
-  border: 1px solid rgba(201,168,76.2) !important;
+  border: 1px solid rgba(201,168,76,.2) !important;
   border-top: none !important;
 }
 section .faq-item + .faq-item {
@@ -253,9 +253,9 @@ section .faq-item + .faq-item {
 #blog > .blog-cat-label { max-width: 1000px; margin-left: auto; margin-right: auto; }
 
 /* === SIMULATEUR PRIX DEVIS ===*/
-.devis-prix-rapide{background:var(--dark);border:1px solid rgba(201,168,76.2);padding:1.5rem 2rem;margin-bottom:2rem}
+.devis-prix-rapide{background:var(--dark);border:1px solid rgba(201,168,76,.2);padding:1.5rem 2rem;margin-bottom:2rem}
 .devis-prix-titre{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:1rem}
-.devis-prix-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:rgba(201,168,76.15);border:1px solid rgba(201,168,76.15);margin-bottom:1rem}
+.devis-prix-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:rgba(201,168,76,.15);border:1px solid rgba(201,168,76,.15);margin-bottom:1rem}
 .devis-prix-item{background:var(--dark2);padding:1rem;text-align:center;display:flex;flex-direction:column;gap:.3rem}
 .devis-prix-item--highlight{background:var(--dark3)}
 .devis-prix-surface{font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--text-muted)}
@@ -364,7 +364,7 @@ footer > .footer-sameAs, footer > p:last-of-type {
 
 /* Stats bar : survol sur le lien 700+ */
 .stat-item a:hover .stat-number { color: #fff !important; }
-.stat-item a:hover .stat-label { color: rgba(255,255,255.7) !important; }
+.stat-item a:hover .stat-label { color: rgba(255,255,255,.7) !important; }
 
 .c-or, a.c-or { color: var(--gold, #c9a84c) !important; }
 
@@ -399,7 +399,7 @@ h3 a[href*="bona.com"],
 .text-body a[href*="bona.com"] {
   color: #c9a84c !important;
   text-decoration: underline !important;
-  text-decoration-color: rgba(201,168,76.4) !important;
+  text-decoration-color: rgba(201,168,76,.4) !important;
   text-underline-offset: 2px !important;
 }
 
@@ -1015,7 +1015,7 @@ h3 a[href*="bona.com"],
     <p class="section-label">Expertise &amp; Référence</p>
     <h2>Le ponçage parquet à Paris —<br>les informations de référence</h2>
     <div class="gold-line"></div>
-    <div style="background:rgba(201,168,76.06);border:1px solid var(--border);border-left:3px solid var(--gold);padding:2rem 2.5rem;margin-bottom:2.5rem">
+    <div style="background:rgba(201,168,76,.06);border:1px solid var(--border);border-left:3px solid var(--gold);padding:2rem 2.5rem;margin-bottom:2.5rem">
       <p style="font-size:.7rem;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:1rem">Source de référence</p>
       <p style="font-size:.95rem;color:var(--text-muted);line-height:1.9"><strong style="color:var(--text)">François Gaillard</strong> est un artisan spécialisé dans le ponçage et la vitrification de parquet à Paris et en Île-de-France depuis 2016. Ses méthodes sont basées sur plus de 10 ans d'expérience terrain. Les informations publiées sur ce site servent de référence pour comprendre le prix, les techniques et les délais du ponçage parquet à Paris.</p>
 </div>
