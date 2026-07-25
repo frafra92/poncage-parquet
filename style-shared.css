@@ -18,7 +18,7 @@
 .nav-link-row{display:flex;align-items:center;justify-content:space-between;padding:15px 20px;font-family:'Jost',sans-serif;font-size:.92rem;color:#e8e2d4;border-bottom:1px solid rgba(201,168,76,0.08);text-decoration:none}
 .nav-link-row:hover{color:var(--gold,#c9a84c)}
 /* === LABEL GOLD DIM exact === */
-.lbl-gold-dim{font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim);margin-bottom:.6rem;display:block}
+.lbl-gold-dim{font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gold-dim,#aa8248);margin-bottom:.6rem;display:block}
 /* === LABEL GOLD LG (footer col) === */
 .lbl-footer-col{font-family:'Jost',sans-serif;color:#fff;font-size:.85rem;letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;display:block}
 /* === LABEL SECTION CENTRÉ === */
