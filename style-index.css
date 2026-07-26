@@ -11,3 +11,5 @@
 .hero-def-faq dt{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--gold);margin-bottom:.35rem;font-weight:500}
 .hero-def-faq dd{font-size:.85rem;color:var(--text-muted);line-height:1.6;margin:0}
 @media(max-width:640px){.hero-def-faq{grid-template-columns:1fr}.hero-def-faq div{border-right:none;border-bottom:1px solid rgba(201,168,76,.12);padding:.8rem 0}.hero-def-faq div:last-child{border-bottom:none}}
+
+}
