@@ -469,6 +469,19 @@ h2,
 
 /* Boutons pleins : texte clair conserve pour rester lisible sur fond dore fonce */
 .btn-or, .btn-primary, a[href^="sms:"][style*="background"]{background:#6E5514 !important;color:#F5EFDD !important;border-color:#6E5514 !important}
+
+/* Fix : la legende passe SOUS la photo au lieu de la recouvrir (bande sombre) */
+.hero-photo{overflow:visible !important}
+.hero-photo-caption{
+  position:static !important;
+  inset:auto !important;
+  background:transparent !important;
+  padding:.7rem .5rem 0 !important;
+  color:#5C5340 !important;
+  font-size:13px !important;
+  letter-spacing:.06em !important;
+  text-align:center !important;
+}
 </style>
 </head>
 <body>
