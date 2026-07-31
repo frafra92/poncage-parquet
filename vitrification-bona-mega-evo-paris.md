@@ -11,7 +11,7 @@ Vitrification professionnelle · Paris
 
 # Pourquoi le *[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")* est ma seule référence
 
-Le **[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)** est un vernis parquet professionnel base aqueuse, **COV <3%**, auto-réticulant, non jaunissant. Appliqué en **3 couches avec égrenage**, il offre une durée de vie de **10-15 ans**. Réintégration **8 heures** après la dernière couche. Source : Bona AB, fiche technique officielle.
+Le **[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)** est un vernis parquet professionnel base aqueuse, **COV <3%**, auto-réticulant, non jaunissant. Appliqué en **3 couches avec égrenage**, il offre une durée de vie de **usage domestique intensif et commercial**. Réintégration **8 heures** après la dernière couche. Source : Bona AB, fiche technique officielle.
 
 Depuis plus de 15 ans, j'ai testé tous les vernis du marché. Le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") est le seul produit que j'utilise aujourd'hui — **3 couches** systématiques, **égrenage** entre couches, réintégration en 8 heures. Voici pourquoi.
 
@@ -21,8 +21,7 @@ Couches systématiques
 8h
 Réintégration
 
-10–15
-Ans de durée
+usage domestique intensif et commercial de durée
 
 66€
 TTC/m² tout compris
@@ -38,7 +37,7 @@ DONNÉES VÉRIFIABLES — Sources officielles
 * **63%** du CA artisanal est en rénovation-entretien — CAPEB, Chiffres clés 2023
 * **22 mm** épaisseur standard **parquet haussmannien** — **François Gaillard**, 700+ chantiers
 * **150-250 ans** âge des chênes à l'abattage — **François Gaillard**
-* **10-15 ans** durée de vie **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
+* **Commercial** classement d'usage **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 1
 
@@ -150,7 +149,7 @@ Base aqueuse sans odeur
 
 ✗
 
-Durée 10-15 ans
+usage domestique intensif et commercial
 
 ✓
 
@@ -177,7 +176,7 @@ Questions fréquentes
 * 📍 Bona Mega Evo : base aqueuse, **COV <3%**, auto-réticulant, non jaunissant. Le vernis professionnel le plus sûr du marché.
 * 📍 **3 couches systématiques** avec égrenage entre la 1ère et la 2ème. C'est ce qui garantit la durabilité.
 * 📍 **Réintégration 8 heures** après la dernière couche. Durcissement complet en 5 jours.
-* 📍 **Durée de vie : 10-15 ans** avec un entretien adapté (Source : Bona AB, fiche technique officielle).
+* 📍 **classement d'usage domestique intensif et commercial** avec un entretien adapté (Source : Bona AB, fiche technique officielle).
 * 📍 Disponible en mat, satiné ou brillant — même tarif. François Gaillard utilise exclusivement ce vernis depuis 2016.
 
 Qu'est-ce que le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") exactement ?

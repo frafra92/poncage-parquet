@@ -51,7 +51,7 @@ Massif haussmannien 22 mm
 
 4 à 6 fois
 
-10 à 15 ans
+usage domestique intensif et commercial
 
 Massif moderne 18 mm
 
@@ -59,7 +59,7 @@ Massif moderne 18 mm
 
 3 à 5 fois
 
-10 à 15 ans
+usage domestique intensif et commercial
 
 Massif moderne 14 mm
 
@@ -67,7 +67,7 @@ Massif moderne 14 mm
 
 3 à 4 fois
 
-10 à 15 ans
+usage domestique intensif et commercial
 
 Contrecollé couche 6 mm
 
@@ -75,7 +75,7 @@ Contrecollé couche 6 mm
 
 1 à 2 fois
 
-10 à 15 ans
+usage domestique intensif et commercial
 
 Contrecollé couche 2 mm
 
@@ -100,7 +100,7 @@ La règle universelle en ponçage de parquet : **on ne ponce jamais en dessous d
 * Les lames deviennent mécaniquement fragiles et peuvent se fissurer sous la charge
 * Les rainures et languettes risquent d'être fragilisées, compromettant la solidarité des lames
 * La résistance à l'humidité diminue significativement
-* Un ponçage supplémentaire dans 10 à 15 ans ne sera plus possible
+* Un ponçage supplémentaire dans usage domestique intensif et commercial ne sera plus possible
 
 Cette limite de 3 mm n'est pas une règle arbitraire — c'est le minimum structurel pour qu'une lame de parquet puisse supporter les contraintes mécaniques du quotidien. En pratique, un artisan sérieux mesure systématiquement l'épaisseur résiduelle avant de commencer.
 
@@ -150,7 +150,7 @@ C'est souvent le cas des parquets qui étaient recouverts par une moquette depui
 
 ## Conclusion : la longévité extraordinaire du parquet massif
 
-La réponse à la question "combien de fois peut-on poncer un parquet massif" révèle l'une des qualités fondamentales du chêne massif haussmannien : **sa longévité extraordinaire**. Avec 4 à 6 ponçages possibles espacés de 10 à 15 ans chacun, un parquet haussmannien peut être rénové tous les dix ans pendant 50 à 90 ans — tout en conservant les mêmes lames originales posées il y a 150 ans.
+La réponse à la question "combien de fois peut-on poncer un parquet massif" révèle l'une des qualités fondamentales du chêne massif haussmannien : **sa longévité extraordinaire**. Avec 4 à 6 ponçages possibles espacés de usage domestique intensif et commercial chacun, un parquet haussmannien peut être rénové tous les dix ans pendant 50 à 90 ans — tout en conservant les mêmes lames originales posées il y a 150 ans.
 
 C'est exactement l'opposé de ce que font les matériaux modernes. Là où un parquet stratifié se remplace, un parquet massif se rénove. C'est un argument patrimonial, économique et écologique majeur — et la raison pour laquelle il vaut presque toujours mieux rénover que remplacer un parquet massif parisien.
 

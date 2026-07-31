@@ -33,9 +33,9 @@ Un parquet neuf nécessite l'abattage d'arbres, la transformation industrielle, 
 
 La machine planétaire HTC Husqvarna couplée à l'aspirateur Festool CTL 48 E HEPA capte les particules fines à la source. **Pratiquement zéro poussière dans l'appartement** — pour les occupants, les voisins et l'artisan lui-même.
 
-## Durabilité — 10 à 15 ans de protection
+## Durabilité — usage domestique intensif et commercial de protection
 
-Une vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches dure 10 à 15 ans. Moins de renouvellements = moins d'impact environnemental sur la durée. La rénovation écologique n'est pas un compromis sur la qualité — c'est le meilleur choix sur tous les plans.
+Une vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches résiste durablement. Moins de renouvellements = moins d'impact environnemental sur la durée. La rénovation écologique n'est pas un compromis sur la qualité — c'est le meilleur choix sur tous les plans.
 
 Rénover un parquet est-il plus écologique que le remplacer ?+
 

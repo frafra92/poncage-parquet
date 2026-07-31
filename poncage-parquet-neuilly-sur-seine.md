@@ -41,7 +41,7 @@ HTC Husqvarna — pratiquement zéro poussière, résultat parfaitement lisse. L
 
 ### [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
-Vernis professionnel non jaunissant, durée 10 à 15 ans. 3 couches systématiques avec égrenage. Réintégration 8 heures après la dernière couche.
+Vernis professionnel non jaunissant, classé pour un usage domestique intensif et commercial. 3 couches systématiques avec égrenage. Réintégration 8 heures après la dernière couche.
 
 📱
 

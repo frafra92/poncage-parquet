@@ -55,7 +55,7 @@ Consultez les avis Google de l'artisan — pas le nombre total, mais la **régul
 
 Le vernis est aussi important que le ponçage. **Exigez le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ou équivalent professionnel** — base aqueuse, non jaunissant, 3 couches minimum avec égrenage. Méfiez-vous des artisans qui ne précisent pas le produit utilisé.
 
-💡 Un vernis de qualité professionnelle dure 10 à 15 ans. Un vernis bas de gamme 3 à 5 ans.
+💡 Un vernis de qualité professionnelle résiste durablement. Un vernis bas de gamme 3 à 5 ans.
 
 5
 

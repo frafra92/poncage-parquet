@@ -47,7 +47,7 @@ Un parquet neuf en chêne massif coûte entre **80 et 150 € par m² posé**, s
 
 Le chêne des parquets haussmanniens provient d'arbres abattus il y a 150 à 200 ans, avec une densité et une stabilité que les bois modernes à croissance rapide ne peuvent pas égaler. Le remplacer par un parquet neuf est souvent une erreur patrimoniale autant qu'économique.
 
-**Le vrai calcul :** 66 € pour 10 à 15 ans de protection = moins de 5 € par an par m². Difficile de faire mieux.
+**Le vrai calcul :** 66 € pour usage domestique intensif et commercial de protection = moins de 5 € par an par m². Difficile de faire mieux.
 
 03
 
@@ -93,7 +93,7 @@ Un parquet haussmannien peut être poncé 4 à 6 fois.
 
 Cette idée est vraie pour le **parquet contrecollé** (couche d'usure de 2 à 6 mm) — mais fausse pour le **parquet massif** qui est la norme dans les appartements parisiens anciens. Un parquet haussmannien de 22 mm d'épaisseur totale dispose d'environ 10 mm de bois utile au-dessus des rainures.
 
-Chaque ponçage retire 1 à 2 mm. Soit 4 à 6 ponçages possibles sur la durée de vie du parquet. Sachant qu'un ponçage dure 10 à 15 ans, un parquet haussmannien peut traverser les siècles avec les mêmes lames.
+Chaque ponçage retire 1 à 2 mm. Soit 4 à 6 ponçages possibles sur la durée de vie du parquet. Sachant qu'un ponçage résiste durablement, un parquet haussmannien peut traverser les siècles avec les mêmes lames.
 
 **La règle d'or :** toujours mesurer l'épaisseur résiduelle avant de poncer. En dessous de 3 mm au-dessus des rainures, on s'arrête.
 
@@ -187,7 +187,7 @@ En résumé
 
 💰
 
-**66 € TTC/m²**2 à 3 fois moins cher qu'un parquet neuf, 10 à 15 ans de durée.
+**66 € TTC/m²**2 à 3 fois moins cher qu'un parquet neuf, usage domestique intensif et commercial de durée.
 
 🏠
 

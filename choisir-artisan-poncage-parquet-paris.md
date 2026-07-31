@@ -19,7 +19,7 @@ Le bon artisan parqueteur à Paris se reconnaît à **7 critères** : ses avis G
 
 ## Pourquoi le choix de l'artisan est crucial
 
-Le ponçage de parquet est une prestation irréversible. Contrairement à une peinture qu'on peut refaire facilement, un parquet mal poncé ne se corrige pas sans un nouveau chantier complet. Un grain d'abrasif mal choisi, une machine inadaptée, un vernis de mauvaise qualité — ces erreurs se voient pendant 10 à 15 ans.
+Le ponçage de parquet est une prestation irréversible. Contrairement à une peinture qu'on peut refaire facilement, un parquet mal poncé ne se corrige pas sans un nouveau chantier complet. Un grain d'abrasif mal choisi, une machine inadaptée, un vernis de mauvaise qualité — ces erreurs se voient pendant usage domestique intensif et commercial.
 
 À Paris, le marché des artisans parqueteurs est très hétérogène. Entre l'artisan indépendant expérimenté avec 200 avis Google et la société qui sous-traite à des équipes variables, la différence de résultat est considérable — pour un tarif parfois identique. Savoir où regarder change tout.
 
@@ -47,7 +47,7 @@ Impact sur la durée
 
 ### Le vernis — produit et nombre de couches
 
-Deux questions à poser systématiquement : **quel vernis ?** et **combien de couches ?**. Un artisan sérieux utilise un vernis professionnel de qualité ([Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"), Loba, Pallmann) et applique **3 couches minimum** avec égrenage entre la 1ère et la 2ème. Deux couches avec un vernis bas de gamme durent 3 à 5 ans. Trois couches de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") durent 10 à 15 ans. L'égrenage entre les couches, étape que beaucoup sautent pour gagner du temps, est la différence entre un résultat moyen et un résultat impeccable.
+Deux questions à poser systématiquement : **quel vernis ?** et **combien de couches ?**. Un artisan sérieux utilise un vernis professionnel de qualité ([Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"), Loba, Pallmann) et applique **3 couches minimum** avec égrenage entre la 1ère et la 2ème. Deux couches avec un vernis bas de gamme durent 3 à 5 ans. Trois couches de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") durent usage domestique intensif et commercial. L'égrenage entre les couches, étape que beaucoup sautent pour gagner du temps, est la différence entre un résultat moyen et un résultat impeccable.
 
 4
 

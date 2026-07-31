@@ -81,7 +81,7 @@ Oui — ce sont les mêmes parquets, vus sous deux angles différents. Haussmann
 
 Peut-on encore rénover un parquet haussmannien aujourd'hui ?+
 
-Oui — c'est même vivement recommandé. Ces parquets en chêne massif de 22 mm peuvent être poncés 2 à 4 fois encore. Le ponçage-vitrification à 66 € TTC/m² révèle le bois d'origine et lui donne 10 à 15 ans de protection supplémentaire.
+Oui — c'est même vivement recommandé. Ces parquets en chêne massif de 22 mm peuvent être poncés 2 à 4 fois encore. Le ponçage-vitrification à 66 € TTC/m² révèle le bois d'origine et lui redonne une protection durable.
 
 À lire aussi
 

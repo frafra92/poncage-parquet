@@ -31,7 +31,7 @@ Massif haussmannien
 
 4 à 6 fois
 
-10 à 15 ans
+usage domestique intensif et commercial
 
 Massif moderne
 
@@ -39,7 +39,7 @@ Massif moderne
 
 3 à 4 fois
 
-10 à 15 ans
+usage domestique intensif et commercial
 
 Contrecollé 6 mm
 
@@ -47,7 +47,7 @@ Contrecollé 6 mm
 
 1 à 2 fois
 
-10 à 15 ans
+usage domestique intensif et commercial
 
 Contrecollé 2 mm
 
@@ -89,7 +89,7 @@ Entre 1 et 2 mm par ponçage selon l'état du parquet. Un parquet très abîmé 
 
 Combien de temps dure un ponçage-vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?+
 
-10 à 15 ans avec un entretien courant. Dans une pièce à fort trafic comme l'entrée, plutôt 10 ans. Dans une chambre peu utilisée, le vernis peut durer 20 ans.
+usage domestique intensif et commercial avec un entretien courant. Dans une pièce à fort trafic comme l'entrée, plutôt 10 ans. Dans une chambre peu utilisée, le vernis peut durer 20 ans.
 
 Mon parquet est-il massif ou contrecollé ?+
 

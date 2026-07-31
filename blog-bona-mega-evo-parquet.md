@@ -35,7 +35,7 @@ Exempt de substances perfluoroalkylées, controversées pour la santé.
 
 * **Séchage rapide** : 3 couches en une journée, marche légère après 8h
 * **Pas de jaunissement** : garde la couleur naturelle du bois dans le temps
-* **Résistance élevée** : tient 10 à 15 ans en conditions normales d'usage
+* **Résistance élevée** : tient usage domestique intensif et commercial en conditions normales d'usage
 * **Finition parfaite** : mat, satiné ou brillant — résultat professionnel à chaque application
 * **Odeur réduite** : les occupants peuvent revenir le soir même dans l'appartement
 

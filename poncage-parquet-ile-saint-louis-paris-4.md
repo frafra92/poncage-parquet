@@ -37,7 +37,7 @@ L'aspiration centrale de la machine, couplée au Festool CTL 48 E à filtre HEPA
 
 ## Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — le meilleur pour votre parquet
 
-3 couches systématiques avec égrenage entre la 1ère et la 2ème. Vernis à base aqueuse, non jaunissant, durée de vie 10 à 15 ans. Adapté aux foyers avec chiens, chats, bébés et personnes sensibles. **Réintégration 8 heures après la dernière couche.**
+3 couches systématiques avec égrenage entre la 1ère et la 2ème. Vernis à base aqueuse, non jaunissant, classé pour un usage domestique intensif et commercial. Adapté aux foyers avec chiens, chats, bébés et personnes sensibles. **Réintégration 8 heures après la dernière couche.**
 
 ## Questions fréquentes — Île Saint-Louis Paris 4e
 

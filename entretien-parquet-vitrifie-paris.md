@@ -11,7 +11,7 @@ Conseils entretien · [Bona Mega Evo](https://www.bona.com/fr/produits/professio
 
 # Entretien parquet *vitrifié* à Paris
 
-Un parquet vitrifié au [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches dure 10 à 15 ans avec un entretien simple. Voici exactement quoi faire — et quoi éviter — pour préserver l'éclat de votre parquet.
+Un parquet vitrifié au [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches résiste durablement avec un entretien simple. Voici exactement quoi faire — et quoi éviter — pour préserver l'éclat de votre parquet.
 
 À faire / À éviter
 
@@ -51,7 +51,7 @@ Mensuel
 
 Nettoyage plus approfondi des zones à fort trafic (entrée, couloir). Vérification des feutres sous les meubles.
 
-10–15 ans
+usage domestique intensif et commercial
 
 Ponçage et nouvelle vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Le parquet retrouve son éclat d'origine. Tarif fixe 66 € TTC/m².
 
@@ -73,7 +73,7 @@ Un parquet terne ne peut pas être ravivé localement. Il faut reponcer l'ensemb
 
 Combien de temps dure le vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?+
 
-10 à 15 ans avec un entretien adapté. Dans une entrée à fort trafic, plutôt 10 ans. Dans une chambre peu utilisée, jusqu'à 20 ans. L'entretien régulier avec les bons produits est la clé de la longévité.
+Sa tenue dépend du passage et de l'entretien. Dans une entrée à fort trafic, plutôt 10 ans. Dans une chambre peu utilisée, jusqu'à 20 ans. L'entretien régulier avec les bons produits est la clé de la longévité.
 
 À lire aussi
 

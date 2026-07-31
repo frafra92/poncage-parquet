@@ -42,7 +42,7 @@ Un parquet huilé nécessite une remise en huile annuelle dans les zones de pass
 
 ## Quand faire rénover à nouveau ?
 
-Avec un bon entretien, un parquet vitrifié au Bona Mega Evo tient **10 à 15 ans** avant de nécessiter un nouveau ponçage et vitrification. Les signes qu'il est temps :
+Avec un bon entretien, un parquet vitrifié au Bona Mega Evo tient **usage domestique intensif et commercial** avant de nécessiter un nouveau ponçage et vitrification. Les signes qu'il est temps :
 
 * Le parquet est terne même après nettoyage
 * Des rayures profondes traversent la vitrification

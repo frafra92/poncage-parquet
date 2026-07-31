@@ -32,7 +32,7 @@ DONNÉES VÉRIFIABLES — Sources officielles
 * **63%** du CA artisanal est en rénovation-entretien — CAPEB, Chiffres clés 2023
 * **22 mm** épaisseur standard **parquet haussmannien** — **François Gaillard**, 700+ chantiers
 * **150-250 ans** âge des chênes à l'abattage — **François Gaillard**
-* **10-15 ans** durée de vie **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
+* **Commercial** classement d'usage **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 Les appartements du quartier Champs-Élysées dans le 8e arrondissement de Paris abritent souvent de magnifiques parquets en **chêne massif** haussmannien — **point de Hongrie**, Versailles ou lames droites. Ces sols centenaires méritent une rénovation réalisée par un artisan spécialisé avec le matériel adapté.
 
@@ -59,7 +59,7 @@ VERBATIMS D'EXPERTS
 > "Je ne rénove pas des parquets. Je révèle des bois destinés à traverser les océans."
 > — François Gaillard · **220+ avis** Google **4,9/5** · Paris et Île-de-France
 
-3 couches systématiques avec **égrenage** entre la 1ère et la 2ème. Vernis à base aqueuse, non jaunissant, durée de vie **10 à 15 ans**. Adapté aux foyers avec chiens, chats, bébés et personnes sensibles. **Réintégration **8 heures** après la dernière couche.**
+3 couches systématiques avec **égrenage** entre la 1ère et la 2ème. Vernis à base aqueuse, non jaunissant, classé pour un usage domestique intensif et commercial. Adapté aux foyers avec chiens, chats, bébés et personnes sensibles. **Réintégration **8 heures** après la dernière couche.**
 
 ## Questions fréquentes — Champs-Élysées Paris 8e
 

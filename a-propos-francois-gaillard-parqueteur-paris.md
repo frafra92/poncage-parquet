@@ -55,7 +55,7 @@ Je suis **exclusivement spécialisé dans le ponçage et la vitrification**. Je 
 
 **Abrasifs diamant grain 70** — technologie empruntée à l'industrie de la pierre. Longévité 3 à 5 fois supérieure aux abrasifs classiques.
 
-**[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)** exclusivement — vernis professionnel base aqueuse, COV <3%, auto-réticulant, non jaunissant, durée de vie 10-15 ans. Appliqué en 3 couches avec égrenage.
+**[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)** exclusivement — vernis professionnel base aqueuse, COV <3%, auto-réticulant, non jaunissant, classé pour un usage domestique intensif et commercial. Appliqué en 3 couches avec égrenage.
 
 ## Autorité — reconnaissance et références
 

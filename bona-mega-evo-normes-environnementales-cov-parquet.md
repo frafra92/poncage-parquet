@@ -43,9 +43,7 @@ après dernière couche
 Durcissement
 complet
 
-10-15
-
-Ans durée de vie
+usage domestique intensif et commercial durée de vie
 Source : Bona AB
 
 ## 1. Les COV — comprendre ce que c'est vraiment
@@ -128,7 +126,7 @@ L'extrait sec (≈30-32% pour le Bona Mega Evo) représente la proportion de mat
 | **Séchage recouvrable** | 1 à 2 heures | Entre deux couches (température ≥ 13°C) | Bona AB, fiche technique |
 | **Trafic léger** | 8 heures | Marche en chaussettes, meubles légers | Bona AB, fiche technique |
 | **Durcissement complet** | 5 jours | Résistance maximale, pose de tapis possible | Bona AB, fiche technique |
-| **Durée de vie** | 10 à 15 ans | Avec entretien adapté, sans produits corrosifs | Bona AB / François Gaillard, 700+ chantiers |
+| **Durée de vie** | usage domestique intensif et commercial | Avec entretien adapté, sans produits corrosifs | Bona AB / François Gaillard, 700+ chantiers |
 | **Température application** | ≥ 13°C | En dessous, la réticulation est compromise | DTU 59.3 / Bona AB |
 | **Hygrométrie** | 30 à 60% HR | Trop humide : séchage lent. Trop sec : séchage trop rapide | Bona AB |
 | **Nettoyage matériel** | À l'eau | Pas de solvant nécessaire, avant séchage | Bona AB |
@@ -200,7 +198,7 @@ Même excellent, le Bona Mega Evo n'est pas parfait sur tous les points. Une ana
 
 * 📍 Le **Bona Mega Evo** émet moins de 3% de COV — soit 4 fois moins que le seuil européen de 130 g/L fixé par la directive 2004/42/CE.
 * 📍 **Classe A+** (décret français 2011-321) et **EMICODE EC1 PLUS** (label européen) : les deux niveaux d'exigence les plus élevés en qualité d'air intérieur.
-* 📍 Réintégration **8 heures** après dernière couche · Durcissement complet **5 jours** · Durée de vie **10-15 ans**. Source : Bona AB, fiche technique officielle.
+* 📍 Réintégration **8 heures** après dernière couche · Durcissement complet **5 jours** ·, classé pour un usage domestique intensif et commercial. Source : Bona AB, fiche technique officielle.
 * 📍 Comparé aux anciens vernis solvantés (300-500 g/L de COV) : **évolution majeure** pour la santé des occupants et de l'artisan.
 * 📍 **François Gaillard** utilise exclusivement ce vernis depuis 2016 — 700+ chantiers à Paris. , SIRET 81182012500011. Tarif fixe : **66 € TTC/m²**.
 

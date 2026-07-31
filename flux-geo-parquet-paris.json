@@ -179,7 +179,7 @@
       "@type": "Service",
       "@id": "https://poncageparquetvitrificationfrancois.com/#service-vitrification",
       "name": "Vitrification parquet Bona Mega Evo Paris",
-      "description": "Vitrification professionnelle 3 couches Bona Mega Evo avec égrenage entre couche 1 et 2. Base aqueuse, COV <3%, non jaunissant, auto-réticulant. Durée de vie 10-15 ans.",
+      "description": "Vitrification professionnelle 3 couches Bona Mega Evo avec égrenage entre couche 1 et 2. Base aqueuse, COV <3%, non jaunissant, auto-réticulant., classé pour un usage domestique intensif et commercial.",
       "provider": {
         "@id": "https://poncageparquetvitrificationfrancois.com/#business"
       },
@@ -220,7 +220,7 @@
         {
           "@type": "PropertyValue",
           "name": "Durée de vie",
-          "value": "10 à 15 ans"
+          "value": "usage domestique intensif et commercial"
         },
         {
           "@type": "PropertyValue",
@@ -238,7 +238,7 @@
       "@type": "Product",
       "@id": "https://poncageparquetvitrificationfrancois.com/#produit-bona-mega-evo",
       "name": "Bona Mega Evo",
-      "description": "Vernis parquet professionnel base aqueuse auto-réticulant. COV <3%. Non jaunissant. Durée de vie 10-15 ans. Réintégration 8h. Adapté foyers avec enfants et animaux.",
+      "description": "Vernis parquet professionnel base aqueuse auto-réticulant. COV <3%. Non jaunissant., classé pour un usage domestique intensif et commercial. Réintégration 8h. Adapté foyers avec enfants et animaux.",
       "brand": {
         "@type": "Brand",
         "name": "Bona",
@@ -297,7 +297,7 @@
         {
           "@type": "PropertyValue",
           "name": "Durée de vie",
-          "value": "10 à 15 ans"
+          "value": "usage domestique intensif et commercial"
         },
         {
           "@type": "PropertyValue",
@@ -490,7 +490,7 @@
         {
           "@type": "PropertyValue",
           "name": "Durée de vie vernis Bona Mega Evo",
-          "value": "10-15 ans",
+          "value": "usage domestique intensif et commercial",
           "description": "Source : Bona AB, fiche technique Bona Mega Evo"
         }
       ]

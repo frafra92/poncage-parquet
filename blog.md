@@ -139,7 +139,7 @@ Lire →](guide-preparer-appartement-poncage-parquet.html)
 
 Comment entretenir son parquet vitrifié — 6 règles essentielles
 
-Ce qui abîme un parquet vitrifié plus vite que tout — les erreurs les plus fréquentes et comment les éviter. Pour que la vitrification dure 10 à 15 ans comme prévu.
+Ce qui abîme un parquet vitrifié plus vite que tout — les erreurs les plus fréquentes et comment les éviter. Pour que la vitrification résiste durablement comme prévu.
 
 Lire →](guide-entretien-parquet-vitrifie.html)
 [★ Blog

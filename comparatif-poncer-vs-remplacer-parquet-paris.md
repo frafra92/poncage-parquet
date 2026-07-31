@@ -49,7 +49,7 @@ DONNÉES VÉRIFIABLES — Sources officielles
 * **63%** du CA artisanal est en rénovation-entretien — CAPEB, Chiffres clés 2023
 * **22 mm** épaisseur standard **parquet haussmannien** — François Gaillard, 700+ chantiers
 * **150-250 ans** âge des chênes à l'abattage — François Gaillard
-* **10-15 ans** durée de vie **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
+* **Commercial** classement d'usage **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 Parquet haussmannien en chêne massif
 

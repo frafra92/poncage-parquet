@@ -19,7 +19,7 @@ Produit utilisé · Source officielle
 
 [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Durée de vie 10-15 ans
+Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Usage domestique intensif et commercial
 
 [→ Fiche produit officielle sur bona.com](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
@@ -79,7 +79,7 @@ Interdits sur un parquet vitrifié : **savon noir, vinaigre blanc, nettoyants mu
 
 ## Planifier la rénovation périodique
 
-Un parquet vitrifié [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") dure **10 à 15 ans avec un entretien adapté**. Signes qu'il faut rénover : zones ternes qui ne brillent plus, rayures profondes visibles, vernis qui se décolle. Un ponçage complet redonne une nouvelle vie — et peut être fait encore plusieurs fois.
+Un parquet vitrifié [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") dure **Sa tenue dépend du passage et de l'entretien**. Signes qu'il faut rénover : zones ternes qui ne brillent plus, rayures profondes visibles, vernis qui se décolle. Un ponçage complet redonne une nouvelle vie — et peut être fait encore plusieurs fois.
 
 💡 Ne pas attendre que le parquet soit très abîmé — plus tôt on rénove, moins on ponce et plus on préserve l'épaisseur du bois.
 
@@ -93,7 +93,7 @@ Non — la vapeur pénètre dans les jointures, gonfle le bois et fait blanchir 
 
 Combien de temps dure un parquet vitrifié [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?+
 
-10 à 15 ans avec un entretien adapté — aspirateur régulier et serpillière légèrement humide. Les zones d'entrée et de fort passage s'usent plus vite — un rénovat partiel peut prolonger la durée avant le prochain ponçage complet.
+Sa tenue dépend du passage et de l'entretien — aspirateur régulier et serpillière légèrement humide. Les zones d'entrée et de fort passage s'usent plus vite — un rénovat partiel peut prolonger la durée avant le prochain ponçage complet.
 
 ### Devis par SMS sur photos
 

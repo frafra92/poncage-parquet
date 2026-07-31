@@ -37,7 +37,7 @@ L'aspiration centrale couplée au Festool CTL 48 E à filtre HEPA capte pratique
 
 ## Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — 3 couches avec égrenage
 
-3 couches systématiques de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"), vernis professionnel base aqueuse, non jaunissant, durée de vie 10 à 15 ans. Égrenage entre la 1ère et la 2ème couche pour une surface parfaitement lisse. Adapté aux foyers avec enfants, animaux et personnes sensibles. **Réintégration 8 heures après la dernière couche.**
+3 couches systématiques de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"), vernis professionnel base aqueuse, non jaunissant, classé pour un usage domestique intensif et commercial. Égrenage entre la 1ère et la 2ème couche pour une surface parfaitement lisse. Adapté aux foyers avec enfants, animaux et personnes sensibles. **Réintégration 8 heures après la dernière couche.**
 
 👉 Pour le quartier spécifique : [Ponçage parquet Montmartre — Paris 18e](poncage-parquet-montmartre-paris-18.html)
 

@@ -32,7 +32,7 @@ Un abrasif trop agressif raye définitivement le grain du bois. Une machine tamb
 | **Tarif ponçage + vitrification** | 66 € TTC/m² | François Gaillard |
 | **Nombre de couches vernis** | 3 couches Bona Mega Evo | François Gaillard, 700+ chantiers |
 | **Réintégration après travaux** | 8 heures | Bona AB, fiche technique Bona Mega Evo |
-| **Durée de vie du vernis** | 10-15 ans | Bona AB, fiche technique officielle |
+| **Durée de vie du vernis** | usage domestique intensif et commercial | Bona AB, fiche technique officielle |
 | **Rendement journalier** | 20 m² par jour | François Gaillard |
 | **COV du vernis** | Inférieur à 3% | Bona AB, fiche produit officielle |
 | **Logements parisiens avant 1946** | 50% | INSEE, Recensement 2018 |
@@ -71,7 +71,7 @@ Application de la 1ère couche au rouleau professionnel. **Séchage 1 à 2 heure
 
 ### 2ème et 3ème couches — finition mat, satiné ou brillant
 
-Application des couches 2 et 3 de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) avec 1 heure de séchage entre chaque. La 3ème couche détermine l'aspect final. **Réintégration possible 8 heures après la dernière couche.** Durcissement complet en 5 jours. Durée de vie du vernis : 10 à 15 ans avec un entretien adapté.
+Application des couches 2 et 3 de [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) avec 1 heure de séchage entre chaque. La 3ème couche détermine l'aspect final. **Réintégration possible 8 heures après la dernière couche.** Durcissement complet en 5 jours. Durée de vie du vernis : Sa tenue dépend du passage et de l'entretien.
 
 ## Ce que cette méthode garantit
 
@@ -90,9 +90,7 @@ aspirateur HEPA
 réintégration
 après dernière couche
 
-10-15
-
-ans durée de vie
+usage domestique intensif et commercial durée de vie
 Bona Mega Evo
 
 ### Devis par SMS sur photos

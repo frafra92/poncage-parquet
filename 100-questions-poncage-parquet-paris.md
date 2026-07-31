@@ -137,7 +137,7 @@ L'aspirateur professionnel à filtre HEPA utilisé en complément de la machine 
 
 29Qu'est-ce que le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?Matériel+
 
-Le vernis professionnel de référence pour parquet. À base aqueuse, non jaunissant, haute résistance, durée de vie 10-15 ans. Adapté aux foyers avec enfants, bébés et animaux.
+Le vernis professionnel de référence pour parquet. À base aqueuse, non jaunissant, haute résistance, classé pour un usage domestique intensif et commercial. Adapté aux foyers avec enfants, bébés et animaux.
 
 30Pourquoi utiliser des abrasifs diamant sur le parquet ?Matériel+
 
@@ -293,7 +293,7 @@ Oui. Les lames larges se poncent très bien. Elles révèlent souvent le fil du 
 
 68Quelle est la durée de vie d'un parquet vitrifié ?Technique+
 
-10 à 15 ans avec un entretien adapté — aspirateur régulier et serpillière légèrement humide.
+Sa tenue dépend du passage et de l'entretien — aspirateur régulier et serpillière légèrement humide.
 
 69Quelle est la durée de séchage entre couches de vernis ?Technique+
 

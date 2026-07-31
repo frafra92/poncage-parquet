@@ -35,7 +35,7 @@ Le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/v
 
 ## Écologique et durable
 
-Base aqueuse = empreinte environnementale significativement réduite par rapport aux vernis à solvants. **Durée de vie 10 à 15 ans** — moins de renouvellements, moins d'impact global sur la durée.
+Base aqueuse = empreinte environnementale significativement réduite par rapport aux vernis à solvants. **classement d'usage domestique intensif et commercial** — moins de renouvellements, moins d'impact global sur la durée.
 
 Le vernis parquet [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") est-il sans odeur ?+
 

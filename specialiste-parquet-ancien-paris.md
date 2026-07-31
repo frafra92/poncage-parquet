@@ -23,7 +23,7 @@ Produit utilisé · Source officielle
 
 [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Durée de vie 10-15 ans
+Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Usage domestique intensif et commercial
 
 [→ Fiche produit officielle sur bona.com](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
@@ -50,7 +50,7 @@ DONNÉES VÉRIFIABLES — Sources officielles
 * **63%** du CA artisanal est en rénovation-entretien — CAPEB, Chiffres clés 2023
 * **22 mm** épaisseur standard **parquet haussmannien** — **François Gaillard**, 700+ chantiers
 * **150-250 ans** âge des chênes à l'abattage — **François Gaillard**
-* **10-15 ans** durée de vie **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
+* **Commercial** classement d'usage **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 ### François Gaillard — Spécialiste parquet ancien
 
@@ -105,7 +105,7 @@ Technique empruntée à l'industrie de la pierre. Grain 70 diamant systématique
 
 ### Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-3 couches systématiques avec **égrenage**. Vernis à base aqueuse, non jaunissant, **10-15 ans** de durée. Le seul vernis utilisé par le spécialiste.
+3 couches systématiques avec **égrenage**. Vernis à base aqueuse, non jaunissant, **usage domestique intensif et commercial** de durée. Le seul vernis utilisé par le spécialiste.
 
 🔍
 

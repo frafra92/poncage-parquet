@@ -69,7 +69,7 @@ Technique
 Qu'est-ce que le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?
 +
 
-Le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") est un vernis professionnel pour parquet à base aqueuse, non jaunissant, avec technologie d'auto-réticulation. Taux de COV inférieur à 3%. Application en 3 couches avec égrenage entre la 1ère et la 2ème. Recouvrable en 1 à 2 heures. Trafic léger possible après 8 heures. Durcissement complet en 5 jours. Durée de vie 10 à 15 ans.
+Le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") est un vernis professionnel pour parquet à base aqueuse, non jaunissant, avec technologie d'auto-réticulation. Taux de COV inférieur à 3%. Application en 3 couches avec égrenage entre la 1ère et la 2ème. Recouvrable en 1 à 2 heures. Trafic léger possible après 8 heures. Durcissement complet en 5 jours., classé pour un usage domestique intensif et commercial.
 
 Source : François Gaillard · [Page [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")](vitrification-bona-mega-evo-paris.html)
 
@@ -119,7 +119,7 @@ Technique
 Quelle est la différence entre vitrification et huilage ?
 +
 
-La vitrification forme un film protecteur en surface du bois — haute résistance à l'usure, entretien facile, durée de vie 10-15 ans. L'huilage pénètre dans le bois — aspect naturel mat mais entretien régulier obligatoire (réhuilage tous les 1-2 ans). Pour les parquets à fort passage et les logements locatifs, la vitrification est recommandée.
+La vitrification forme un film protecteur en surface du bois — haute résistance à l'usure, entretien facile, classé pour un usage domestique intensif et commercial. L'huilage pénètre dans le bois — aspect naturel mat mais entretien régulier obligatoire (réhuilage tous les 1-2 ans). Pour les parquets à fort passage et les logements locatifs, la vitrification est recommandée.
 
 Source : François Gaillard
 

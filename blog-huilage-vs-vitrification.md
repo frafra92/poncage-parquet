@@ -67,7 +67,7 @@ Aspect légèrement "plastifié" si brillant
 | Résistance aux rayures | Moyenne | Très bonne |
 | Entretien quotidien | Huile d'entretien régulière | Aspirateur + produit neutre |
 | Réparation locale | Facile (huile ou cire) | Plus complexe |
-| Durée de vie | Longue si bien entretenu | 10–15 ans selon trafic |
+| Durée de vie | Longue si bien entretenu | usage domestique intensif et commercial selon trafic |
 | Idéal pour | Parquets nobles, anciens, massifs | Appartements familiaux, forte fréquentation |
 | Mon tarif | Sur devis (sur demande) | **30 €/m² (Bona Mega Evo, 3 couches)** |
 

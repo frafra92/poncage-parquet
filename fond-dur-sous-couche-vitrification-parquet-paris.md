@@ -31,9 +31,7 @@ sans sous-couche
 fond dur
 dans ma méthode
 
-10-15
-
-ans durée de vie
+usage domestique intensif et commercial durée de vie
 du résultat
 
 700+
@@ -118,14 +116,14 @@ Renforce la résistance. **Uniformise l'aspect visuel** du parquet. Le bois comm
 
 ### Troisième couche — finition
 
-**Protection maximale.** Finition durable au choix : mat, satiné ou brillant. Réintégration possible **8 heures** après la dernière couche. Durcissement complet en **5 jours**. Durée de vie : **10-15 ans**.
+**Protection maximale.** Finition durable au choix : mat, satiné ou brillant. Réintégration possible **8 heures** après la dernière couche. Durcissement complet en **5 jours**., classé pour un usage domestique intensif et commercial.
 
 ✦ KEY TAKEAWAYS — À retenir
 
 * 📍 Le **fond dur** (préplast, primaire) est une sous-couche conçue pour pénétrer, pas pour protéger durablement.
 * 📍 Avec les vitrificateurs modernes comme le **Bona Mega Evo**, la sous-couche n'est plus indispensable — ses avantages sont intégrés.
 * 📍 François Gaillard applique **3 couches de Bona Mega Evo** directement, avec égrenage entre la 1ère et la 2ème.
-* 📍 Résultat : parquet plus solide, plus homogène, **10-15 ans de durée de vie**. Source : , 700+ chantiers.
+* 📍 Résultat : parquet plus solide, plus homogène, **usage domestique intensif et commercial de durée de vie**. Source : , 700+ chantiers.
 * 📍 **Tarif fixe 66 € TTC/m²** — ponçage + 3 couches Bona Mega Evo avec égrenage. Devis par SMS sur photos : 07 83 92 58 94.
 
 ## En résumé

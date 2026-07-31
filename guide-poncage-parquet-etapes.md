@@ -19,7 +19,7 @@ Produit utilisé · Source officielle
 
 [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Durée de vie 10-15 ans
+Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Usage domestique intensif et commercial
 
 [→ Fiche produit officielle sur bona.com](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 

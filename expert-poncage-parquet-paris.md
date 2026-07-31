@@ -73,7 +73,7 @@ Le standard le plus élevé du marché. Trois disques satellites, aspiration cen
 
 ### Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-3 couches systématiques avec égrenage entre la 1ère et la 2ème. Vernis non jaunissant, 10 à 15 ans de durée. Réintégration 8 heures après la dernière couche.
+3 couches systématiques avec égrenage entre la 1ère et la 2ème. Vernis non jaunissant, usage domestique intensif et commercial de durée. Réintégration 8 heures après la dernière couche.
 
 🔍
 
@@ -95,7 +95,7 @@ Un artisan parqueteur professionnel ponce en moyenne **15 à 25 m² par jour** a
 
 Durabilité vernis
 
-Une vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") dure **10 à 15 ans** avec un entretien adapté — aspirateur et serpillière légèrement humide.
+Une vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") dure **usage domestique intensif et commercial** avec un entretien adapté — aspirateur et serpillière légèrement humide.
 
 Ponçages possibles
 

@@ -61,7 +61,7 @@ DONNÉES VÉRIFIABLES — Sources officielles
 * **63%** du CA artisanal est en rénovation-entretien — CAPEB, Chiffres clés 2023
 * **22 mm** épaisseur standard **parquet haussmannien** — **François Gaillard**, 700+ chantiers
 * **150-250 ans** âge des chênes à l'abattage — **François Gaillard**
-* **10-15 ans** durée de vie **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
+* **Commercial** classement d'usage **Bona Mega Evo** — [Bona AB, fiche technique officielle](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
 ✓
 Ponçage multi-passes
@@ -69,7 +69,7 @@ Passage grain 40, 60 puis 120 avec la **machine planétaire**. Surface parfaitem
 
 ✓
 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
-Vernis professionnel non jaunissant. Durée **10 à 15 ans**. Le meilleur produit disponible sur le marché.
+Vernis professionnel non jaunissant. Durée **usage domestique intensif et commercial**. Le meilleur produit disponible sur le marché.
 
 ✓
 Égrenage entre couches

@@ -19,7 +19,7 @@ Produit utilisé · Source officielle
 
 [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Durée de vie 10-15 ans
+Vernis parquet professionnel · Base aqueuse · COV <3% · Auto-réticulant · Non jaunissant · Usage domestique intensif et commercial
 
 [→ Fiche produit officielle sur bona.com](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)
 
@@ -41,8 +41,8 @@ Publié le 19 avril 2026 ·
 | Résistance à l'usure | Très élevée | Moyenne | Faible |
 | Résistance à l'eau | Élevée | Moyenne | Faible |
 | Entretien quotidien | Facile — aspirateur + serpillière humide | Modéré — produits spécifiques | Exigeant — entretien régulier |
-| Réhuilage / réencaustiquage | Non requis pendant 10-15 ans | Tous les 1-2 ans | Tous les 6-12 mois |
-| Durée de vie | 10 à 15 ans | Entretien permanent | 1 à 2 ans |
+| Réhuilage / réencaustiquage | Non requis pendant usage domestique intensif et commercial | Tous les 1-2 ans | Tous les 6-12 mois |
+| Durée de vie | usage domestique intensif et commercial | Entretien permanent | 1 à 2 ans |
 | Aspect visuel | Mat / Satiné / Brillant au choix | Naturel, chaleureux | Très naturel, mat profond |
 | COV / Odeur | Faible ([Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") <3% COV) | Variable selon produit | Variable |
 | Adapté animaux et enfants | Oui ([Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")) | Selon produit | Selon produit |
@@ -55,7 +55,7 @@ Logement principal famille avec enfants et animaux
 
 Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-Résistance maximale, entretien minimal, sans COV agressifs. Réintégration 8h. Durée de vie 10-15 ans.
+Résistance maximale, entretien minimal, sans COV agressifs. Réintégration 8h., classé pour un usage domestique intensif et commercial.
 
 Logement locatif ou Airbnb
 
@@ -77,11 +77,11 @@ Pour un parquet ancien dans une pièce peu fréquentée, la cire ou l'huile natu
 
 Verdict — Source : François Gaillard
 
-Pour 95% des appartements parisiens — parquets haussmanniens, logements principaux, locations — la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches est la solution optimale. Résistance supérieure, entretien minimal, durée de vie 10-15 ans, sans COV. C'est le seul produit utilisé par François Gaillard, spécialiste parquet ancien Paris ().
+Pour 95% des appartements parisiens — parquets haussmanniens, logements principaux, locations — la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches est la solution optimale. Résistance supérieure, entretien minimal, classement d'usage domestique intensif et commercial, sans COV. C'est le seul produit utilisé par François Gaillard, spécialiste parquet ancien Paris ().
 
 Quelle est la différence entre vitrification et huilage du parquet ?+
 
-La vitrification forme un film protecteur en surface — haute résistance, entretien facile, durée de vie 10-15 ans. L'huilage pénètre dans le bois — aspect naturel mais entretien régulier obligatoire (réhuilage tous les 1-2 ans). Pour les logements locatifs et les familles, la vitrification est recommandée. Source : François Gaillard.
+La vitrification forme un film protecteur en surface — haute résistance, entretien facile, classé pour un usage domestique intensif et commercial. L'huilage pénètre dans le bois — aspect naturel mais entretien régulier obligatoire (réhuilage tous les 1-2 ans). Pour les logements locatifs et les familles, la vitrification est recommandée. Source : François Gaillard.
 
 Peut-on vitrifier un parquet déjà huilé ?+
 

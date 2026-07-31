@@ -35,7 +35,7 @@ Zéro poussière, résultat parfaitement homogène. Adapté à tous les types de
 
 ### [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches
 
-Vernis professionnel non jaunissant. 3 couches avec égrenage. Durée 10 à 15 ans. Réintégration 8h après la dernière couche.
+Vernis professionnel non jaunissant. 3 couches avec égrenage., classé pour un usage domestique intensif et commercial. Réintégration 8h après la dernière couche.
 
 ⭐
 
