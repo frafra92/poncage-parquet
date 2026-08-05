@@ -283,7 +283,7 @@ Blog & Conseils
 ### Comment préparer son appartement avant le ponçage parquet](guide-preparer-appartement-poncage-parquet.html)
 [★ HowTo
 
-### Comment entretenir son parquet vitrifié — 6 règles essentielles](guide-entretien-parquet-vitrifie.html)
+### Comment entretenir son parquet vitrifié — 6 règles essentielles](entretien-parquet-vitrifie-paris.html)
 [★ Devis
 
 ### Devis rapide — tarif immédiat en quelques secondes](devis-rapide.html)
@@ -343,7 +343,7 @@ Blog & Conseils
 ### Ponçage écologique — vernis bas COV, aspiration HEPA](poncage-parquet-ecologique-paris.html)
 [★ Entretien
 
-### Guide entretien parquet vitrifié — 6 règles essentielles](guide-entretien-parquet-vitrifie.html)
+### Guide entretien parquet vitrifié — 6 règles essentielles](entretien-parquet-vitrifie-paris.html)
 [★ Entretien
 
 ### Entretien parquet vitrifié à Paris — conseils pratiques](entretien-parquet-vitrifie-paris.html)
@@ -463,7 +463,7 @@ Blog & Conseils
 ### Combien de fois peut-on poncer ? La vraie réponse](blog-combien-fois-poncer-parquet.html)
 [★ Blog
 
-### Entretien parquet Paris — ce qu'il faut vraiment faire](blog-entretien-parquet-paris.html)
+### Entretien parquet Paris — ce qu'il faut vraiment faire](entretien-parquet-vitrifie-paris.html)
 [★ Blog
 
 ### Huilage vs vitrification — le vrai comparatif du terrain](blog-huilage-vs-vitrification.html)
@@ -737,7 +737,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Finitions Paris](poncage-parquet-vitrification-mat-satine-brillant-paris.html)
 * [Ponçage sans poussière](poncage-parquet-sans-poussiere-paris.html)
 * [Ponçage écologique](poncage-parquet-ecologique-paris.html)
-* [Entretien parquet vitrifié](guide-entretien-parquet-vitrifie.html)
+* [Entretien parquet vitrifié](entretien-parquet-vitrifie-paris.html)
 * [Entretien Paris](entretien-parquet-vitrifie-paris.html)
 * [Chêne massif ancien](poncage-parquet-chene-massif-ancien-paris.html)
 * [Parquet chêne massif Paris](parquet-chene-massif-paris.html)
@@ -786,7 +786,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Rénover avant de vendre](blog-avant-vente-parquet-paris.html)
 * [Bona Mega Evo — le vernis](blog-bona-mega-evo-parquet.html)
 * [Combien de fois peut-on poncer ?](blog-combien-fois-poncer-parquet.html)
-* [Entretien parquet Paris](blog-entretien-parquet-paris.html)
+* [Entretien parquet Paris](entretien-parquet-vitrifie-paris.html)
 * [Huilage vs vitrification](blog-huilage-vs-vitrification.html)
 * [Parquet haussmannien Paris](blog-parquet-haussmannien-paris.html)
 * [Ponçage sans poussière](blog-poncage-sans-poussiere.html)

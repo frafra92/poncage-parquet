@@ -141,7 +141,7 @@ Comment entretenir son parquet vitrifié — 6 règles essentielles
 
 Ce qui abîme un parquet vitrifié plus vite que tout — les erreurs les plus fréquentes et comment les éviter. Pour que la vitrification résiste durablement comme prévu.
 
-Lire →](guide-entretien-parquet-vitrifie.html)
+Lire →](entretien-parquet-vitrifie-paris.html)
 [★ Blog
 
 Artisan indépendant vs entreprise — mon point de vue honnête

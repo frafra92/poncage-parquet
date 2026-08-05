@@ -51,7 +51,7 @@ Je décroche moi-même. Devis gratuit sous 24h, intervention dans tout Paris.
 
 [☎️ 07 83 92 58 94 — François](tel:0783925894)
 
-[← Bona Mega Evo](blog-bona-mega-evo-parquet.html) · [Entretien parquet →](blog-entretien-parquet-paris.html)
+[← Bona Mega Evo](blog-bona-mega-evo-parquet.html) · [Entretien parquet →](entretien-parquet-vitrifie-paris.html)
 
 Disponible · 66 € TTC/m²
 

@@ -47,7 +47,7 @@ Appelez directement — je réponds moi-même et on trouve une solution.
 
 Disponible lun-sam · Week-end selon dispo · Paris & IDF
 
-[← Entretien parquet](blog-entretien-parquet-paris.html) · [Retour accueil →](index.html)
+[← Entretien parquet](entretien-parquet-vitrifie-paris.html) · [Retour accueil →](index.html)
 
 Disponible · 66 € TTC/m²
 
