@@ -101,7 +101,7 @@ Huilage vs vitrification — le vrai comparatif du terrain
 
 Ce que les fiches techniques ne disent pas. Mon expérience sur le terrain après des centaines de chantiers — quand l'huilage est une bonne idée, et quand ce n'est pas le bon choix.
 
-Lire →](blog-huilage-vs-vitrification.html)
+Lire →](comparatif-vitrification-huilage-cire-parquet.html)
 [★ Technique
 
 Ponçage sans poussière — la réalité du chantier

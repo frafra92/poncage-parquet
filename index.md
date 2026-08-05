@@ -466,7 +466,7 @@ Blog & Conseils
 ### Entretien parquet Paris — ce qu'il faut vraiment faire](entretien-parquet-vitrifie-paris.html)
 [★ Blog
 
-### Huilage vs vitrification — le vrai comparatif du terrain](blog-huilage-vs-vitrification.html)
+### Huilage vs vitrification — le vrai comparatif du terrain](comparatif-vitrification-huilage-cire-parquet.html)
 [★ Blog
 
 ### Parquet haussmannien Paris — ce que j'ai appris en 15 ans](blog-parquet-haussmannien-paris.html)
@@ -787,7 +787,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Bona Mega Evo — le vernis](blog-bona-mega-evo-parquet.html)
 * [Combien de fois peut-on poncer ?](blog-combien-fois-poncer-parquet.html)
 * [Entretien parquet Paris](entretien-parquet-vitrifie-paris.html)
-* [Huilage vs vitrification](blog-huilage-vs-vitrification.html)
+* [Huilage vs vitrification](comparatif-vitrification-huilage-cire-parquet.html)
 * [Parquet haussmannien Paris](blog-parquet-haussmannien-paris.html)
 * [Ponçage sans poussière](blog-poncage-sans-poussiere.html)
 * [Prix ponçage Paris](blog-prix-poncage-parquet-paris.html)

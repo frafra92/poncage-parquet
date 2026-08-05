@@ -55,7 +55,7 @@ Je me déplace gratuitement dans tout Paris et l'IDF.
 
 [☎️ 07 83 92 58 94](tel:0783925894)
 
-[← Huilage ou vitrification](blog-huilage-vs-vitrification.html) · [Parquets haussmanniens →](blog-parquet-haussmannien-paris.html)
+[← Huilage ou vitrification](comparatif-vitrification-huilage-cire-parquet.html) · [Parquets haussmanniens →](blog-parquet-haussmannien-paris.html)
 
 Disponible · 66 € TTC/m²
 
