@@ -334,7 +334,7 @@ Blog & Conseils
 ### Bona Mega Evo — COV, normes environnementales et santé](bona-mega-evo-normes-environnementales-cov-parquet.html)
 [★ Finition
 
-### Mat · satiné · brillant — toutes les finitions à Paris](poncage-parquet-vitrification-mat-satine-brillant-paris.html)
+### Mat · satiné · brillant — toutes les finitions à Paris](comparatif-finition-parquet-mat-satine-brillant.html)
 [★ Technique
 
 ### Ponçage sans poussière Paris — chantier propre garanti](poncage-parquet-sans-poussiere-paris.html)
@@ -734,7 +734,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Vitrification sans odeur](vitrification-parquet-sans-odeur-saine-paris.html)
 * [Bona Mega Evo — COV & normes](bona-mega-evo-normes-environnementales-cov-parquet.html)
 * [Mat · satiné · brillant](comparatif-finition-parquet-mat-satine-brillant.html)
-* [Finitions Paris](poncage-parquet-vitrification-mat-satine-brillant-paris.html)
+* [Finitions Paris](comparatif-finition-parquet-mat-satine-brillant.html)
 * [Ponçage sans poussière](poncage-parquet-sans-poussiere-paris.html)
 * [Ponçage écologique](poncage-parquet-ecologique-paris.html)
 * [Entretien parquet vitrifié](entretien-parquet-vitrifie-paris.html)

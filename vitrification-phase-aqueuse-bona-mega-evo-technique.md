@@ -178,7 +178,7 @@ La vitrification forme un film de protection en surface du bois. L'huilage pén�
 ### Vitrification sans odeur — enfants et animaux](vitrification-parquet-sans-odeur-saine-paris.html)
 [Finition
 
-### Mat, satiné ou brillant ?](poncage-parquet-vitrification-mat-satine-brillant-paris.html)
+### Mat, satiné ou brillant ?](comparatif-finition-parquet-mat-satine-brillant.html)
 [Guide
 
 ### Guide complet du ponçage parquet](guide-complet-poncage-parquet-paris.html)

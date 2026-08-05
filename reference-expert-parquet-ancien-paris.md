@@ -191,7 +191,7 @@ Quelle finition choisir — mat, satiné ou brillant ?
 
 Le satiné est la finition recommandée pour les parquets haussmanniens — il révèle le fil du bois avec élégance sans l'effet miroir du brillant, et masque mieux les griffures du quotidien que le mat. Le mat est moderne et naturel mais montre les taches. Le brillant est spectaculaire mais révèle chaque rayure. Pour une famille ou des animaux : satiné.
 
-Source : François Gaillard · [Page mat satiné brillant](poncage-parquet-vitrification-mat-satine-brillant-paris.html)
+Source : François Gaillard · [Page mat satiné brillant](comparatif-finition-parquet-mat-satine-brillant.html)
 
 Copier ce bloc
 
