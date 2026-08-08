@@ -367,7 +367,7 @@ Blog & Conseils
 ### Parquet sous revêtement — diagnostic et ponçage](parquet-sous-moquette-revetement-paris.html)
 [★ Réparation
 
-### Réparation parquet dégât des eaux Paris — que faire ?](reparation-parquet-degat-des-eaux-paris.html)
+### Réparation parquet dégât des eaux Paris — que faire ?](reparation-parquet-paris.html)
 [★ Technique
 
 ### Reboucher les joints de lames — conseils professionnels](joints-lames-parquet-reboucher-conseils.html)
@@ -745,7 +745,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Point de Hongrie Paris](poncage-parquet-point-de-hongrie-paris.html)
 * [Parquet sous moquette collée](parquet-sous-moquette-colle-poncage-paris.html)
 * [Parquet sous revêtement](parquet-sous-moquette-revetement-paris.html)
-* [Réparation dégât des eaux](reparation-parquet-degat-des-eaux-paris.html)
+* [Réparation dégât des eaux](reparation-parquet-paris.html)
 * [Reboucher joints de lames](joints-lames-parquet-reboucher-conseils.html)
 * [Joints parquet — guide DTU](reboucher-joints-parquet-paris-dtu-guide.html)
 * [Sintobois bicomposant](sintobois-bicomposant-reparation-parquet-paris.html)

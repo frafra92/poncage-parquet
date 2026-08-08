@@ -92,7 +92,7 @@ Diagnostic photo gratuit par SMS. Ponçage des taches noires, retrait du vernis 
 
 66 € TTC/m²
 
-[En savoir plus →](reparation-parquet-degat-des-eaux-paris.html)
+[En savoir plus →](reparation-parquet-paris.html)
 
 Comment ça se passe — du devis au chantier
 

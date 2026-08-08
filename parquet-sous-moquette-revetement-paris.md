@@ -248,7 +248,7 @@ Oui si la moquette est posée sur liteaux sans colle directement sur le bois. Da
 ### Guide complet du ponçage parquet Paris](guide-complet-poncage-parquet-paris.html)
 [Diagnostic
 
-### Parquet abîmé ou grinçant](reparation-parquet-degat-des-eaux-paris.html)
+### Parquet abîmé ou grinçant](reparation-parquet-paris.html)
 [Tarifs
 
 ### Prix ponçage parquet Paris](prix-poncage-parquet-paris.html)

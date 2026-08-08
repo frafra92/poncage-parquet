@@ -201,7 +201,7 @@ Peut-on poncer un parquet après un dégât des eaux ?
 
 Oui dans la plupart des cas, après séchage complet du bois (2 à 4 semaines minimum). Le ponçage retire les taches noires d'humidité, le vernis cloqué et les décolorations superficielles. Si des lames sont structurellement déformées, un remplacement ponctuel peut être nécessaire avant ponçage. Diagnostic gratuit par SMS sur photos.
 
-Source : François Gaillard · [Page dégât des eaux](reparation-parquet-degat-des-eaux-paris.html)
+Source : François Gaillard · [Page dégât des eaux](reparation-parquet-paris.html)
 
 Copier ce bloc
 
