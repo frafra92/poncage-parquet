@@ -550,7 +550,19 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-garches.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-marquete-garches-avant.webp</ns1:loc>
+      <ns1:title>Parquet marqueté géométrique poncé brut — Garches (92)</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-marquete-garches-apres.webp</ns1:loc>
+      <ns1:title>Parquet marqueté géométrique vitrifié Bona Mega Evo — Garches (92)</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/parquet-marquete-geometrique-garches-detail.webp</ns1:loc>
+      <ns1:title>Détail marqueterie géométrique en chêne poncé — Garches (92)</ns1:title>
+    </ns1:image>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1214,6 +1226,14 @@
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/galerie-realisations-poncage-parquet-paris.html</loc>
     <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-marquete-garches-avant.webp</ns1:loc>
+      <ns1:title>Parquet marqueté géométrique poncé brut — Garches (92)</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-marquete-garches-apres.webp</ns1:loc>
+      <ns1:title>Parquet marqueté géométrique vitrifié Bona Mega Evo — Garches (92)</ns1:title>
+    </ns1:image>
+    <ns1:image>
       <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris-16-avant.webp</ns1:loc>
       <ns1:title>Parquet point de Hongrie avant ponçage — rue de la Tour, Paris 16e</ns1:title>
     </ns1:image>
@@ -1238,7 +1258,7 @@
       <ns1:title>Parquet après ponçage et vitrification brillant — Paris 15e</ns1:title>
     </ns1:image>
 
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
