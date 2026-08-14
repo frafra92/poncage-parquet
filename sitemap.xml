@@ -567,6 +567,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantin.html</loc>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantin-avant.webp</ns1:loc>
+      <ns1:title>Parquet chêne lames droites poncé brut — Pantin (93)</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-pantin-apres.webp</ns1:loc>
+      <ns1:title>Parquet chêne lames droites vitrifié Bona Mega Evo — Pantin (93)</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantin-machine-planetaire.webp</ns1:loc>
+      <ns1:title>Ponçage à la machine planétaire HTC — Pantin (93)</ns1:title>
+    </ns1:image>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-gif-sur-yvette.html</loc>
     <lastmod>2026-07-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -1225,6 +1243,14 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/galerie-realisations-poncage-parquet-paris.html</loc>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantin-avant.webp</ns1:loc>
+      <ns1:title>Parquet chêne lames droites poncé brut — Pantin (93)</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-pantin-apres.webp</ns1:loc>
+      <ns1:title>Parquet chêne lames droites vitrifié Bona Mega Evo — Pantin (93)</ns1:title>
+    </ns1:image>
     <ns1:image>
       <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-marquete-garches-avant.webp</ns1:loc>
       <ns1:title>Parquet marqueté géométrique poncé brut — Garches (92)</ns1:title>
