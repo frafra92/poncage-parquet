@@ -1,0 +1,44 @@
+name: Régénération du sitemap
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - sitemap.xml
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sitemap-regeneration
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (historique complet)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Régénérer sitemap.xml
+        run: python3 generate_sitemap.py
+
+      - name: Commit et push si changement
+        run: |
+          if git diff --quiet -- sitemap.xml; then
+            echo "sitemap.xml inchangé, rien à committer."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Régénération automatique de sitemap.xml"
+          git push
