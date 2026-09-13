@@ -827,7 +827,7 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-1.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -851,7 +851,7 @@
   </url>
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris-13.html</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1244,6 +1244,26 @@
   <url>
     <loc>https://poncageparquetvitrificationfrancois.com/galerie-realisations-poncage-parquet-paris.html</loc>
     <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-mosaique-montsouris-paris-13-en-cours.webp</ns1:loc>
+      <ns1:title>Parquet mosaïque chêne — ponçage en cours, Montsouris Paris 13e</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-mosaique-montsouris-paris-13-ponce-brut.webp</ns1:loc>
+      <ns1:title>Parquet mosaïque chêne poncé brut — Montsouris Paris 13e</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-mosaique-montsouris-paris-13-apres.webp</ns1:loc>
+      <ns1:title>Parquet mosaïque chêne vitrification en cours — Montsouris Paris 13e</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-creperie-rue-arbre-sec-paris-1-avant.webp</ns1:loc>
+      <ns1:title>Parquet chêne crêperie avant ponçage — rue de l'Arbre Sec, Paris 1er</ns1:title>
+    </ns1:image>
+    <ns1:image>
+      <ns1:loc>https://poncageparquetvitrificationfrancois.com/vitrification-parquet-creperie-rue-arbre-sec-paris-1-apres.webp</ns1:loc>
+      <ns1:title>Parquet chêne crêperie vitrifié — rue de l'Arbre Sec, Paris 1er</ns1:title>
+    </ns1:image>
+    <ns1:image>
       <ns1:loc>https://poncageparquetvitrificationfrancois.com/poncage-parquet-pantin-avant.webp</ns1:loc>
       <ns1:title>Parquet chêne lames droites poncé brut — Pantin (93)</ns1:title>
     </ns1:image>
@@ -1284,7 +1304,7 @@
       <ns1:title>Parquet après ponçage et vitrification brillant — Paris 15e</ns1:title>
     </ns1:image>
 
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
