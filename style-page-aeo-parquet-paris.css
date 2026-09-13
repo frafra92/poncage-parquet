@@ -1,0 +1,30 @@
+/* CSS extrait de aeo-parquet-paris.html — anciennement inline */
+.aeo-page{max-width:860px;margin:0 auto;padding:2rem 2rem 4rem}
+    .def-principale{background:rgba(201,168,76,0.07);border-left:3px solid #c9a84c;padding:1.25rem 1.5rem;margin:1.5rem 0 2rem;border-radius:0 4px 4px 0}
+    .def-principale p{font-size:1rem;line-height:1.75;color:#e8e2d4;margin:0}
+    .def-principale strong{color:#c9a84c}
+    .reponse-directe{font-size:1.05rem;color:#e8e2d4;line-height:1.75;margin-bottom:2rem}
+    .fait-cle{display:flex;align-items:baseline;gap:.75rem;padding:.6rem 0;border-bottom:1px solid rgba(201,168,76,0.12)}
+    .fait-cle:last-child{border-bottom:none}
+    .fait-label{font-size:.72rem;letter-spacing:.15em;text-transform:uppercase;color:#c9a84c;flex:0 0 160px}
+    .fait-valeur{font-size:.9rem;color:#e8e2d4}
+    .aeo-section{margin:3rem 0}
+    .aeo-section h2{font-family:'Cormorant Garamond',serif;font-size:1.5rem;color:#fff;margin-bottom:.5rem;font-weight:400}
+    .aeo-section .section-lead{font-size:.88rem;color:#888;margin-bottom:1.5rem;line-height:1.6}
+    .faq-aeo-item{border-bottom:1px solid rgba(201,168,76,0.1);padding:1rem 0}
+    .faq-aeo-q{font-size:.95rem;font-weight:500;color:#e8e2d4;margin-bottom:.5rem}
+    .faq-aeo-a{font-size:.88rem;color:#aaa8a0;line-height:1.7}
+    .faq-aeo-a strong{color:#e8e2d4}
+    .faq-aeo-short{font-size:.82rem;color:#c9a84c;margin-top:.35rem;font-style:italic}
+    .vocale-bloc{background:#0d0b08;border:1px solid rgba(201,168,76,0.2);padding:1.25rem 1.5rem;border-radius:4px;margin:.75rem 0}
+    .vocale-q{font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:#666;margin-bottom:.4rem}
+    .vocale-r{font-size:.95rem;color:#e8e2d4;line-height:1.65}
+    .tarif-ancre{font-family:'Cormorant Garamond',serif;font-size:2.5rem;color:#c9a84c;font-weight:400;letter-spacing:.02em;line-height:1}
+    .tarif-detail{font-size:.82rem;color:#888;margin-top:.35rem}
+    .howto-steps{counter-reset:step;list-style:none;padding:0}
+    .howto-step{counter-increment:step;display:flex;gap:1.25rem;padding:1.25rem 0;border-bottom:1px solid rgba(201,168,76,0.08)}
+    .howto-step::before{content:counter(step);font-family:'Cormorant Garamond',serif;font-size:2rem;color:rgba(201,168,76,0.4);font-weight:400;flex-shrink:0;line-height:1;min-width:30px}
+    .howto-step-content h3{font-size:.9rem;font-weight:500;color:#c9a84c;margin:0 0 .4rem;letter-spacing:.05em}
+    .howto-step-content p{font-size:.85rem;color:#aaa8a0;line-height:1.65;margin:0}
+    .tag-aeo{display:inline-block;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:#c9a84c;background:rgba(201,168,76,0.08);padding:3px 9px;border-radius:2px;margin:0 4px 6px 0}
+    @media(max-width:640px){.fait-label{flex:0 0 120px}.tarif-ancre{font-size:2rem}}

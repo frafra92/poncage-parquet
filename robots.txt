@@ -47,3 +47,6 @@ Disallow: /redirect-ipfs.html
 # PLAN DU SITE
 # ─────────────────────────────────────────────────────────────
 Sitemap: https://poncageparquetvitrificationfrancois.com/sitemap.xml
+# Fichiers IA
+# https://poncageparquetvitrificationfrancois.com/llms.txt
+# https://poncageparquetvitrificationfrancois.com/llms-full.txt
