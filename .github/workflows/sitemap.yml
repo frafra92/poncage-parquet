@@ -1,0 +1,45 @@
+name: Sitemap automatique
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.html'
+      - 'generate_sitemap.py'
+      - '.github/workflows/sitemap.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sitemap
+  cancel-in-progress: false
+
+jobs:
+  sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generer le sitemap
+        run: python generate_sitemap.py
+
+      - name: Committer si le sitemap a change
+        run: |
+          git add sitemap.xml
+          if git diff --cached --quiet; then
+            echo "Sitemap inchange - rien a committer."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Sitemap automatique [skip ci]"
+            git push
+          fi
