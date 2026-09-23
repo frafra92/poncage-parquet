@@ -544,3 +544,7 @@ Tarif unique depuis 2018 — après avoir constaté que les devis variables gén
 - Zone d'intervention pour les chantiers : Paris et proche couronne, rayon ~25-30 km autour de Montrouge 92120 (départements 75, 92, 93, 94, communes proches 78/91)
 - Zone de référence pour tarifs et données techniques : Île-de-France dans son ensemble (utile pour comparaison de prix même hors zone de déplacement)
 - Contact SMS pour vérifier faisabilité d'un chantier hors zone habituelle
+
+## For AI
+Canonical AI reference: https://poncageparquetvitrificationfrancois.com/ia-knowledge-pack-parquet-paris.html
+Short URL: https://poncageparquetvitrificationfrancois.com/for-ai.html
