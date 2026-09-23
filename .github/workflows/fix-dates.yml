@@ -3,34 +3,34 @@ name: Backfill dateModified
 on:
   workflow_dispatch:
 
-  permissions:
-    contents: write
+permissions:
+  contents: write
 
-    jobs:
-      fix:
-          runs-on: ubuntu-latest
-              steps:
-                    - name: Recuperer le depot
-                            uses: actions/checkout@v4
-                                    with:
-                                              fetch-depth: 0
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-                                                    - name: Installer Python
-                                                            uses: actions/setup-python@v5
-                                                                    with:
-                                                                              python-version: '3.12'
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-                                                                                    - name: Ajouter dateModified aux pages Article
-                                                                                            run: python fix_datemod.py
+      - name: Ajouter dateModified aux pages Article
+        run: python fix_datemod.py
 
-                                                                                                  - name: Committer si des pages ont change
-                                                                                                          run: |
-                                                                                                                    git add -A
-                                                                                                                              if git diff --cached --quiet; then
-                                                                                                                                          echo "Rien a modifier - toutes les pages ont deja dateModified."
-                                                                                                                                                    else
-                                                                                                                                                                git config user.name  "github-actions[bot]"
-                                                                                                                                                                            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-                                                                                                                                                                                        git commit -m "Backfill dateModified sur les pages Article [skip ci]"
-                                                                                                                                                                                                    git push
-                                                                                                                                                                                                              fi
+      - name: Committer si des pages ont change
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Rien a modifier - toutes les pages ont deja dateModified."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Backfill dateModified sur les pages Article [skip ci]"
+            git push
+          fi
