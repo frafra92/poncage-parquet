@@ -322,11 +322,11 @@ h2{font-family:'Cormorant Garamond',serif;font-size:clamp(1.8rem,3.5vw,2.4rem);c
 @media(max-width:640px){.ordre-item{grid-template-columns:48px 1fr}footer{flex-direction:column}}
 :root{--gold:#C9A84C;--gold-dim:rgba(201,168,76,.7);--bg:#0D0B08;--surface:#141210;--text:#E8E2D4;--text-dim:#9A9080}
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--text);font-family:'Georgia',serif;line-height:1.7}
+body{background:var(--bg);color:var(--text);font-family:'Jost',sans-serif;line-height:1.7}
 a{color:var(--gold);text-decoration:none}
 a:hover{text-decoration:underline}
 header{border-bottom:1px solid rgba(201,168,76,.2);padding:1.2rem 2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem}
-.logo{font-family:'Georgia',serif;font-size:1.05rem;color:var(--gold);letter-spacing:.04em}
+.logo{font-family:'Cormorant Garamond',serif;font-size:1.05rem;color:var(--gold);letter-spacing:.04em}
 nav{display:flex;gap:1.5rem;font-size:.82rem;letter-spacing:.08em;text-transform:uppercase}
 nav a{color:var(--text-dim)}
 nav a:hover{color:var(--gold)}

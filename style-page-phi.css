@@ -121,7 +121,7 @@
       bottom: 2rem;
       left: 50%;
       transform: translateX(-50%);
-      font-family: 'Georgia', serif;
+      font-family: 'Cormorant Garamond', serif;
       font-size: 1.2rem;
       color: rgba(201,168,76,0.3);
       letter-spacing: .5em;
@@ -174,7 +174,7 @@
       top: 1.5rem;
       left: 1.5rem;
       color: rgba(201,168,76,0.2);
-      font-family: 'Georgia', serif;
+      font-family: 'Cormorant Garamond', serif;
       font-size: .8rem;
       text-decoration: none;
       z-index: 20;
