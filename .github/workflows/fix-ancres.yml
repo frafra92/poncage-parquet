@@ -1,0 +1,19 @@
+name: Fix ancres entretien
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Applique les ancres et le sommaire
+        run: python3 fix_ancres.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Ancres + sommaire sur la page entretien [skip ci]"
+          git push
