@@ -1,0 +1,20 @@
+name: Harmonisation typo
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Harmonise la typo sur toute la charte
+        run: python3 harmonise_fonts.py
+      - name: Nettoyage et commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git rm -f --ignore-unmatch harmonise_fonts.py .github/workflows/harmonise-fonts.yml
+          git add -A
+          git diff --cached --quiet || git commit -m "Harmonisation typo Cormorant + Jost sur tout le site [skip ci]"
+          git push
