@@ -138,3 +138,11 @@
 .res-cell img{width:100%;display:block;border:1px solid rgba(201,168,76,0.15)}
 .res-caption{font-size:.75rem;color:var(--muted,#9a9283);padding:.5rem 0;letter-spacing:.05em}
 @media(max-width:600px){.ba-grid{grid-template-columns:1fr}.resultats-grid{grid-template-columns:1fr}}
+
+.sommaire{background:var(--noir2);border:1px solid var(--bord);padding:2rem 2.5rem;margin-bottom:4rem}
+.sommaire h3{font-family:'Cormorant Garamond',serif;font-size:1.3rem;color:var(--or);margin-bottom:1.2rem}
+.sommaire ol{list-style:none;counter-reset:som;display:flex;flex-direction:column;gap:.5rem}
+.sommaire ol li{counter-increment:som;font-size:.9rem;color:var(--muted)}
+.sommaire ol li::before{content:counter(som)". ";color:var(--or-sombre)}
+.sommaire ol li a{color:var(--muted);text-decoration:none}
+.sommaire ol li a:hover{color:var(--or)}
