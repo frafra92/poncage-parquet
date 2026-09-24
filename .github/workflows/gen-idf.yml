@@ -1,0 +1,22 @@
+name: Genere page IDF
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Genere la page Ile-de-France + maillage
+        run: python3 gen_idf.py
+      - name: Regenere le sitemap
+        run: python3 generate_sitemap.py
+      - name: Nettoyage et commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git rm -f --ignore-unmatch gen_idf.py .github/workflows/gen-idf.yml
+          git add -A
+          git diff --cached --quiet || git commit -m "Nouvelle page pilier Poncage parquet Ile-de-France + maillage [skip ci]"
+          git push
