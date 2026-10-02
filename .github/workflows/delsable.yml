@@ -1,0 +1,22 @@
+name: delsable
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Delete apercu-sable and regen sitemap
+        run: |
+          git rm -f --ignore-unmatch apercu-sable.html style-page-apercu-sable.css
+          python3 generate_sitemap.py
+      - name: Commit and self-clean
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git rm -f --ignore-unmatch .github/workflows/delsable.yml
+          git add -A
+          git commit -m "Suppression brouillon apercu-sable (test couleur abandonne) [skip ci]"
+          git push
