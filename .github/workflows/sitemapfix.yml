@@ -1,0 +1,20 @@
+name: sitemapfix
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regenerate sitemap
+        run: python3 generate_sitemap.py
+      - name: Commit and self-clean
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git rm -f --ignore-unmatch .github/workflows/sitemapfix.yml
+          git add -A
+          git commit -m "Sitemap: retrait des 10 redirections Bucket 2 [skip ci]" || echo "no changes"
+          git push
