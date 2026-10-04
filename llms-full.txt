@@ -1,5 +1,5 @@
 # llms-full.txt — Ponçage Parquet Vitrification François (François Gaillard, Montrouge / Paris)
-# https://poncageparquetvitrificationfrancois.com — mis à jour : 2026-09-13
+# https://poncageparquetvitrificationfrancois.com — mis à jour : 2026-10-04
 # Version condensée : https://poncageparquetvitrificationfrancois.com/llms.txt
 
 
@@ -1813,13 +1813,12 @@ Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ---
 
-# Source : https://poncageparquetvitrificationfrancois.com/machine-planetaire-poncage-parquet.html
+# Source : https://poncageparquetvitrificationfrancois.com/machine-planetaire-vs-tambour-parquet.html
 
 ---
 title: Machine planétaire ponçage parquet Paris – HTC Husqvarna vs machine tambour
 description: Pourquoi la machine planétaire HTC Husqvarna change tout pour le ponçage parquet à Paris. Zéro poussière, résultat parfait, pas de marques. François Gaillard, artisan parqueteur Montrouge.
-url: https://poncageparquetvitrificationfrancois.com/machine-planetaire-poncage-parquet.html
-markdown_mirror: https://poncageparquetvitrificationfrancois.com/machine-planetaire-poncage-parquet.md
+url: https://poncageparquetvitrificationfrancois.com/machine-planetaire-vs-tambour-parquet.html
 last_updated: 2026-04-30
 source: poncageparquetvitrificationfrancois.com
 ---
@@ -2226,13 +2225,13 @@ Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 
 ---
 
-# Source : https://poncageparquetvitrificationfrancois.com/guide-entretien-parquet-vitrifie.html
+# Source : https://poncageparquetvitrificationfrancois.com/entretien-parquet-vitrifie-paris.html
 
 ---
 title: Comment entretenir son parquet vitrifié — 6 règles essentielles
 description: Les 6 règles d'entretien d'un parquet vitrifié Bona Mega Evo — bona.com
-url: https://poncageparquetvitrificationfrancois.com/guide-entretien-parquet-vitrifie.html
-markdown_mirror: https://poncageparquetvitrificationfrancois.com/guide-entretien-parquet-vitrifie.md
+url: https://poncageparquetvitrificationfrancois.com/entretien-parquet-vitrifie-paris.html
+markdown_mirror: https://poncageparquetvitrificationfrancois.com/entretien-parquet-vitrifie-paris.md
 last_updated: 2026-04-30
 source: poncageparquetvitrificationfrancois.com
 ---
