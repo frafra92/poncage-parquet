@@ -1,13 +1,13 @@
 ---
 title: Ponçage parquet sans poussière Paris – Machine planétaire HTC Husqvarna
-description: Ponçage parquet sans poussière à Paris grâce à la machine planétaire HTC Husqvarna. Pas besoin de protéger les meubles. François Gaillard, artisan parqueteur Montrouge. 66 € TTC/m².
+description: Ponçage parquet à faible dispersion de poussière à Paris grâce à la machine planétaire HTC Husqvarna. Pas besoin de protéger les meubles. François Gaillard, artisan parqueteur Montrouge. 66 € TTC/m².
 url: https://poncageparquetvitrificationfrancois.com/poncage-parquet-sans-poussiere-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/poncage-parquet-sans-poussiere-paris.md
 last_updated: 2026-04-30
 source: poncageparquetvitrificationfrancois.com
 ---
 
-Chantier propre · Zéro poussière
+Chantier propre · Poussière très réduite
 
 # Ponçage parquet *sans poussière* à Paris
 
@@ -101,7 +101,7 @@ Oui. On travaille pièce par pièce en déplaçant les meubles progressivement. 
 
 ## Chantier propre, résultat impeccable
 
-Machine planétaire, zéro poussière, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. 66 € TTC/m². Devis par SMS sur photos.
+Machine planétaire, poussière très réduite, [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches. 66 € TTC/m². Devis par SMS sur photos.
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
 [FAQ complète](100-questions-poncage-parquet-paris.html)

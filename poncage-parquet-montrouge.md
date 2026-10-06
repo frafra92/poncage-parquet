@@ -68,7 +68,7 @@ Prestations
 
 ### Ponçage professionnel
 
-Machine planétaire HTC Husqvarna — pratiquement aucune poussière. Résultat parfaitement plan. Le chantier est bruyant : les voisins sont prévenus, on travaille en journée.
+Machine planétaire HTC Husqvarna — une dispersion de poussière très réduite. Résultat parfaitement plan. Le chantier est bruyant : les voisins sont prévenus, on travaille en journée.
 
 ### [Vitrification Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo") — 3 couches
 
@@ -337,7 +337,7 @@ Blog & Conseils
 ### Mat · satiné · brillant — toutes les finitions à Paris](comparatif-finition-parquet-mat-satine-brillant.html)
 [★ Technique
 
-### Ponçage sans poussière Paris — chantier propre garanti](poncage-parquet-sans-poussiere-paris.html)
+### Ponçage à faible dispersion de poussière Paris — chantier propre grâce à l'aspiration à la source](poncage-parquet-sans-poussiere-paris.html)
 [★ Technique
 
 ### Ponçage écologique — vernis bas COV, aspiration HEPA](poncage-parquet-ecologique-paris.html)
@@ -472,7 +472,7 @@ Blog & Conseils
 ### Parquet haussmannien Paris — ce que j'ai appris en 15 ans](blog-parquet-haussmannien-paris.html)
 [★ Blog
 
-### Ponçage sans poussière — la réalité du chantier](blog-poncage-sans-poussiere.html)
+### Ponçage à faible dispersion de poussière — la réalité du chantier](blog-poncage-sans-poussiere.html)
 [★ Blog
 
 ### Prix ponçage Paris — pourquoi 66 € TTC/m² et pas moins](blog-prix-poncage-parquet-paris.html)
@@ -735,7 +735,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Bona Mega Evo — COV & normes](bona-mega-evo-normes-environnementales-cov-parquet.html)
 * [Mat · satiné · brillant](comparatif-finition-parquet-mat-satine-brillant.html)
 * [Finitions Paris](comparatif-finition-parquet-mat-satine-brillant.html)
-* [Ponçage sans poussière](poncage-parquet-sans-poussiere-paris.html)
+* [Ponçage à faible dispersion de poussière](poncage-parquet-sans-poussiere-paris.html)
 * [Ponçage écologique](poncage-parquet-ecologique-paris.html)
 * [Entretien parquet vitrifié](entretien-parquet-vitrifie-paris.html)
 * [Entretien Paris](entretien-parquet-vitrifie-paris.html)
@@ -789,7 +789,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Entretien parquet Paris](entretien-parquet-vitrifie-paris.html)
 * [Huilage vs vitrification](comparatif-vitrification-huilage-cire-parquet.html)
 * [Parquet haussmannien Paris](blog-parquet-haussmannien-paris.html)
-* [Ponçage sans poussière](blog-poncage-sans-poussiere.html)
+* [Ponçage à faible dispersion de poussière](blog-poncage-sans-poussiere.html)
 * [Prix ponçage Paris](blog-prix-poncage-parquet-paris.html)
 * [Urgence parquet Paris](blog-urgence-parquet-paris.html)
 * [100 questions — FAQ complète](100-questions-poncage-parquet-paris.html)

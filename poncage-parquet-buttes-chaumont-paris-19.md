@@ -33,7 +33,7 @@ François Gaillard intervient régulièrement à Buttes-Chaumont et dans tout le
 
 Les parquets point de Hongrie et Versailles, très présents dans le 19e, nécessitent une machine planétaire HTC Husqvarna — ses 3 disques satellites travaillent simultanément dans toutes les directions, sans créer de marques directionnelles. La machine tambour classique est inadaptée pour ces motifs diagonaux.
 
-L'aspiration centrale de la machine, couplée au Festool CTL 48 E à filtre HEPA, capte pratiquement toute la poussière à la source. **Chantier propre, pratiquement sans poussière dans l'appartement.**
+L'aspiration centrale de la machine, couplée au Festool CTL 48 E à filtre HEPA, capte pratiquement toute la poussière à la source. **Chantier propre, avec une dispersion de poussière très réduite dans l'appartement.**
 
 ## Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — le meilleur pour votre parquet
 

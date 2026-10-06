@@ -149,7 +149,7 @@ Remplacement des lames manquantes ou trop abîmées, rebouchage des fissures imp
 
 ### Ponçage progressif — grain 40, 60, 120
 
-Trois passes successives avec la **machine planétaire HTC** Husqvarna. Du grain grossier qui élimine l'ancienne finition au grain fin qui prépare la surface à recevoir le vernis. Pratiquement aucune poussière grâce au système d'aspiration intégré.
+Trois passes successives avec la **machine planétaire HTC** Husqvarna. Du grain grossier qui élimine l'ancienne finition au grain fin qui prépare la surface à recevoir le vernis. Une dispersion de poussière très réduite grâce au système d'aspiration intégré.
 
 4
 

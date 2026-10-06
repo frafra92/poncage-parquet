@@ -39,7 +39,7 @@ Déterminant pour le résultat
 
 ### La machine utilisée — planétaire ou tambour
 
-Demandez explicitement quel matériel l'artisan utilise. Une **machine planétaire** (HTC Husqvarna, Lagler Trio) travaille dans toutes les directions, génère pratiquement zéro poussière, et ne laisse aucune marque directionnelle. C'est indispensable pour les parquets point de Hongrie et Versailles. Une machine tambour classique génère beaucoup de poussière, risque de laisser des rayures sur les poses diagonales, et donne un résultat moins homogène. La différence de qualité est visible et durable.
+Demandez explicitement quel matériel l'artisan utilise. Une **machine planétaire** (HTC Husqvarna, Lagler Trio) travaille dans toutes les directions, génère une dispersion de poussière très réduite, et ne laisse aucune marque directionnelle. C'est indispensable pour les parquets point de Hongrie et Versailles. Une machine tambour classique génère beaucoup de poussière, risque de laisser des rayures sur les poses diagonales, et donne un résultat moins homogène. La différence de qualité est visible et durable.
 
 3
 

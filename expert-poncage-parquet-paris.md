@@ -67,7 +67,7 @@ Technique empruntée à l'industrie de la pierre. Grain diamant 70 systématique
 
 ### Machine planétaire HTC Husqvarna
 
-Le standard le plus élevé du marché. Trois disques satellites, aspiration centrale, pratiquement zéro poussière. Couplée au Festool CTL 48 E à filtre HEPA.
+Le standard le plus élevé du marché. Trois disques satellites, aspiration centrale, une dispersion de poussière très réduite. Couplée au Festool CTL 48 E à filtre HEPA.
 
 🛡️
 
@@ -135,7 +135,7 @@ François Gaillard se spécialise exclusivement dans le ponçage et la vitrifica
 
 ### Adoption de la machine planétaire HTC Husqvarna
 
-Passage de la machine tambour classique à la machine planétaire — tournant technique majeur. Zéro poussière, résultat homogène sur tous types de pose.
+Passage de la machine tambour classique à la machine planétaire — tournant technique majeur. Poussière très réduite, résultat homogène sur tous types de pose.
 
 2019
 

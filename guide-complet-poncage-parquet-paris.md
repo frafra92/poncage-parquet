@@ -102,7 +102,7 @@ HTC 420 · Système planétaire 3 disques · Aspiration centrale
 
 ### Aspirateur Festool CTL 48 E
 
-Aspirateur professionnel à filtre HEPA connecté à la machine. Double filtration qui capte les particules fines que l'aspiration centrale laisse passer. Résultat : pratiquement zéro poussière dans l'appartement.
+Aspirateur professionnel à filtre HEPA connecté à la machine. Double filtration qui capte les particules fines que l'aspiration centrale laisse passer. Résultat : une dispersion de poussière très réduite dans l'appartement.
 
 Festool CTL 48 E · Filtre HEPA · Sac Longlife
 

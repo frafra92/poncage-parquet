@@ -55,7 +55,7 @@ Vérifier l'épaisseur résiduelle au-dessus des rainures — **minimum 3 mm req
 
 ## Premier passage — grain 40
 
-Premier passage avec abrasif grain 40 pour retirer l'ancien vernis et l'usure profonde. **Machine planétaire HTC Husqvarna + abrasifs diamant grain 70**. Aspiration HEPA intégrée — pratiquement zéro poussière.
+Premier passage avec abrasif grain 40 pour retirer l'ancien vernis et l'usure profonde. **Machine planétaire HTC Husqvarna + abrasifs diamant grain 70**. Aspiration HEPA intégrée — une dispersion de poussière très réduite.
 
 💡 Ne jamais commencer par un grain trop fin — le grain 40 est indispensable pour retirer efficacement les anciennes couches.
 

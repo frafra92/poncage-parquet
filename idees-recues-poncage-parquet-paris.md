@@ -25,7 +25,7 @@ Idée reçue
 +
 
 FAUX
-Avec la bonne machine, pratiquement zéro poussière.
+Avec la bonne machine, une dispersion de poussière très réduite.
 
 Cette idée vient d'une époque révolue où les machines tambour projetaient de la sciure dans toute la pièce. Avec une **machine planétaire HTC Husqvarna équipée d'une aspiration centrale** couplée à un aspirateur Festool à filtre HEPA, la poussière est captée directement sous les disques avant de se disperser.
 
@@ -107,7 +107,7 @@ Idée reçue
 FAUX
 On travaille pièce par pièce avec les meubles en place.
 
-Grâce à la machine planétaire sans poussière diffuse, il n'est pas nécessaire de tout vider. On travaille **pièce par pièce** en déplaçant les meubles progressivement. Les meubles dans les pièces déjà traitées ou pas encore traitées ne sont pas affectés.
+Grâce à la machine planétaire à faible dispersion de poussière diffuse, il n'est pas nécessaire de tout vider. On travaille **pièce par pièce** en déplaçant les meubles progressivement. Les meubles dans les pièces déjà traitées ou pas encore traitées ne sont pas affectés.
 
 Un appartement meublé implique un léger supplément (déplacement des meubles), indiqué clairement dans le devis. Mais pas de camion de déménagement, pas de garde-meuble, pas de logistique complexe.
 
@@ -183,7 +183,7 @@ En résumé
 
 🫧
 
-**Zéro poussière**Machine planétaire + Festool HEPA. Pas besoin de vider l'appartement.
+**Poussière très réduite**Machine planétaire + Festool HEPA. Pas besoin de vider l'appartement.
 
 💰
 

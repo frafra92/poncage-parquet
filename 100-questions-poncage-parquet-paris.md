@@ -125,7 +125,7 @@ Aspirateur régulier + serpillière légèrement humide. Éviter l'eau en excès
 
 26Qu'est-ce que la machine planétaire HTC Husqvarna ?Matériel+
 
-Le standard le plus élevé du marché — 3 disques satellites, aspiration centrale intégrée, pratiquement zéro poussière. Elle travaille dans toutes les directions sans créer de marques directionnelles.
+Le standard le plus élevé du marché — 3 disques satellites, aspiration centrale intégrée, une dispersion de poussière très réduite. Elle travaille dans toutes les directions sans créer de marques directionnelles.
 
 27Quelle différence entre machine planétaire et machine tambour ?Matériel+
 
@@ -133,7 +133,7 @@ La planétaire travaille dans toutes les directions — zéro marque directionne
 
 28Qu'est-ce que le Festool CTL 48 E ?Matériel+
 
-L'aspirateur professionnel à filtre HEPA utilisé en complément de la machine planétaire. Il capte les particules fines à la source pour un résultat pratiquement sans poussière.
+L'aspirateur professionnel à filtre HEPA utilisé en complément de la machine planétaire. Il capte les particules fines à la source pour un résultat avec une dispersion de poussière très réduite.
 
 29Qu'est-ce que le [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?Matériel+
 
@@ -197,7 +197,7 @@ Oui. Beaucoup d'appartements parisiens cachent un parquet massif sous la moquett
 
 44Le ponçage génère-t-il de la poussière ?Pratique+
 
-Très peu — la machine planétaire HTC et l'aspirateur Festool HEPA captent la poussière à la source. Pratiquement zéro poussière dans l'appartement.
+Très peu — la machine planétaire HTC et l'aspirateur Festool HEPA captent la poussière à la source. Une dispersion de poussière très réduite dans l'appartement.
 
 45Le ponçage parquet est-il bruyant ?Pratique+
 

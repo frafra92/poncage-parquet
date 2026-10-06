@@ -104,7 +104,7 @@ Ce que les fiches techniques ne disent pas. Mon expérience sur le terrain aprè
 Lire →](comparatif-vitrification-huilage-cire-parquet.html)
 [★ Technique
 
-Ponçage sans poussière — la réalité du chantier
+Ponçage à faible dispersion de poussière — la réalité du chantier
 
 Le Festool CTL 48 E à filtre HEPA capte 99,9% de la poussière à la source. Ce que ça change vraiment pour vous, vos voisins, et la qualité de la finition finale.
 

@@ -139,7 +139,7 @@ Délais flous de réintégration
 
 ### Un artisan qui répond à tout
 
-+220 avis Google · Matériel professionnel sans poussière · Devis écrit détaillé
++220 avis Google · Matériel professionnel à faible dispersion de poussière · Devis écrit détaillé
 
 [Demander un devis gratuit](https://poncageparquetvitrificationfrancois.com/#contact)
 

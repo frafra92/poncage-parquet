@@ -37,7 +37,7 @@ Jour 1
 
 ### Ponçage — première moitié
 
-~30 m² poncés avec la machine planétaire. Passes grain 40 puis 60. Aspiration intégrée — pratiquement zéro poussière.
+~30 m² poncés avec la machine planétaire. Passes grain 40 puis 60. Aspiration intégrée — une dispersion de poussière très réduite.
 
 Jour 2
 

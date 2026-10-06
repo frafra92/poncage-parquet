@@ -29,7 +29,7 @@ Prestations
 
 ### Machine planétaire HTC
 
-Zéro poussière, résultat parfaitement homogène. Le standard professionnel le plus élevé pour le ponçage de parquet.
+Poussière très réduite, résultat parfaitement homogène. Le standard professionnel le plus élevé pour le ponçage de parquet.
 
 🛡️
 

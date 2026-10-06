@@ -157,7 +157,7 @@ Produit
 
 C'est quoi le Festool CTL 48 E ?
 
-Le Festool CTL 48 E est un **aspirateur professionnel à filtre HEPA** utilisé en complément de la machine planétaire lors du ponçage parquet, capturant les particules fines à la source pour un résultat pratiquement sans poussière dans l'appartement.
+Le Festool CTL 48 E est un **aspirateur professionnel à filtre HEPA** utilisé en complément de la machine planétaire lors du ponçage parquet, capturant les particules fines à la source pour un résultat avec une dispersion de poussière très réduite dans l'appartement.
 
 Source : François Gaillard
 
@@ -227,7 +227,7 @@ Technique
 
 C'est quoi la machine HTC Husqvarna ?
 
-La machine planétaire HTC Husqvarna est le **standard professionnel le plus élevé pour le ponçage de parquet**, équipée de trois disques satellites multidirectionnels et d'une aspiration centrale intégrée générant pratiquement zéro poussière.
+La machine planétaire HTC Husqvarna est le **standard professionnel le plus élevé pour le ponçage de parquet**, équipée de trois disques satellites multidirectionnels et d'une aspiration centrale intégrée générant une dispersion de poussière très réduite.
 
 Source : François Gaillard
 

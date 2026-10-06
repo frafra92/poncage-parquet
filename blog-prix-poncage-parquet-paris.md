@@ -54,7 +54,7 @@ Pour la vitrification, j'utilise exclusivement le **Bona Mega Evo**, la référe
 * Disponible en finition mat, satiné ou brillant
 * Résistance exceptionnelle à l'usure et au trafic quotidien
 
-## Un chantier sans poussière
+## Un chantier à faible dispersion de poussière
 
 Mes machines de ponçage sont équipées d'un **système d'aspiration intégrée**. Résultat : votre appartement reste propre pendant le chantier. Pas de poussière dans les meubles, pas de nettoyage interminable après mon passage.
 

@@ -33,7 +33,7 @@ François Gaillard intervient régulièrement dans le 17e arrondissement. **Arti
 
 Les parquets point de Hongrie et Versailles, très présents dans les Ternes et la Plaine Monceau, nécessitent une machine planétaire HTC Husqvarna. Ses 3 disques satellites travaillent dans toutes les directions sans créer de marques directionnelles. Résultat homogène, parfaitement plan, sur tous les motifs diagonaux.
 
-L'aspiration centrale couplée au Festool CTL 48 E à filtre HEPA capte pratiquement toute la poussière à la source. **Chantier propre, pratiquement sans poussière dans l'appartement.**
+L'aspiration centrale couplée au Festool CTL 48 E à filtre HEPA capte pratiquement toute la poussière à la source. **Chantier propre, avec une dispersion de poussière très réduite dans l'appartement.**
 
 ## Vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — 3 couches avec égrenage
 

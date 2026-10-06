@@ -43,7 +43,7 @@ Chaque panneau du motif est traité de façon identique. Le résultat final est 
 
 🫧
 
-### Zéro poussière
+### Poussière très réduite
 
 L'aspiration centrale de la machine planétaire capte la poussière à la source. Pas besoin de protéger les meubles ou les pièces adjacentes pendant le chantier.
 

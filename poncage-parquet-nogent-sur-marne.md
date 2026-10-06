@@ -27,7 +27,7 @@ François Gaillard intervient à Nogent-sur-Marne (94130) pour le ponçage et la
 
 François Gaillard intervient régulièrement à Nogent-sur-Marne et dans tout le département 94. **Artisan indépendant depuis 2016** — c'est lui qui réalise personnellement chaque chantier, du premier passage d'abrasif jusqu'à la dernière couche de vernis. Pas de sous-traitance. Qualité constante.
 
-Machine planétaire HTC Husqvarna 3 disques — pratiquement aucune poussière, zéro marque directionnelle. Vernis [Bona Mega Evo](vitrification-bona-mega-evo-paris.html) 3 couches exclusivement, avec égrenage entre la 1ère et la 2ème couche. **Réintégration possible 8 heures après la dernière couche.**
+Machine planétaire HTC Husqvarna 3 disques — une dispersion de poussière très réduite, zéro marque directionnelle. Vernis [Bona Mega Evo](vitrification-bona-mega-evo-paris.html) 3 couches exclusivement, avec égrenage entre la 1ère et la 2ème couche. **Réintégration possible 8 heures après la dernière couche.**
 
 Devis gratuit par SMS — réponse rapide
 
@@ -48,7 +48,7 @@ Devis par SMS sur 3–4 photos — sans déplacement, réponse rapide.
 
 Les parquets anciens en chêne massif — point de Hongrie, Versailles, lames droites — nécessitent une machine planétaire HTC Husqvarna. Ses 3 disques satellites travaillent simultanément dans toutes les directions, sans créer de marques directionnelles. La machine tambour classique est inadaptée pour ces motifs.
 
-L'aspiration centrale de la machine, couplée au Festool CTL 48 E à filtre HEPA, capte pratiquement toute la poussière à la source. **Chantier propre, pratiquement sans poussière dans l'appartement.**
+L'aspiration centrale de la machine, couplée au Festool CTL 48 E à filtre HEPA, capte pratiquement toute la poussière à la source. **Chantier propre, avec une dispersion de poussière très réduite dans l'appartement.**
 
 ## Vitrification [Bona Mega Evo](vitrification-bona-mega-evo-paris.html) — le meilleur pour votre parquet
 

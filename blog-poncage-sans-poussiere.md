@@ -1,6 +1,6 @@
 ---
 title: Ponçage parquet sans poussière Paris | François Gaillard — Artisan parqueteur
-description: Comment fonctionne un chantier de ponçage parquet sans poussière à Paris ? Machines à aspiration intégrée, protection des pièces, durée. Par François Gaillard, 220 avis 5 étoiles.
+description: Comment fonctionne un chantier de ponçage parquet à faible dispersion de poussière à Paris ? Machines à aspiration intégrée, protection des pièces, durée. Par François Gaillard, 220 avis 5 étoiles.
 url: https://poncageparquetvitrificationfrancois.com/blog-poncage-sans-poussiere.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/blog-poncage-sans-poussiere.md
 last_updated: 2026-04-30
@@ -49,7 +49,7 @@ Pour un appartement standard :
 
 Vous pouvez marcher légèrement sur le parquet après **8 heures**. Charge complète le lendemain.
 
-### Devis gratuit · Chantier propre garanti
+### Devis gratuit · Chantier propre grâce à l'aspiration à la source
 
 Je me déplace gratuitement dans tout Paris et l'IDF.
 

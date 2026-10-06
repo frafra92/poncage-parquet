@@ -48,7 +48,7 @@ Devis gratuit, déplacement sans engagement dans tout Paris.
 
 [☎️ 07 83 92 58 94](tel:0783925894)
 
-[← Chantier sans poussière](blog-poncage-sans-poussiere.html) · [Combien de fois peut-on poncer ? →](blog-combien-fois-poncer-parquet.html)
+[← Chantier à faible dispersion de poussière](blog-poncage-sans-poussiere.html) · [Combien de fois peut-on poncer ? →](blog-combien-fois-poncer-parquet.html)
 
 Disponible · 66 € TTC/m²
 

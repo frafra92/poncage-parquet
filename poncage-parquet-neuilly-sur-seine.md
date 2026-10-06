@@ -35,7 +35,7 @@ Neuilly possède un riche patrimoine de parquets haussmanniens — point de Hong
 
 ### Machine planétaire
 
-HTC Husqvarna — pratiquement zéro poussière, résultat parfaitement lisse. Le standard professionnel le plus élevé disponible.
+HTC Husqvarna — une dispersion de poussière très réduite, résultat parfaitement lisse. Le standard professionnel le plus élevé disponible.
 
 🛡️
 

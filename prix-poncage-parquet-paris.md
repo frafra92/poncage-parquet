@@ -84,7 +84,7 @@ Réintégration en 8h
 Vous rentrez chez vous le soir même. Pas de nuit à l'hôtel, pas de contrainte de logement prolongée.
 
 ✓
-Zéro poussière
+Poussière très réduite
 Machine planétaire avec aspiration intégrée. Pas besoin de protéger les meubles des pièces adjacentes.
 
 Suppléments éventuels

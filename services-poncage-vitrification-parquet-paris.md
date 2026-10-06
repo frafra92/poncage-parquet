@@ -38,7 +38,7 @@ Mis à jour le 19 avril 2026
 
 ## Ponçage parquet
 
-Machine planétaire HTC Husqvarna 3 disques satellites. Abrasifs diamant grain 70, séquence papier 40/60/120. Aspiration HEPA Festool — pratiquement zéro poussière. 20 m² par jour.
+Machine planétaire HTC Husqvarna 3 disques satellites. Abrasifs diamant grain 70, séquence papier 40/60/120. Aspiration HEPA Festool — une dispersion de poussière très réduite. 20 m² par jour.
 
 Inclus · 66 € TTC/m²
 

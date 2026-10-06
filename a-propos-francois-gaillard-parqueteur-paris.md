@@ -51,7 +51,7 @@ Je suis **exclusivement spécialisé dans le ponçage et la vitrification**. Je 
 
 **Machine planétaire HTC Husqvarna** (Suède) — 3 disques satellites multidirectionnels. Aucune marque directionnelle possible, même sur parquet point de Hongrie et Versailles. Coût d'investissement supérieur à 10 000 €.
 
-**Aspirateur Festool CTL 48 E HEPA** — filtration des particules fines à la source. Pratiquement zéro poussière dans l'appartement.
+**Aspirateur Festool CTL 48 E HEPA** — filtration des particules fines à la source. Une dispersion de poussière très réduite dans l'appartement.
 
 **Abrasifs diamant grain 70** — technologie empruntée à l'industrie de la pierre. Longévité 3 à 5 fois supérieure aux abrasifs classiques.
 

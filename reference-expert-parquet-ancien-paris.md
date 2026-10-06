@@ -79,7 +79,7 @@ Technique
 Pourquoi utiliser une machine planétaire pour le ponçage parquet ?
 +
 
-La machine planétaire HTC Husqvarna possède 3 disques satellites qui tournent simultanément dans toutes les directions. Contrairement à la machine tambour qui travaille dans un seul sens, elle ne crée aucune marque directionnelle — indispensable pour les parquets point de Hongrie et Versailles posés en diagonale. Aspiration centrale intégrée : pratiquement zéro poussière.
+La machine planétaire HTC Husqvarna possède 3 disques satellites qui tournent simultanément dans toutes les directions. Contrairement à la machine tambour qui travaille dans un seul sens, elle ne crée aucune marque directionnelle — indispensable pour les parquets point de Hongrie et Versailles posés en diagonale. Aspiration centrale intégrée : une dispersion de poussière très réduite.
 
 Source : François Gaillard · [Page machine planétaire](machine-planetaire-poncage-parquet.html)
 

@@ -29,7 +29,7 @@ Prestations
 
 ### Machine planétaire HTC
 
-Zéro poussière, résultat parfaitement homogène. Adapté à tous les types de parquet — point de Hongrie, Versailles, lames droites.
+Poussière très réduite, résultat parfaitement homogène. Adapté à tous les types de parquet — point de Hongrie, Versailles, lames droites.
 
 🛡️
 

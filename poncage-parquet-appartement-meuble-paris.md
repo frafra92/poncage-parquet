@@ -11,7 +11,7 @@ Chantier flexible · Appartement meublé
 
 # Ponçage parquet appartement *meublé*
 
-Pas besoin de tout vider avant un ponçage. Grâce à la machine planétaire et à son aspiration intégrée, on travaille pièce par pièce sans poussière diffuse. Un supplément est appliqué pour les appartements meublés.
+Pas besoin de tout vider avant un ponçage. Grâce à la machine planétaire et à son aspiration intégrée, on travaille pièce par pièce à faible dispersion de poussière diffuse. Un supplément est appliqué pour les appartements meublés.
 
 **Oui, c'est possible.** La machine planétaire HTC Husqvarna ne génère pratiquement pas de poussière — inutile de vider l'appartement. On déplace les meubles progressivement, pièce par pièce. Le bruit reste présent : prévenez les voisins.
 
@@ -23,13 +23,13 @@ Déroulement
 
 ### Déplacement des meubles de la 1ère pièce
 
-On commence par une pièce, on déplace tous les meubles dans le couloir ou la pièce adjacente. La machine planétaire ponce sans poussière — les meubles déplacés ne sont pas affectés.
+On commence par une pièce, on déplace tous les meubles dans le couloir ou la pièce adjacente. La machine planétaire ponce à faible dispersion de poussière — les meubles déplacés ne sont pas affectés.
 
 2
 
 ### Ponçage de la 1ère pièce
 
-Ponçage complet avec la machine planétaire — grain 40, 60, 120. Surface parfaitement plane, pratiquement zéro poussière.
+Ponçage complet avec la machine planétaire — grain 40, 60, 120. Surface parfaitement plane, une dispersion de poussière très réduite.
 
 3
 
@@ -49,7 +49,7 @@ Avantages
 
 🫧
 
-### Zéro poussière diffuse
+### Poussière très réduite diffuse
 
 La machine planétaire capte la poussière à la source. Les meubles dans les pièces adjacentes restent propres — pas de film plastique, pas de bâches.
 
@@ -97,7 +97,7 @@ Légèrement plus long qu'un appartement vide en raison du déplacement des meub
 
 [Chantier
 
-### Ponçage sans poussière Paris](poncage-parquet-sans-poussiere-paris.html)
+### Ponçage à faible dispersion de poussière Paris](poncage-parquet-sans-poussiere-paris.html)
 [Matériel
 
 ### Machine planétaire HTC Husqvarna](machine-planetaire-poncage-parquet.html)
