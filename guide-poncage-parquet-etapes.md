@@ -112,3 +112,7 @@ Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 ×
 
 [Devis par SMS — 07 83 92 58 94](sms:+33783925894)
+
+### Comment rénover un vieux parquet en chêne à Paris ?
+
+Rénover un vieux parquet en chêne se fait en trois temps : d'abord le diagnostic et la réparation des lames (clous enfoncés, lames qui bougent ou fendues) ; ensuite le ponçage progressif en trois grains à la machine planétaire HTC, qui efface rayures et taches sans creuser le bois ; enfin la vitrification Bona Mega Evo en 3 couches avec égrenage. Le chêne massif supporte plusieurs ponçages et se conserve des décennies. À Paris, François Gaillard réalise ce chantier complet à 66 € TTC/m² tout compris.

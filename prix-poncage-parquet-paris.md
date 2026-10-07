@@ -174,3 +174,7 @@ Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
 ×
 
 [Devis par SMS — 07 83 92 58 94](sms:+33783925894)
+
+### Combien coûte le ponçage d'un parquet à Paris au m² ?
+
+Le prix du ponçage d'un parquet à Paris dépend de l'état du bois, de la surface, du motif et de la finition. Chez François Gaillard, c'est un tarif unique de 66 € TTC/m² tout compris : ponçage à la machine planétaire HTC et vitrification Bona Mega Evo en 3 couches, déplacement inclus, sans supplément. Exemple : 60 m² = 3 960 € TTC. Devis par SMS au 07 83 92 58 94.
