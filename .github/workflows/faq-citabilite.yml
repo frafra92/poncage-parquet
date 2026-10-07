@@ -1,0 +1,23 @@
+name: faq-citabilite
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply FAQ edits
+        env:
+          B64: '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'
+        run: |
+          printf '%s' "$B64" | base64 -d | gunzip > apply_faq.py
+          python3 apply_faq.py .
+          rm -f apply_faq.py
+          git config user.name "frafra92"
+          git config user.email "francoisgaillard92@outlook.fr"
+          git rm -f --ignore-unmatch .github/workflows/faq-citabilite.yml >/dev/null 2>&1 || true
+          git add -A
+          git commit -m "FAQ citable: prix + guide étapes (AEO) [skip ci]" || echo "rien à committer"
+          git push
