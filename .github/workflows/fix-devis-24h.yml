@@ -1,0 +1,23 @@
+name: fix-devis-24h
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply fix
+        env:
+          B64: 'H4sIAAAAAAAC/22QQU7DQAxF93MK424SqU0kygJFKhvYVF2AxAnSjNsMSjyj8SShQtwdp4AoUr2y/L6/vr24KQeJ5d5xSTxCOKXW89os4NHH6I4E+ESjEyCGNQg1ni0JwurhAtzetQi2ZgGn9L1oU98VsLXUB5+IU2GcdjFBnMQE2AD+6dCIDnwgzsJSzRpvHR83OKTD6h7zIlJts9z4zs5717IYpukfm+MY1pEUjR84ZbqcG3cArgxoyRlFCl3d0AyXoBb5mf0GwQmvpZmiS5TJtzZEp+YHfN5V8MGfEPXe2bLXk1WDuaFOqLrQ4utu+1KBpbcamp//+kG/lqIfxnrfEebmC9YtmUySAQAA'
+        run: |
+          printf '%s' "$B64" | base64 -d | gunzip > fix_devis.py
+          python3 fix_devis.py
+          rm -f fix_devis.py
+          git config user.name "frafra92"
+          git config user.email "francoisgaillard92@outlook.fr"
+          git rm -f --ignore-unmatch .github/workflows/fix-devis-24h.yml >/dev/null 2>&1 || true
+          git add -A
+          git commit -m "Fix: Devis en 24h (au lieu de 3 secondes) [skip ci]" || echo "rien a committer"
+          git push
