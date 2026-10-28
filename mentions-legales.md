@@ -71,7 +71,7 @@ Conformément au RGPD, vous disposez d'un droit d'accès, de rectification et de
 
 Cookies
 
-Ce site n'utilise aucun cookie de tracking ou publicitaire. Les seuls cookies éventuellement déposés sont ceux liés à l'hébergement GitHub Pages, sur lesquels nous n'avons pas de contrôle direct.
+Ce site utilise Google Analytics (Google LLC) pour mesurer son audience : des cookies de mesure (de type « _ga ») sont déposés dans votre navigateur afin de compter les visites et les pages consultées. Ce site n'affiche aucune publicité. Vous pouvez refuser cette mesure en installant le [module de désactivation de Google Analytics](https://tools.google.com/dlpage/gaoptout) ou en réglant votre navigateur pour bloquer les cookies. L'hébergeur GitHub Pages peut également déposer ses propres cookies techniques, sur lesquels nous n'avons pas de contrôle direct.
 
 ### Devis par SMS sur photos
 
