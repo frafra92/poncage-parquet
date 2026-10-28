@@ -9,12 +9,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Apply fix
-        env:
-          B64: 'H4sIAAAAAAAC/4WRTU7DMBCF9z7F4G6S/iQIWKBKQWKBBBISm14gTSatkTO27HFLVfVA3XODXgwnFeWnSHhhj8bfvCc/Dy7y4F0+V5QjrcBueGnoWgzgsXStIeURJJdONdCgaxHqkjzoEl5NcHTYo4TJ3U/Cm+Dh6mYpwQcHbAKDjnOHvT28cwZPNbbWMBJnQsXKMSy0mQuja6j+iRLE69/QyU6w4VLH60vRGAcWFPXKWbclcjjMh9mSWy3H4LAKzqsVFjMXMIXRGdjW59hUQFzsNseiWz7aGYuU2DEgVaZWtChk4GZyK9PMYVknaQ/jW4WW4aE/lKEvicoQKwrYNyjq+awygTiJgRxn41O/8Z92ci3/8lw7xZj46G11WWGnMoYYW5qeFI45jQqgU8s6FR0bCbC1uylsaSdT8dmcvczun2MYba/Yxp/zEelVOuwDBrPQ6kICAAA='
         run: |
-          printf '%s' "$B64" | base64 -d | gunzip > fix_24h.py
-          python3 fix_24h.py
-          rm -f fix_24h.py
+          python3 - <<'EOF'
+          import glob
+          old = "tarif ferme dans la journée"
+          new = "tarif ferme sous 24h"
+          total = 0
+          for p in glob.glob("**/*.html", recursive=True) + glob.glob("**/*.md", recursive=True):
+              try:
+                  s = open(p, encoding="utf-8").read()
+              except Exception:
+                  continue
+              if old in s:
+                  open(p, "w", encoding="utf-8").write(s.replace(old, new))
+                  total += s.count(old)
+                  print(p)
+          print("TOTAL", total)
+          EOF
           git config user.name "frafra92"
           git config user.email "francoisgaillard92@outlook.fr"
           git rm -f --ignore-unmatch .github/workflows/fix-ferme-24h.yml >/dev/null 2>&1 || true
