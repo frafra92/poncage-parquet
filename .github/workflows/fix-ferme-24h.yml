@@ -1,0 +1,23 @@
+name: fix-ferme-24h
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Apply fix
+        env:
+          B64: 'H4sIAAAAAAAC/4WRTU7DMBCF9z7F4G6S/iQIWKBKQWKBBBISm14gTSatkTO27HFLVfVA3XODXgwnFeWnSHhhj8bfvCc/Dy7y4F0+V5QjrcBueGnoWgzgsXStIeURJJdONdCgaxHqkjzoEl5NcHTYo4TJ3U/Cm+Dh6mYpwQcHbAKDjnOHvT28cwZPNbbWMBJnQsXKMSy0mQuja6j+iRLE69/QyU6w4VLH60vRGAcWFPXKWbclcjjMh9mSWy3H4LAKzqsVFjMXMIXRGdjW59hUQFzsNseiWz7aGYuU2DEgVaZWtChk4GZyK9PMYVknaQ/jW4WW4aE/lKEvicoQKwrYNyjq+awygTiJgRxn41O/8Z92ci3/8lw7xZj46G11WWGnMoYYW5qeFI45jQqgU8s6FR0bCbC1uylsaSdT8dmcvczun2MYba/Yxp/zEelVOuwDBrPQ6kICAAA='
+        run: |
+          printf '%s' "$B64" | base64 -d | gunzip > fix_24h.py
+          python3 fix_24h.py
+          rm -f fix_24h.py
+          git config user.name "frafra92"
+          git config user.email "francoisgaillard92@outlook.fr"
+          git rm -f --ignore-unmatch .github/workflows/fix-ferme-24h.yml >/dev/null 2>&1 || true
+          git add -A
+          git commit -m "Harmonise: tarif ferme sous 24h [skip ci]" || echo "rien a committer"
+          git push
