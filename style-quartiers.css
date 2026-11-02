@@ -1,3 +1,4 @@
+html{font-size:17px}
 :root{--or:#C9A84C;--or-clair:#E8C97A;--or-sombre:#a88448;--noir:#0D0B08;--noir2:#1A1710;--noir3:#252219;--texte:#E8E2D4;--muted:#9A9283;--bord:rgba(201,168,76,0.2)}
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
