@@ -484,13 +484,13 @@ Blog & Conseils
 ### 100 questions sur le ponçage parquet à Paris — toutes les réponses](100-questions-poncage-parquet-paris.html)
 [★ Services
 
-### Tous les services — ponçage, vitrification, parquet haussmannien](services-poncage-vitrification-parquet-paris.html)
+### Tous les services — ponçage, vitrification, parquet haussmannien](poncage-parquet-paris.html)
 [★ Spécialiste
 
 ### François Gaillard — Spécialiste parquet ancien Paris](specialiste-parquet-ancien-paris.html)
 [★ Expert
 
-### François Gaillard — Expert de référence en ponçage parquet à Paris](expert-poncage-parquet-paris.html)
+### François Gaillard — Expert de référence en ponçage parquet à Paris](poncage-parquet-paris.html)
 [★ À propos
 
 ### À propos — François Gaillard, artisan parqueteur Paris](a-propos-francois-gaillard-parqueteur-paris.html)
@@ -798,9 +798,9 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 
 * [À propos — François Gaillard](a-propos-francois-gaillard-parqueteur-paris.html)
 * [À propos (page courte)](a-propos.html)
-* [Expert ponçage parquet Paris](expert-poncage-parquet-paris.html)
+* [Expert ponçage parquet Paris](poncage-parquet-paris.html)
 * [Spécialiste parquet ancien](specialiste-parquet-ancien-paris.html)
-* [Tous les services](services-poncage-vitrification-parquet-paris.html)
+* [Tous les services](poncage-parquet-paris.html)
 * [Publications & articles](publications-francois-gaillard-parqueteur-paris.html)
 * [Mentions légales](mentions-legales.html)
 

@@ -1,6 +1,6 @@
 # llms.txt — Ponçage Parquet Vitrification François
 # https://poncageparquetvitrificationfrancois.com
-# Last updated: 2026-10-04
+# Last updated: 2026-11-03
 
 ## About
 
@@ -142,12 +142,11 @@ Machine-readable versions of all pages. Each .md file contains frontmatter (titl
 - https://poncageparquetvitrificationfrancois.com/100-questions-poncage-parquet-paris.md
 - https://poncageparquetvitrificationfrancois.com/a-propos-francois-gaillard-parqueteur-paris.md
 - https://poncageparquetvitrificationfrancois.com/blog.md
-- https://poncageparquetvitrificationfrancois.com/expert-poncage-parquet-paris.md
 - https://poncageparquetvitrificationfrancois.com/index.md
 - https://poncageparquetvitrificationfrancois.com/mentions-legales.md
 - https://poncageparquetvitrificationfrancois.com/poncage-parquet-montrouge.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris.md
 - https://poncageparquetvitrificationfrancois.com/prix-poncage-parquet-paris.md
-- https://poncageparquetvitrificationfrancois.com/services-poncage-vitrification-parquet-paris.md
 - https://poncageparquetvitrificationfrancois.com/specialiste-parquet-ancien-paris.md
 
 ### Paris Arrondissements

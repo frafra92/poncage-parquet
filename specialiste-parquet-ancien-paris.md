@@ -196,7 +196,7 @@ Parquet haussmannien · Point de Hongrie · Versailles · Chêne massif ancien
 66 € TTC/m² · 220+ avis · Devis SMS sur photos
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
-[Page expert complète](expert-poncage-parquet-paris.html)
+[Page expert complète](poncage-parquet-paris.html)
 
 Disponible · 66 € TTC/m²
 
