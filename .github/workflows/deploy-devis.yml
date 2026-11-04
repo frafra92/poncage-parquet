@@ -1,0 +1,53 @@
+name: deploy-devis
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: edits
+        run: |
+          python3 - <<'PY'
+          import pathlib, re, glob
+          MAIN="devis-poncage-parquet-paris.html"
+          BASE="https://poncageparquetvitrificationfrancois.com/"
+          # 1) Canonical des 2 doublons -> principale
+          canon=[
+          ("devis-poncage-parquet-gratuit-paris.html",
+           '<link rel="canonical" href="'+BASE+'devis-poncage-parquet-gratuit-paris.html">',
+           '<link rel="canonical" href="'+BASE+MAIN+'">'),
+          ("devis-rapide.html",
+           '<link rel="canonical" href="'+BASE+'devis-rapide.html" />',
+           '<link rel="canonical" href="'+BASE+MAIN+'" />'),
+          ]
+          for fn, old, new in canon:
+              p=pathlib.Path(fn); s=p.read_text(encoding="utf-8")
+              if old in s:
+                  p.write_text(s.replace(old,new,1),encoding="utf-8"); print("canonical ->", fn)
+              elif new in s: print("canonical deja", fn)
+              else: print("CANONICAL INTROUVABLE", fn)
+          # 2) Sitemap : retirer les 2 blocs <url> des doublons
+          sm=pathlib.Path("sitemap.xml"); xs=sm.read_text(encoding="utf-8"); o=xs
+          for slug in ["devis-poncage-parquet-gratuit-paris.html","devis-rapide.html"]:
+              xs=re.sub(r'\s*<url>\s*<loc>[^<]*'+re.escape(slug)+r'</loc>.*?</url>', '', xs, flags=re.S)
+          if xs!=o: sm.write_text(xs,encoding="utf-8"); print("sitemap nettoye")
+          # 3) Repointer les liens internes -> principale
+          rep=0
+          for f in glob.glob("*.html"):
+              p=pathlib.Path(f); s=p.read_text(encoding="utf-8"); o=s
+              s=s.replace('href="devis-poncage-parquet-gratuit-paris.html"','href="'+MAIN+'"')
+              s=s.replace('href="devis-rapide.html"','href="'+MAIN+'"')
+              if s!=o: p.write_text(s,encoding="utf-8"); rep+=1
+          print("liens repointes dans", rep, "pages")
+
+          PY
+      - name: commit
+        run: |
+          rm -f .github/workflows/deploy-devis.yml
+          git config user.name "François Gaillard"
+          git config user.email "frafra92@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Nettoyage pages devis : canonical + sitemap + liens vers la page devis principale"
+          git push
