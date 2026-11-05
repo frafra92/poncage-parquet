@@ -1,0 +1,45 @@
+name: deploy-redirect
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: edits
+        run: |
+          python3 - <<'PY'
+          import pathlib
+          MAIN="devis-poncage-parquet-paris.html"
+          STUB='''<!DOCTYPE html>
+          <html lang="fr">
+          <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Redirection — Devis ponçage parquet Paris</title>
+          <meta name="robots" content="noindex, follow">
+          <link rel="canonical" href="https://poncageparquetvitrificationfrancois.com/devis-poncage-parquet-paris.html">
+          <meta http-equiv="refresh" content="0; url=devis-poncage-parquet-paris.html">
+          <script>window.location.replace("devis-poncage-parquet-paris.html");</script>
+          </head>
+          <body>
+          <p>Cette page a été regroupée avec <a href="devis-poncage-parquet-paris.html">Devis ponçage parquet Paris</a>.</p>
+          </body>
+          </html>
+          '''
+          for fn in ["devis-poncage-parquet-gratuit-paris.html","devis-rapide.html"]:
+              p=pathlib.Path(fn)
+              if p.read_text(encoding="utf-8")==STUB:
+                  print("deja redirige", fn); continue
+              p.write_text(STUB, encoding="utf-8"); print("redirige ->", fn)
+
+          PY
+      - name: commit
+        run: |
+          rm -f .github/workflows/deploy-redirect.yml
+          git config user.name "François Gaillard"
+          git config user.email "frafra92@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Pages devis doublons transformees en redirections vers la page devis principale"
+          git push
