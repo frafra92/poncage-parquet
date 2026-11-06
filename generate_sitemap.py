@@ -96,12 +96,37 @@ def git_lastmod(name):
     return date.today().isoformat()
 
 
+def magazine_loc(path):
+    """Chemin de fichier -> URL répertoire (trailing slash), index.html retiré."""
+    rel = path[:-len("index.html")] if path.endswith("index.html") else path
+    rel = rel.strip("/")
+    return f"{BASE_URL}/{rel}/" if rel else f"{BASE_URL}/"
+
+
 def main():
     existing = load_existing("sitemap.xml")
-    files = sorted(
+
+    # Pages à la racine (comportement historique : .../page.html)
+    root_files = sorted(
         f for f in glob.glob("*.html")
         if not is_excluded(f) and not is_redirect(f)
     )
+    # Rubrique éditoriale "Les Secrets du Parquet" : URLs répertoire (.../.../).
+    mag_files = sorted(
+        f for f in glob.glob("les-secrets-du-parquet/**/index.html", recursive=True)
+        if not is_redirect(f)
+    )
+
+    # (loc, fichier_pour_lastmod, priorité_defaut, changefreq_defaut)
+    entries = []
+    for name in root_files:
+        sp = SPECIAL.get(name, {})
+        entries.append((f"{BASE_URL}/{name}", name,
+                        sp.get("priority", DEFAULT_PRIORITY),
+                        sp.get("changefreq", DEFAULT_CHANGEFREQ)))
+    for path in mag_files:
+        pr = "0.8" if path == "les-secrets-du-parquet/index.html" else "0.7"
+        entries.append((magazine_loc(path), path, pr, "monthly"))
 
     lines = [
         "<?xml version='1.0' encoding='utf-8'?>",
@@ -110,19 +135,17 @@ def main():
     ]
 
     added = []
-    for name in files:
-        loc = f"{BASE_URL}/{name}"
+    for loc, fname, def_priority, def_changefreq in entries:
         prev = existing.get(loc)
         if prev:
-            priority = prev[0] or DEFAULT_PRIORITY
-            changefreq = prev[1] or DEFAULT_CHANGEFREQ
+            priority = prev[0] or def_priority
+            changefreq = prev[1] or def_changefreq
         else:
-            sp = SPECIAL.get(name, {})
-            priority = sp.get("priority", DEFAULT_PRIORITY)
-            changefreq = sp.get("changefreq", DEFAULT_CHANGEFREQ)
-            added.append(name)
+            priority = def_priority
+            changefreq = def_changefreq
+            added.append(loc)
 
-        lastmod = git_lastmod(name)
+        lastmod = git_lastmod(fname)
         lines += [
             "  <url>",
             f"    <loc>{loc}</loc>",
@@ -136,7 +159,7 @@ def main():
     with open("sitemap.xml", "w", encoding="utf-8") as fh:
         fh.write("\n".join(lines) + "\n")
 
-    print(f"Sitemap généré : {len(files)} pages.")
+    print(f"Sitemap généré : {len(entries)} pages ({len(mag_files)} magazine).")
     if added:
         print(f"{len(added)} nouvelle(s) page(s) ajoutée(s) :")
         for n in added:
