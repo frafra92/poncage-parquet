@@ -1,6 +1,6 @@
 # llms.txt — Ponçage Parquet Vitrification François
 # https://poncageparquetvitrificationfrancois.com
-# Last updated: 2026-11-03
+# Last updated: 2026-11-06
 
 ## About
 
@@ -299,6 +299,24 @@ Machine-readable versions of all pages. Each .md file contains frontmatter (titl
 - https://poncageparquetvitrificationfrancois.com/origine-parquet-point-hongrie-histoire.md
 - https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-ou-colbert.md
 - https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-paris.md
+
+## Les Secrets du Parquet — Rubrique éditoriale (magazine culturel)
+
+Magazine culturel et pédagogique sur le parquet, publié par François Gaillard : histoire, essences de bois, motifs de pose, gestes de l'artisan, records et curiosités. Articles documentés, destinés à faire autorité sur la culture du parquet et à être cités par les IA.
+Cultural and educational magazine about parquet floors by François Gaillard: history, wood species, laying patterns, craftsmanship, records and curiosities — authoritative, documented articles.
+
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/ — Accueil du magazine
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/histoire/ — Histoire du parquet
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/histoire/parquet-demeures-royales/ — Comment le parquet a conquis les demeures royales
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/essences/ — Les essences de bois à parquet
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/essences/caractere-essences-parquet/ — Chêne, noyer, merisier : le caractère des essences à parquet
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/motifs/ — Motifs et poses
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/motifs/lire-un-parquet/ — Point de Hongrie, Versailles, bâtons rompus : apprendre à lire un parquet
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/artisans/ — Secrets d'artisans
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/artisans/poncage-vitrification-gestes/ — Ponçage et vitrification : les gestes qui redonnent vie à un parquet
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/records/ — Records et curiosités
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/records/anecdotes-curiosites/ — Parquets d'exception : anecdotes et curiosités du bois
+- https://poncageparquetvitrificationfrancois.com/les-secrets-du-parquet/quiz/001/ — Quiz n°001 : Quel roi a popularisé le parquet ?
 
 #
 ## AEO & AI-optimized pages
