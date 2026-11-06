@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Les Secrets du Parquet — Maquette (proposition)</title>
+<meta name="description" content="L'histoire, l'art et les mystères du bois — la rubrique éditoriale de Ponçage Parquet Vitrification François.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --nuit:#101D32;--nuit-deep:#0B1422;--or:#C6A15B;--or-clair:#D8BC82;
+    --ivoire:#E9DFC9;--ivoire-pur:#F3ECDD;--brun:#382719;--texte-sombre:#2B2015;
+    --filet:rgba(198,161,91,.42);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--nuit);color:var(--ivoire);font-family:'Lato',sans-serif;font-weight:300;line-height:1.7;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  h1,h2,h3{font-family:'Cinzel',serif;font-weight:500;line-height:1.2;letter-spacing:.04em}
+  a{color:inherit;text-decoration:none}
+  img{max-width:100%;display:block}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+  .fleuron{display:flex;align-items:center;justify-content:center;gap:16px;color:var(--or);margin:24px 0}
+  .fleuron::before,.fleuron::after{content:"";height:1px;width:64px;background:linear-gradient(90deg,transparent,var(--filet))}
+  .fleuron::after{background:linear-gradient(90deg,var(--filet),transparent)}
+  .fleuron svg{width:24px;height:24px;opacity:.95}
+
+  /* HEADER */
+  header{position:sticky;top:0;z-index:50;background:rgba(11,20,34,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--filet)}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:66px}
+  .brand{display:flex;align-items:center;gap:11px;font-family:'Cinzel',serif;font-size:clamp(.56rem,1.4vw,.78rem);letter-spacing:.09em;line-height:1.1;color:var(--ivoire-pur);max-width:64vw}
+  .brand b{color:var(--or);font-weight:600}
+  .emblem{color:var(--or);flex:0 0 auto}
+  .brand .emblem{width:30px;height:30px}
+  .menu{display:flex;align-items:center;gap:28px;list-style:none}
+  .menu a{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#C9D2DF;transition:color .25s}
+  .menu a:hover,.menu a:focus-visible{color:var(--or-clair)}
+  .menu .active{color:var(--or)}
+  .sms{font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--or-clair);border:1px solid var(--filet);border-radius:2px;padding:9px 15px;transition:all .25s;white-space:nowrap}
+  .sms:hover,.sms:focus-visible{background:var(--or);color:var(--nuit-deep);border-color:var(--or)}
+  .burger{display:none;background:none;border:0;color:var(--ivoire);cursor:pointer;padding:6px}
+  .burger svg{width:26px;height:26px}
+
+  /* HERO */
+  .hero{position:relative;min-height:94vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:80px 24px;overflow:hidden}
+  .hero-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}
+  .hero-overlay{position:absolute;inset:0;z-index:1;background:
+    radial-gradient(120% 95% at 50% 8%, rgba(198,161,91,.16), transparent 46%),
+    radial-gradient(110% 75% at 50% 44%, rgba(11,20,34,.14), rgba(11,20,34,.58) 74%),
+    linear-gradient(180deg, rgba(11,20,34,.58), rgba(11,20,34,.18) 38%, rgba(11,20,34,.74))}
+  .scroll-ind{position:absolute;left:0;right:0;bottom:50px;z-index:3;display:flex;justify-content:center;color:var(--or-clair);animation:bob 2.4s ease-in-out infinite}
+  .scroll-ind svg{width:30px;height:30px;opacity:.8}
+  @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}
+  .cartouche{position:relative;z-index:2;max-width:720px;padding:48px 44px;background:rgba(9,16,28,.52);border:1px solid var(--or);backdrop-filter:blur(2px)}
+  .cartouche::before{content:"";position:absolute;inset:7px;border:1px solid rgba(198,161,91,.5);pointer-events:none}
+  .cartouche .corner{position:absolute;width:16px;height:16px;border:1px solid var(--or-clair);z-index:3}
+  .c1{top:-1px;left:-1px;border-right:0;border-bottom:0}
+  .c2{top:-1px;right:-1px;border-left:0;border-bottom:0}
+  .c3{bottom:-1px;left:-1px;border-right:0;border-top:0}
+  .c4{bottom:-1px;right:-1px;border-left:0;border-top:0}
+  .hero-kicker{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:1.1rem;color:var(--or-clair);letter-spacing:.05em;margin-bottom:14px}
+  .hero h1{font-size:clamp(2rem,6vw,4.2rem);font-weight:500;color:var(--ivoire-pur);letter-spacing:.1em;text-shadow:0 2px 30px rgba(0,0,0,.6)}
+  .hero-sub{font-family:'Cormorant Garamond',serif;font-size:clamp(1.1rem,2.4vw,1.5rem);font-style:italic;color:var(--ivoire);margin-top:12px;letter-spacing:.02em}
+  .hero-lede{max-width:44ch;margin:20px auto 0;color:#E4D9BD;font-size:.98rem;font-weight:300}
+  .hero-note{position:absolute;left:0;right:0;bottom:14px;z-index:3;font-family:'Cormorant Garamond',serif;font-style:italic;font-size:.8rem;color:rgba(233,223,201,.6)}
+
+  section{padding:82px 0}
+  .sec-head{text-align:center;margin-bottom:14px}
+  .sec-head h2{font-size:clamp(1.5rem,3.6vw,2.3rem);color:var(--ivoire-pur)}
+  .sec-head p{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:1.2rem;color:var(--or-clair);margin-top:6px}
+
+  /* CINQ UNIVERS */
+  .univers{background:linear-gradient(180deg,#101D32,#0d1726)}
+  .grid5{display:grid;grid-template-columns:repeat(6,1fr);gap:18px;margin-top:40px}
+  .card{position:relative;border:1px solid rgba(198,161,91,.26);overflow:hidden;min-height:234px;display:flex;flex-direction:column;justify-content:flex-end;transition:border-color .35s, transform .35s;background:#0e1828}
+  .card:hover{border-color:var(--or);transform:translateY(-3px)}
+  .cph{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;transition:transform .6s ease}
+  .card:hover .cph{transform:scale(1.04)}
+  .card-shade{position:absolute;inset:0;z-index:1;background:linear-gradient(180deg, rgba(11,18,30,.08) 28%, rgba(10,16,28,.78) 72%, rgba(9,14,24,.95))}
+  .card-body{position:relative;z-index:2;padding:22px}
+  .card h3{font-size:1.02rem;color:var(--ivoire-pur);letter-spacing:.06em;display:flex;align-items:center;gap:9px}
+  .card h3 svg{width:17px;height:17px;color:var(--or);flex:0 0 auto}
+  .card-rule{height:1px;width:38px;background:var(--or);margin:10px 0}
+  .card p{font-family:'Cormorant Garamond',serif;font-size:1.04rem;color:#E0D7C4;font-style:italic;line-height:1.4}
+  .card.feature{grid-column:span 3;grid-row:span 2;min-height:490px}
+  .card.small{grid-column:span 3}
+
+  /* QUIZ */
+  .quiz{background:radial-gradient(120% 120% at 50% 0%, #15233b, var(--nuit-deep) 70%);border-top:1px solid var(--filet);border-bottom:1px solid var(--filet)}
+  .ribbon{display:inline-block;font-family:'Cinzel',serif;font-size:.82rem;letter-spacing:.22em;color:var(--nuit-deep);background:linear-gradient(180deg,var(--or-clair),var(--or));padding:10px 30px;position:relative;box-shadow:0 6px 20px rgba(0,0,0,.35)}
+  .ribbon::before,.ribbon::after{content:"";position:absolute;top:0;bottom:0;width:14px;background:var(--or)}
+  .ribbon::before{left:-14px;clip-path:polygon(0 50%,100% 0,100% 100%)}
+  .ribbon::after{right:-14px;clip-path:polygon(0 0,100% 50%,0 100%)}
+  .quiz-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:center;margin-top:40px}
+  .quiz-visual{position:relative;border:1px solid var(--filet);overflow:hidden;min-height:320px}
+  .quiz-visual img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .quiz-visual span{position:absolute;bottom:0;left:0;right:0;z-index:2;font-family:'Cormorant Garamond',serif;font-style:italic;font-size:.82rem;color:var(--ivoire);padding:10px 14px;background:linear-gradient(180deg,transparent,rgba(9,14,24,.8))}
+  .quiz-content{text-align:left}
+  .quiz-num{font-size:.76rem;letter-spacing:.3em;color:var(--or);font-family:'Lato',sans-serif;font-weight:700}
+  .quiz-q{font-family:'Cormorant Garamond',serif;font-size:clamp(1.35rem,2.6vw,1.8rem);color:var(--ivoire-pur);line-height:1.35;margin:14px 0 0}
+  .answers{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:24px 0 0}
+  .ans{display:flex;align-items:center;justify-content:center;gap:10px;cursor:pointer;background:#0f1a2c;border:1px solid rgba(198,161,91,.4);border-radius:40px;color:var(--ivoire);padding:14px 20px;font-family:'Lato',sans-serif;font-size:.95rem;transition:all .22s}
+  .ans:hover:not(:disabled){border-color:var(--or);background:#13203a}
+  .ans:focus-visible{outline:2px solid var(--or-clair);outline-offset:2px}
+  .ans .k{font-family:'Cinzel',serif;color:var(--or);font-size:.92rem;min-width:16px}
+  .ans.correct{border-color:#7FB069;background:rgba(127,176,105,.15);color:#DCEBD2}
+  .ans.correct .k{color:#9ED17F}
+  .ans.wrong{border-color:#B2605A;background:rgba(178,96,90,.13);color:#E6CFCB}
+  .ans:disabled{cursor:default}
+  .explain{display:none;margin-top:20px;border-left:2px solid var(--or);padding:2px 0 2px 20px}
+  .explain.show{display:block;animation:fade .5s ease}
+  .explain h4{font-family:'Cinzel',serif;font-size:.78rem;letter-spacing:.14em;color:var(--or);margin-bottom:7px}
+  .explain p{font-family:'Cormorant Garamond',serif;font-size:1.18rem;line-height:1.5;color:#E0D7C4}
+  .quiz-foot{display:flex;gap:14px;flex-wrap:wrap;margin-top:24px}
+  .ghost{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--or-clair);border:1px solid var(--filet);padding:11px 20px;transition:all .25s;cursor:pointer;background:none;font-family:'Lato',sans-serif}
+  .ghost:hover,.ghost:focus-visible{background:var(--or);color:var(--nuit-deep);border-color:var(--or)}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+
+  /* SIGNATURE */
+  .signature{background:var(--ivoire);color:var(--texte-sombre);text-align:center}
+  .signature .wrap{max-width:760px}
+  .signature .quote{font-family:'Cormorant Garamond',serif;font-size:clamp(1.3rem,3vw,1.85rem);font-style:italic;line-height:1.5;color:var(--brun)}
+  .signature .fleuron{color:var(--or);margin:28px 0}
+  .signature .fleuron::before{background:linear-gradient(90deg,transparent,rgba(198,161,91,.6))}
+  .signature .fleuron::after{background:linear-gradient(90deg,rgba(198,161,91,.6),transparent)}
+  .maison{font-family:'Cinzel',serif;font-size:clamp(.95rem,2.4vw,1.25rem);letter-spacing:.12em;line-height:1.35;color:var(--brun)}
+  .maison span{display:block;font-family:'Lato',sans-serif;font-size:.76rem;letter-spacing:.18em;text-transform:uppercase;color:#8a7350;margin-top:8px;font-weight:400}
+  .btn-or{display:inline-block;margin-top:28px;background:var(--brun);color:var(--ivoire-pur);font-family:'Lato',sans-serif;font-size:.76rem;letter-spacing:.16em;text-transform:uppercase;padding:16px 36px;border-radius:40px;transition:all .28s;border:1px solid var(--brun)}
+  .signature .emblem{width:46px;height:46px;margin:0 auto 16px}
+  .btn-or:hover,.btn-or:focus-visible{background:var(--or);border-color:var(--or);color:var(--nuit-deep)}
+
+  footer{background:var(--nuit-deep);padding:40px 0;text-align:center;border-top:1px solid var(--filet)}
+  footer .brand{font-size:.9rem;letter-spacing:.2em;max-width:none;color:var(--or)}
+  footer p{font-family:'Cormorant Garamond',serif;font-style:italic;color:rgba(233,223,201,.55);font-size:.95rem;margin-top:10px}
+
+  @media(max-width:980px){
+    .menu{position:fixed;inset:66px 0 auto 0;flex-direction:column;gap:0;background:var(--nuit-deep);border-bottom:1px solid var(--filet);max-height:0;overflow:hidden;transition:max-height .35s ease}
+    .menu.open{max-height:460px}
+    .menu li{width:100%;border-top:1px solid rgba(198,161,91,.14)}
+    .menu a{display:block;padding:16px 24px}
+    .sms{display:none}
+    .burger{display:block}
+    .grid5{grid-template-columns:1fr;gap:16px}
+    .card.feature,.card.small{grid-column:auto;min-height:230px}
+    .quiz-grid{grid-template-columns:1fr;gap:26px}
+    .answers{grid-template-columns:1fr}
+  }
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto}}
+  .mock{background:var(--or);color:var(--nuit-deep);text-align:center;font-family:'Lato',sans-serif;font-size:.72rem;letter-spacing:.07em;padding:7px 16px;font-weight:700}
+</style>
+</head>
+<body>
+
+
+<header>
+  <div class="wrap nav">
+    <a href="/les-secrets-du-parquet/" class="brand"><svg class="emblem" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.1"><circle cx="24" cy="24" r="22"/><path d="M24 7 L41 24 L24 41 L7 24 Z"/><path d="M24 14 L34 24 L24 34 L14 24 Z"/><path d="M7 24 H41 M24 7 V41"/></svg><span>Ponçage Parquet Vitrification <b>François</b></span></a>
+    <nav>
+      <ul class="menu" id="menu">
+        <li><a href="/">Accueil</a></li>
+        <li><a href="/services-poncage-vitrification-parquet-paris.html">Prestations</a></li>
+        <li><a href="/les-secrets-du-parquet/" class="active">Les Secrets du Parquet</a></li>
+        <li><a href="/galerie-realisations-poncage-parquet-paris.html">Réalisations</a></li>
+        <li><a href="/galerie-realisations-poncage-parquet-paris.html">Avis clients</a></li>
+        <li><a href="/devis-poncage-parquet-paris.html">Contact</a></li>
+      </ul>
+    </nav>
+    <a href="sms:+33783925894" class="sms">Devis par SMS</a>
+    <button class="burger" id="burger" aria-label="Menu" aria-expanded="false">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+  </div>
+</header>
+
+<section class="hero">
+  <img class="hero-bg" src="/les-secrets-du-parquet/img/chevrons.webp" alt="Galerie à parquet d'exception, château de Versailles">
+  <div class="hero-overlay"></div>
+  <div class="cartouche">
+    <span class="corner c1"></span><span class="corner c2"></span><span class="corner c3"></span><span class="corner c4"></span>
+    <p class="hero-kicker">La rubrique éditoriale de la maison</p>
+    <h1>Les Secrets<br>du Parquet</h1>
+    <p class="hero-sub">L'histoire, l'art et les mystères du bois.</p>
+    <div class="fleuron" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c1.5 3 3.5 4.5 6.5 5-3 .5-5 2-6.5 5-1.5-3-3.5-4.5-6.5-5 3-.5 5-2 6.5-5z"/></svg></div>
+    <p class="hero-lede">Chaque semaine, une nouvelle histoire, une énigme ou une curiosité à découvrir dans l'univers du parquet.</p>
+  </div>
+  <div class="scroll-ind" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 9l6 6 6-6"/></svg></div>
+  <p class="hero-note">Votre réalisation — parquet rénové par Ponçage Parquet Vitrification François</p>
+</section>
+
+<section class="univers">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Les Cinq Univers</h2>
+      <p>Cinq portes d'entrée dans la mémoire du bois</p>
+    </div>
+    <div class="grid5">
+      <a class="card feature" href="/les-secrets-du-parquet/histoire/">
+        <img class="cph" src="/les-secrets-du-parquet/img/panneaux.webp" alt="Galerie des Glaces, Versailles">
+        <div class="card-shade"></div>
+        <div class="card-body">
+          <h3><svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 8l4.5 3L12 4l4.5 7L21 8l-1.6 11H4.6z"/></svg>Histoire du Parquet</h3>
+          <div class="card-rule"></div>
+          <p>Des demeures royales aux appartements contemporains.</p>
+        </div>
+      </a>
+      <a class="card small" href="/les-secrets-du-parquet/essences/">
+        <img class="cph" src="/les-secrets-du-parquet/img/grain-chene.webp" alt="Grain du chêne">
+        <div class="card-shade"></div>
+        <div class="card-body"><h3><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c4 4 6 7 6 10a6 6 0 1 1-12 0c0-3 2-6 6-10z"/></svg>Essences de Bois</h3><div class="card-rule"></div><p>Chêne, noyer, merisier, acajou, teck.</p></div>
+      </a>
+      <a class="card small" href="/les-secrets-du-parquet/motifs/">
+        <img class="cph" src="/les-secrets-du-parquet/img/point-hongrie.webp" alt="Marqueterie de parquet">
+        <div class="card-shade"></div>
+        <div class="card-body"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2l9 10-9 10-9-10z"/><path d="M12 7l5 5-5 5-5-5z"/></svg>Motifs &amp; Poses</h3><div class="card-rule"></div><p>Versailles, point de Hongrie, bâtons rompus, marqueteries.</p></div>
+      </a>
+      <a class="card small" href="/les-secrets-du-parquet/artisans/">
+        <img class="cph" src="/les-secrets-du-parquet/img/poncage.webp" alt="Détail d'un parquet ancien à restaurer">
+        <div class="card-shade"></div>
+        <div class="card-body"><h3><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 20l7-7M14 4l6 6-3 3-6-6zM13 11l-9 9"/></svg>Secrets d'Artisans</h3><div class="card-rule"></div><p>Ponçage, vitrification, restauration et savoir-faire.</p></div>
+      </a>
+      <a class="card small" href="/les-secrets-du-parquet/records/">
+        <img class="cph" src="/les-secrets-du-parquet/img/vitrification.webp" alt="Parquet en chevrons">
+        <div class="card-shade"></div>
+        <div class="card-body"><h3><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.4 5 5.6.5-4.2 3.7 1.3 5.6L12 19l-5.1 2.8 1.3-5.6L4 12.5 9.6 12z"/></svg>Records &amp; Curiosités</h3><div class="card-rule"></div><p>Parquets exceptionnels, anecdotes et histoires insolites.</p></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="quiz">
+  <div class="wrap" style="text-align:center">
+    <span class="ribbon">LE QUIZ DE LA SEMAINE</span>
+    <div class="quiz-grid">
+      <div class="quiz-visual">
+        <img src="/les-secrets-du-parquet/img/chantier.webp" alt="Parquet ancien rénové à Paris">
+        <span>Parquet rénové · Ponçage Parquet Vitrification François</span>
+      </div>
+      <div class="quiz-content">
+        <p class="quiz-num">QUESTION N° 001</p>
+        <p class="quiz-q">Quel roi a contribué à populariser le parquet dans les grandes demeures royales françaises ?</p>
+        <div class="answers" id="answers">
+          <button class="ans" data-k="A"><span class="k">A</span> Louis XIII</button>
+          <button class="ans" data-k="B" data-correct="1"><span class="k">B</span> Louis XIV</button>
+          <button class="ans" data-k="C"><span class="k">C</span> François Ier</button>
+          <button class="ans" data-k="D"><span class="k">D</span> Napoléon Ier</button>
+        </div>
+        <div class="explain" id="explain">
+          <h4>La réponse</h4>
+          <p><strong>Louis XIV.</strong> À Versailles, le « parquet de Versailles » — ces grands panneaux à losanges — remplace dès 1684 les sols de marbre, trop froids et difficiles à entretenir. La cour adopte le bois, et le parquet devient un symbole d'élégance qui gagne peu à peu les hôtels particuliers parisiens.</p>
+        </div>
+        <div class="quiz-foot">
+          <button class="ghost" id="share">Partager ce quiz</button>
+          <a class="ghost" href="/les-secrets-du-parquet/">Voir tous les quiz</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="signature">
+  <div class="wrap">
+    <p class="quote">« Derrière ces connaissances se cache un métier : celui de la restauration et de la préservation des parquets anciens et contemporains. »</p>
+    <div class="fleuron" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c1.5 3 3.5 4.5 6.5 5-3 .5-5 2-6.5 5-1.5-3-3.5-4.5-6.5-5 3-.5 5-2 6.5-5z"/></svg></div>
+    <svg class="emblem" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.1"><circle cx="24" cy="24" r="22"/><path d="M24 7 L41 24 L24 41 L7 24 Z"/><path d="M24 14 L34 24 L24 34 L14 24 Z"/><path d="M7 24 H41 M24 7 V41"/></svg>
+    <p class="maison">PONÇAGE PARQUET VITRIFICATION FRANÇOIS<span>Paris et Île-de-France</span></p>
+    <a href="/services-poncage-vitrification-parquet-paris.html" class="btn-or">Découvrir nos prestations</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p class="brand">LES SECRETS DU PARQUET</p>
+    <p>L'histoire, l'art et les mystères du bois.</p>
+  </div>
+</footer>
+
+<script>
+  var burger=document.getElementById('burger'), menu=document.getElementById('menu');
+  burger.addEventListener('click',function(){var o=menu.classList.toggle('open');burger.setAttribute('aria-expanded',o);});
+  var answered=false;
+  document.getElementById('answers').addEventListener('click',function(e){
+    var btn=e.target.closest('.ans'); if(!btn||answered) return; answered=true;
+    this.querySelectorAll('.ans').forEach(function(b){b.disabled=true;if(b.dataset.correct)b.classList.add('correct');});
+    if(!btn.dataset.correct) btn.classList.add('wrong');
+    document.getElementById('explain').classList.add('show');
+  });
+  document.getElementById('share').addEventListener('click',function(){var t=this;t.textContent='Lien copié ✓';setTimeout(function(){t.textContent='Partager ce quiz';},1800);});
+</script>
+</body>
+</html>
