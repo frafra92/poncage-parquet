@@ -4,9 +4,10 @@ Génère sitemap.xml automatiquement à partir des pages .html du dépôt.
 
 Principes :
 - Scanne tous les .html à la racine.
-- EXCLUT automatiquement : les pages techniques (404, vérif Google, noms UUID)
-  ET toute page de REDIRECTION (meta http-equiv="refresh") — donc les pages
-  regroupées/redirigées ne polluent jamais le sitemap, sans liste à tenir.
+- EXCLUT automatiquement : les pages techniques (404, vérif Google, noms UUID),
+  les REDIRECTIONS (meta http-equiv="refresh"), les pages NOINDEX (meta robots),
+  et les pages NON-CANONIQUES (canonical pointant vers une autre URL) — donc les
+  pages regroupées/redirigées/dupliquées ne polluent jamais le sitemap.
 - PRÉSERVE la priority et la changefreq déjà définies pour chaque URL dans
   l'ancien sitemap (ta pondération SEO n'est jamais écrasée).
 - Les nouvelles pages arrivent avec des valeurs par défaut (modifiables plus bas).
@@ -48,7 +49,20 @@ SPECIAL = {
 
 # Détection de redirection : meta refresh (insensible à la casse, espaces variables).
 REDIRECT_RE = re.compile(r"http-equiv\s*=\s*[\"']?refresh", re.I)
+# Détection noindex : <meta name="robots" ... noindex ...>
+NOINDEX_RE = re.compile(r"<meta[^>]*name=[\"']robots[\"'][^>]*noindex", re.I)
+# Détection du lien canonique.
+CANONICAL_RE = re.compile(r"<link[^>]*rel=[\"']canonical[\"'][^>]*>", re.I)
+HREF_RE = re.compile(r"href=[\"'](.*?)[\"']", re.I)
 # --------------------------------------------------------------------------
+
+
+def _head(name):
+    try:
+        with open(name, encoding="utf-8", errors="ignore") as fh:
+            return fh.read(8000)  # <head> complet (meta refresh, robots, canonical)
+    except OSError:
+        return ""
 
 
 def is_excluded(name):
@@ -58,12 +72,30 @@ def is_excluded(name):
 
 
 def is_redirect(name):
-    try:
-        with open(name, encoding="utf-8", errors="ignore") as fh:
-            head = fh.read(4000)  # le meta refresh est toujours dans le <head>
-        return bool(REDIRECT_RE.search(head))
-    except OSError:
+    return bool(REDIRECT_RE.search(_head(name)))
+
+
+def is_noindex(name):
+    return bool(NOINDEX_RE.search(_head(name)))
+
+
+def _norm_url(u):
+    """Normalise pour comparer : enlève le slash final et un éventuel /index.html."""
+    n = u.strip().rstrip("/")
+    if n.endswith("/index.html"):
+        n = n[: -len("/index.html")]
+    return n
+
+
+def is_non_canonical(name, own_url):
+    """Vrai si la page déclare un canonical vers une AUTRE URL qu'elle-même."""
+    m = CANONICAL_RE.search(_head(name))
+    if not m:
         return False
+    h = HREF_RE.search(m.group(0))
+    if not h:
+        return False
+    return _norm_url(h.group(1)) != _norm_url(own_url)
 
 
 def load_existing(path):
@@ -109,12 +141,17 @@ def main():
     # Pages à la racine (comportement historique : .../page.html)
     root_files = sorted(
         f for f in glob.glob("*.html")
-        if not is_excluded(f) and not is_redirect(f)
+        if not is_excluded(f)
+        and not is_redirect(f)
+        and not is_noindex(f)
+        and not is_non_canonical(f, f"{BASE_URL}/{f}")
     )
     # Rubrique éditoriale "Les Secrets du Parquet" : URLs répertoire (.../.../).
     mag_files = sorted(
         f for f in glob.glob("les-secrets-du-parquet/**/index.html", recursive=True)
         if not is_redirect(f)
+        and not is_noindex(f)
+        and not is_non_canonical(f, magazine_loc(f))
     )
 
     # (loc, fichier_pour_lastmod, priorité_defaut, changefreq_defaut)
