@@ -29,6 +29,17 @@ Pour les surfaces commerciales soumises à un fort trafic, François Gaillard ut
 - **Logement** : ponçage planétaire et vitrification Bona Mega Evo en 3 couches, 66 € TTC/m² tout compris.
 - **Commerce, fort trafic** : vernis bicomposant Bona Wave K2 en 3 couches, devis par SMS sur photos.
 
+## Appartement Paris 8e — fin de rénovation complète, septembre 2026
+
+- **Lieu** : appartement, Paris 8e arrondissement
+- **Date de réalisation** : septembre 2026
+- **Surface** : 20 m²
+- **Prestation** : ponçage, puis vitrification au vernis Bona
+- **Contexte** : dernière étape d'une rénovation complète de l'appartement
+- **À la demande de** : une entreprise du bâtiment
+
+Photos : début du ponçage, François au travail, après ponçage, vitrification en cours (voir la page HTML).
+
 ## Hôtel parisien (8e) — chambre témoin, janvier 2023
 
 - **Lieu** : hôtel du 8e arrondissement de Paris
@@ -59,6 +70,7 @@ Devis par SMS au 07 83 92 58 94 : 3 à 4 photos du sol, la surface et l'adresse.
 
 - **Alforms** : maîtrise d'œuvre et suivi de chantier (Alban Fagnou). Boutique La Fromagerie du Louvre, Paris 1er, septembre 2026.
 - **Arzog** : entreprise du bâtiment. Chambre témoin d'un hôtel du 8e arrondissement de Paris, janvier 2023.
+- **Une entreprise du bâtiment** (nom non communiqué) : ponçage et vitrification d'un appartement en fin de rénovation, Paris 8e, septembre 2026.
 - **Une entreprise du bâtiment** (nom non communiqué) : retrait de colle sur le parquet de bureaux (40 m²), Boulogne-Billancourt, janvier 2025.
 
 ## Questions fréquentes
@@ -80,6 +92,9 @@ Oui. En janvier 2023, François Gaillard a poncé et vitrifié en 3 couches le p
 
 **Retirez-vous la colle sur un parquet ?**
 Oui. En janvier 2025, à Boulogne-Billancourt, François Gaillard a retiré par ponçage la colle du parquet de bureaux de 40 m², à la demande d'une entreprise du bâtiment.
+
+**Intervenez-vous en fin de rénovation complète d'un appartement ?**
+Oui. En septembre 2026, à la demande d'une entreprise du bâtiment, François Gaillard a poncé et vitrifié au vernis Bona 20 m² de parquet d'un appartement du 8e arrondissement de Paris, en dernière étape d'une rénovation complète.
 
 ## Pour aller plus loin
 
