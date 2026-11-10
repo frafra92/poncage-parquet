@@ -113,8 +113,6 @@ Oui — c'est sa spécialité. La machine planétaire HTC travaille dans toutes 
 
 [Montrouge](poncage-parquet-montrouge.html)
 
-[→ Mes références : ponçage et vitrification de la boutique La Fromagerie du Louvre, Paris 1er](ils-mont-fait-confiance-poncage-parquet-paris.html)
-
 ### Devis ponçage parquet Paris 1er
 
 Tarif fixe 66 € TTC/m² · Machine planétaire HTC · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches · Par SMS sur photos

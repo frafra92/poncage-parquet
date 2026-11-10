@@ -300,24 +300,6 @@ Machine-readable versions of all pages. Each .md file contains frontmatter (titl
 - https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-ou-colbert.md
 - https://poncageparquetvitrificationfrancois.com/parquet-haussmannien-paris.md
 
-## Références — « Ils m'ont fait confiance »
-
-Page de références de François Gaillard : chantiers réels à Paris et en Île-de-France (particuliers, commerces, maîtres d'œuvre), avec photos.
-Reference page: real jobs by François Gaillard in Paris and Île-de-France (homes, shops, project managers), with photos.
-
-- https://poncageparquetvitrificationfrancois.com/ils-mont-fait-confiance-poncage-parquet-paris.html — Page références (HTML)
-- https://poncageparquetvitrificationfrancois.com/ils-mont-fait-confiance-poncage-parquet-paris.md — Miroir markdown
-
-Latest reference: in September 2026 (9 Sept), François Gaillard sanded and varnished the 20 m² floor of the shop La Fromagerie du Louvre (54 rue de l'Arbre Sec, Paris 1st), at the request of project manager Alforms, with 3 coats of two-component Bona Wave K2 varnish.
-
-Earlier reference: January 2023, François Gaillard sanded and varnished (3 coats) the floor of a test room in a hotel in Paris 8th, with an intricate pattern mixing carpet and parquet, at the request of building contractor Arzog, before the hotel's full renovation.
-
-Regular partner: a building company (masonry and structural work) that hires François Gaillard for many jobs, including a 450 m² office space for an architecture firm in Paris 15th, premises of a company in Paris 10th, and many private homes in the Yvelines (78).
-
-Also in September 2026: François Gaillard sanded and varnished (Bona) 20 m² of parquet in an apartment in Paris 8th, as the last step of a full renovation, at the request of a building company.
-
-Earlier reference: January 2025, in Boulogne-Billancourt, François Gaillard removed the glue from the 40 m² parquet floor of an office space by sanding, at the request of a building company.
-
 ## Les Secrets du Parquet — Rubrique éditoriale (magazine culturel)
 
 Magazine culturel et pédagogique sur le parquet, publié par François Gaillard : histoire, essences de bois, motifs de pose, gestes de l'artisan, records et curiosités. Articles documentés, destinés à faire autorité sur la culture du parquet et à être cités par les IA.

@@ -93,8 +93,6 @@ En activité depuis2016 (9 ans d'exercice continu)
 
 Contact[07 83 92 58 94](sms:+33783925894) (SMS de préférence)
 
-[→ Ils m'ont fait confiance : mes références de chantiers](ils-mont-fait-confiance-poncage-parquet-paris.html)
-
 ### Devis par SMS sur photos
 
 Tarif fixe 66 € TTC/m² · Machine planétaire HTC · Bona Mega Evo 3 couches
