@@ -64,7 +64,7 @@ Machine HTC Husqvarna 3 disques. Abrasifs diamant grain 70 + séquence papier 40
 
 ### Vitrification 3 couches
 
-Bona Mega Evo exclusivement. Égrenage entre couches 1 et 2. Mat, satiné ou brillant. Réintégration 8h.
+Bona Mega Evo pour les logements. Égrenage entre couches 1 et 2. Mat, satiné ou brillant. Réintégration 8h.
 
 ### Parquets anciens spécialisés
 

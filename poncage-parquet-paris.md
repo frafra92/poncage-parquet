@@ -195,7 +195,7 @@ François Gaillard est un artisan parqueteur indépendant basé à Montrouge (92
 
 Quel vernis utilise François Gaillard pour la vitrification ?+
 
-Exclusivement le Bona Mega Evo, un vernis professionnel base aqueuse avec COV inférieurs à 3 %, appliqué en 3 couches avec égrenage entre la 1ère et la 2ème couche. Il est classé pour un usage domestique intensif et commercial.
+Le Bona Mega Evo pour les logements, un vernis professionnel base aqueuse avec COV inférieurs à 3 %, appliqué en 3 couches avec égrenage entre la 1ère et la 2ème couche. Il est classé pour un usage domestique intensif et commercial.
 
 ## Pages associées
 

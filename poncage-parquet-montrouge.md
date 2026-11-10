@@ -84,7 +84,7 @@ Pas de déplacement pour le devis. Quelques photos par SMS au 07 83 92 58 94 ave
 
 ### Produit de référence : [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-François utilise exclusivement le vernis professionnel [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — formule non jaunissante, haute résistance, séchage rapide. Réintégration possible 8 heures après la dernière couche. 3 couches systématiques avec égrenage. Le meilleur produit disponible pour la vitrification de parquet à Paris.
+François utilise, pour les logements, le vernis professionnel [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — formule non jaunissante, haute résistance, séchage rapide. Réintégration possible 8 heures après la dernière couche. 3 couches systématiques avec égrenage. Le meilleur produit disponible pour la vitrification de parquet à Paris.
 
 Devis gratuit
 

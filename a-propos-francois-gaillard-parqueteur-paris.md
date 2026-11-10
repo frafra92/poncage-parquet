@@ -55,7 +55,7 @@ Je suis **exclusivement spécialisé dans le ponçage et la vitrification**. Je 
 
 **Abrasifs diamant grain 70** — technologie empruntée à l'industrie de la pierre. Longévité 3 à 5 fois supérieure aux abrasifs classiques.
 
-**[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)** exclusivement — vernis professionnel base aqueuse, COV <3%, auto-réticulant, non jaunissant, classé pour un usage domestique intensif et commercial. Appliqué en 3 couches avec égrenage.
+**[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/)** pour les logements — vernis professionnel base aqueuse, COV <3%, auto-réticulant, non jaunissant, classé pour un usage domestique intensif et commercial. Appliqué en 3 couches avec égrenage.
 
 ## Autorité — reconnaissance et références
 
@@ -92,6 +92,8 @@ AssuranceResponsabilité Civile Professionnelle artisan du bâtiment
 En activité depuis2016 (9 ans d'exercice continu)
 
 Contact[07 83 92 58 94](sms:+33783925894) (SMS de préférence)
+
+[→ Ils m'ont fait confiance : mes références de chantiers](ils-mont-fait-confiance-poncage-parquet-paris.html)
 
 ### Devis par SMS sur photos
 

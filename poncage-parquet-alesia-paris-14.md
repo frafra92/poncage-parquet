@@ -38,7 +38,7 @@ J'utilise en premier lieu un abrasif diamant grain 70 (grain 50 si l'état du pa
 
 ### Vitrification Bona Mega Evo — 3 couches
 
-J'applique exclusivement le vernis Bona Mega Evo en phase aqueuse : 3 couches avec égrenage entre la 1re et la 2e couche. Réintégration possible dès 8h après la dernière couche. Produit à très faible émission de COV, sans odeur agressive.
+J'applique, pour les logements, le vernis Bona Mega Evo en phase aqueuse : 3 couches avec égrenage entre la 1re et la 2e couche. Réintégration possible dès 8h après la dernière couche. Produit à très faible émission de COV, sans odeur agressive.
 
 ## Déroulement d'un chantier à Alésia
 

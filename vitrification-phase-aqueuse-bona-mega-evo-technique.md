@@ -166,7 +166,7 @@ Trafic léger possible après 8 heures. Durcissement complet en 5 jours. Pendant
 
 Quelle différence entre vitrification et huilage ?+
 
-La vitrification forme un film de protection en surface du bois. L'huilage pénètre dans le bois. Le film de vitrification est plus résistant à l'usure et plus facile à entretenir. François Gaillard utilise exclusivement la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com").
+La vitrification forme un film de protection en surface du bois. L'huilage pénètre dans le bois. Le film de vitrification est plus résistant à l'usure et plus facile à entretenir. François Gaillard utilise, pour les logements, la vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com").
 
 À lire aussi
 

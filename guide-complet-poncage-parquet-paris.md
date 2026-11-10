@@ -241,7 +241,7 @@ Protection et finition
 
 ## La vitrification [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
 
-Une fois le ponçage terminé et la surface soigneusement dépoussiérée, on passe à la vitrification. François Gaillard utilise exclusivement le **[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")** — vernis professionnel à base aqueuse, non jaunissant, haute résistance.
+Une fois le ponçage terminé et la surface soigneusement dépoussiérée, on passe à la vitrification. François Gaillard utilise, pour les logements, le **[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")** — vernis professionnel à base aqueuse, non jaunissant, haute résistance.
 
 ### Préparation avant application
 

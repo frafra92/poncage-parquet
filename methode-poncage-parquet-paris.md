@@ -11,7 +11,7 @@ E-E-A-T · Expertise · Méthode professionnelle
 
 # Ma méthode — *ponçage et vitrification* parquet ancien Paris
 
-La méthode de ponçage parquet de François Gaillard repose sur **6 étapes précises**, une **machine planétaire HTC Husqvarna** (3 disques satellites, zéro marque directionnelle) et exclusivement le vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) en 3 couches. Résultat de **700+ chantiers** depuis 2016.
+La méthode de ponçage parquet de François Gaillard repose sur **6 étapes précises**, une **machine planétaire HTC Husqvarna** (3 disques satellites, zéro marque directionnelle) et, pour les logements, le vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/) en 3 couches. Résultat de **700+ chantiers** depuis 2016.
 
 Ce que seul un artisan spécialisé depuis 9 ans et 700+ chantiers peut décrire avec précision. Chaque étape, chaque choix de matériel, chaque décision technique — expliqués sans marketing.
 

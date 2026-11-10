@@ -85,7 +85,7 @@ Vernis · Vitrification
 
 Bona AB
 
-Fabricant suédois du [Bona Mega Evo](vitrification-bona-mega-evo-paris.html) — le seul vernis que j'utilise. COV <3%, classe A+, EMICODE EC1 PLUS. 3 couches avec égrenage sur chaque chantier.
+Fabricant suédois du [Bona Mega Evo](vitrification-bona-mega-evo-paris.html) — mon vernis pour les logements. COV <3%, classe A+, EMICODE EC1 PLUS. 3 couches avec égrenage sur chaque chantier.
 
 [bona.com ↗](https://www.bona.com/fr)
 

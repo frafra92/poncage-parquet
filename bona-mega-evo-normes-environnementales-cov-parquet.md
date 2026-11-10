@@ -200,7 +200,7 @@ Même excellent, le Bona Mega Evo n'est pas parfait sur tous les points. Une ana
 * 📍 **Classe A+** (décret français 2011-321) et **EMICODE EC1 PLUS** (label européen) : les deux niveaux d'exigence les plus élevés en qualité d'air intérieur.
 * 📍 Réintégration **8 heures** après dernière couche · Durcissement complet **5 jours** ·, classé pour un usage domestique intensif et commercial. Source : Bona AB, fiche technique officielle.
 * 📍 Comparé aux anciens vernis solvantés (300-500 g/L de COV) : **évolution majeure** pour la santé des occupants et de l'artisan.
-* 📍 **François Gaillard** utilise exclusivement ce vernis depuis 2016 — 700+ chantiers à Paris. , SIRET 81182012500011. Tarif fixe : **66 € TTC/m²**.
+* 📍 **François Gaillard** utilise ce vernis pour les logements depuis 2016 — 700+ chantiers à Paris. , SIRET 81182012500011. Tarif fixe : **66 € TTC/m²**.
 
 ## Questions fréquentes
 

@@ -46,7 +46,7 @@ Ponçage : 30 × 30€ = **900€ HT — soit 990€ TTC**
 
 ## Pourquoi choisir le Bona Mega Evo ?
 
-Pour la vitrification, j'utilise exclusivement le **Bona Mega Evo**, la référence professionnelle européenne :
+Pour la vitrification, j'utilise en logement le **Bona Mega Evo**, la référence professionnelle européenne :
 
 * Certifié **EMICODE EC1PLUS** (très faibles émissions de COV)
 * Certifié **GREENGUARD Gold** (qualité de l'air intérieur)
