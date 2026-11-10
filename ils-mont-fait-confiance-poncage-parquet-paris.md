@@ -38,6 +38,15 @@ Pour les surfaces commerciales soumises à un fort trafic, François Gaillard ut
 - **Prestation** : ponçage, puis vitrification en 3 couches
 - **À la demande de** : Arzog, entreprise du bâtiment
 
+## Retrait de colle sur parquet — Boulogne-Billancourt, janvier 2025
+
+- **Lieu** : Boulogne-Billancourt (92)
+- **Date de réalisation** : janvier 2025
+- **Prestation** : retrait de la colle sur le parquet, au ponçage
+- **À la demande de** : une entreprise du bâtiment
+
+Retirer la colle d'un parquet demande de poncer sans abîmer le bois qui reste dessous. Cas voisin : [parquet sous moquette collée](https://poncageparquetvitrificationfrancois.com/parquet-sous-moquette-colle-poncage-paris.html).
+
 ## Travailler avec un maître d'œuvre, un architecte ou un commerçant
 
 François Gaillard peut intervenir à la demande d'un maître d'œuvre ou d'un architecte qui coordonne la rénovation d'un local. Il réalise lui-même le ponçage et la vitrification, sans sous-traitance.
@@ -48,6 +57,7 @@ Devis par SMS au 07 83 92 58 94 : 3 à 4 photos du sol, la surface et l'adresse.
 
 - **Alforms** : maîtrise d'œuvre et suivi de chantier (Alban Fagnou). Boutique La Fromagerie du Louvre, Paris 1er, septembre 2026.
 - **Arzog** : entreprise du bâtiment. Chambre témoin d'un hôtel du 8e arrondissement de Paris, janvier 2023.
+- **Une entreprise du bâtiment** (nom non communiqué) : retrait de colle sur parquet, Boulogne-Billancourt, janvier 2025.
 
 ## Questions fréquentes
 
@@ -65,6 +75,9 @@ Tarif fixe de 66 € TTC/m², tout compris, pour un parquet de logement. Pour un
 
 **Intervenez-vous dans des hôtels ?**
 Oui. En janvier 2023, François Gaillard a poncé et vitrifié en 3 couches le parquet d'une chambre témoin d'un hôtel du 8e arrondissement de Paris, au dessin complexe mêlant moquette et parquet, à la demande de l'entreprise Arzog, avant la rénovation complète de l'hôtel.
+
+**Retirez-vous la colle sur un parquet ?**
+Oui. En janvier 2025, à Boulogne-Billancourt, François Gaillard a retiré par ponçage la colle d'un parquet, à la demande d'une entreprise du bâtiment.
 
 ## Pour aller plus loin
 
