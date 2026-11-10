@@ -29,11 +29,25 @@ Pour les surfaces commerciales soumises à un fort trafic, François Gaillard ut
 - **Logement** : ponçage planétaire et vitrification Bona Mega Evo en 3 couches, 66 € TTC/m² tout compris.
 - **Commerce, fort trafic** : vernis bicomposant Bona Wave K2 en 3 couches, devis par SMS sur photos.
 
+## Hôtel parisien (8e) — chambre témoin, janvier 2023
+
+- **Lieu** : hôtel du 8e arrondissement de Paris
+- **Date de réalisation** : janvier 2023
+- **Chantier** : chambre témoin, réalisée avant la rénovation complète de l'hôtel
+- **Particularité** : dessin complexe où moquette et parquet s'imbriquent
+- **Prestation** : ponçage, puis vitrification en 3 couches
+- **À la demande de** : Arzog, entreprise du bâtiment
+
 ## Travailler avec un maître d'œuvre, un architecte ou un commerçant
 
 François Gaillard peut intervenir à la demande d'un maître d'œuvre ou d'un architecte qui coordonne la rénovation d'un local. Il réalise lui-même le ponçage et la vitrification, sans sous-traitance.
 
 Devis par SMS au 07 83 92 58 94 : 3 à 4 photos du sol, la surface et l'adresse.
+
+## Partenaires et professionnels
+
+- **Alforms** : maîtrise d'œuvre et suivi de chantier (Alban Fagnou). Boutique La Fromagerie du Louvre, Paris 1er, septembre 2026.
+- **Arzog** : entreprise du bâtiment. Chambre témoin d'un hôtel du 8e arrondissement de Paris, janvier 2023.
 
 ## Questions fréquentes
 
@@ -48,6 +62,9 @@ Oui. Il peut intervenir à la demande d'un maître d'œuvre, comme pour La Froma
 
 **Combien coûte un ponçage de parquet à Paris ?**
 Tarif fixe de 66 € TTC/m², tout compris, pour un parquet de logement. Pour un local commercial, devis par SMS au 07 83 92 58 94 à partir de photos.
+
+**Intervenez-vous dans des hôtels ?**
+Oui. En janvier 2023, François Gaillard a poncé et vitrifié en 3 couches le parquet d'une chambre témoin d'un hôtel du 8e arrondissement de Paris, au dessin complexe mêlant moquette et parquet, à la demande de l'entreprise Arzog, avant la rénovation complète de l'hôtel.
 
 ## Pour aller plus loin
 
