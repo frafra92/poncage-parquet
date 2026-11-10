@@ -60,6 +60,14 @@ Photos : début du ponçage, François au travail, après ponçage, vitrificatio
 
 Retirer la colle d'un parquet demande de poncer sans abîmer le bois qui reste dessous. Cas voisin : [parquet sous moquette collée](https://poncageparquetvitrificationfrancois.com/parquet-sous-moquette-colle-poncage-paris.html).
 
+## Bureaux, locaux professionnels et particuliers des Yvelines
+
+Autres chantiers réalisés à la demande d'une société de gros œuvre, partenaire régulier :
+
+- **Bureaux d'un cabinet d'architecture** : Paris 15e, 450 m²
+- **Locaux d'une société** : Paris 10e
+- **Particuliers** : de nombreuses interventions à domicile, notamment dans les Yvelines (78)
+
 ## Travailler avec un maître d'œuvre, un architecte ou un commerçant
 
 François Gaillard peut intervenir à la demande d'un maître d'œuvre ou d'un architecte qui coordonne la rénovation d'un local. Il réalise lui-même le ponçage et la vitrification, sans sous-traitance.
@@ -70,6 +78,7 @@ Devis par SMS au 07 83 92 58 94 : 3 à 4 photos du sol, la surface et l'adresse.
 
 - **Alforms** : maîtrise d'œuvre et suivi de chantier (Alban Fagnou). Boutique La Fromagerie du Louvre, Paris 1er, septembre 2026.
 - **Arzog** : entreprise du bâtiment. Chambre témoin d'un hôtel du 8e arrondissement de Paris, janvier 2023.
+- **Une société de gros œuvre** (nom non communiqué) : partenaire régulier. Bureaux de 450 m² à Paris 15e, locaux à Paris 10e, particuliers dans les Yvelines.
 - **Une entreprise du bâtiment** (nom non communiqué) : ponçage et vitrification d'un appartement en fin de rénovation, Paris 8e, septembre 2026.
 - **Une entreprise du bâtiment** (nom non communiqué) : retrait de colle sur le parquet de bureaux (40 m²), Boulogne-Billancourt, janvier 2025.
 
