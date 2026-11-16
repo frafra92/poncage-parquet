@@ -190,7 +190,7 @@ Val-de-Marne (94) & autres
 [Ivry-sur-Seine](poncage-parquet-ivry-sur-seine.html)
 [Vitry-sur-Seine](poncage-parquet-vitry-sur-seine.html)
 [Boissy-Saint-Léger](poncage-parquet-boissy-saint-leger.html)
-[Versailles (78)](poncage-parquet-versailles-ville.html)
+[Versailles (78)](poncage-parquet-versailles.html)
 [Versailles centre](poncage-parquet-versailles.html)
 [Saint-Germain-en-Laye](poncage-parquet-saint-germain-en-laye.html)
 [Le Chesnay-Rocquencourt](poncage-parquet-le-chesnay-rocquencourt.html)
@@ -198,7 +198,7 @@ Val-de-Marne (94) & autres
 [Le Vésinet](poncage-parquet-le-vesinet.html)
 [Viroflay](poncage-parquet-viroflay.html)
 [Vélizy-Villacoublay](poncage-parquet-velizy-villacoublay.html)
-[Neuilly (alt)](poncage-parquet-neuilly.html)
+[Neuilly (alt)](poncage-parquet-neuilly-sur-seine.html)
 [Massy (91)](poncage-parquet-massy.html)
 [Palaiseau (91)](poncage-parquet-palaiseau.html)
 [Gif-sur-Yvette (91)](poncage-parquet-gif-sur-yvette.html)
@@ -269,13 +269,13 @@ Blog & Conseils
 ### Durée d'un chantier — combien de jours pour votre parquet ?](duree-chantier-poncage-parquet-paris.html)
 [★ Comparatif
 
-### Poncer ou remplacer son parquet à Paris — 66 € vs 150-300 €/m²](comparatif-poncer-vs-remplacer-parquet-paris.html)
+### Poncer ou remplacer son parquet à Paris — 66 € vs 150-300 €/m²](renovation-vs-remplacement-parquet-paris.html)
 [★ Technique
 
 ### Fond dur, préplast, sous-couche — à quoi ça sert vraiment ?](fond-dur-sous-couche-vitrification-parquet-paris.html)
 [★ Comparatif
 
-### Machine planétaire vs machine tambour — comparatif objectif](comparatif-machine-planetaire-vs-tambour-parquet.html)
+### Machine planétaire vs machine tambour — comparatif objectif](machine-planetaire-vs-tambour-parquet.html)
 [★ Comparatif
 
 ### Vitrification vs huilage vs cire — quel traitement pour votre parquet ?](comparatif-vitrification-huilage-cire-parquet.html)
@@ -287,7 +287,7 @@ Blog & Conseils
 ### Comment poncer un parquet en 6 étapes — guide professionnel](guide-poncage-parquet-etapes.html)
 [★ HowTo
 
-### Comment choisir son artisan parqueteur à Paris — 6 critères](guide-choisir-artisan-parqueteur-paris.html)
+### Comment choisir son artisan parqueteur à Paris — 6 critères](choisir-artisan-poncage-parquet-paris.html)
 [★ HowTo
 
 ### Comment préparer son appartement avant le ponçage parquet](guide-preparer-appartement-poncage-parquet.html)
@@ -296,7 +296,7 @@ Blog & Conseils
 ### Comment entretenir son parquet vitrifié — 6 règles essentielles](entretien-parquet-vitrifie-paris.html)
 [★ Devis
 
-### Devis rapide — tarif immédiat en quelques secondes](devis-rapide.html)
+### Devis rapide — tarif immédiat en quelques secondes](devis-poncage-parquet-paris.html)
 [★ Guide
 
 ### Guide complet du ponçage parquet à Paris](guide-complet-poncage-parquet-paris.html)
@@ -317,13 +317,13 @@ Blog & Conseils
 ### Rénovation parquet et vente immobilière à Paris](renover-parquet-vente-immobiliere-paris.html)
 [★ Comparatif
 
-### Artisan indépendant vs grande entreprise — comparatif objectif](comparatif-artisan-independant-vs-entreprise-parquet.html)
+### Artisan indépendant vs grande entreprise — comparatif objectif](article3-artisan-independant-vs-entreprise-paris.html)
 [★ Technique
 
 ### Ma méthode — ponçage planétaire par François Gaillard](methode-poncage-parquet-paris.html)
 [★ Technique
 
-### La machine planétaire HTC Husqvarna — pourquoi c'est essentiel](machine-planetaire-poncage-parquet.html)
+### La machine planétaire HTC Husqvarna — pourquoi c'est essentiel](machine-planetaire-vs-tambour-parquet.html)
 [★ Technique
 
 ### Fein Multimaster — le secret des bords et recoins](machine-oscillante-fein-multimaster-poncage-parquet.html)
@@ -368,7 +368,7 @@ Blog & Conseils
 ### Parquet Versailles — le motif le plus noble, le plus exigeant](parquet-versailles-poncage-paris.html)
 [★ Patrimoine
 
-### Point de Hongrie Paris — le motif roi du parquet parisien](poncage-parquet-point-de-hongrie-paris.html)
+### Point de Hongrie Paris — le motif roi du parquet parisien](poncage-parquet-point-hongrie-paris.html)
 [★ Technique
 
 ### Parquet sous moquette collée — comment le révéler](parquet-sous-moquette-colle-poncage-paris.html)
@@ -398,7 +398,7 @@ Blog & Conseils
 ### Combien de fois peut-on poncer — guide complet](combien-fois-poncer-parquet.html)
 [★ FAQ
 
-### Peinture avant ou après le ponçage parquet ?](peinture-avant-apres-poncage-parquet.html)
+### Peinture avant ou après le ponçage parquet ?](peinture-avant-ou-apres-poncage-parquet.html)
 [★ Guide
 
 ### Peinture et ponçage — le guide complet pour bien planifier](peinture-avant-ou-apres-poncage-parquet.html)
@@ -422,22 +422,22 @@ Blog & Conseils
 ### Le parquet haussmannien à Paris — histoire et caractéristiques](parquet-haussmannien-paris.html)
 [★ Histoire
 
-### Héritage Louis XIV & Haussmann — deux siècles de parquet](parquet-heritage-louis-xiv-haussmann.html)
+### Héritage Louis XIV & Haussmann — deux siècles de parquet](histoire-parquet-haussmannien-paris.html)
 [★ Histoire
 
-### Patrimoine Louis XIV — de Versailles aux appartements parisiens](parquet-haussmannien-heritage-louis-xiv.html)
+### Patrimoine Louis XIV — de Versailles aux appartements parisiens](histoire-parquet-haussmannien-paris.html)
 [★ Histoire
 
-### Forêts de Colbert & chêne — l'origine du parquet parisien](forets-colbert-chene-parquet-paris.html)
+### Forêts de Colbert & chêne — l'origine du parquet parisien](histoire-parquet-haussmannien-paris.html)
 [★ Histoire
 
-### Colbert — l'architecte de l'identité du parquet parisien](colbert-origine-parquets-parisiens.html)
+### Colbert — l'architecte de l'identité du parquet parisien](histoire-parquet-haussmannien-paris.html)
 [★ Histoire
 
-### Colbert architecte économique — forêts, marine et parquet](colbert-architecte-economique-france-parquet.html)
+### Colbert architecte économique — forêts, marine et parquet](histoire-parquet-haussmannien-paris.html)
 [★ Histoire
 
-### Révolution française & parquet — une histoire de redistribution](revolution-francaise-parquet-appartement-paris.html)
+### Révolution française & parquet — une histoire de redistribution](histoire-parquet-haussmannien-paris.html)
 [★ Histoire
 
 ### Haussmannien ou Colbert ? Comment dater votre parquet](parquet-haussmannien-ou-colbert.html)
@@ -446,19 +446,19 @@ Blog & Conseils
 ### Origine du point de Hongrie — une histoire européenne](origine-parquet-point-hongrie-histoire.html)
 [★ Histoire
 
-### Point de Hongrie — héritage, motifs et symbolique](parquet-point-hongrie-histoire-origines-heritage.html)
+### Point de Hongrie — héritage, motifs et symbolique](origine-parquet-point-hongrie-histoire.html)
 [★ Histoire
 
-### Navires de guerre & parquet — le même chêne, deux destins](navire-guerre-parquet-parisien.html)
+### Navires de guerre & parquet — le même chêne, deux destins](histoire-parquet-haussmannien-paris.html)
 [★ Documentaire
 
-### Voyage d'une lame de parquet — de la forêt à votre salon](documentaire-voyage-lame-parquet-paris.html)
+### Voyage d'une lame de parquet — de la forêt à votre salon](histoire-parquet-haussmannien-paris.html)
 [★ Documentaire
 
-### Voyage d'une latte haussmannienne — 150 ans d'histoire](voyage-latte-parquet-haussmannien.html)
+### Voyage d'une latte haussmannienne — 150 ans d'histoire](histoire-parquet-haussmannien-paris.html)
 [★ Histoire
 
-### Parcours parisien Colbert-Haussmann — la grande traversée](parcours-parquet-parisien-colbert-haussmann.html)
+### Parcours parisien Colbert-Haussmann — la grande traversée](histoire-parquet-haussmannien-paris.html)
 [★ Blog
 
 ### Artisan indépendant vs entreprise — mon point de vue](blog-artisan-independant-parquet-paris.html)
@@ -671,7 +671,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Panthéon · 5e](poncage-parquet-pantheon-paris-5.html)
 * [Passy · 16e](poncage-parquet-passy-paris-16.html)
 * [Père-Lachaise · 20e](poncage-parquet-pere-lachaise-paris-20.html)
-* [Point de Hongrie Paris](poncage-parquet-point-de-hongrie-paris.html)
+* [Point de Hongrie Paris](poncage-parquet-point-hongrie-paris.html)
 * [Quartier Latin · 5e](poncage-parquet-quartier-latin-paris-5.html)
 * [République · 10e](poncage-parquet-republique-paris-10.html)
 * [Saint-Germain-des-Prés · 6e](poncage-parquet-saint-germain-des-pres-paris-6.html)
@@ -709,7 +709,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Créteil](poncage-parquet-creteil.html)
 * [Ivry-sur-Seine](poncage-parquet-ivry-sur-seine.html)
 * [Vitry-sur-Seine](poncage-parquet-vitry-sur-seine.html)
-* [Versailles](poncage-parquet-versailles-ville.html)
+* [Versailles](poncage-parquet-versailles.html)
 * [Saint-Germain-en-Laye](poncage-parquet-saint-germain-en-laye.html)
 * [Massy](poncage-parquet-massy.html)
 * [Palaiseau](poncage-parquet-palaiseau.html)
@@ -720,7 +720,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 
 * [Tarifs 2026 — 66 € TTC/m²](prix-poncage-parquet-paris.html)
 * [Devis ponçage parquet Paris](devis-poncage-parquet-paris.html)
-* [Devis rapide](devis-rapide.html)
+* [Devis rapide](devis-poncage-parquet-paris.html)
 * [Durée d'un chantier](duree-chantier-poncage-parquet-paris.html)
 * [Préparer son appartement](guide-preparer-appartement-poncage-parquet.html)
 * [Avant location](poncage-parquet-avant-location-paris.html)
@@ -728,16 +728,16 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Appartement meublé](poncage-parquet-appartement-meuble-paris.html)
 * [Rénover avant vente](renover-parquet-avant-vente-paris.html)
 * [Rénovation vente immobilière](renover-parquet-vente-immobiliere-paris.html)
-* [Poncer vs remplacer — 66€ vs 300€](comparatif-poncer-vs-remplacer-parquet-paris.html)
+* [Poncer vs remplacer — 66€ vs 300€](renovation-vs-remplacement-parquet-paris.html)
 
 ### Produit & Technique
 
 * [Guide complet du ponçage](guide-complet-poncage-parquet-paris.html)
 * [Les étapes du ponçage](guide-poncage-parquet-etapes.html)
 * [Ma méthode](methode-poncage-parquet-paris.html)
-* [Machine planétaire HTC](machine-planetaire-poncage-parquet.html)
+* [Machine planétaire HTC](machine-planetaire-vs-tambour-parquet.html)
 * [Fein Multimaster](machine-oscillante-fein-multimaster-poncage-parquet.html)
-* [Planétaire vs tambour](comparatif-machine-planetaire-vs-tambour-parquet.html)
+* [Planétaire vs tambour](machine-planetaire-vs-tambour-parquet.html)
 * [Matériel professionnel](materiel-professionnel-poncage-parquet-paris.html)
 * [Vitrification Bona Mega Evo](vitrification-bona-mega-evo-paris.html)
 * [Vitrification phase aqueuse](vitrification-phase-aqueuse-bona-mega-evo-technique.html)
@@ -752,7 +752,7 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Chêne massif ancien](poncage-parquet-chene-massif-ancien-paris.html)
 * [Parquet chêne massif Paris](parquet-chene-massif-paris.html)
 * [Parquet Versailles](parquet-versailles-poncage-paris.html)
-* [Point de Hongrie Paris](poncage-parquet-point-de-hongrie-paris.html)
+* [Point de Hongrie Paris](poncage-parquet-point-hongrie-paris.html)
 * [Parquet sous moquette collée](parquet-sous-moquette-colle-poncage-paris.html)
 * [Parquet sous revêtement](parquet-sous-moquette-revetement-paris.html)
 * [Réparation dégât des eaux](reparation-parquet-paris.html)
@@ -762,32 +762,32 @@ Faire appel à un artisan parqueteur spécialisé et indépendant garantit un r�
 * [Vis bois parquet](vis-bois-parquet-guide-technique.html)
 * [Combien de fois poncer ?](combien-fois-poncer-parquet-massif.html)
 * [Combien de fois poncer — guide](combien-fois-poncer-parquet.html)
-* [Peinture avant ou après ?](peinture-avant-apres-poncage-parquet.html)
+* [Peinture avant ou après ?](peinture-avant-ou-apres-poncage-parquet.html)
 * [Peinture — guide complet](peinture-avant-ou-apres-poncage-parquet.html)
 * [Idées reçues sur le ponçage](idees-recues-poncage-parquet-paris.html)
 * [Parquet haussmannien Paris](parquet-haussmannien-paris.html)
-* [Choisir son artisan — guide](guide-choisir-artisan-parqueteur-paris.html)
+* [Choisir son artisan — guide](choisir-artisan-poncage-parquet-paris.html)
 * [Choisir artisan Paris](choisir-artisan-poncage-parquet-paris.html)
 * [Artisan indépendant Paris](artisan-parqueteur-independant-paris.html)
-* [Artisan vs entreprise](comparatif-artisan-independant-vs-entreprise-parquet.html)
+* [Artisan vs entreprise](article3-artisan-independant-vs-entreprise-paris.html)
 * [Fournisseurs & partenaires](fournisseurs-partenaires-parquet-paris.html)
 * [Château de Bazens — Agen](chateau-bazens-poncage-parquet-agen.html)
 
 ### Culture & Histoire
 
-* [Héritage Louis XIV & Haussmann](parquet-heritage-louis-xiv-haussmann.html)
-* [Patrimoine Louis XIV — Versailles](parquet-haussmannien-heritage-louis-xiv.html)
-* [Forêts de Colbert & chêne](forets-colbert-chene-parquet-paris.html)
-* [Colbert — origine des parquets](colbert-origine-parquets-parisiens.html)
-* [Colbert architecte économique](colbert-architecte-economique-france-parquet.html)
-* [Révolution française & parquet](revolution-francaise-parquet-appartement-paris.html)
+* [Héritage Louis XIV & Haussmann](histoire-parquet-haussmannien-paris.html)
+* [Patrimoine Louis XIV — Versailles](histoire-parquet-haussmannien-paris.html)
+* [Forêts de Colbert & chêne](histoire-parquet-haussmannien-paris.html)
+* [Colbert — origine des parquets](histoire-parquet-haussmannien-paris.html)
+* [Colbert architecte économique](histoire-parquet-haussmannien-paris.html)
+* [Révolution française & parquet](histoire-parquet-haussmannien-paris.html)
 * [Haussmannien ou Colbert ?](parquet-haussmannien-ou-colbert.html)
 * [Origine point de Hongrie](origine-parquet-point-hongrie-histoire.html)
-* [Point de Hongrie — héritage](parquet-point-hongrie-histoire-origines-heritage.html)
-* [Navires de guerre & parquet](navire-guerre-parquet-parisien.html)
-* [Voyage d'une lame de parquet](documentaire-voyage-lame-parquet-paris.html)
-* [Voyage d'une latte haussmannienne](voyage-latte-parquet-haussmannien.html)
-* [Parcours parisien Colbert-Haussmann](parcours-parquet-parisien-colbert-haussmann.html)
+* [Point de Hongrie — héritage](origine-parquet-point-hongrie-histoire.html)
+* [Navires de guerre & parquet](histoire-parquet-haussmannien-paris.html)
+* [Voyage d'une lame de parquet](histoire-parquet-haussmannien-paris.html)
+* [Voyage d'une latte haussmannienne](histoire-parquet-haussmannien-paris.html)
+* [Parcours parisien Colbert-Haussmann](histoire-parquet-haussmannien-paris.html)
 
 ### Blog & Conseils
 
@@ -2437,7 +2437,7 @@ C'est quoi une machine planétaire pour parquet ?
 
 Une machine planétaire pour parquet est une ponceuse équipée de **plusieurs disques satellites qui tournent simultanément dans toutes les directions**, permettant de poncer les parquets à motifs diagonaux sans créer de marques directionnelles irréversibles.
 
-Source : François Gaillard · [Page machine planétaire](machine-planetaire-poncage-parquet.html)
+Source : François Gaillard · [Page machine planétaire](machine-planetaire-vs-tambour-parquet.html)
 
 Copier
 
@@ -2557,7 +2557,7 @@ C'est quoi les forêts colbertiennes ?
 
 Les forêts colbertiennes sont les **forêts de chênes plantées sous Louis XIV par Jean-Baptiste Colbert** selon l'ordonnance de 1669 sur les Eaux et Forêts, destinées à alimenter la marine royale et devenues un siècle plus tard la matière première des parquets haussmanniens parisiens.
 
-Source : François Gaillard · [Page forêts de Colbert](forets-colbert-chene-parquet-paris.html)
+Source : François Gaillard · [Page forêts de Colbert](histoire-parquet-haussmannien-paris.html)
 
 Copier
 
@@ -3199,7 +3199,7 @@ Pourquoi faire confiance à 220 avis Google ?+
 ### Prix ponçage parquet Paris](prix-poncage-parquet-paris.html)
 [Matériel
 
-### Machine planétaire HTC Husqvarna](machine-planetaire-poncage-parquet.html)
+### Machine planétaire HTC Husqvarna](machine-planetaire-vs-tambour-parquet.html)
 [Produit
 
 ### [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")](vitrification-bona-mega-evo-paris.html) 3 couches

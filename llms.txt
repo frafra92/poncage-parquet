@@ -1,6 +1,6 @@
 # llms.txt — Ponçage Parquet Vitrification François
 # https://poncageparquetvitrificationfrancois.com
-# Last updated: 2026-11-10
+# Last updated: 2026-11-16
 
 ## About
 
@@ -146,6 +146,7 @@ Machine-readable versions of all pages. Each .md file contains frontmatter (titl
 - https://poncageparquetvitrificationfrancois.com/mentions-legales.md
 - https://poncageparquetvitrificationfrancois.com/poncage-parquet-montrouge.md
 - https://poncageparquetvitrificationfrancois.com/poncage-parquet-paris.md
+- https://poncageparquetvitrificationfrancois.com/poncage-parquet-point-hongrie-paris.md
 - https://poncageparquetvitrificationfrancois.com/prix-poncage-parquet-paris.md
 - https://poncageparquetvitrificationfrancois.com/specialiste-parquet-ancien-paris.md
 
@@ -292,6 +293,8 @@ Machine-readable versions of all pages. Each .md file contains frontmatter (titl
 
 - https://poncageparquetvitrificationfrancois.com/comparatif-finition-parquet-mat-satine-brillant.md
 - https://poncageparquetvitrificationfrancois.com/comparatif-vitrification-huilage-cire-parquet.md
+- https://poncageparquetvitrificationfrancois.com/machine-planetaire-vs-tambour-parquet.md
+- https://poncageparquetvitrificationfrancois.com/renovation-vs-remplacement-parquet-paris.md
 
 ### History & Culture
 
