@@ -1,112 +1,143 @@
 ---
-title: Entretien parquet vitrifié Paris – Comment entretenir au quotidien
-description: Comment entretenir un parquet vitrifié au Bona Mega Evo à Paris ? Produits, fréquence, erreurs à éviter. Par François Gaillard, artisan parqueteur — 220+ avis Google.
+title: Entretien et nettoyage d'un parquet vitrifié — Paris
+description: Comment entretenir un parquet vitrifié à Paris : balai, aspirateur, serpillière bien essorée, sans produit spécial. La méthode simple de François Gaillard.
 url: https://poncageparquetvitrificationfrancois.com/entretien-parquet-vitrifie-paris.html
 markdown_mirror: https://poncageparquetvitrificationfrancois.com/entretien-parquet-vitrifie-paris.md
-last_updated: 2026-04-30
+last_updated: 2026-09-24
 source: poncageparquetvitrificationfrancois.com
 ---
 
-Conseils entretien · [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") — bona.com" style="color:var(--or);text-decoration:underline;text-underline-offset:3px;font-weight:500">[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
+[Accueil](index.html)›
+Entretien parquet vitrifié
 
-# Entretien parquet *vitrifié* à Paris
+Guide · Après le chantier
 
-Un parquet vitrifié au [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches résiste durablement avec un entretien simple. Voici exactement quoi faire — et quoi éviter — pour préserver l'éclat de votre parquet.
+# Entretien et nettoyage d'un parquet vitrifié à Paris — *la méthode simple que personne n'ose expliquer*
 
-À faire / À éviter
+Un parquet vitrifié au Bona Mega Evo est recouvert d'un film protecteur imperméable — comme un ciré ou un k-way appliqué sur le bois. Son entretien est en réalité très simple et ne nécessite aucun produit spécial. Ce guide explique précisément quoi faire, quoi ne jamais faire, et pourquoi l'industrie des produits ménagers vous vend quelque chose d'inutile.
 
-## Les règles essentielles
+**Le principe à retenir :** la vitrification protège le bois comme un k-way protège de la pluie — c'est un film imperméable en surface. Le bois en dessous reste du bois, et **l'eau reste le point faible du bois**. Même protégé, un parquet vitrifié ne doit pas être traité comme un carrelage. L'entretien à sec est la règle, le nettoyage humide l'exception.
 
-### ✓ À faire
+### Sur cette page
 
-* Aspirer ou balai à poussière régulièrement
-* Serpillière légèrement humide, bien essorée
-* Nettoyant parquet vitrifié dilué (ex: Bona Cleaner)
-* Sécher immédiatement les taches d'eau
+1. [Entretien quotidien](#entretien-quotidien)
+2. [Nettoyage ponctuel](#nettoyage-ponctuel)
+3. [Produits spéciaux : inutiles](#produits-speciaux)
+4. [L'eau, le point faible](#eau-point-faible)
+5. [Durée de vie du vernis](#duree-vie-vernis)
+6. [Erreurs à éviter](#erreurs-entretien)
+7. [Questions fréquentes](#faq)
+
+## L'entretien quotidien — balai et aspirateur
+
+L'entretien normal d'un parquet vitrifié se résume à deux gestes : **le balai et l'aspirateur**, principalement à sec. La poussière et les particules abrasives (sable, graviers apportés par les chaussures) sont les vrais ennemis du vernis — elles créent des micro-rayures qui ternissent progressivement la surface.
+
+* Balai souple ou balai électrostatique — quotidien ou selon besoin
+* Aspirateur à brosse douce (pas la brosse à poils durs réservée aux moquettes)
+* Fréquence adaptée au trafic — tous les jours dans une entrée, une fois par semaine dans une chambre
+
+## Le nettoyage ponctuel — serpillière légèrement humide
+
+Occasionnellement, une serpillière **bien essorée, légèrement humide** permet un nettoyage plus profond. La règle est simple : si vous tordez la serpillière et qu'elle goutte encore, elle est trop mouillée. Elle doit être à peine humide — presque sèche au toucher.
+
+L'eau claire suffit dans l'immense majorité des cas. Pour les taches plus persistantes (graisse de cuisine, traces de chaussures), quelques gouttes de savon de Marseille dans l'eau sont amplement suffisantes.
+
+✓ À faire
+
+* Balai souple quotidien
+* Aspirateur à brosse douce
+* Serpillière bien essorée (eau claire)
+* Savon de Marseille pour les taches
+* Essuyage immédiat des liquides renversés
 * Feutres sous les pieds de meubles
-* Tapis dans les zones à fort trafic
 
-### ✗ À éviter absolument
+✗ À éviter absolument
 
-* Serpillière trempée ou eau en excès
-* Eau de Javel, vinaigre blanc, savon noir
-* Produits abrasifs ou récurants
-* Cire ou polish (incompatibles avec le vernis)
-* Aspirateur avec brosse dure
-* Talons aiguilles ou crampons
+* Serpillière mouillée ou trempée
+* Nettoyeur vapeur
+* Produits "sans rinçage" (laissent un film)
+* Cire sur vernis (incompatible)
+* Produits abrasifs ou acides
+* Huile sur vernis (incompatible)
 
-Planning
+## Pourquoi les produits spéciaux parquet sont inutiles — voire nuisibles
 
-## La fréquence d'entretien recommandée
+C'est le conseil que peu d'artisans donnent clairement, mais il est essentiel. **Les produits spéciaux parquet vendus en grande surface sont inutiles sur un parquet vitrifié**, et certains sont activement nuisibles.
 
-Quotidien
+Les produits dits "sans rinçage" — les plus vendus — laissent à chaque passage une fine pellicule brillante sur le sol. Cette pellicule, imperceptible au premier passage, **s'accumule et s'encrasse progressivement** en retenant la poussière. Après quelques semaines d'utilisation régulière, le parquet paraît terne et gras même juste après le nettoyage. La cause n'est pas le parquet — c'est la couche de produit accumulée.
 
-Balai à poussière ou aspirateur avec brosse douce. Élimine les particules abrasives qui rayent le vernis à long terme.
+Un parquet vitrifié n'a pas besoin d'être "nourri", "protégé" ou "ravivé" par un produit commercial. Le Bona Mega Evo est un film dur et complet — il ne nécessite aucun ajout. Les fabricants de produits ménagers vendent une solution à un problème qui n'existe pas.
 
-Hebdomadaire
+**Si votre parquet paraît terne malgré le nettoyage :** la cause est presque toujours un produit "sans rinçage" utilisé régulièrement. La solution est un nettoyage à l'eau claire et au savon de Marseille dilué sur plusieurs passages — pas un nouveau produit.
 
-Serpillière légèrement humide avec nettoyant parquet vitrifié dilué. Suffit pour maintenir l'éclat du [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com").
+## L'eau reste le point faible du bois — même vitrifié
 
-Mensuel
+La vitrification rend le bois imperméable en surface. Mais le bois reste du bois : il absorbe l'humidité par les joints entre les lames, par les angles non couverts, par toute micro-fissure dans le film de vernis. L'eau accumulée provoque le gonflement des lames, le soulèvement des bords, et à terme la délamination du vernis.
 
-Nettoyage plus approfondi des zones à fort trafic (entrée, couloir). Vérification des feutres sous les meubles.
+Les situations à risque : serpillière trop mouillée, fuite sous un radiateur non détectée, verre d'eau renversé non essuyé immédiatement, nettoyeur vapeur (à bannir absolument — l'eau chaude sous pression pénètre dans les joints et gonfle le bois).
 
-usage domestique intensif et commercial
+## Durée de vie du vernis et re-vitrification
 
-Ponçage et nouvelle vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Le parquet retrouve son éclat d'origine. Tarif fixe 66 € TTC/m².
+Avec un entretien à sec régulier et un nettoyage humide raisonnable, le Bona Mega Evo tient durablement dans un appartement à usage quotidien. Les premiers signes de vieillissement apparaissent dans les zones de fort trafic (couloir d'entrée, devant le canapé) : le vernis devient légèrement terne et perd de son brillant.
 
-Questions fréquentes
+Quand ces signes apparaissent, la solution n'est pas de rajouter un produit — c'est de faire reponcer et revitrifier. Le ponçage retire le vernis fatigué et le bois reprend depuis un état neuf.
 
-## Vos questions sur l'entretien
+## Les erreurs d'entretien les plus courantes
 
-Peut-on passer une serpillière mouillée ?+
+**La serpillière trop mouillée.** L'eau est l'ennemi du parquet, même vitrifié. Le vernis protège la surface, pas les joints entre les lames — une eau stagnante finit par s'y infiltrer et faire gonfler le bois. Essorez fortement, le sol doit sécher en moins d'une minute.
 
-Non. L'eau en excès est l'ennemi du parquet vitrifié — elle peut s'infiltrer entre les lames et décoller le vernis. Serpillière à peine humide, bien essorée. Séchez immédiatement les zones mouillées.
+**Les produits « spécial parquet » sans rinçage.** Ils déposent une pellicule qui s'accumule couche après couche, ternit le vernis et finit par s'encrasser. Eau claire et savon de Marseille suffisent pour les taches.
 
-Peut-on utiliser du vinaigre blanc pour nettoyer ?+
+**L'aspirateur à brosse rotative.** Conçue pour la moquette, elle raye le vernis à la longue. Utilisez la position sol dur, ou un simple balai.
 
-Non. Le vinaigre blanc est acide et dégrade le vernis à long terme. Il ternit le parquet et crée un effet mat non voulu. Utilisez uniquement un nettoyant parquet vitrifié adapté.
+**Attendre trop longtemps.** Un parquet entretenu correctement peut espacer les rénovations de plusieurs années. Le meilleur entretien reste le plus simple : balai régulier, serpillière bien essorée de temps en temps, et des patins sous les pieds de meubles.
 
-Mon parquet vitrifié est terne — que faire ?+
+## Questions fréquentes — entretien parquet vitrifié
 
-Un parquet terne ne peut pas être ravivé localement. Il faut reponcer l'ensemble et appliquer un nouveau vernis. C'est le travail de François Gaillard : ponçage + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") à 66 € TTC/m².
+Quel produit pour nettoyer un parquet vitrifié ?+
 
-Combien de temps dure le vernis [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") ?+
+Aucun produit spécial n'est nécessaire : une serpillière bien essorée à l'eau claire suffit. Évitez les nettoyants gras, la cire et l'excès d'eau, qui ternissent ou infiltrent le vernis. Sur une vitrification Bona Mega Evo, l'eau claire préserve durablement la finition.
 
-Sa tenue dépend du passage et de l'entretien. Dans une entrée à fort trafic, plutôt 10 ans. Dans une chambre peu utilisée, jusqu'à 20 ans. L'entretien régulier avec les bons produits est la clé de la longévité.
+Comment nettoyer un parquet vitrifié au quotidien ?+
 
-À lire aussi
+Balai souple ou aspirateur à brosse douce — principalement à sec. C'est tout. La poussière et les particules abrasives sont les vrais ennemis du vernis. Un parquet vitrifié n'a pas besoin de produits spéciaux pour son entretien quotidien.
 
-## Pages liées
+Peut-on passer une serpillière mouillée sur un parquet vitrifié ?+
 
-[Produit
+Oui, mais légèrement humide seulement. La serpillière doit être bien essorée — si vous la tordez et qu'elle goutte, elle est trop mouillée. L'eau en excès pénètre dans les joints entre les lames et peut provoquer le gonflement du bois à terme. L'eau claire suffit, sans produit.
 
-### [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com") 3 couches](vitrification-bona-mega-evo-paris.html)
-[Tarifs
+Les produits spéciaux parquet sont-ils utiles sur un parquet vitrifié ?+
 
-### Prix ponçage parquet Paris](prix-poncage-parquet-paris.html)
-[Guide
+Non. Un parquet vitrifié est recouvert d'un film protecteur complet — il ne nécessite pas d'être nourri ou protégé par un produit commercial. Les produits "sans rinçage" laissent une pellicule qui s'accumule et encrasse le sol avec le temps. Eau claire et savon de Marseille sont largement suffisants.
 
-### Combien de fois poncer un parquet](combien-fois-poncer-parquet.html)
-[FAQ
+Peut-on utiliser un nettoyeur vapeur sur un parquet vitrifié ?+
 
-### Toutes les questions](100-questions-poncage-parquet-paris.html)
+Non. À bannir absolument. La vapeur chaude sous pression pénètre dans les joints entre les lames, gonfle le bois et provoque le soulèvement des bords des lames. C'est l'une des causes les plus fréquentes de dégradation rapide d'un parquet vitrifié.
 
-## Parquet terne ou abîmé ? On le remet à neuf
+Combien de temps dure un parquet vitrifié avec un bon entretien ?+
 
-Ponçage complet + vitrification 3 couches [Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com"). Tarif fixe 66 € TTC/m². Devis par SMS sur photos.
+Sa tenue dépend du passage et de l'entretien à sec régulier et une utilisation raisonnable de la serpillière humide. Les premiers signes de vieillissement (ternissement dans les zones de fort trafic) indiquent qu'il est temps de reponcer et revitrifier.
+
+Existe-t-il une entreprise de nettoyage de parquet à Paris ?+
+
+Pour l'entretien courant — balai, aspirateur, serpillière à peine humide — vous n'avez besoin de personne, vous le faites vous-même. Si votre parquet reste terne, grisé ou rayé **malgré le nettoyage**, le problème n'est pas la propreté mais le **vernis usé** : il faut alors le poncer et le re-vitrifier. François Gaillard réalise cette rénovation à **66 € TTC/m² tout compris**, à Paris et en Île-de-France. Devis par SMS au **07 83 92 58 94**.
+
+Comment redonner de l'éclat à un parquet terne malgré le nettoyage ?+
+
+Un parquet qui reste terne après nettoyage a son **vernis usé** : aucun produit ne le fera rebriller durablement. La seule vraie solution est de le poncer puis de le re-vitrifier en trois couches de Bona Mega Evo — le bois retrouve son éclat d'origine, pour **66 € TTC/m² tout compris**.
+
+[Vitrification Bona Mega Evo](vitrification-parquet-paris.html)
+
+[Huilage parquet Paris](huilage-parquet-paris.html)
+
+[Tarifs 2026](prix-poncage-parquet-paris.html)
+
+[Ponçage parquet Paris](poncage-parquet-paris.html)
+
+[Accueil](index.html)
+
+### Votre parquet mérite une nouvelle vie
+
+66 € TTC/m² · Bona Mega Evo 3 couches · sans entretien spécifique · Devis SMS
 
 [SMS · 07 83 92 58 94](sms:+33783925894)
-[Bona Mega Evo](https://www.bona.com/fr/produits/professionnels/protections/vernis/wood-floor-lacquers/bona-mega-evo-sm-ml-3x5l/ "Fiche produit officielle Bona Mega Evo — bona.com")
-
-Disponible · 66 € TTC/m²
-
-[Devis par SMS · 07 83 92 58 94](sms:+33783925894)
-
-×
-
-Disponible · Lun–Sam 8h–19h · 66 € TTC/m²
-
-×
-
-[Devis par SMS — 07 83 92 58 94](sms:+33783925894)
