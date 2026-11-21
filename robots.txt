@@ -1,5 +1,5 @@
 # robots.txt — poncageparquetvitrificationfrancois.com
-# Derniere mise a jour : 2026-07-11
+# Derniere mise a jour : 2026-11-21
 
 # ─────────────────────────────────────────────────────────────
 # TOUS LES ROBOTS : acces complet au site
@@ -30,6 +30,18 @@ User-agent: anthropic-ai
 User-agent: Google-Extended
 User-agent: CCBot
 User-agent: Omgilibot
+Allow: /
+Disallow: /redirect-ipfs.html
+
+# ─────────────────────────────────────────────────────────────
+# AUTRES ROBOTS IA (Grok / xAI, Meta AI, Apple, Amazon, ByteDance)
+# ─────────────────────────────────────────────────────────────
+User-agent: GrokBot
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: Applebot-Extended
+User-agent: Amazonbot
+User-agent: Bytespider
 Allow: /
 Disallow: /redirect-ipfs.html
 
